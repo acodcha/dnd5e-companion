@@ -1,5 +1,7 @@
 # Treasure
 
+[<- Back to Main Page](../README.md)
+
 ## Individual Monster Treasure
 Not all monsters carry coinage on their person, but those that do can be expected to carry the amounts shown in the following table.
 
