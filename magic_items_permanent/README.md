@@ -295,6 +295,9 @@ Abbreviations:
 [^ Back to Top](#permanent-magic-items)
 
 ## Weapons
+* Swords include the greatsword, longsword, rapier, scimitar, and shortsword. The glaive is not a sword.
+* Axes include the battleaxe, greataxe, and handaxe. The halberd is not an axe.
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Vicious weapon (any weapon) | 35 pp | (varies) | DMG 209 |
