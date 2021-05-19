@@ -1,9 +1,8 @@
 # Character Creation
-
-[<- Back to Main Page](../README.md)
-
 * [Wealth](#wealth)
 * [Ability Scores](#ability-scores)
+
+[< Back to Main Page](../README.md)
 
 ## Wealth
 When creating a character at 2nd level or higher, gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and wealth.
@@ -20,6 +19,8 @@ When creating a character at 2nd level or higher, gain additional starting wealt
 |  34,000 XP |  8th  |  + 62 pp |       | 265,000 XP | 18th  | + 2,600 pp |
 |  48,000 XP |  9th  |  + 97 pp |       | 305,000 XP | 19th  | + 3,000 pp |
 |  64,000 XP | 10th  | + 150 pp |       | 355,000 XP | 20th  | + 3,200 pp |
+
+[^ Back to Top](#character-creation)
 
 ## Ability Scores
 The following table lists all possible sets of ability scores using the point buy system.
@@ -48,3 +49,5 @@ The following table lists all possible sets of ability scores using the point bu
 | 61–62 | 15, 14, 13, 12, 10,  8 |       |  24   | 14, 14, 14, 12, 10,  8 |       |   2   | 13, 13, 13, 13, 12, 11 |
 | 59–60 | 15, 14, 13, 12,  9,  9 |       |  23   | 14, 14, 14, 12,  9,  9 |       |   1   | 13, 13, 13, 12, 12, 12 |
 | 57–58 | 15, 14, 13, 11, 11,  8 |       |  22   | 14, 14, 14, 11, 11,  8 |       |       |                        |
+
+[^ Back to Top](#character-creation)
