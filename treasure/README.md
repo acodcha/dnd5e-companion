@@ -1,6 +1,7 @@
 # Treasure
 * [Individual Monster Treasure](#individual-monster-treasure)
 * [Treasure Hoards](#treasure-hoards)
+* [Quest Rewards](#quest-rewards)
 
 [< Back to Main Page](../README.md)
 
@@ -68,5 +69,30 @@ The following table lists the contents of treasure hoards. Each treasure hoard t
 |   CR 28   | 30,000 pp | 5d8 (22) × 750 pp art objects | 4 × 350 pp consumable magic items | 1 × 4,500 pp permanent magic item |
 |   CR 29   | 33,000 pp | 5d8 (22) × 750 pp art objects | 4 × 360 pp consumable magic items | 1 × 4,700 pp permanent magic item |
 |   CR 30   | 35,000 pp | 5d8 (22) × 750 pp art objects | 4 × 380 pp consumable magic items | 1 × 4,900 pp permanent magic item |
+
+[^ Back to Top](#treasure)
+
+## Quest Rewards
+The following table lists total experience and total coinage awarded to the adventuring party for completing a quest.
+
+| Challenge | Experience | Coinage |       | Challenge | Experience |  Coinage |
+| :-------: | ---------: | ------: | :---: | :-------: | ---------: | -------: |
+|   CR 0    |      20 XP |   10 sp |       |   CR 14   |  23,000 XP |   470 pp |
+|   CR ⅛    |      50 XP |   25 sp |       |   CR 15   |  26,000 XP |   680 pp |
+|   CR ¼    |     100 XP |   50 sp |       |   CR 16   |  30,000 XP |   990 pp |
+|   CR ½    |     200 XP |   10 gp |       |   CR 17   |  36,000 XP | 1,400 pp |
+|   CR 1    |     400 XP |   20 gp |       |   CR 18   |  40,000 XP | 1,900 pp |
+|   CR 2    |     900 XP |   40 gp |       |   CR 19   |  44,000 XP | 2,400 pp |
+|   CR 3    |   1,400 XP |   60 gp |       |   CR 20   |  50,000 XP | 3,100 pp |
+|   CR 4    |   2,200 XP |   90 gp |       |   CR 21   |  66,000 XP | 3,700 pp |
+|   CR 5    |   3,600 XP |   14 pp |       |   CR 22   |  82,000 XP | 4,200 pp |
+|   CR 6    |   4,600 XP |   20 pp |       |   CR 23   | 100,000 XP | 4,600 pp |
+|   CR 7    |   5,800 XP |   30 pp |       |   CR 24   | 120,000 XP | 4,900 pp |
+|   CR 8    |   7,800 XP |   46 pp |       |   CR 25   | 150,000 XP | 5,100 pp |
+|   CR 9    |  10,000 XP |   68 pp |       |   CR 26   | 180,000 XP | 5,400 pp |
+|   CR 10   |  12,000 XP |  100 pp |       |   CR 27   | 210,000 XP | 5,600 pp |
+|   CR 11   |  14,000 XP |  150 pp |       |   CR 28   | 240,000 XP | 5,900 pp |
+|   CR 12   |  17,000 XP |  220 pp |       |   CR 29   | 270,000 XP | 6,200 pp |
+|   CR 13   |  20,000 XP |  320 pp |       |   CR 30   | 310,000 XP | 6,500 pp |
 
 [^ Back to Top](#treasure)
