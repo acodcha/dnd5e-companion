@@ -36,6 +36,7 @@ Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 * [Treasure](treasure#treasure)
   * [Individual Monster Treasure](treasure#individual-monster-treasure)
   * [Treasure Hoards](treasure#treasure-hoards)
+  * [Quest Rewards](treasure#quest-rewards)
 
 ## License
 This work is licensed under a
