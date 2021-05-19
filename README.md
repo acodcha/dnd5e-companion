@@ -2,10 +2,15 @@
 Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 
 ## Contents
-* [Character Creation](character_creation)
+* [Character Creation](character_creation#character-creation)
   * [Wealth](character_creation#wealth)
   * [Ability Scores](character_creation#ability-scores)
-* [Treasure](treasure)
+* [Consumable Magic Items](magic_items_consumable#consumable-magic-items)
+  * [Ammunition](magic_items_consumable#ammunition)
+  * [Spell Scrolls](magic_items_consumable#spell-scrolls)
+  * [Potions](magic_items_consumable#potions)
+  * [Miscellaneous Consumable Magic Items](magic_items_consumable#miscellaneous-consumable-magic-items)
+* [Treasure](treasure#treasure)
   * [Individual Monster Treasure](treasure#individual-monster-treasure)
   * [Treasure Hoards](treasure#treasure-hoards)
 
