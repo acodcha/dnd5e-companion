@@ -1,5 +1,21 @@
 # Character Creation
 
+## Wealth
+When creating a character above 1st level, gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st-level starting equipment and wealth.
+
+| Total XP  | Level | Wealth   |       | Total XP   | Level | Wealth     |
+| --------: | :---: | -------: | :---: | ---------: | :---: | ---------: |
+| 0         | 1st   | –        |       | 85,000 XP  | 11th  | + 230 pp   |
+| 300 XP    | 2nd   | + 45 gp  |       | 100,000 XP | 12th  | + 360 pp   |
+| 900 XP    | 3rd   | + 70 gp  |       | 120,000 XP | 13th  | + 560 pp   |
+| 2,700 XP  | 4th   | + 11 pp  |       | 140,000 XP | 14th  | + 850 pp   |
+| 6,500 XP  | 5th   | + 17 pp  |       | 165,000 XP | 15th  | + 1,300 pp |
+| 14,000 XP | 6th   | + 26 pp  |       | 195,000 XP | 16th  | + 1,700 pp |
+| 23,000 XP | 7th   | + 40 pp  |       | 225,000 XP | 17th  | + 2,200 pp |
+| 34,000 XP | 8th   | + 62 pp  |       | 265,000 XP | 18th  | + 2,600 pp |
+| 48,000 XP | 9th   | + 97 pp  |       | 305,000 XP | 19th  | + 3,000 pp |
+| 64,000 XP | 10th  | + 150 pp |       | 355,000 XP | 20th  | + 3,200 pp |
+
 ## Ability Scores
 The following table lists all possible sets of ability scores using the point buy system.
 
@@ -27,19 +43,3 @@ The following table lists all possible sets of ability scores using the point bu
 | 61–62 | 15, 14, 13, 12, 10, 8  |       | 24    | 14, 14, 14, 12, 10, 8  |       | 2     | 13, 13, 13, 13, 12, 11 |
 | 59–60 | 15, 14, 13, 12, 9, 9   |       | 23    | 14, 14, 14, 12, 9, 9   |       | 1     | 13, 13, 13, 12, 12, 12 |
 | 57–58 | 15, 14, 13, 11, 11, 8  |       | 22    | 14, 14, 14, 11, 11, 8  |       |       |                        |
-
-## Additional Starting Wealth
-When creating a character above 1st level, gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st-level starting equipment and wealth.
-
-| Total XP  | Level | Starting Wealth |       | Total XP   | Level | Starting Wealth |
-| --------: | :---: | --------------: | :---: | ---------: | :---: | --------------: |
-| 0         | 1st   | –               |       | 85,000 XP  | 11th  | + 230 pp        |
-| 300 XP    | 2nd   | + 45 gp         |       | 100,000 XP | 12th  | + 360 pp        |
-| 900 XP    | 3rd   | + 70 gp         |       | 120,000 XP | 13th  | + 560 pp        |
-| 2,700 XP  | 4th   | + 11 pp         |       | 140,000 XP | 14th  | + 850 pp        |
-| 6,500 XP  | 5th   | + 17 pp         |       | 165,000 XP | 15th  | + 1,300 pp      |
-| 14,000 XP | 6th   | + 26 pp         |       | 195,000 XP | 16th  | + 1,700 pp      |
-| 23,000 XP | 7th   | + 40 pp         |       | 225,000 XP | 17th  | + 2,200 pp      |
-| 34,000 XP | 8th   | + 62 pp         |       | 265,000 XP | 18th  | + 2,600 pp      |
-| 48,000 XP | 9th   | + 97 pp         |       | 305,000 XP | 19th  | + 3,000 pp      |
-| 64,000 XP | 10th  | + 150 pp        |       | 355,000 XP | 20th  | + 3,200 pp      |
