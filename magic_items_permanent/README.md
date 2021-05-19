@@ -223,7 +223,7 @@ Abbreviations:
 ## Jewelry
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Necklace of prayer beads, empty necklace (attunement cleric/druid/paladin) | 50 pp | – | DMG 182 |
+| Necklace of prayer beads, base necklace (attunement cleric/druid/paladin) | 50 pp | – | DMG 182 |
 | Clockwork amulet | 100 pp | – | XGtE 137 |
 | Ring of warmth (attunement) | 100 pp | – | DMG 193 |
 | Necklace of adaption (attunement) | 150 pp | – | DMG 182 |
