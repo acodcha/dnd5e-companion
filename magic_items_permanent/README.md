@@ -43,7 +43,7 @@ Abbreviations:
 | Studded leather armor, +2 | 600 pp | 13 lb | DMG 152 |
 | Studded leather armor, +3 | 2,400 pp | 13 lb | DMG 152 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Medium Armor
 | Magic Item | Price | Weight | Source |
@@ -79,7 +79,7 @@ Abbreviations:
 | Half plate armor, +3 | 2,500 pp | 40 lb | DMG 152 |
 | Efreeti chain mail armor (attunement) | – | 55 lb | DMG 167 |
 | Elven chain shirt armor | – | 20 lb | DMG 168 |
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Heavy Armor
 | Magic Item | Price | Weight | Source |
@@ -100,7 +100,7 @@ Abbreviations:
 | Demon plate armor (attunement) | – | 65 lb | DMG 165 |
 | Plate armor of vulnerability (attunement) | – | 65 lb | DMG 152 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Shields
 | Magic Item | Price | Weight | Source |
@@ -115,7 +115,7 @@ Abbreviations:
 | Spellguard shield (attunement) | 5,000 pp | 6 lb | DMG 201 |
 | Shield of missile attraction (attunement) | – | 6 lb | DMG 200 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Clothes
 | Magic Item | Price | Weight | Source |
@@ -127,7 +127,7 @@ Abbreviations:
 | Robe of the archmagi (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 194 |
 | Robe of useful items | – | 4 lb | DMG 195 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Coats
 | Magic Item | Price | Weight | Source |
@@ -146,7 +146,7 @@ Abbreviations:
 | Cloak of invisibility (attunement) | – | 1 lb | DMG 158 |
 | Wings of flying (attunement) | – | 1 lb | DMG 214 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Belts
 | Magic Item | Price | Weight | Source |
@@ -159,7 +159,7 @@ Abbreviations:
 | Belt of stone giant strength (attunement) | – | 1 lb | DMG 155 |
 | Belt of storm giant strength (attunement) | – | 1 lb | DMG 155 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Footwear
 | Magic Item | Price | Weight | Source |
@@ -173,7 +173,7 @@ Abbreviations:
 | Boots of the winterlands (attunement) | 1,000 pp | 1 lb | DMG 156 |
 | Winged boots (attunement) | – | 1 lb | DMG 214 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Bracers
 | Magic Item | Price | Weight | Source |
@@ -181,7 +181,7 @@ Abbreviations:
 | Bracers of archery (attunement) | 150 pp | 1 lb | DMG 156 |
 | Bracers of defense (attunement) | 600 pp | 1 lb | DMG 156 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Gloves
 | Magic Item | Price | Weight | Source |
@@ -191,7 +191,7 @@ Abbreviations:
 | Gloves of thievery | 500 pp | – | DMG 172 |
 | Gauntlets of ogre power (attunement) | – | – | DMG 171 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Headwear
 | Magic Item | Price | Weight | Source |
@@ -208,7 +208,7 @@ Abbreviations:
 | Helm of brilliance (attunement) | – | 1 lb | DMG 173 |
 | Helm of teleportation (attunement) | – | 1 lb | DMG 174 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Eyewear
 | Magic Item | Price | Weight | Source |
@@ -218,7 +218,7 @@ Abbreviations:
 | Eyes of the eagle (attunement) | 250 pp | – | DMG 168 |
 | Eyes of charming (attunement) | 300 pp | – | DMG 168 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Jewelry
 | Magic Item | Price | Weight | Source |
@@ -268,7 +268,7 @@ Abbreviations:
 | Ring of telekinesis (attunement) | – | – | DMG 193 |
 | Ring of three wishes | – | – | DMG 193 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Tattoos
 | Magic Item | Price | Weight | Source |
@@ -292,7 +292,7 @@ Abbreviations:
 | Barrier tattoo, rare (attunement) | – | – | TCoE 122 |
 | Barrier tattoo, very rare (attunement) | – | – | TCoE 122 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Weapons
 | Magic Item | Price | Weight | Source |
@@ -334,7 +334,7 @@ Abbreviations:
 | Sword of Kas (longsword) (artifact) (attunement) | – | 3 lb | DMG 226 |
 | Sword of vengeance (any sword) (attunement) | – | (varies) | DMG 206 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Arcane Foci
 | Magic Item | Price | Weight | Source |
@@ -416,7 +416,7 @@ Abbreviations:
 | Wand of Orcus (artifact) (attunement) | – | 1 lb | DMG 227 |
 | Wand of wonder (attunement spellcaster) | – | 1 lb | DMG 212 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Druidic Foci
 | Magic Item | Price | Weight | Source |
@@ -427,7 +427,7 @@ Abbreviations:
 | Moon sickle, +2 (attunement druid/ranger) | 800 pp | 2 lb | TCoE 133 |
 | Moon sickle, +3 (attunement druid/ranger) | 3,200 pp | 2 lb | TCoE 133 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Holy Symbols
 | Magic Item | Price | Weight | Source |
@@ -437,7 +437,7 @@ Abbreviations:
 | Amulet of the devout, +2 (attunement cleric/paladin) | 1,200 pp | 1 lb | TCoE 119 |
 | Amulet of the devout, +3 (attunement cleric/paladin) | 3,600 pp | 1 lb | TCoE 119 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Musical Instruments
 | Magic Item | Price | Weight | Source |
@@ -459,7 +459,7 @@ Abbreviations:
 | Instrument of the bards, anstruth harp (attunement bard) | 11,000 pp | 2 lb | DMG 176 |
 | Instrument of the bards, ollamh harp (attunement bard) | 13,000 pp | 2 lb | DMG 176 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Artisan's Tools
 | Magic Item | Price | Weight | Source |
@@ -468,7 +468,7 @@ Abbreviations:
 | All-purpose tool, +2 (attunement artificer) | 1,200 pp | 1 lb | TCoE 119 |
 | All-purpose tool, +3 (attunement artificer) | 3,600 pp | 1 lb | TCoE 119 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Summoning Items
 | Magic Item | Price | Weight | Source |
@@ -493,7 +493,7 @@ Abbreviations:
 | Figurine of wondrous power, ebony fly | – | 1 lb | DMG 169 |
 | Figurine of wondrous power, serpentine owl | – | 1 lb | DMG 170 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
 
 ## Miscellaneous Permanent Magic Items
 | Magic Item | Price | Weight | Source |
@@ -587,4 +587,4 @@ Abbreviations:
 | Tome of understanding | – | 5 lb | DMG 209 |
 | Well of many worlds | – | – | DMG 213 |
 
-[^ Back to Top](#consumable-magic-items)
+[^ Back to Top](#permanent-magic-items)
