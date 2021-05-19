@@ -1,14 +1,14 @@
 # DnD5e
 Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
 ## Contents
 * [Character Creation](character_creation)
   * [Wealth](character_creation#wealth)
   * [Ability Scores](character_creation#ability-scores)
 
 ## License
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
