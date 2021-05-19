@@ -2,6 +2,9 @@
 
 [<- Back to Main Page](../README.md)
 
+* [Wealth](#wealth)
+* [Ability Scores](#ability-scores)
+
 ## Wealth
 When creating a character at 2nd level or higher, gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and wealth.
 
