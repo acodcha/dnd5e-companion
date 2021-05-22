@@ -1,4 +1,4 @@
-# Treasure
+# Rewards and Treasure
 * [Individual Monster Treasure](#individual-monster-treasure)
 * [Treasure Hoards](#treasure-hoards)
 * [Quest Rewards](#quest-rewards)
@@ -28,7 +28,7 @@ Not all monsters carry coinage on their person, but those that do can be expecte
 |   CR 12   |   8,400 XP |   44 pp |       |   CR 29   | 135,000 XP | 1,200 pp |
 |   CR 13   |  10,000 XP |   64 pp |       |   CR 30   | 155,000 XP | 1,300 pp |
 
-[^ Back to Top](#treasure)
+[^ Back to Top](#rewards-and-treasure)
 
 ## Treasure Hoards
 The following table lists the contents of treasure hoards. Each treasure hoard typically contains coinage, several gems or art objects, a few consumable magic items, and a permanent magic item.
@@ -70,7 +70,7 @@ The following table lists the contents of treasure hoards. Each treasure hoard t
 |   CR 29   | 33,000 pp | 5d8 (22) × 750 pp art objects | 4 × 360 pp consumable magic items | 1 × 4,700 pp permanent magic item |
 |   CR 30   | 35,000 pp | 5d8 (22) × 750 pp art objects | 4 × 380 pp consumable magic items | 1 × 4,900 pp permanent magic item |
 
-[^ Back to Top](#treasure)
+[^ Back to Top](#rewards-and-treasure)
 
 ## Quest Rewards
 The following table lists total experience and total coinage awarded to the adventuring party for completing a quest.
@@ -95,4 +95,4 @@ The following table lists total experience and total coinage awarded to the adve
 |   CR 12   |  17,000 XP |  220 pp |       |   CR 29   | 270,000 XP | 6,200 pp |
 |   CR 13   |  20,000 XP |  320 pp |       |   CR 30   | 310,000 XP | 6,500 pp |
 
-[^ Back to Top](#treasure)
+[^ Back to Top](#rewards-and-treasure)

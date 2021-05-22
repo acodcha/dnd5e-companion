@@ -33,10 +33,10 @@ Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
   * [Artisan's Tools](magic_items_permanent#artisans-tools)
   * [Summoning Items](magic_items_permanent#summoning-items)
   * [Miscellaneous Permanent Magic Items](magic_items_permanent#miscellaneous-permanent-magic-items)
-* [Treasure](treasure#treasure)
-  * [Individual Monster Treasure](treasure#individual-monster-treasure)
-  * [Treasure Hoards](treasure#treasure-hoards)
-  * [Quest Rewards](treasure#quest-rewards)
+* [Rewards and Treasure](rewards_and_treasure#rewards-and-treasure)
+  * [Individual Monster Treasure](rewards_and_treasure#individual-monster-treasure)
+  * [Treasure Hoards](rewards_and_treasure#treasure-hoards)
+  * [Quest Rewards](rewards_and_treasure#quest-rewards)
 
 ## License
 This work is licensed under a
