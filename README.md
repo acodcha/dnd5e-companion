@@ -1,4 +1,4 @@
-# DnD5e
+# Dungeons and Dragons 5th Edition
 Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 
 ## Contents
