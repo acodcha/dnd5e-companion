@@ -7,6 +7,7 @@
 * [6 Player Characters](#6-player-characters)
 * [7 Player Characters](#7-player-characters)
 * [8 Player Characters](#8-player-characters)
+* [General](#general)
 
 The following tables are used to design combat encounters of appropriate difficulty.
 
@@ -1013,3 +1014,70 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+3 | CR 30 × 2 , CR 25 × 3 , CR 23 × 4 , CR 21 × 5 , CR 20 × 6 , CR 18 × 7 , CR 17 × 8 , CR 16 × 9 , CR 15 × 10 , CR 14 × 11 , CR 13 × 12 |
 
 [^ Back to 8 Player Characters](#8-player-characters)
+
+## General
+* [Experience Adjustment Factor](#general-experience-adjustment-factor)
+* [Adjusted Experience per Player Character](#general-adjusted-experience-per-player-character)
+
+The following tables are used to design combat encounters containing monsters with different challenge ratings.
+
+Example using these tables:
+
+A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR 1 monsters. Each CR 3 monster is worth 700 XP and each CR 1 monster is worth 200 XP, so the total base experience of the encounter is 2 × 700 XP + 4 × 200 XP = 2,200 XP. There are 4 player characters fighting 6 monsters, so the experience adjustment factor is 2.39 from the table. The total adjusted experience of the encounter is therefore 2,200 XP × 2.39 = 5,258 XP, which is 5,258 XP / 4 = 1,315 XP per player character. From the table, this corresponds to 2 encounters per day. The party can therefore be expected to expend half its resources during this encounter.
+
+[^ Back to Top](#encounters)
+
+### General: Experience Adjustment Factor
+| Monsters | 1 P.C. | 2 P.C. | 3 P.C. | 4 P.C. | 5 P.C. | 6 P.C. | 7 P.C. | 8 P.C. |
+| :------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| × 1 | 2.12 | 1.47 | 1.14 | 1.00 | 0.68 | 0.47 | 0.38 | 0.26 |
+| × 2 | 2.85 | 2.13 | 1.75 | 1.51 | 1.23 | 1.01 | 0.89 | 0.76 |
+| × 3 | 3.27 | 2.52 | 2.10 | 1.84 | 1.55 | 1.33 | 1.19 | 1.05 |
+| × 4 | 3.58 | 2.79 | 2.36 | 2.07 | 1.78 | 1.55 | 1.41 | 1.26 |
+| × 5 | 3.81 | 3.00 | 2.55 | 2.25 | 1.96 | 1.73 | 1.57 | 1.42 |
+| × 6 | 4.00 | 3.18 | 2.71 | 2.39 | 2.10 | 1.87 | 1.71 | 1.55 |
+| × 7 | 4.16 | 3.32 | 2.85 | 2.51 | 2.23 | 1.99 | 1.82 | 1.66 |
+| × 8 | 4.30 | 3.45 | 2.96 | 2.62 | 2.33 | 2.10 | 1.92 | 1.75 |
+| × 9 | 4.43 | 3.56 | 3.07 | 2.72 | 2.43 | 2.19 | 2.01 | 1.84 |
+| × 10 | 4.54 | 3.66 | 3.16 | 2.80 | 2.51 | 2.27 | 2.08 | 1.91 |
+| × 11 | 4.64 | 3.76 | 3.24 | 2.88 | 2.58 | 2.34 | 2.16 | 1.98 |
+| × 12 | 4.73 | 3.84 | 3.32 | 2.95 | 2.65 | 2.41 | 2.22 | 2.05 |
+| × 13 | 4.81 | 3.91 | 3.39 | 3.01 | 2.72 | 2.47 | 2.28 | 2.10 |
+| × 14 | 4.89 | 3.99 | 3.45 | 3.07 | 2.78 | 2.53 | 2.33 | 2.16 |
+| × 15 | 4.96 | 4.05 | 3.51 | 3.12 | 2.83 | 2.59 | 2.38 | 2.21 |
+| × 16 | 5.03 | 4.11 | 3.57 | 3.18 | 2.88 | 2.64 | 2.43 | 2.25 |
+| × 17 | 5.09 | 4.17 | 3.62 | 3.22 | 2.93 | 2.68 | 2.48 | 2.30 |
+| × 18 | 5.15 | 4.22 | 3.67 | 3.27 | 2.98 | 2.73 | 2.52 | 2.34 |
+| × 19 | 5.21 | 4.28 | 3.72 | 3.31 | 3.02 | 2.77 | 2.56 | 2.38 |
+| × 20 | 5.27 | 4.32 | 3.77 | 3.35 | 3.06 | 2.81 | 2.60 | 2.41 |
+
+[^ Back to General](#general)
+
+### General: Adjusted Experience per Player Character
+| Level | 1 Enc./Day | 2 Enc./Day | 3 Enc./Day | 4 Enc./Day |
+| :---: | ---------: | ---------: | ---------: | ---------: |
+| 1st | 150 XP | 125 XP | 100 XP | 75 XP |
+| 2nd | 300 XP | 250 XP | 200 XP | 150 XP |
+| 3rd | 600 XP | 500 XP | 400 XP | 300 XP |
+| 4th | 1,050 XP | 875 XP | 700 XP | 525 XP |
+| 5th | 1,650 XP | 1,375 XP | 1,100 XP | 825 XP |
+| 6th | 2,400 XP | 2,000 XP | 1,600 XP | 1,200 XP |
+| 7th | 3,300 XP | 2,750 XP | 2,200 XP | 1,650 XP |
+| 8th | 4,500 XP | 3,750 XP | 3,000 XP | 2,250 XP |
+| 9th | 5,100 XP | 4,250 XP | 3,400 XP | 2,550 XP |
+| 10th | 6,600 XP | 5,500 XP | 4,400 XP | 3,300 XP |
+| 11th | 8,400 XP | 7,000 XP | 5,600 XP | 4,200 XP |
+| 12th | 10,500 XP | 8,750 XP | 7,000 XP | 5,250 XP |
+| 13th | 13,200 XP | 11,000 XP | 8,800 XP | 6,600 XP |
+| 14th | 16,200 XP | 13,500 XP | 10,800 XP | 8,100 XP |
+| 15th | 19,500 XP | 16,250 XP | 13,000 XP | 9,750 XP |
+| 16th | 23,100 XP | 19,250 XP | 15,400 XP | 11,550 XP |
+| 17th | 27,000 XP | 22,500 XP | 18,000 XP | 13,500 XP |
+| 18th | 31,200 XP | 26,000 XP | 20,800 XP | 15,600 XP |
+| 19th | 35,700 XP | 29,750 XP | 23,800 XP | 17,850 XP |
+| 20th | 40,500 XP | 33,750 XP | 27,000 XP | 20,250 XP |
+| 20th+1 | 46,500 XP | 38,750 XP | 31,000 XP | 23,250 XP |
+| 20th+2 | 52,650 XP | 43,875 XP | 35,100 XP | 26,325 XP |
+| 20th+3 | 59,400 XP | 49,500 XP | 39,600 XP | 29,700 XP |
+
+[^ Back to General](#general)
