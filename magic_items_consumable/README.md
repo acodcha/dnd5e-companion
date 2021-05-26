@@ -6,7 +6,7 @@
 * [Miscellaneous Consumable Magic Items](#miscellaneous-consumable-magic-items)
 * [All Consumable Magic Items by Price](#all-consumable-magic-items-by-price)
 
-Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold.
+Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold. All prices are listed in platinum pieces (pp).
 
 Abbreviations:
 * DMG: *Dungeon Master's Guide*
@@ -18,23 +18,23 @@ Abbreviations:
 ## Ammunition
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
-| Walloping arrow | 20 gp | 1/20 lb | XGtE 139 |
-| Walloping blowgun dart | 20 gp | 1/20 lb | XGtE 139 |
-| Walloping crossbow bolt | 20 gp | 1½/20 lb | XGtE 139 |
-| Walloping sling bullet | 20 gp | 1½/20 lb | XGtE 139 |
-| Arrow, +1 (each) | 25 gp | 1/20 lb | DMG 150 |
-| Blowgun dart, +1 (each) | 25 gp | 1/20 lb | DMG 150 |
-| Crossbow bolt, +1 (each) | 25 gp | 1½/20 lb | DMG 150 |
-| Sling bullet, +1 (each) | 25 gp | 1½/20 lb | DMG 150 |
-| Arrow, +2 (each) | 10 pp | 1/20 lb | DMG 150 |
-| Blowgun dart, +2 (each) | 10 pp | 1/20 lb | DMG 150 |
-| Crossbow bolt, +2 (each) | 10 pp | 1½/20 lb | DMG 150 |
-| Sling bullet, +2 (each) | 10 pp | 1½/20 lb | DMG 150 |
-| Arrow, +3 (each) | 40 pp | 1/20 lb | DMG 150 |
-| Blowgun dart, +3 (each) | 40 pp | 1/20 lb | DMG 150 |
-| Crossbow bolt, +3 (each) | 40 pp | 1½/20 lb | DMG 150 |
-| Sling bullet, +3 (each) | 40 pp | 1½/20 lb | DMG 150 |
+| Unbreakable arrow | 1 pp | 1/20 lb | XGtE 139 |
+| Walloping arrow | 2 pp | 1/20 lb | XGtE 139 |
+| Walloping blowgun dart | 2 pp | 1/20 lb | XGtE 139 |
+| Walloping crossbow bolt | 2 pp | 1½/20 lb | XGtE 139 |
+| Walloping sling bullet | 2 pp | 1½/20 lb | XGtE 139 |
+| Arrow, +1 (each) | 3 pp | 1/20 lb | DMG 150 |
+| Blowgun dart, +1 (each) | 3 pp | 1/20 lb | DMG 150 |
+| Crossbow bolt, +1 (each) | 3 pp | 1½/20 lb | DMG 150 |
+| Sling bullet, +1 (each) | 3 pp | 1½/20 lb | DMG 150 |
+| Arrow, +2 (each) | 12 pp | 1/20 lb | DMG 150 |
+| Blowgun dart, +2 (each) | 12 pp | 1/20 lb | DMG 150 |
+| Crossbow bolt, +2 (each) | 12 pp | 1½/20 lb | DMG 150 |
+| Sling bullet, +2 (each) | 12 pp | 1½/20 lb | DMG 150 |
+| Arrow, +3 (each) | 48 pp | 1/20 lb | DMG 150 |
+| Blowgun dart, +3 (each) | 48 pp | 1/20 lb | DMG 150 |
+| Crossbow bolt, +3 (each) | 48 pp | 1½/20 lb | DMG 150 |
+| Sling bullet, +3 (each) | 48 pp | 1½/20 lb | DMG 150 |
 | Arrow of slaying (each) | 60 pp | 1/20 lb | DMG 152 |
 | Crossbow bolt of slaying (each) | 60 pp | 1½/20 lb | DMG 152 |
 
@@ -43,8 +43,8 @@ Abbreviations:
 ## Potions
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Potion of healing | 50 gp | ½ lb | DMG 187 |
-| Philter of love | 90 gp | ½ lb | DMG 184 |
+| Potion of healing | 5 pp | ½ lb | DMG 187 |
+| Philter of love | 9 pp | ½ lb | DMG 184 |
 | Potion of poison | 10 pp | ½ lb | DMG 188 |
 | Elixir of health | 12 pp | ½ lb | DMG 168 |
 | Potion of fire breath | 15 pp | ½ lb | DMG 187 |
@@ -82,8 +82,8 @@ Abbreviations:
 ## Spell Scrolls
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Spell scroll, cantrip | 30 gp | 1 lb | DMG 200 |
-| Spell scroll, 1st level | 50 gp | 1 lb | DMG 200 |
+| Spell scroll, cantrip | 3 pp | 1 lb | DMG 200 |
+| Spell scroll, 1st level | 5 pp | 1 lb | DMG 200 |
 | Spell scroll, 2nd level | 50 pp | 1 lb | DMG 200 |
 | Spell scroll, 3rd level | 100 pp | 1 lb | DMG 200 |
 | Spell scroll, 4th level | 500 pp | 1 lb | DMG 200 |
@@ -98,8 +98,8 @@ Abbreviations:
 ## Tattoos
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Spellwrought tattoo, cantrip | 50 gp | – | TCoE 135 |
-| Spellwrought tattoo, 1st level | 80 gp | – | TCoE 135 |
+| Spellwrought tattoo, cantrip | 5 pp | – | TCoE 135 |
+| Spellwrought tattoo, 1st level | 8 pp | – | TCoE 135 |
 | Spellwrought tattoo, 2nd level | 75 pp | – | TCoE 135 |
 | Spellwrought tattoo, 3rd level | 150 pp | – | TCoE 135 |
 | Spellwrought tattoo, 4th level | 750 pp | – | TCoE 135 |
@@ -110,8 +110,8 @@ Abbreviations:
 ## Miscellaneous Consumable Magic Items
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Bead of refreshment | 10 gp | – | XGtE 136 |
-| Bead of nourishment | 20 gp | – | XGtE 136 |
+| Bead of refreshment | 1 pp | – | XGtE 136 |
+| Bead of nourishment | 2 pp | – | XGtE 136 |
 | Veteran's cane | 10 pp | 2 lb | XGtE 139 |
 | Quaal's feather token, anchor | 15 pp | – | DMG 188 |
 | Scroll of protection | 18 pp | 1 lb | DMG 199 |
@@ -152,30 +152,30 @@ Abbreviations:
 ## All Consumable Magic Items by Price
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Bead of refreshment | 10 gp | – | XGtE 136 |
-| Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
-| Bead of nourishment | 20 gp | – | XGtE 136 |
-| Walloping arrow | 20 gp | 1/20 lb | XGtE 139 |
-| Walloping blowgun dart | 20 gp | 1/20 lb | XGtE 139 |
-| Walloping crossbow bolt | 20 gp | 1½/20 lb | XGtE 139 |
-| Walloping sling bullet | 20 gp | 1½/20 lb | XGtE 139 |
-| Arrow, +1 (each) | 25 gp | 1/20 lb | DMG 150 |
-| Blowgun dart, +1 (each) | 25 gp | 1/20 lb | DMG 150 |
-| Crossbow bolt, +1 (each) | 25 gp | 1½/20 lb | DMG 150 |
-| Sling bullet, +1 (each) | 25 gp | 1½/20 lb | DMG 150 |
-| Spell scroll, cantrip | 30 gp | 1 lb | DMG 200 |
-| Potion of healing | 50 gp | ½ lb | DMG 187 |
-| Spell scroll, 1st level | 50 gp | 1 lb | DMG 200 |
-| Spellwrought tattoo, cantrip | 50 gp | – | TCoE 135 |
-| Spellwrought tattoo, 1st level | 80 gp | – | TCoE 135 |
-| Philter of love | 90 gp | ½ lb | DMG 184 |
-| Arrow, +2 (each) | 10 pp | 1/20 lb | DMG 150 |
-| Blowgun dart, +2 (each) | 10 pp | 1/20 lb | DMG 150 |
-| Crossbow bolt, +2 (each) | 10 pp | 1½/20 lb | DMG 150 |
+| Bead of refreshment | 1 pp | – | XGtE 136 |
+| Unbreakable arrow | 1 pp | 1/20 lb | XGtE 139 |
+| Bead of nourishment | 2 pp | – | XGtE 136 |
+| Walloping arrow | 2 pp | 1/20 lb | XGtE 139 |
+| Walloping blowgun dart | 2 pp | 1/20 lb | XGtE 139 |
+| Walloping crossbow bolt | 2 pp | 1½/20 lb | XGtE 139 |
+| Walloping sling bullet | 2 pp | 1½/20 lb | XGtE 139 |
+| Arrow, +1 (each) | 3 pp | 1/20 lb | DMG 150 |
+| Blowgun dart, +1 (each) | 3 pp | 1/20 lb | DMG 150 |
+| Crossbow bolt, +1 (each) | 3 pp | 1½/20 lb | DMG 150 |
+| Sling bullet, +1 (each) | 3 pp | 1½/20 lb | DMG 150 |
+| Spell scroll, cantrip | 3 pp | 1 lb | DMG 200 |
+| Potion of healing | 5 pp | ½ lb | DMG 187 |
+| Spell scroll, 1st level | 5 pp | 1 lb | DMG 200 |
+| Spellwrought tattoo, cantrip | 5 pp | – | TCoE 135 |
+| Spellwrought tattoo, 1st level | 8 pp | – | TCoE 135 |
+| Philter of love | 9 pp | ½ lb | DMG 184 |
 | Potion of poison | 10 pp | ½ lb | DMG 188 |
-| Sling bullet, +2 (each) | 10 pp | 1½/20 lb | DMG 150 |
 | Veteran's cane | 10 pp | 2 lb | XGtE 139 |
+| Arrow, +2 (each) | 12 pp | 1/20 lb | DMG 150 |
+| Blowgun dart, +2 (each) | 12 pp | 1/20 lb | DMG 150 |
+| Crossbow bolt, +2 (each) | 12 pp | 1½/20 lb | DMG 150 |
 | Elixir of health | 12 pp | ½ lb | DMG 168 |
+| Sling bullet, +2 (each) | 12 pp | 1½/20 lb | DMG 150 |
 | Potion of fire breath | 15 pp | ½ lb | DMG 187 |
 | Quaal's feather token, anchor | 15 pp | – | DMG 188 |
 | Potion of climbing | 18 pp | ½ lb | DMG 187 |
@@ -197,16 +197,16 @@ Abbreviations:
 | Potion of gaseous form | 30 pp | ½ lb | DMG 187 |
 | Potion of resistance | 30 pp | ½ lb | DMG 188 |
 | Universal solvent | 30 pp | 1 lb | DMG 209 |
-| Arrow, +3 (each) | 40 pp | 1/20 lb | DMG 150 |
-| Blowgun dart, +3 (each) | 40 pp | 1/20 lb | DMG 150 |
-| Crossbow bolt, +3 (each) | 40 pp | 1½/20 lb | DMG 150 |
 | Potion of speed | 40 pp | ½ lb | DMG 188 |
-| Sling bullet, +3 (each) | 40 pp | 1½/20 lb | DMG 150 |
 | Sovereign glue | 40 pp | 1 lb | DMG 200 |
 | Keoghtom's ointment | 42 pp | ½ lb | DMG 179 |
 | Horn of blasting | 45 pp | 2 lb | DMG 174 |
+| Arrow, +3 (each) | 48 pp | 1/20 lb | DMG 150 |
+| Blowgun dart, +3 (each) | 48 pp | 1/20 lb | DMG 150 |
+| Crossbow bolt, +3 (each) | 48 pp | 1½/20 lb | DMG 150 |
 | Dust of sneezing and choking | 48 pp | – | DMG 166 |
 | Oil of slipperiness | 48 pp | ½ lb | DMG 184 |
+| Sling bullet, +3 (each) | 48 pp | 1½/20 lb | DMG 150 |
 | Potion of flying | 50 pp | ½ lb | DMG 187 |
 | Spell scroll, 2nd level | 50 pp | 1 lb | DMG 200 |
 | Arrow of slaying (each) | 60 pp | 1/20 lb | DMG 152 |
