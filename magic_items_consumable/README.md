@@ -3,7 +3,7 @@
 * [Potions](#potions)
 * [Spell Scrolls](#spell-scrolls)
 * [Tattoos](#tattoos)
-* [Miscellaneous Consumable Magic Items](#miscellaneous-consumable-magic-items)
+* [Miscellaneous](#miscellaneous)
 * [All Consumable Magic Items by Price](#all-consumable-magic-items-by-price)
 
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold. All prices are listed in platinum pieces (pp).
@@ -107,7 +107,7 @@ Abbreviations:
 
 [^ Back to Top](#consumable-magic-items)
 
-## Miscellaneous Consumable Magic Items
+## Miscellaneous
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Bead of refreshment | 1 pp | – | XGtE 136 |

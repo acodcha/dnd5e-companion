@@ -20,7 +20,7 @@
 * [Musical Instruments](#musical-instruments)
 * [Artisan's Tools](#artisans-tools)
 * [Summoning Items](#summoning-items)
-* [Miscellaneous Permanent Magic Items](#miscellaneous-permanent-magic-items)
+* [Miscellaneous](#miscellaneous)
 * [All Permanent Magic Items by Price](#all-permanent-magic-items-by-price)
 
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold. All prices are listed in platinum pieces (pp).
@@ -493,7 +493,7 @@ Abbreviations:
 
 [^ Back to Top](#permanent-magic-items)
 
-## Miscellaneous Permanent Magic Items
+## Miscellaneous
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Candle of the deep | 10 pp | – | XGtE 136 |
