@@ -4,6 +4,7 @@
 * [Spell Scrolls](#spell-scrolls)
 * [Tattoos](#tattoos)
 * [Miscellaneous Consumable Magic Items](#miscellaneous-consumable-magic-items)
+* [All Consumable Magic Items by Price](#all-consumable-magic-items-by-price)
 
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold.
 
@@ -145,5 +146,115 @@ Abbreviations:
 | Manual of flesh golems | – | 3 lb | DMG 180 |
 | Manual of iron golems | – | 3 lb | DMG 180 |
 | Manual of stone golems | – | 3 lb | DMG 180 |
+
+[^ Back to Top](#consumable-magic-items)
+
+## All Consumable Magic Items by Price
+| Type | Magic Item | Price | Weight | Source |
+| :--- | :--------- | ----: | -----: | -----: |
+| Miscellaneous | Bead of refreshment | 10 gp | – | XGtE 136 |
+| Ammunition | Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
+| Miscellaneous | Bead of nourishment | 20 gp | – | XGtE 136 |
+| Ammunition | Walloping arrow | 20 gp | 1/20 lb | XGtE 139 |
+| Ammunition | Walloping blowgun dart | 20 gp | 1/20 lb | XGtE 139 |
+| Ammunition | Walloping crossbow bolt | 20 gp | 1½/20 lb | XGtE 139 |
+| Ammunition | Walloping sling bullet | 20 gp | 1½/20 lb | XGtE 139 |
+| Ammunition | Arrow, +1 (each) | 25 gp | 1/20 lb | DMG 150 |
+| Ammunition | Blowgun dart, +1 (each) | 25 gp | 1/20 lb | DMG 150 |
+| Ammunition | Crossbow bolt, +1 (each) | 25 gp | 1½/20 lb | DMG 150 |
+| Ammunition | Sling bullet, +1 (each) | 25 gp | 1½/20 lb | DMG 150 |
+| Spell scroll | Spell scroll, cantrip | 30 gp | 1 lb | DMG 200 |
+| Potion | Potion of healing | 50 gp | ½ lb | DMG 187 |
+| Spell scroll | Spell scroll, 1st level | 50 gp | 1 lb | DMG 200 |
+| Tattoo | Spellwrought tattoo, cantrip | 50 gp | – | TCoE 135 |
+| Tattoo | Spellwrought tattoo, 1st level | 80 gp | – | TCoE 135 |
+| Potion | Philter of love | 90 gp | ½ lb | DMG 184 |
+| Ammunition | Arrow, +2 (each) | 10 pp | 1/20 lb | DMG 150 |
+| Ammunition | Blowgun dart, +2 (each) | 10 pp | 1/20 lb | DMG 150 |
+| Ammunition | Crossbow bolt, +2 (each) | 10 pp | 1½/20 lb | DMG 150 |
+| Potion | Potion of poison | 10 pp | ½ lb | DMG 188 |
+| Ammunition | Sling bullet, +2 (each) | 10 pp | 1½/20 lb | DMG 150 |
+| Miscellaneous | Veteran's cane | 10 pp | 2 lb | XGtE 139 |
+| Potion | Elixir of health | 12 pp | ½ lb | DMG 168 |
+| Potion | Potion of fire breath | 15 pp | ½ lb | DMG 187 |
+| Miscellaneous | Quaal's feather token, anchor | 15 pp | – | DMG 188 |
+| Potion | Potion of climbing | 18 pp | ½ lb | DMG 187 |
+| Potion | Potion of heroism | 18 pp | ½ lb | DMG 188 |
+| Potion | Potion of invisibility | 18 pp | ½ lb | DMG 188 |
+| Potion | Potion of mind reading | 18 pp | ½ lb | DMG 188 |
+| Potion | Potion of water breathing | 18 pp | ½ lb | DMG 188 |
+| Miscellaneous | Scroll of protection | 18 pp | 1 lb | DMG 199 |
+| Miscellaneous | Nolzur's marvelous pigments | 20 pp | 1 lb | DMG 183 |
+| Miscellaneous | Pot of awakening | 20 pp | 10 lb | XGtE 138 |
+| Potion | Potion of animal friendship | 20 pp | ½ lb | DMG 187 |
+| Potion | Potion of greater healing | 20 pp | ½ lb | DMG 187 |
+| Miscellaneous | Quaal's feather token, tree | 20 pp | – | DMG 188 |
+| Miscellaneous | Quaal's feather token, fan | 25 pp | – | DMG 188 |
+| Miscellaneous | Quaal's feather token, whip | 25 pp | – | DMG 188 |
+| Potion | Potion of diminution | 27 pp | ½ lb | DMG 187 |
+| Potion | Potion of growth | 27 pp | ½ lb | DMG 187 |
+| Miscellaneous | Dust of disappearance | 30 pp | – | DMG 166 |
+| Potion | Potion of gaseous form | 30 pp | ½ lb | DMG 187 |
+| Potion | Potion of resistance | 30 pp | ½ lb | DMG 188 |
+| Miscellaneous | Universal solvent | 30 pp | 1 lb | DMG 209 |
+| Ammunition | Arrow, +3 (each) | 40 pp | 1/20 lb | DMG 150 |
+| Ammunition | Blowgun dart, +3 (each) | 40 pp | 1/20 lb | DMG 150 |
+| Ammunition | Crossbow bolt, +3 (each) | 40 pp | 1½/20 lb | DMG 150 |
+| Potion | Potion of speed | 40 pp | ½ lb | DMG 188 |
+| Ammunition | Sling bullet, +3 (each) | 40 pp | 1½/20 lb | DMG 150 |
+| Miscellaneous | Sovereign glue | 40 pp | 1 lb | DMG 200 |
+| Miscellaneous | Keoghtom's ointment | 42 pp | ½ lb | DMG 179 |
+| Miscellaneous | Horn of blasting | 45 pp | 2 lb | DMG 174 |
+| Miscellaneous | Dust of sneezing and choking | 48 pp | – | DMG 166 |
+| Potion | Oil of slipperiness | 48 pp | ½ lb | DMG 184 |
+| Potion | Potion of flying | 50 pp | ½ lb | DMG 187 |
+| Spell scroll | Spell scroll, 2nd level | 50 pp | 1 lb | DMG 200 |
+| Ammunition | Arrow of slaying (each) | 60 pp | 1/20 lb | DMG 152 |
+| Ammunition | Crossbow bolt of slaying (each) | 60 pp | 1½/20 lb | DMG 152 |
+| Tattoo | Spellwrought tattoo, 2nd level | 75 pp | – | TCoE 135 |
+| Miscellaneous | Dust of dryness | 90 pp | – | DMG 166 |
+| Miscellaneous | Bead of force | 96 pp | – | DMG 154 |
+| Miscellaneous | Elemental gem | 96 pp | – | DMG 167 |
+| Potion | Potion of clairvoyance | 96 pp | ½ lb | DMG 187 |
+| Potion | Potion of vitality | 96 pp | ½ lb | DMG 188 |
+| Miscellaneous | Perfume of bewitching | 100 pp | – | XGtE 138 |
+| Spell scroll | Spell scroll, 3rd level | 100 pp | 1 lb | DMG 200 |
+| Miscellaneous | Chime of opening | 150 pp | 1 lb | DMG 158 |
+| Tattoo | Spellwrought tattoo, 3rd level | 150 pp | – | TCoE 135 |
+| Potion | Oil of etherealness | 190 pp | ½ lb | DMG 183 |
+| Potion | Potion of superior healing | 200 pp | ½ lb | DMG 187 |
+| Miscellaneous | Necklace of fireballs | 260 pp | – | DMG 182 |
+| Miscellaneous | Quaal's feather token, bird | 300 pp | – | DMG 188 |
+| Miscellaneous | Quaal's feather token, swan boat | 300 pp | – | DMG 188 |
+| Potion | Oil of sharpness | 320 pp | ½ lb | DMG 184 |
+| Miscellaneous | Gem of brightness | 500 pp | – | DMG 171 |
+| Spell scroll | Spell scroll, 4th level | 500 pp | 1 lb | DMG 200 |
+| Miscellaneous | Deck of illusions | 610 pp | – | DMG 161 |
+| Tattoo | Spellwrought tattoo, 4th level | 750 pp | – | TCoE 135 |
+| Potion | Potion of invulnerability | 1,000 pp | ½ lb | DMG 188 |
+| Spell scroll | Spell scroll, 5th level | 1,000 pp | 1 lb | DMG 200 |
+| Tattoo | Spellwrought tattoo, 5th level | 1,500 pp | – | TCoE 135 |
+| Potion | Potion of supreme healing | 2,000 pp | ½ lb | DMG 187 |
+| Spell scroll | Spell scroll, 6th level | 3,000 pp | 1 lb | DMG 200 |
+| Spell scroll | Spell scroll, 7th level | 5,000 pp | 1 lb | DMG 200 |
+| Miscellaneous | Talisman of ultimate evil (attunement evil-aligned) | 6,100 pp | – | DMG 207 |
+| Miscellaneous | Talisman of pure good (attunement good-aligned) | 7,200 pp | – | DMG 207 |
+| Spell scroll | Spell scroll, 8th level | 10,000 pp | 1 lb | DMG 200 |
+| Spell scroll | Spell scroll, 9th level | 50,000 pp | 1 lb | DMG 200 |
+| Miscellaneous | Bag of beans | – | 3 lb | DMG 152 |
+| Miscellaneous | Candle of invocation (attunement) | – | – | DMG 157 |
+| Miscellaneous | Deck of many things | – | – | DMG 162 |
+| Miscellaneous | Efreeti bottle | – | 1 lb | DMG 167 |
+| Miscellaneous | Manual of clay golems | – | 3 lb | DMG 180 |
+| Miscellaneous | Manual of flesh golems | – | 3 lb | DMG 180 |
+| Miscellaneous | Manual of iron golems | – | 3 lb | DMG 180 |
+| Miscellaneous | Manual of stone golems | – | 3 lb | DMG 180 |
+| Potion | Potion of cloud giant strength | – | ½ lb | DMG 187 |
+| Potion | Potion of fire giant strength | – | ½ lb | DMG 187 |
+| Potion | Potion of frost giant strength | – | ½ lb | DMG 187 |
+| Potion | Potion of hill giant strength | – | ½ lb | DMG 187 |
+| Potion | Potion of longevity | – | ½ lb | DMG 188 |
+| Potion | Potion of stone giant strength | – | ½ lb | DMG 187 |
+| Potion | Potion of storm giant strength | – | ½ lb | DMG 187 |
 
 [^ Back to Top](#consumable-magic-items)

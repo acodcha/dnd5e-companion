@@ -21,6 +21,7 @@
 * [Artisan's Tools](#artisans-tools)
 * [Summoning Items](#summoning-items)
 * [Miscellaneous Permanent Magic Items](#miscellaneous-permanent-magic-items)
+* [All Permanent Magic Items by Price](#all-permanent-magic-items-by-price)
 
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold.
 
@@ -583,5 +584,432 @@ Abbreviations:
 | Tome of the stilled tongue (attunement wizard) | – | 5 lb | DMG 208 |
 | Tome of understanding | – | 5 lb | DMG 209 |
 | Well of many worlds | – | – | DMG 213 |
+
+[^ Back to Top](#permanent-magic-items)
+
+## All Permanent Magic Items by Price
+| Type | Magic Item | Price | Weight | Source |
+| :--- | :--------- | ----: | -----: | -----: |
+| Miscellaneous | Candle of the deep | 10 pp | – | XGtE 136 |
+| Coat | Cloak of billowing | 10 pp | 1 lb | XGtE 136 |
+| Clothes | Clothes of mending | 10 pp | 3 lb | XGtE 137 |
+| Headwear | Dread helm | 10 pp | 1 lb | XGtE 137 |
+| Miscellaneous | Pole of angling | 10 pp | 7 lb | XGtE 138 |
+| Miscellaneous | Pole of collapsing | 10 pp | 7 lb | XGtE 138 |
+| Arcane focus | Staff of adornment | 10 pp | 4 lb | XGtE 139 |
+| Coat | Cloak of many fashions | 20 pp | 1 lb | XGtE 136 |
+| Miscellaneous | Ear horn of hearing | 20 pp | 1 lb | XGtE 137 |
+| Headwear | Hat of vermin | 20 pp | – | XGtE 137 |
+| Musical instrument | Instrument of illusions (any musical instrument) (attunement) | 20 pp | (varies) | XGtE 137 |
+| Miscellaneous | Orb of time | 20 pp | 3 lb | XGtE 138 |
+| Miscellaneous | Pipe of smoke monsters | 20 pp | – | XGtE 138 |
+| Shield | Shield of expression | 20 pp | 6 lb | XGtE 139 |
+| Arcane focus | Staff of birdcalls | 20 pp | 4 lb | XGtE 139 |
+| Arcane focus | Staff of flowers | 20 pp | 4 lb | XGtE 139 |
+| Arcane focus | Wand of conducting | 20 pp | 1 lb | XGtE 140 |
+| Arcane focus | Wand of pyrotechnics | 20 pp | 1 lb | XGtE 140 |
+| Armor, Medium | Hide armor of gleaming | 21 pp | 12 lb | XGtE 136 |
+| Armor, Medium | Smoldering hide armor | 21 pp | 12 lb | XGtE 139 |
+| Armor, Light | Smoldering studded leather armor | 25 pp | 13 lb | XGtE 139 |
+| Miscellaneous | Heward's handy spice pouch | 30 pp | – | XGtE 137 |
+| Arcane focus | Wand of scowls | 30 pp | 1 lb | XGtE 140 |
+| Arcane focus | Wand of smiles | 30 pp | 1 lb | XGtE 140 |
+| Armor, Medium | Cast-off hide armor | 31 pp | 12 lb | XGtE 136 |
+| Armor, Light | Cast-off studded leather armor | 35 pp | 13 lb | XGtE 136 |
+| Weapon | Vicious weapon (any weapon) | 35 pp | (varies) | DMG 209 |
+| Summoning item | Figurine of wondrous power, ivory goat of travail | 40 pp | 1 lb | DMG 169 |
+| Miscellaneous | Rope of mending | 40 pp | 10 lb | XGtE 138 |
+| Druidic focus | Bell branch (attunement druid/warlock) | 50 pp | 1 lb | TCoE 122 |
+| Footwear | Boots of false tracks | 50 pp | 1 lb | XGtE 136 |
+| Arcane focus | Dark shard amulet (attunement warlock) | 50 pp | 1 lb | XGtE 137 |
+| Miscellaneous | Enduring spellbook | 50 pp | 3 lb | XGtE 137 |
+| Miscellaneous | Ersatz eye (attunement) | 50 pp | – | XGtE 137 |
+| Arcane focus | Feywild shard (attunement sorcerer) | 50 pp | 1 lb | TCoE 127 |
+| Holy symbol | Guardian emblem (attunement cleric/paladin) | 50 pp | – | TCoE 128 |
+| Headwear | Hat of wizardry (attunement wizard) | 50 pp | – | XGtE 137 |
+| Headwear | Helm of comprehend languages | 50 pp | 1 lb | DMG 173 |
+| Miscellaneous | Horn of silent alarm | 50 pp | 2 lb | XGtE 137 |
+| Musical instrument | Instrument of scribing (any musical instrument) (attunement) | 50 pp | (varies) | XGtE 138 |
+| Miscellaneous | Lock of trickery | 50 pp | 1 lb | XGtE 138 |
+| Weapon | Moon-touched sword (any sword) | 50 pp | (varies) | XGtE 138 |
+| Jewelry | Necklace of prayer beads, base necklace (attunement cleric/druid/paladin) | 50 pp | – | DMG 182 |
+| Miscellaneous | Orb of direction | 50 pp | 3 lb | XGtE 138 |
+| Miscellaneous | Ruby of the war mage (attunement spellcaster) | 50 pp | 1 lb | XGtE 138 |
+| Miscellaneous | Talking doll (attunement) | 50 pp | 1 lb | XGtE 139 |
+| Miscellaneous | Tankard of sobriety | 50 pp | 1 lb | XGtE 139 |
+| Armor, Medium | Breastplate armor of gleaming | 60 pp | 20 lb | XGtE 136 |
+| Armor, Medium | Smoldering breastplate armor | 60 pp | 20 lb | XGtE 139 |
+| Armor, Medium | Cast-off breastplate armor | 70 pp | 20 lb | XGtE 136 |
+| Miscellaneous | Driftglobe | 75 pp | 3 lb | DMG 166 |
+| Weapon | Trident of fish command (attunement) | 80 pp | 4 lb | DMG 209 |
+| Armor, Medium | Adamantine breastplate armor | 90 pp | 20 lb | DMG 150 |
+| Armor, Medium | Half plate armor of gleaming | 95 pp | 40 lb | XGtE 136 |
+| Armor, Medium | Smoldering half plate armor | 95 pp | 40 lb | XGtE 139 |
+| Headwear | Cap of water breathing | 100 pp | – | DMG 157 |
+| Miscellaneous | Charlatan's die (attunement) | 100 pp | – | XGtE 136 |
+| Jewelry | Clockwork amulet | 100 pp | – | XGtE 137 |
+| Arcane focus | Elemental essence shard of fire (attunement sorcerer) | 100 pp | 1 lb | TCoE 127 |
+| Miscellaneous | Eversmoking bottle | 100 pp | 1 lb | DMG 168 |
+| Summoning item | Figurine of wondrous power, ivory goat of traveling | 100 pp | 1 lb | DMG 169 |
+| Tattoo | Illuminator's tattoo (attunement) | 100 pp | – | TCoE 129 |
+| Miscellaneous | Ioun stone of sustenance (attunement) | 100 pp | – | DMG 176 |
+| Miscellaneous | Mystery key | 100 pp | – | XGtE 138 |
+| Coat | Nature's mantle (attunement druid/ranger) | 100 pp | 1 lb | TCoE 133 |
+| Arcane focus | Outer essence shard of evil (attunement sorcerer) | 100 pp | 1 lb | TCoE 133 |
+| Miscellaneous | Prosthetic limb | 100 pp | (varies) | TCoE 134 |
+| Miscellaneous | Quiver of Ehlonna | 100 pp | 2 lb | DMG 189 |
+| Jewelry | Ring of warmth (attunement) | 100 pp | – | DMG 193 |
+| Weapon | Sword of life stealing (any sword) (attunement) | 100 pp | (varies) | DMG 206 |
+| Weapon | Weapon, +1 (any weapon) | 100 pp | (varies) | DMG 213 |
+| Armor, Medium | Cast-off half plate armor | 110 pp | 40 lb | XGtE 136 |
+| Summoning item | Figurine of wondrous power, golden lions (pair) | 120 pp | 1 lb | DMG 169 |
+| Miscellaneous | Ioun stone of protection (attunement) | 120 pp | – | DMG 176 |
+| Armor, Medium | Mithral breastplate armor | 120 pp | 20 lb | DMG 182 |
+| Arcane focus | Wand of the war mage, +1 (attunement spellcaster) | 120 pp | 1 lb | DMG 212 |
+| Armor, Medium | Adamantine half plate armor | 130 pp | 40 lb | DMG 150 |
+| Bracers | Bracers of archery (attunement) | 150 pp | 1 lb | DMG 156 |
+| Headwear | Circlet of blasting | 150 pp | – | DMG 158 |
+| Eyewear | Goggles of night | 150 pp | – | DMG 172 |
+| Armor, Medium | Hide armor, +1 | 150 pp | 12 lb | DMG 152 |
+| Miscellaneous | Horseshoes of a zephyr (set of four) | 150 pp | 4 lb | DMG 175 |
+| Weapon | Javelin of lightning | 150 pp | 2 lb | DMG 178 |
+| Armor, Medium | Mariner's hide armor | 150 pp | 12 lb | DMG 181 |
+| Armor, Light | Mariner's studded leather armor | 150 pp | 13 lb | DMG 181 |
+| Jewelry | Necklace of adaption (attunement) | 150 pp | – | DMG 182 |
+| Jewelry | Necklace of prayer beads, bead of smiting (each) | 150 pp | – | DMG 182 |
+| Arcane focus | Outer essence shard of good (attunement sorcerer) | 150 pp | 1 lb | TCoE 133 |
+| Arcane focus | Outer essence shard of law (attunement sorcerer) | 150 pp | 1 lb | TCoE 133 |
+| Jewelry | Ring of water walking | 150 pp | – | DMG 193 |
+| Shield | Shield, +1 | 150 pp | 6 lb | DMG 200 |
+| Armor, Light | Studded leather armor, +1 | 150 pp | 13 lb | DMG 152 |
+| Arcane focus | Wand of magic detection | 150 pp | 1 lb | DMG 211 |
+| Arcane focus | Wand of secrets | 150 pp | 1 lb | DMG 211 |
+| Miscellaneous | Wind fan | 150 pp | 1 lb | DMG 213 |
+| Armor, Medium | Mithral half plate armor | 160 pp | 40 lb | DMG 182 |
+| Armor, Heavy | Plate armor of gleaming | 170 pp | 65 lb | XGtE 136 |
+| Armor, Heavy | Smoldering plate armor | 170 pp | 65 lb | XGtE 139 |
+| Weapon | Sword of sharpness (greatsword/longsword/scimitar) (attunement) | 170 pp | (varies) | DMG 206 |
+| Armor, Heavy | Cast-off plate armor | 180 pp | 65 lb | XGtE 136 |
+| Arcane focus | Staff of the adder (attunement cleric/druid/warlock) | 180 pp | 4 lb | DMG 203 |
+| Armor, Medium | Breastplate armor, +1 | 190 pp | 20 lb | DMG 152 |
+| Armor, Medium | Mariner's breastplate armor | 190 pp | 20 lb | DMG 181 |
+| Armor, Heavy | Adamantine plate armor | 200 pp | 65 lb | DMG 150 |
+| Arcane focus | Arcane grimoire, +1 (attunement wizard) | 200 pp | 3 lb | TCoE 120 |
+| Druidic focus | Cauldron of rebirth (attunement druid/warlock) | 200 pp | 10 lb | TCoE 122 |
+| Tattoo | Coiling grasp tattoo (attunement) | 200 pp | – | TCoE 123 |
+| Weapon | Dancing sword (any sword) (attunement) | 200 pp | (varies) | DMG 161 |
+| Weapon | Devotee's censer (flail) (attunement cleric/paladin) | 200 pp | 2 lb | TCoE 126 |
+| Armor, Light | Glamoured studded leather armor | 200 pp | 13 lb | DMG 172 |
+| Gloves | Gloves of swimming and climbing (attunement) | 200 pp | – | DMG 172 |
+| Miscellaneous | Heward's handy haversack | 200 pp | 5 lb | DMG 174 |
+| Druidic focus | Moon sickle, +1 (attunement druid/ranger) | 200 pp | 2 lb | TCoE 133 |
+| Jewelry | Necklace of prayer beads, bead of blessing (each) | 200 pp | – | DMG 182 |
+| Musical instrument | Pipes of the sewers (attunement) | 200 pp | 2 lb | DMG 185 |
+| Musical instrument | Rhythm-maker's drum, +1 (attunement bard) | 200 pp | 3 lb | TCoE 134 |
+| Jewelry | Ring of feather falling (attunement) | 200 pp | – | DMG 191 |
+| Arcane focus | Rod of the pact keeper, +1 (attunement warlock) | 200 pp | 2 lb | DMG 197 |
+| Miscellaneous | Rope of climbing | 200 pp | 3 lb | DMG 197 |
+| Miscellaneous | Saddle of the cavalier | 200 pp | 30 lb | DMG 199 |
+| Miscellaneous | Sending stones (each) | 100 pp | 1 lb | DMG 199 |
+| Arcane focus | Shadowfell shard (attunement sorcerer) | 200 pp | 1 lb | TCoE 135 |
+| Arcane focus | Staff of the python (attunement cleric/druid/warlock) | 200 pp | 4 lb | DMG 204 |
+| Weapon | Sword of wounding (any sword) (attunement) | 200 pp | (varies) | DMG 207 |
+| Weapon | Frost brand (any sword) (attunement) | 220 pp | (varies) | DMG 171 |
+| Armor, Medium | Half plate armor, +1 | 230 pp | 40 lb | DMG 152 |
+| Armor, Medium | Mariner's half plate armor | 230 pp | 40 lb | DMG 181 |
+| Armor, Heavy | Mithral plate armor | 230 pp | 65 lb | DMG 182 |
+| Miscellaneous | Ioun stone of absorption (attunement) | 240 pp | – | DMG 176 |
+| Footwear | Boots of elvenkind | 250 pp | 1 lb | DMG 155 |
+| Weapon | Dagger of venom | 250 pp | 1 lb | DMG 161 |
+| Eyewear | Eyes of minute seeing | 250 pp | – | DMG 168 |
+| Eyewear | Eyes of the eagle (attunement) | 250 pp | – | DMG 168 |
+| Arcane focus | Outer essence shard of chaos (attunement sorcerer) | 250 pp | 1 lb | TCoE 133 |
+| Jewelry | Ring of jumping (attunement) | 250 pp | – | DMG 191 |
+| Artisan's tool | All-purpose tool, +1 (attunement artificer) | 300 pp | 1 lb | TCoE 119 |
+| Holy symbol | Amulet of the devout, +1 (attunement cleric/paladin) | 300 pp | 1 lb | TCoE 119 |
+| Arcane focus | Bloodwell vial, +1 (attunement sorcerer) | 300 pp | – | TCoE 122 |
+| Miscellaneous | Dimensional shackles | 300 pp | 6 lb | DMG 165 |
+| Tattoo | Eldritch claw tattoo (attunement) | 300 pp | – | TCoE 126 |
+| Arcane focus | Elemental essence shard of earth (attunement sorcerer) | 300 pp | 1 lb | TCoE 127 |
+| Eyewear | Eyes of charming (attunement) | 300 pp | – | DMG 168 |
+| Summoning item | Figurine of wondrous power, onyx dog | 300 pp | 1 lb | DMG 170 |
+| Gloves | Gloves of missile snaring (attunement) | 300 pp | – | DMG 172 |
+| Miscellaneous | Ioun stone of agility (attunement) | 300 pp | – | DMG 176 |
+| Miscellaneous | Ioun stone of fortitude (attunement) | 300 pp | – | DMG 176 |
+| Miscellaneous | Ioun stone of insight (attunement) | 300 pp | – | DMG 176 |
+| Miscellaneous | Ioun stone of intellect (attunement) | 300 pp | – | DMG 176 |
+| Miscellaneous | Ioun stone of leadership (attunement) | 300 pp | – | DMG 176 |
+| Miscellaneous | Ioun stone of strength (attunement) | 300 pp | – | DMG 176 |
+| Armor, Heavy | Mariner's plate armor | 300 pp | 65 lb | DMG 181 |
+| Jewelry | Medallion of thoughts (attunement) | 300 pp | – | DMG 181 |
+| Armor, Heavy | Plate armor, +1 | 300 pp | 65 lb | DMG 152 |
+| Jewelry | Ring of swimming | 300 pp | – | DMG 193 |
+| Arcane focus | Staff of withering (attunement cleric/druid/warlock) | 300 pp | 4 lb | DMG 205 |
+| Coat | Cloak of protection (attunement) | 350 pp | 1 lb | DMG 159 |
+| Arcane focus | Far Realm shard (attunement sorcerer) | 350 pp | 1 lb | TCoE 127 |
+| Weapon | Oathbow (longbow) (attunement) | 350 pp | 2 lb | DMG 183 |
+| Jewelry | Ring of protection (attunement) | 350 pp | – | DMG 191 |
+| Miscellaneous | Bag of holding | 400 pp | 15 lb | DMG 153 |
+| Footwear | Boots of levitation (attunement) | 400 pp | 1 lb | DMG 155 |
+| Footwear | Boots of speed (attunement) | 400 pp | 1 lb | DMG 155 |
+| Armor, Medium | Dragon scale mail armor (attunement) | 400 pp | 45 lb | DMG 165 |
+| Arcane focus | Elemental essence shard of water (attunement sorcerer) | 400 pp | 1 lb | TCoE 127 |
+| Tattoo | Ghost step tattoo (attunement) | 400 pp | – | TCoE 128 |
+| Miscellaneous | Iron bands of Bilarro | 400 pp | 1 lb | DMG 177 |
+| Jewelry | Necklace of prayer beads, bead of curing (each) | 400 pp | – | DMG 182 |
+| Jewelry | Ring of animal influence | 400 pp | – | DMG 189 |
+| Miscellaneous | Rope of entanglement | 400 pp | 3 lb | DMG 197 |
+| Arcane focus | Wand of enemy detection (attunement) | 400 pp | 1 lb | DMG 210 |
+| Weapon | Weapon, +2 (any weapon) | 400 pp | (varies) | DMG 213 |
+| Jewelry | Stone of good luck (attunement) | 420 pp | – | DMG 205 |
+| Arcane focus | Wand of the war mage, +2 (attunement spellcaster) | 480 pp | 1 lb | DMG 212 |
+| Footwear | Boots of striding and springing (attunement) | 500 pp | 1 lb | DMG 156 |
+| Coat | Cloak of arachnida (attunement) | 500 pp | 1 lb | DMG 158 |
+| Coat | Cloak of elvenkind (attunement) | 500 pp | 1 lb | DMG 158 |
+| Summoning item | Figurine of wondrous power, silver raven | 500 pp | 1 lb | DMG 170 |
+| Weapon | Flame tongue (any sword) (attunement) | 500 pp | (varies) | DMG 170 |
+| Gloves | Gloves of thievery | 500 pp | – | DMG 172 |
+| Headwear | Hat of disguise (attunement) | 500 pp | – | DMG 173 |
+| Miscellaneous | Horseshoes of speed (set of four) | 500 pp | 4 lb | DMG 175 |
+| Arcane focus | Immovable rod | 500 pp | 2 lb | DMG 175 |
+| Miscellaneous | Lantern of revealing | 500 pp | 2 lb | DMG 179 |
+| Jewelry | Periapt of health | 500 pp | – | DMG 184 |
+| Jewelry | Periapt of proof against poison | 500 pp | – | DMG 184 |
+| Jewelry | Periapt of wound closure (attunement) | 500 pp | – | DMG 184 |
+| Musical instrument | Reveler's concertina (attunement bard) | 500 pp | 1 lb | TCoE 134 |
+| Jewelry | Ring of evasion (attunement) | 500 pp | – | DMG 191 |
+| Jewelry | Ring of the ram (attunement) | 500 pp | – | DMG 193 |
+| Footwear | Slippers of spider climbing (attunement) | 500 pp | – | DMG 200 |
+| Arcane focus | Tentacle rod (attunement) | 500 pp | 2 lb | DMG 208 |
+| Summoning item | Horn of Valhalla, silver | 560 pp | 2 lb | DMG 175 |
+| Shield | Animated shield (attunement) | 600 pp | 6 lb | DMG 151 |
+| Shield | Arrow-catching shield (attunement) | 600 pp | 6 lb | DMG 152 |
+| Belt | Belt of dwarvenkind (attunement) | 600 pp | 1 lb | DMG 155 |
+| Bracers | Bracers of defense (attunement) | 600 pp | 1 lb | DMG 156 |
+| Coat | Cloak of the bat (attunement) | 600 pp | 1 lb | DMG 159 |
+| Coat | Cloak of the manta ray | 600 pp | 1 lb | DMG 159 |
+| Summoning item | Figurine of wondrous power, marble elephant | 600 pp | 1 lb | DMG 170 |
+| Armor, Medium | Hide armor of resistance (attunement) | 600 pp | 12 lb | DMG 152 |
+| Armor, Medium | Hide armor, +2 | 600 pp | 12 lb | DMG 152 |
+| Miscellaneous | Ioun stone of reserve (attunement) | 600 pp | – | DMG 176 |
+| Tattoo | Masquerade tattoo (attunement) | 600 pp | – | TCoE 131 |
+| Jewelry | Pearl of power (attunement spellcaster) | 600 pp | – | DMG 184 |
+| Musical instrument | Pipes of haunting | 600 pp | 2 lb | DMG 185 |
+| Jewelry | Ring of resistance (attunement) | 600 pp | – | DMG 192 |
+| Jewelry | Ring of x-ray vision (attunement) | 600 pp | – | DMG 193 |
+| Clothes | Robe of scintillating colors (attunement) | 600 pp | 4 lb | DMG 194 |
+| Weapon | Scimitar of speed (attunement) | 600 pp | 3 lb | DMG 199 |
+| Shield | Shield, +2 | 600 pp | 6 lb | DMG 200 |
+| Armor, Light | Studded leather armor of resistance (attunement) | 600 pp | 13 lb | DMG 152 |
+| Armor, Light | Studded leather armor, +2 | 600 pp | 13 lb | DMG 152 |
+| Armor, Medium | Breastplate armor of resistance (attunement) | 640 pp | 20 lb | DMG 152 |
+| Armor, Medium | Breastplate armor, +2 | 640 pp | 20 lb | DMG 152 |
+| Armor, Medium | Half plate armor of resistance (attunement) | 680 pp | 40 lb | DMG 152 |
+| Armor, Medium | Half plate armor, +2 | 680 pp | 40 lb | DMG 152 |
+| Weapon | Giant slayer (any axe or sword) | 700 pp | (varies) | DMG 172 |
+| Weapon | Mace of smiting | 700 pp | 4 lb | DMG 179 |
+| Jewelry | Brooch of shielding (attunement) | 750 pp | – | DMG 156 |
+| Armor, Heavy | Plate armor of resistance (attunement) | 750 pp | 65 lb | DMG 152 |
+| Armor, Heavy | Plate armor, +2 | 750 pp | 65 lb | DMG 152 |
+| Arcane focus | Arcane grimoire, +2 (attunement wizard) | 800 pp | 3 lb | TCoE 120 |
+| Summoning item | Bowl of commanding water elementals | 800 pp | 3 lb | DMG 156 |
+| Summoning item | Brazier of commanding fire elementals | 800 pp | 5 lb | DMG 156 |
+| Coat | Cape of the mountebank | 800 pp | 1 lb | DMG 157 |
+| Summoning item | Censer of controlling air elementals | 800 pp | 1 lb | DMG 158 |
+| Weapon | Dragon slayer (any sword) | 800 pp | (varies) | DMG 166 |
+| Weapon | Mace of disruption (attunement) | 800 pp | 4 lb | DMG 179 |
+| Weapon | Mace of terror (attunement) | 800 pp | 4 lb | DMG 180 |
+| Druidic focus | Moon sickle, +2 (attunement druid/ranger) | 800 pp | 2 lb | TCoE 133 |
+| Weapon | Nine lives stealer (any sword) (attunement) | 800 pp | (varies) | DMG 183 |
+| Miscellaneous | Portable hole | 800 pp | – | DMG 185 |
+| Musical instrument | Rhythm-maker's drum, +2 (attunement bard) | 800 pp | 3 lb | TCoE 134 |
+| Arcane focus | Rod of the pact keeper, +2 (attunement warlock) | 800 pp | 2 lb | DMG 197 |
+| Tattoo | Shadowfell brand tattoo (attunement) | 800 pp | – | TCoE 134 |
+| Summoning item | Stone of controlling earth elementals | 800 pp | 5 lb | DMG 205 |
+| Arcane focus | Wand of magic missiles | 800 pp | 1 lb | DMG 211 |
+| Arcane focus | Wand of web (attunement spellcaster) | 800 pp | 1 lb | DMG 212 |
+| Summoning item | Horn of Valhalla, brass | 840 pp | 2 lb | DMG 175 |
+| Tattoo | Absorbing tattoo (attunement) | 900 pp | – | TCoE 119 |
+| Tattoo | Barrier tattoo, uncommon (attunement) | 900 pp | – | TCoE 122 |
+| Tattoo | Lifewell tattoo (attunement) | 900 pp | – | TCoE 129 |
+| Miscellaneous | Apparatus of Kwalish | 1,000 pp | 500 lb | DMG 151 |
+| Tattoo | Blood fury tattoo (attunement) | 1,000 pp | – | TCoE 122 |
+| Footwear | Boots of the winterlands (attunement) | 1,000 pp | 1 lb | DMG 156 |
+| Miscellaneous | Folding boat | 1,000 pp | 4 lb | DMG 170 |
+| Jewelry | Ring of invisibility (attunement) | 1,000 pp | – | DMG 191 |
+| Arcane focus | Staff of thunder and lightning (attunement) | 1,000 pp | 4 lb | DMG 204 |
+| Arcane focus | Wand of binding (attunement spellcaster) | 1,000 pp | 1 lb | DMG 209 |
+| Arcane focus | Wand of fear (attunement) | 1,000 pp | 1 lb | DMG 210 |
+| Armor, Heavy | Dwarven plate armor | 1,100 pp | 65 lb | DMG 167 |
+| Summoning item | Horn of Valhalla, bronze | 1,100 pp | 2 lb | DMG 175 |
+| Artisan's tool | All-purpose tool, +2 (attunement artificer) | 1,200 pp | 1 lb | TCoE 119 |
+| Holy symbol | Amulet of the devout, +2 (attunement cleric/paladin) | 1,200 pp | 1 lb | TCoE 119 |
+| Arcane focus | Bloodwell vial, +2 (attunement sorcerer) | 1,200 pp | – | TCoE 122 |
+| Headwear | Helm of telepathy (attunement) | 1,200 pp | 1 lb | DMG 174 |
+| Miscellaneous | Ioun stone of awareness (attunement) | 1,200 pp | – | DMG 176 |
+| Arcane focus | Staff of charming (attunement bard/cleric/druid/sorcerer/warlock/wizard) | 1,200 pp | 4 lb | DMG 201 |
+| Weapon | Sun blade (longsword) (attunement) | 1,200 pp | 3 lb | DMG 205 |
+| Arcane focus | Staff of healing (attunement bard, cleric, druid) | 1,300 pp | 4 lb | DMG 202 |
+| Summoning item | Horn of Valhalla, iron | 1,400 pp | 2 lb | DMG 175 |
+| Jewelry | Ring of shooting stars (attunement) | 1,400 pp | – | DMG 192 |
+| Miscellaneous | Ioun stone of mastery (attunement) | 1,500 pp | – | DMG 176 |
+| Miscellaneous | Cube of force (attunement) | 1,600 pp | – | DMG 159 |
+| Weapon | Hammer of thunderbolts (maul) | 1,600 pp | 10 lb | DMG 173 |
+| Jewelry | Ring of mind shielding (attunement) | 1,600 pp | – | DMG 191 |
+| Arcane focus | Rod of rulership (attunement) | 1,600 pp | 2 lb | DMG 197 |
+| Arcane focus | Staff of fire (attunement druid/sorcerer/warlock/wizard) | 1,600 pp | 4 lb | DMG 201 |
+| Arcane focus | Staff of swarming insects (attunement bard/cleric/druid/sorcerer/warlock/wizard) | 1,600 pp | 4 lb | DMG 203 |
+| Arcane focus | Wand of paralysis (attunement spellcaster) | 1,600 pp | 1 lb | DMG 211 |
+| Weapon | Weapon, +3 (any weapon) | 1,600 pp | (varies) | DMG 213 |
+| Jewelry | Ring of fire elemental command (attunement) | 1,700 pp | – | DMG 190 |
+| Weapon | Dwarven thrower (warhammer) (attunement dwarf) | 1,800 pp | 2 lb | DMG 167 |
+| Miscellaneous | Mirror of life trapping | 1,800 pp | 50 lb | DMG 181 |
+| Arcane focus | Wand of the war mage, +3 (attunement spellcaster) | 1,900 pp | 1 lb | DMG 212 |
+| Jewelry | Amulet of proof against detection and location (attunement) | 2,000 pp | – | DMG 150 |
+| Summoning item | Figurine of wondrous power, ivory goat of terror | 2,000 pp | 1 lb | DMG 169 |
+| Armor, Heavy | Plate armor of invulnerability (attunement) | 2,000 pp | 65 lb | DMG 152 |
+| Jewelry | Ring of free action (attunement) | 2,000 pp | – | DMG 191 |
+| Shield | Sentinel shield | 2,000 pp | 6 lb | DMG 199 |
+| Arcane focus | Staff of striking (attunement) | 2,100 pp | 4 lb | DMG 203 |
+| Armor, Medium | Breastplate armor, +3 | 2,400 pp | 20 lb | DMG 152 |
+| Weapon | Defender (any sword) (attunement) | 2,400 pp | (varies) | DMG 164 |
+| Arcane focus | Duplicitous manuscript (attunement wizard) | 2,400 pp | 3 lb | TCoE 126 |
+| Armor, Medium | Hide armor, +3 | 2,400 pp | 12 lb | DMG 152 |
+| Jewelry | Ring of spell storing (attunement) | 2,400 pp | – | DMG 192 |
+| Shield | Shield, +3 | 2,400 pp | 6 lb | DMG 200 |
+| Armor, Light | Studded leather armor, +3 | 2,400 pp | 13 lb | DMG 152 |
+| Weapon | Vorpal sword (greatsword/longsword/scimitar) (attunement) | 2,400 pp | (varies) | DMG 209 |
+| Arcane focus | Crystalline chronicle (attunement wizard) | 2,500 pp | 3 lb | TCoE 124 |
+| Armor, Medium | Half plate armor, +3 | 2,500 pp | 40 lb | DMG 152 |
+| Jewelry | Ring of water elemental command (attunement) | 2,500 pp | – | DMG 190 |
+| Arcane focus | Rod of alertness (attunement) | 2,500 pp | 2 lb | DMG 196 |
+| Armor, Heavy | Plate armor, +3 | 2,600 pp | 65 lb | DMG 152 |
+| Arcane focus | Staff of frost (attunement druid/sorcerer/warlock/wizard) | 2,600 pp | 4 lb | DMG 202 |
+| Musical instrument | Instrument of the bards, fochlucan bandore (attunement bard) | 2,700 pp | 2 lb | DMG 176 |
+| Musical instrument | Instrument of the bards, mac-fuirmidh cittern (attunement bard) | 2,700 pp | 2 lb | DMG 176 |
+| Arcane focus | Rod of lordly might (attunement) | 2,800 pp | 2 lb | DMG 196 |
+| Arcane focus | Fulminating treatise (attunement wizard) | 2,900 pp | 3 lb | TCoE 128 |
+| Musical instrument | Instrument of the bards, doss lute (attunement bard) | 2,900 pp | 2 lb | DMG 176 |
+| Coat | Mantle of spell resistance (attunement) | 3,000 pp | 1 lb | DMG 180 |
+| Jewelry | Ring of spell turning (attunement) | 3,000 pp | – | DMG 193 |
+| Clothes | Robe of eyes (attunement) | 3,000 pp | 4 lb | DMG 193 |
+| Musical instrument | Instrument of the bards, canaith mandolin (attunement bard) | 3,100 pp | 2 lb | DMG 176 |
+| Miscellaneous | Ioun stone of greater absorption (attunement) | 3,100 pp | – | DMG 176 |
+| Musical instrument | Lyre of building (attunement bard) | 3,100 pp | 2 lb | TCoE 131 |
+| Arcane focus | Arcane grimoire, +3 (attunement wizard) | 3,200 pp | 3 lb | TCoE 120 |
+| Miscellaneous | Gem of seeing (attunement) | 3,200 pp | – | DMG 172 |
+| Druidic focus | Moon sickle, +3 (attunement druid/ranger) | 3,200 pp | 2 lb | TCoE 133 |
+| Jewelry | Necklace of prayer beads, bead of favor (each) | 3,200 pp | – | DMG 182 |
+| Musical instrument | Rhythm-maker's drum, +3 (attunement bard) | 3,200 pp | 3 lb | TCoE 134 |
+| Arcane focus | Rod of the pact keeper, +3 (attunement warlock) | 3,200 pp | 2 lb | DMG 197 |
+| Arcane focus | Wand of fireballs (attunement spellcaster) | 3,200 pp | 1 lb | DMG 210 |
+| Arcane focus | Wand of lightning bolts (attunement spellcaster) | 3,200 pp | 1 lb | DMG 211 |
+| Arcane focus | Wand of polymorph (attunement spellcaster) | 3,200 pp | 1 lb | DMG 211 |
+| Musical instrument | Instrument of the bards, cli lyre (attunement bard) | 3,300 pp | 2 lb | DMG 176 |
+| Artisan's tool | All-purpose tool, +3 (attunement artificer) | 3,600 pp | 1 lb | TCoE 119 |
+| Holy symbol | Amulet of the devout, +3 (attunement cleric/paladin) | 3,600 pp | 1 lb | TCoE 119 |
+| Arcane focus | Bloodwell vial, +3 (attunement sorcerer) | 3,600 pp | – | TCoE 122 |
+| Miscellaneous | Scarab of protection (attunement) | 3,600 pp | – | DMG 199 |
+| Weapon | Sword of answering (longsword) (attunement) | 3,600 pp | 3 lb | DMG 206 |
+| Arcane focus | Staff of the woodlands (attunement druid) | 4,400 pp | 4 lb | DMG 204 |
+| Arcane focus | Alchemical compendium (attunement wizard) | 4,900 pp | 3 lb | TCoE 119 |
+| Armor, Heavy | Plate armor of etherealness (attunement) | 5,000 pp | 65 lb | DMG 185 |
+| Arcane focus | Rod of absorption (attunement) | 5,000 pp | 2 lb | DMG 195 |
+| Shield | Spellguard shield (attunement) | 5,000 pp | 6 lb | DMG 201 |
+| Arcane focus | Protective verses (attunement wizard) | 5,700 pp | 3 lb | TCoE 134 |
+| Arcane focus | Libram of souls and flesh (attunement wizard) | 5,900 pp | 3 lb | TCoE 129 |
+| Coat | Cloak of displacement (attunement) | 6,000 pp | 1 lb | DMG 158 |
+| Clothes | Robe of stars (attunement) | 6,000 pp | 4 lb | DMG 194 |
+| Weapon | Weapon of warning (any weapon) (attunement) | 6,000 pp | (varies) | DMG 213 |
+| Jewelry | Necklace of prayer beads, bead of wind walking (each) | 9,600 pp | – | DMG 182 |
+| Arcane focus | Heart weaver's primer (attunement wizard) | 11,000 pp | 3 lb | TCoE 128 |
+| Musical instrument | Instrument of the bards, anstruth harp (attunement bard) | 11,000 pp | 2 lb | DMG 176 |
+| Summoning item | Figurine of wondrous power, obsidian steed | 13,000 pp | 1 lb | DMG 170 |
+| Musical instrument | Instrument of the bards, ollamh harp (attunement bard) | 13,000 pp | 2 lb | DMG 176 |
+| Jewelry | Necklace of prayer beads, bead of summons (each) | 13,000 pp | – | DMG 182 |
+| Miscellaneous | Decanter of endless water | 14,000 pp | 2 lb | DMG 161 |
+| Weapon | Holy avenger (any sword) (attunement paladin) | 17,000 pp | (varies) | DMG 174 |
+| Arcane focus | Planecaller's codex (attunement wizard) | 28,000 pp | 3 lb | TCoE 134 |
+| Arcane focus | Astromancy archive (attunement wizard) | 29,000 pp | 3 lb | TCoE 120 |
+| Arcane focus | Atlas of endless horizons (attunement wizard) | 33,000 pp | 3 lb | TCoE 120 |
+| Miscellaneous | Alchemy jug | – | 12 lb | DMG 150 |
+| Jewelry | Amulet of health (attunement) | – | – | DMG 150 |
+| Jewelry | Amulet of the planes (attunement) | – | – | DMG 150 |
+| Arcane focus | Astral shard (attunement sorcerer) | – | 1 lb | TCoE 120 |
+| Weapon | Axe of the dwarvish lords (battleaxe) (artifact) (attunement) | – | 4 lb | DMG 221 |
+| Miscellaneous | Baba Yaga's mortar and pestle (artifact) (attunement) | – | 1 lb | TCoE 121 |
+| Miscellaneous | Bag of devouring | – | 15 lb | DMG 153 |
+| Miscellaneous | Bag of tricks | – | ½ lb | DMG 154 |
+| Tattoo | Barrier tattoo, rare (attunement) | – | – | TCoE 122 |
+| Tattoo | Barrier tattoo, very rare (attunement) | – | – | TCoE 122 |
+| Belt | Belt of cloud giant strength (attunement) | – | 1 lb | DMG 155 |
+| Belt | Belt of fire giant strength (attunement) | – | 1 lb | DMG 155 |
+| Belt | Belt of frost giant strength (attunement) | – | 1 lb | DMG 155 |
+| Belt | Belt of hill giant strength (attunement) | – | 1 lb | DMG 155 |
+| Belt | Belt of stone giant strength (attunement) | – | 1 lb | DMG 155 |
+| Belt | Belt of storm giant strength (attunement) | – | 1 lb | DMG 155 |
+| Weapon | Berserker axe (any axe) (attunement) | – | (varies) | DMG 155 |
+| Miscellaneous | Book of exalted deeds (artifact) (attunement good-aligned) | – | 5 lb | DMG 222 |
+| Miscellaneous | Book of vile darkness (artifact) (attunement) | – | 5 lb | DMG 222 |
+| Miscellaneous | Broom of flying | – | 3 lb | DMG 156 |
+| Miscellaneous | Carpet of flying | – | 20 lb | DMG 157 |
+| Coat | Cloak of invisibility (attunement) | – | 1 lb | DMG 158 |
+| Miscellaneous | Crook of Rao (artifact) (attunement) | – | 2 lb | TCoE 123 |
+| Miscellaneous | Crystal ball (attunement) | – | 3 lb | DMG 159 |
+| Miscellaneous | Crystal ball of mind reading (attunement) | – | 3 lb | DMG 159 |
+| Miscellaneous | Crystal ball of telepathy (attunement) | – | 3 lb | DMG 159 |
+| Miscellaneous | Crystal ball of true seeing (attunement) | – | 3 lb | DMG 159 |
+| Miscellaneous | Cubic gate | – | 1 lb | DMG 160 |
+| Miscellaneous | Daern's instant fortress | – | – | DMG 160 |
+| Armor, Heavy | Demon plate armor (attunement) | – | 65 lb | DMG 165 |
+| Miscellaneous | Demonomicon of Iggwilv (artifact) (attunement) | – | 5 lb | TCoE 125 |
+| Armor, Medium | Efreeti chain mail armor (attunement) | – | 55 lb | DMG 167 |
+| Arcane focus | Elemental essence shard of air (attunement sorcerer) | – | 1 lb | TCoE 127 |
+| Armor, Medium | Elven chain shirt armor | – | 20 lb | DMG 168 |
+| Miscellaneous | Eye and hand of Vecna (artifact) (attunement) | – | 1 lb | DMG 224 |
+| Summoning item | Figurine of wondrous power, bronze griffon | – | 1 lb | DMG 169 |
+| Summoning item | Figurine of wondrous power, ebony fly | – | 1 lb | DMG 169 |
+| Summoning item | Figurine of wondrous power, serpentine owl | – | 1 lb | DMG 170 |
+| Gloves | Gauntlets of ogre power (attunement) | – | – | DMG 171 |
+| Headwear | Headband of intellect (attunement) | – | – | DMG 173 |
+| Headwear | Helm of brilliance (attunement) | – | 1 lb | DMG 173 |
+| Headwear | Helm of teleportation (attunement) | – | 1 lb | DMG 174 |
+| Miscellaneous | Ioun stone of regeneration (attunement) | – | – | DMG 176 |
+| Miscellaneous | Iron flask | – | 1 lb | DMG 178 |
+| Miscellaneous | Luba's tarokka of souls (artifact) (attunement) | – | – | TCoE 129 |
+| Weapon | Luck blade (any sword) (attunement) | – | (varies) | DMG 179 |
+| Miscellaneous | Manual of bodily health | – | 5 lb | DMG 180 |
+| Miscellaneous | Manual of gainful exercise | – | 5 lb | DMG 180 |
+| Miscellaneous | Manual of quickness of action | – | 5 lb | DMG 181 |
+| Miscellaneous | Mighty servant of Leuk-o (artifact) (attunement) | – | 1,000 lb | TCoE 131 |
+| Miscellaneous | Orb of dragonkind (artifact) (attunement) | – | 3 lb | DMG 225 |
+| Armor, Heavy | Plate armor of vulnerability (attunement) | – | 65 lb | DMG 152 |
+| Jewelry | Ring of air elemental command (attunement) | – | – | DMG 190 |
+| Jewelry | Ring of djinni summoning (attunement) | – | – | DMG 190 |
+| Jewelry | Ring of earth elemental command (attunement) | – | – | DMG 190 |
+| Jewelry | Ring of regeneration (attunement) | – | – | DMG 191 |
+| Jewelry | Ring of telekinesis (attunement) | – | – | DMG 193 |
+| Jewelry | Ring of three wishes | – | – | DMG 193 |
+| Clothes | Robe of the archmagi (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 194 |
+| Clothes | Robe of useful items | – | 4 lb | DMG 195 |
+| Arcane focus | Rod of resurrection (attunement cleric/druid/paladin) | – | 2 lb | DMG 197 |
+| Arcane focus | Rod of security | – | 2 lb | DMG 197 |
+| Shield | Shield of missile attraction (attunement) | – | 6 lb | DMG 200 |
+| Miscellaneous | Sphere of annihilation | – | – | DMG 201 |
+| Arcane focus | Staff of power (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 202 |
+| Arcane focus | Staff of the magi (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 203 |
+| Weapon | Sword of Kas (longsword) (artifact) (attunement) | – | 3 lb | DMG 226 |
+| Weapon | Sword of vengeance (any sword) (attunement) | – | (varies) | DMG 206 |
+| Miscellaneous | Talisman of the sphere (attunement) | – | – | DMG 207 |
+| Miscellaneous | Teeth of Dahlver-Nar (artifact) (attunement) | – | – | TCoE 135 |
+| Miscellaneous | Tome of clear thought | – | 5 lb | DMG 208 |
+| Miscellaneous | Tome of leadership and influence | – | 5 lb | DMG 208 |
+| Miscellaneous | Tome of the stilled tongue (attunement wizard) | – | 5 lb | DMG 208 |
+| Miscellaneous | Tome of understanding | – | 5 lb | DMG 209 |
+| Arcane focus | Wand of Orcus (artifact) (attunement) | – | 1 lb | DMG 227 |
+| Arcane focus | Wand of wonder (attunement spellcaster) | – | 1 lb | DMG 212 |
+| Miscellaneous | Well of many worlds | – | – | DMG 213 |
+| Footwear | Winged boots (attunement) | – | 1 lb | DMG 214 |
+| Coat | Wings of flying (attunement) | – | 1 lb | DMG 214 |
 
 [^ Back to Top](#permanent-magic-items)
