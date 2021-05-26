@@ -39,7 +39,7 @@ The following table lists the contents of treasure hoards. Each treasure hoard t
 |   CR ⅛    |    320 sp | –                             | –                                 | –                                 |
 |   CR ¼    |    640 sp | –                             | –                                 | –                                 |
 |   CR ½    |    130 gp | –                             | –                                 | –                                 |
-|   CR 1    |    180 gp | 3d4 (7) × 10 gp gems          | 2 × 70 gp consumable magic items  | 1 × 50 pp permanent magic item    |
+|   CR 1    |    180 gp | 3d4 (7) × 10 gp gems          | 2 × 7 pp consumable magic items   | 1 × 50 pp permanent magic item    |
 |   CR 2    |    340 gp | 5d6 (17) × 10 gp gems         | 2 × 14 pp consumable magic items  | 1 × 100 pp permanent magic item   |
 |   CR 3    |    460 gp | 5d4 (12) × 25 gp art objects  | 3 × 22 pp consumable magic items  | 1 × 160 pp permanent magic item   |
 |   CR 4    |    680 gp | 5d6 (17) × 25 gp art objects  | 3 × 31 pp consumable magic items  | 1 × 220 pp permanent magic item   |
