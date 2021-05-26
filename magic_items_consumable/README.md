@@ -1,7 +1,8 @@
 # Consumable Magic Items
 * [Ammunition](#ammunition)
-* [Spell Scrolls](#spell-scrolls)
 * [Potions](#potions)
+* [Spell Scrolls](#spell-scrolls)
+* [Tattoos](#tattoos)
 * [Miscellaneous Consumable Magic Items](#miscellaneous-consumable-magic-items)
 
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold.
@@ -35,22 +36,6 @@ Abbreviations:
 | Sling bullet, +3 (each) | 40 pp | 1½/20 lb | DMG 150 |
 | Arrow of slaying (each) | 60 pp | 1/20 lb | DMG 152 |
 | Crossbow bolt of slaying (each) | 60 pp | 1½/20 lb | DMG 152 |
-
-[^ Back to Top](#consumable-magic-items)
-
-## Spell Scrolls
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
-| Spell scroll, cantrip | 30 gp | 1 lb | DMG 200 |
-| Spell scroll, 1st level | 50 gp | 1 lb | DMG 200 |
-| Spell scroll, 2nd level | 50 pp | 1 lb | DMG 200 |
-| Spell scroll, 3rd level | 100 pp | 1 lb | DMG 200 |
-| Spell scroll, 4th level | 500 pp | 1 lb | DMG 200 |
-| Spell scroll, 5th level | 1,000 pp | 1 lb | DMG 200 |
-| Spell scroll, 6th level | 3,000 pp | 1 lb | DMG 200 |
-| Spell scroll, 7th level | 5,000 pp | 1 lb | DMG 200 |
-| Spell scroll, 8th level | 10,000 pp | 1 lb | DMG 200 |
-| Spell scroll, 9th level | 50,000 pp | 1 lb | DMG 200 |
 
 [^ Back to Top](#consumable-magic-items)
 
@@ -90,6 +75,34 @@ Abbreviations:
 | Potion of longevity | – | ½ lb | DMG 188 |
 | Potion of stone giant strength | – | ½ lb | DMG 187 |
 | Potion of storm giant strength | – | ½ lb | DMG 187 |
+
+[^ Back to Top](#consumable-magic-items)
+
+## Spell Scrolls
+| Magic Item | Price | Weight | Source |
+| :--------- | ----: | -----: | -----: |
+| Spell scroll, cantrip | 30 gp | 1 lb | DMG 200 |
+| Spell scroll, 1st level | 50 gp | 1 lb | DMG 200 |
+| Spell scroll, 2nd level | 50 pp | 1 lb | DMG 200 |
+| Spell scroll, 3rd level | 100 pp | 1 lb | DMG 200 |
+| Spell scroll, 4th level | 500 pp | 1 lb | DMG 200 |
+| Spell scroll, 5th level | 1,000 pp | 1 lb | DMG 200 |
+| Spell scroll, 6th level | 3,000 pp | 1 lb | DMG 200 |
+| Spell scroll, 7th level | 5,000 pp | 1 lb | DMG 200 |
+| Spell scroll, 8th level | 10,000 pp | 1 lb | DMG 200 |
+| Spell scroll, 9th level | 50,000 pp | 1 lb | DMG 200 |
+
+[^ Back to Top](#consumable-magic-items)
+
+## Tattoos
+| Magic Item | Price | Weight | Source |
+| :--------- | ----: | -----: | -----: |
+| Spellwrought tattoo, cantrip | 50 gp | – | TCoE 135 |
+| Spellwrought tattoo, 1st level | 80 gp | – | TCoE 135 |
+| Spellwrought tattoo, 2nd level | 75 pp | – | TCoE 135 |
+| Spellwrought tattoo, 3rd level | 150 pp | – | TCoE 135 |
+| Spellwrought tattoo, 4th level | 750 pp | – | TCoE 135 |
+| Spellwrought tattoo, 5th level | 1,500 pp | – | TCoE 135 |
 
 [^ Back to Top](#consumable-magic-items)
 

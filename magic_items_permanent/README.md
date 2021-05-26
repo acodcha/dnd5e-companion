@@ -273,22 +273,16 @@ Abbreviations:
 ## Tattoos
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Spellwrought tattoo, cantrip | 50 gp | – | TCoE 135 |
-| Spellwrought tattoo, 1st level | 80 gp | – | TCoE 135 |
-| Spellwrought tattoo, 2nd level | 75 pp | – | TCoE 135 |
 | Illuminator's tattoo (attunement) | 100 pp | – | TCoE 129 |
-| Spellwrought tattoo, 3rd level | 150 pp | – | TCoE 135 |
 | Coiling grasp tattoo (attunement) | 200 pp | – | TCoE 123 |
 | Eldritch claw tattoo (attunement) | 300 pp | – | TCoE 126 |
 | Ghost step tattoo (attunement) | 400 pp | – | TCoE 128 |
 | Masquerade tattoo (attunement) | 600 pp | – | TCoE 131 |
-| Spellwrought tattoo, 4th level | 750 pp | – | TCoE 135 |
 | Shadowfell brand tattoo (attunement) | 800 pp | – | TCoE 134 |
 | Absorbing tattoo (attunement) | 900 pp | – | TCoE 119 |
 | Barrier tattoo, uncommon (attunement) | 900 pp | – | TCoE 122 |
 | Lifewell tattoo (attunement) | 900 pp | – | TCoE 129 |
 | Blood fury tattoo (attunement) | 1,000 pp | – | TCoE 122 |
-| Spellwrought tattoo, 5th level | 1,500 pp | – | TCoE 135 |
 | Barrier tattoo, rare (attunement) | – | – | TCoE 122 |
 | Barrier tattoo, very rare (attunement) | – | – | TCoE 122 |
 
