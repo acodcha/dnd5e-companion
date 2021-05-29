@@ -2,6 +2,10 @@
 * [Individual Monster Treasure](#individual-monster-treasure)
 * [Treasure Hoards](#treasure-hoards)
 * [Quest Rewards](#quest-rewards)
+* [Gemstones](#gemstones)
+  * [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [10 pp Gemstones](#gemstones-10-pp), [50 pp Gemstones](#gemstones-50-pp), [100 pp Gemstones](#gemstones-100-pp), [500 pp Gemstones](#gemstones-500-pp)
+* [Art Objects](#art-objects)
+  * [25 gp Art Objects](#art-objects-25-gp), [25 pp Art Objects](#art-objects-25-pp), [75 pp Art Objects](#art-objects-75-pp), [250 pp Art Objects](#art-objects-250-pp), [750 pp Art Objects](#art-objects-750-pp)
 
 [< Back to Main Page](../README.md)
 
@@ -96,3 +100,188 @@ The following table lists total experience and total coinage awarded to the adve
 |   CR 13   |  20,000 XP |  320 pp |       |   CR 30   | 310,000 XP | 6,500 pp |
 
 [^ Back to Top](#rewards-and-treasure)
+
+## Gemstones
+* [10 gp Gemstones](#gemstones-10-gp)
+* [50 gp Gemstones](#gemstones-50-gp)
+* [10 pp Gemstones](#gemstones-10-pp)
+* [50 pp Gemstones](#gemstones-50-pp)
+* [100 pp Gemstones](#gemstones-100-pp)
+* [500 pp Gemstones](#gemstones-500-pp)
+
+[^ Back to Top](#rewards-and-treasure)
+
+### Gemstones: 10 gp
+| d12   | Gemstone | Appearance |
+| :---: | :------- | :--------- |
+| 1 | Azurite | Opaque mottled deep blue |
+| 2 | Banded agate | Translucent striped brown, blue, white, or red |
+| 3 | Blue quartz | Transparent pale blue |
+| 4 | Eye agate | Translucent circles of gray, white, brown, blue, or green |
+| 5 | Hematite | Opaque gray-black |
+| 6 | Lapis lazuli | Opaque light and dark blue with yellow flecks |
+| 7 | Malachite | Opaque striated light and dark green |
+| 8 | Moss agate | Translucent pink or yellow-white with mossy gray or green markings |
+| 9 | Obsidian | Opaque black |
+| 10 | Rhodochrosite | Opaque light pink |
+| 11 | Tiger eye | Translucent brown with golden center |
+| 12 | Turquoise | Opaque light blue-green |
+
+[^ Back to Gemstones](#gemstones)
+
+### Gemstones: 50 gp
+| d12   | Gemstone | Appearance |
+| :---: | :------- | :--------- |
+| 1 | Bloodstone | Opaque dark gray with red flecks |
+| 2 | Carnelian | Opaque orange to red-brown |
+| 3 | Chalcedony | Opaque white |
+| 4 | Chrysoprase | Translucent green |
+| 5 | Citrine | Transparent pale yellow-brown |
+| 6 | Jasper | Opaque blue, black, or brown |
+| 7 | Moonstone | Translucent white with pale blue glow |
+| 8 | Onyx | Opaque bands of black and white, or pure black or white |
+| 9 | Quartz | Transparent white, smoky gray, or yellow |
+| 10 | Sardonyx | Opaque bands of red and white |
+| 11 | Star rose quartz | Translucent rosy stone with white star-shaped center |
+| 12 | Zircon | Transparent pale blue-green |
+
+[^ Back to Gemstones](#gemstones)
+
+### Gemstones: 10 pp
+| d10   | Gemstone | Appearance |
+| :---: | :------- | :--------- |
+| 1 | Amber | Transparent watery gold to rich gold |
+| 2 | Amethyst | Transparent deep purple |
+| 3 | Chrysoberyl | Transparent yellow-green to pale green |
+| 4 | Coral | Opaque crimson |
+| 5 | Garnet | Transparent red, brown-green, or violet |
+| 6 | Jade | Translucent light green, deep green, or white |
+| 7 | Jet | Opaque deep black |
+| 8 | Pearl | Opaque lustrous white, yellow, or pink |
+| 9 | Spinel | Transparent red, red-brown, or deep green |
+| 10 | Tourmaline | Transparent pale green, blue, brown, or red |
+
+[^ Back to Gemstones](#gemstones)
+
+### Gemstones: 50 pp
+| d6    | Gemstone | Appearance |
+| :---: | :------- | :--------- |
+| 1 | Alexandrite | Transparent dark green |
+| 2 | Aquamarine | Transparent pale blue-green |
+| 3 | Black pearl | Opaque pure black |
+| 4 | Blue spinel | Transparent deep blue |
+| 5 | Peridot | Transparent rich olive green |
+| 6 | Topaz | Transparent golden yellow |
+
+[^ Back to Gemstones](#gemstones)
+
+### Gemstones: 100 pp
+| d8    | Gemstone | Appearance |
+| :---: | :------- | :--------- |
+| 1 | Black opal | Translucent dark green with black mottling and golden flecks |
+| 2 | Blue sapphire | Transparent blue-white to medium blue |
+| 3 | Emerald | Transparent deep bright green |
+| 4 | Fire opal | Transparent fiery red |
+| 5 | Opal | Translucent pale blue with green and golden mottling |
+| 6 | Star ruby | Translucent ruby with white star-shaped center |
+| 7 | Star sapphire | Translucent blue sapphire with white star-shaped center |
+| 8 | Yellow sapphire | Transparent fiery yellow or yellow­ green |
+
+[^ Back to Gemstones](#gemstones)
+
+### Gemstones: 500 pp
+| d4    | Gemstone | Appearance |
+| :---: | :------- | :--------- |
+| 1 | Black sapphire | Translucent lustrous black with glowing highlights |
+| 2 | Diamond | Transparent blue-white, canary, pink, brown, or blue |
+| 3 | Jacinth | Transparent fiery orange |
+| 4 | Ruby | Transparent clear red to deep crimson |
+
+[^ Back to Gemstones](#gemstones)
+
+## Art Objects
+* [25 gp Art Objects](#art-objects-25-gp)
+* [25 pp Art Objects](#art-objects-25-pp)
+* [75 pp Art Objects](#art-objects-75-pp)
+* [250 pp Art Objects](#art-objects-250-pp)
+* [750 pp Art Objects](#art-objects-750-pp)
+
+[^ Back to Top](#rewards-and-treasure)
+
+## Art Objects: 25 gp
+| d10   | Art Object |
+| :---: | :--------- |
+| 1 | Silver ewer |
+| 2 | Carved bone statuette |
+| 3 | Small gold bracelet |
+| 4 | Cloth-of-gold vestments |
+| 5 | Black velvet mask stitched with silver thread |
+| 6 | Copper chalice with silver filigree |
+| 7 | Pair of engraved bone dice |
+| 8 | Small mirror set in a painted wooden frame |
+| 9 | Embroidered silk handkerchief |
+| 10 | Gold locket with a painted portrait inside |
+
+[^ Back to Art Objects](#art-objects)
+
+## Art Objects: 25 pp
+| d10   | Art Object |
+| :---: | :--------- |
+| 1 | Gold ring set with bloodstones |
+| 2 | Carved ivory statuette |
+| 3 | Large gold bracelet |
+| 4 | Silver necklace with a gemstone pendant |
+| 5 | Bronze crown |
+| 6 | Silk robe with gold embroidery |
+| 7 | Large well-made tapestry |
+| 8 | Brass mug with jade inlay |
+| 9 | Box of turquoise animal figurines |
+| 10 | Gold bird cage with electrum filigree |
+
+[^ Back to Art Objects](#art-objects)
+
+## Art Objects: 75 pp
+| d10   | Art Object |
+| :---: | :--------- |
+| 1 | Silver chalice set with moonstones |
+| 2 | Silver-plated steel longsword with jet set in hilt |
+| 3 | Carved harp of exotic wood with ivory inlay and zircon gems |
+| 4 | Small gold idol |
+| 5 | Gold dragon comb set with red garnets as eyes |
+| 6 | Bottle stopper cork embossed with gold leaf and set with amethysts |
+| 7 | Ceremonial electrum dagger with a black pearl in the pommel |
+| 8 | Silver and gold brooch |
+| 9 | Obsidian statuette with gold fittings and inlay |
+| 10 | Painted gold war mask |
+
+[^ Back to Art Objects](#art-objects)
+
+## Art Objects: 250 pp
+| d10   | Art Object |
+| :---: | :--------- |
+| 1 | Fine gold chain set with a fire opal |
+| 2 | Old masterpiece painting |
+| 3 | Embroidered silk and velvet mantle set with numerous moonstones |
+| 4 | Platinum bracelet set with a sapphire |
+| 5 | Embroidered glove set with jewel chips |
+| 6 | Jeweled anklet |
+| 7 | Gold music box |
+| 8 | Gold circlet set with four aquamarines |
+| 9 | Eye patch with a mock eye set in blue sapphire and moonstone |
+| 10 | A necklace string of small pink pearls |
+
+[^ Back to Art Objects](#art-objects)
+
+## Art Objects: 750 pp
+| d8    | Art Object |
+| :---: | :--------- |
+| 1 | Jeweled gold crown |
+| 2 | Jeweled platinum ring |
+| 3 | Small gold statuette set with rubies |
+| 4 | Gold cup set with emeralds |
+| 5 | Gold jewelry box with platinum filigree |
+| 6 | Painted gold child's sarcophagus |
+| 7 | Jade game board with solid gold playing pieces |
+| 8 | Bejeweled ivory drinking horn with gold filigree |
+
+[^ Back to Art Objects](#art-objects)
