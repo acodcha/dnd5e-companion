@@ -33,8 +33,8 @@ Abbreviations:
 [^ Back to Top](#monsters)
 
 ### Beasts: Land Beasts
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Badger | Tiny | Beast | Unaligned | 10 XP | – | MM 318 |
 | CR 0 | Beetle, fire, giant | Small | Beast | Unaligned | 10 XP | – | MM 325 |
 | CR 0 | Deer | Med. | Beast | Unaligned | 10 XP | – | MM 321 |
@@ -94,8 +94,8 @@ Abbreviations:
 [^ Back to Beasts](#beasts)
 
 ### Beasts: Climbing Beasts
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Baboon | Small | Beast | Unaligned | 10 XP | – | MM 318 |
 | CR 0 | Cat | Tiny | Beast | Unaligned | 10 XP | – | MM 320 |
 | CR 0 | Lizard | Tiny | Beast | Unaligned | 10 XP | – | MM 332 |
@@ -115,8 +115,8 @@ Abbreviations:
 [^ Back to Beasts](#beasts)
 
 ### Beasts: Swimming Beasts
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Crab | Tiny | Beast | Unaligned | 10 XP | – | MM 320 |
 | CR 0 | Frog | Tiny | Beast | Unaligned | 0 XP | – | MM 322 |
 | CR 0 | Octopus | Small | Beast | Unaligned | 10 XP | – | MM 333 |
@@ -147,8 +147,8 @@ Abbreviations:
 [^ Back to Beasts](#beasts)
 
 ### Beasts: Flying Beasts
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Bat | Tiny | Beast | Unaligned | 10 XP | – | MM 318 |
 | CR 0 | Eagle | Small | Beast | Unaligned | 10 XP | – | MM 322 |
 | CR 0 | Hawk | Tiny | Beast | Unaligned | 10 XP | – | MM 330 |
@@ -181,8 +181,8 @@ Abbreviations:
 [^ Back to Top](#monsters)
 
 ## Beastlike Monsters: Beastlike Land Monsters
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Fungus, shrieker | Med. | Plant | Unaligned | 10 XP | – | MM 138 |
 | CR ⅛ | Blight, twig | Small | Plant | Neutral evil | 25 XP | – | MM 32 |
 | CR ¼ | Blight, needle | Med. | Plant | Neutral evil | 50 XP | – | MM 32 |
@@ -208,8 +208,8 @@ Abbreviations:
 [^ Back to Beastlike Monsters](#beastlike-monsters)
 
 ## Beastlike Monsters: Beastlike Climbing Monsters
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Roper piercer | Med. | Monstr. | Unaligned | 100 XP | – | MM 252 |
 | CR 2 | Carrion crawler | Large | Monstr. | Unaligned | 450 XP | – | MM 37 |
 | CR 2 | Grick | Med. | Monstr. | True neutral | 450 XP | – | MM 173 |
@@ -223,8 +223,8 @@ Abbreviations:
 [^ Back to Beastlike Monsters](#beastlike-monsters)
 
 ## Beastlike Monsters: Beastlike Burrowing Monsters
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Ankheg | Large | Monstr. | Unaligned | 450 XP | – | MM 21 |
 | CR 5 | Bulette | Large | Monstr. | Unaligned | 1,800 XP | – | MM 34 |
 | CR 5 | Remorhaz, young | Large | Monstr. | Unaligned | 1,800 XP | – | MM 258 |
@@ -234,8 +234,8 @@ Abbreviations:
 [^ Back to Beastlike Monsters](#beastlike-monsters)
 
 ## Beastlike Monsters: Beastlike Swimming Monsters
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Shambling mound | Large | Plant | Unaligned | 1,800 XP | 27 gp | MM 270 |
 | CR 8 | Hydra | Huge | Monstr. | Unaligned | 3,900 XP | – | MM 190 |
 | CR 10 | Froghemoth | Huge | Monstr. | Unaligned | 5,900 XP | – | VGtM 145 |
@@ -243,8 +243,8 @@ Abbreviations:
 [^ Back to Beastlike Monsters](#beastlike-monsters)
 
 ## Beastlike Monsters: Beastlike Flying Monsters
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Pseudodragon | Tiny | Dragon | Neutral good | 50 XP | – | MM 254 |
 | CR ½ | Cockatrice | Small | Monstr. | Unaligned | 100 XP | – | MM 42 |
 | CR ½ | Darkmantle | Small | Monstr. | Unaligned | 100 XP | – | MM 46 |
@@ -266,8 +266,8 @@ Abbreviations:
 [^ Back to Top](#monsters)
 
 ### Common Humanoids: Humans
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Human commoner | Med. | Human. | Any | 10 XP | 20 cp | MM 344 |
 | CR ⅛ | Human bandit | Med. | Human. | Any non-lawful | 25 XP | 50 cp | MM 343 |
 | CR ⅛ | Human cultist | Med. | Human. | Any non-good | 25 XP | 50 cp | MM 345 |
@@ -323,8 +323,8 @@ Elves use the same stat blocks as humans, with the following changes:
 * Trance: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
 * Weapons: Elves favor swords and bows over other weapons.
 
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Elf commoner | Med. | Human. | Any | 10 XP | 20 cp | MM 344 |
 | CR ⅛ | Elf bandit | Med. | Human. | Any non-lawful | 25 XP | 50 cp | MM 343 |
 | CR ⅛ | Elf cultist | Med. | Human. | Any non-good | 25 XP | 50 cp | MM 345 |
@@ -381,8 +381,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 * Stonecunning: Whenever dwarves make an Intelligence (History) check related to the origin of stonework, they are considered to have expertise in the skill, adding double their proficiency bonus to the check.
 * Weapons: Dwarves favor hammers, axes, and crossbows over other weapons.
 
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Dwarf commoner | Med. | Human. | Any | 10 XP | 20 cp | MM 344 |
 | CR ⅛ | Dwarf bandit | Med. | Human. | Any non-lawful | 25 XP | 50 cp | MM 343 |
 | CR ⅛ | Dwarf cultist | Med. | Human. | Any non-good | 25 XP | 50 cp | MM 345 |
@@ -448,8 +448,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Land Humanoids: Kobolds
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Kobold | Small | Human. | Lawful evil | 25 XP | 50 cp | MM 195 |
 | CR ¼ | Kobold inventor | Small | Human. | Lawful evil | 50 XP | 10 sp | VGtM 166 |
 | CR ¼ | Kobold, winged | Small | Human. | Lawful evil | 50 XP | 10 sp | MM 195 |
@@ -459,8 +459,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Firenewts
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Firenewt warrior | Med. | Human. | Neutral evil | 100 XP | 20 sp | VGtM 142 |
 | CR 1 | Firenewt warlock of Imix (spellcaster) | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 143 |
 | CR 1 | Strider, giant | Large | Monstr. | Neutral evil | 200 XP | – | VGtM 143 |
@@ -468,8 +468,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Goblins
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Goblin | Small | Human. | Neutral evil | 50 XP | 10 sp | MM 166 |
 | CR 1 | Goblin boss | Small | Human. | Neutral evil | 200 XP | 40 sp | MM 166 |
 | CR 1 | Goblin nilbog (spellcaster) | Small | Human. | Chaotic evil | 200 XP | 40 sp | VGtM 182 |
@@ -478,16 +478,16 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Bugbears
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 1 | Bugbear | Med. | Human. | Chaotic evil | 200 XP | 40 sp | MM 33 |
 | CR 3 | Bugbear chief | Med. | Human. | Chaotic evil | 700 XP | 12 gp | MM 33 |
 
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Hobgoblins
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Hobgoblin | Med. | Human. | Lawful evil | 100 XP | 20 sp | MM 186 |
 | CR 2 | Hobgoblin iron shadow (spellcaster) | Med. | Human. | Lawful evil | 450 XP | 80 sp | VGtM 162 |
 | CR 3 | Hobgoblin captain | Med. | Human. | Lawful evil | 700 XP | 12 gp | MM 186 |
@@ -497,8 +497,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Orcs
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Orc | Med. | Human. | Chaotic evil | 100 XP | 20 sp | MM 246 |
 | CR ½ | Orc nurtured one of Yurtrus | Med. | Human. | Chaotic evil | 100 XP | – | VGtM 184 |
 | CR 2 | Orc claw of Luthic (spellcaster) | Med. | Human. | Chaotic evil | 450 XP | 80 sp | VGtM 183 |
@@ -513,8 +513,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Gnolls
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Gnoll witherling | Med. | Undead | Chaotic evil | 50 XP | – | VGtM 155 |
 | CR ½ | Gnoll | Med. | Human. | Chaotic evil | 100 XP | 20 sp | MM 163 |
 | CR ½ | Gnoll hunter | Med. | Human. | Chaotic evil | 100 XP | 20 sp | VGtM 154 |
@@ -526,8 +526,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Lycanthropes
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Lycanthrope wererat (shapechanger) | Med. | Human. | Lawful evil | 450 XP | 80 sp | MM 209 |
 | CR 3 | Lycanthrope werewolf (shapechanger) | Med. | Human. | Chaotic evil | 700 XP | 12 gp | MM 211 |
 | CR 4 | Lycanthrope wereboar (shapechanger) | Med. | Human. | Neutral evil | 1,100 XP | 18 gp | MM 209 |
@@ -537,8 +537,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Half-Dragons
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Half-dragon, black, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
 | CR 5 | Half-dragon, blue, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
 | CR 5 | Half-dragon, green, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
@@ -548,8 +548,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Shadar-kai
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 7 | Shadar-kai shadow dancer | Med. | Human. | True neutral | 2,900 XP | 61 gp | MToF 225 |
 | CR 9 | Shadar-kai gloom weaver (spellcaster) | Med. | Human. | True neutral | 5,000 XP | 14 pp | MToF 224 |
 | CR 11 | Shadar-kai soul monger (spellcaster) | Med. | Human. | True neutral | 7,200 XP | 30 pp | MToF 226 |
@@ -557,8 +557,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Githyanki
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 3 | Githyanki warrior (spellcaster) | Med. | Human. | Lawful evil | 700 XP | 12 gp | MM 160 |
 | CR 8 | Githyanki knight (spellcaster) | Med. | Human. | Lawful evil | 3,900 XP | 91 gp | MM 160 |
 | CR 10 | Githyanki gish (spellcaster) | Med. | Human. | Lawful evil | 5,900 XP | 20 pp | MToF 205 |
@@ -568,8 +568,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Githzerai
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Githzerai monk (spellcaster) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MM 161 |
 | CR 6 | Githzerai zerth (spellcaster) | Med. | Human. | Lawful neutral | 2,300 XP | 41 gp | MM 161 |
 | CR 10 | Githzerai enlightened (spellcaster) | Med. | Human. | Lawful neutral | 5,900 XP | 20 pp | MToF 208 |
@@ -578,8 +578,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Miscellaneous Land Humanoids
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Xvart | Small | Human. | Chaotic evil | 25 XP | 50 cp | VGtM 200 |
 | CR ¼ | Kenku | Med. | Human. | Chaotic neutral | 50 XP | 10 sp | MM 194 |
 | CR ¼ | Tortle | Med. | Human. | Lawful good | 50 XP | 10 sp | MToF 242 |
@@ -606,8 +606,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Aquatic Humanoids: Grungs
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Grung | Small | Human. | Lawful evil | 50 XP | 10 sp | VGtM 156 |
 | CR 1 | Grung wildling (spellcaster) | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 157 |
 | CR 2 | Grung elite warrior | Small | Human. | Lawful evil | 450 XP | 80 sp | VGtM 157 |
@@ -615,8 +615,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
 
 ### Aquatic Humanoids: Kuo-toa
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Kuo-toa | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 199 |
 | CR 1 | Kuo-toa whip (spellcaster) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 200 |
 | CR 3 | Kuo-toa monitor | Med. | Human. | Neutral evil | 700 XP | 12 gp | MM 198 |
@@ -625,8 +625,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
 
 ### Aquatic Humanoids: Lizardfolk
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Lizardfolk | Med. | Human. | True neutral | 100 XP | 20 sp | MM 204 |
 | CR 2 | Lizardfolk shaman (spellcaster) (shapechanger) | Med. | Human. | True neutral | 450 XP | 80 sp | MM 205 |
 | CR 4 | Lizardfolk king/queen | Med. | Human. | Chaotic evil | 1,100 XP | 18 gp | MM 205 |
@@ -634,8 +634,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
 
 ### Aquatic Humanoids: Sahuagin
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Sahuagin | Med. | Human. | Lawful evil | 100 XP | 20 sp | MM 263 |
 | CR 2 | Sahuagin priestess (spellcaster) | Med. | Human. | Lawful evil | 450 XP | 80 sp | MM 264 |
 | CR 5 | Sahuagin baron | Large | Human. | Lawful evil | 1,800 XP | 27 gp | MM 264 |
@@ -643,8 +643,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
 
 ### Aquatic Humanoids: Miscellaneous Aquatic Humanoids
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Merfolk | Med. | Human. | True neutral | 25 XP | 50 cp | MM 218 |
 | CR ¼ | Bullywug | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 35 |
 | CR 1 | Sea spawn | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 189 |
@@ -661,8 +661,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Underdark Humanoids: Duergar
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Steeder, male | Med. | Monstr. | Unaligned | 50 XP | – | MToF 238 |
 | CR 1 | Duergar | Med. | Human. | Lawful evil | 200 XP | 40 sp | MM 122 |
 | CR 1 | Duergar soulblade (spellcaster) | Med. | Human. | Lawful evil | 200 XP | 40 sp | MToF 190 |
@@ -679,8 +679,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Underdark Humanoids](#underdark-humanoids)
 
 ### Underdark Humanoids: Drow
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | Drow (spellcaster) | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 128 |
 | Drow elite warrior (spellcaster) | Med. | Human. | Neutral evil | 1,800 XP | 27 gp | MM 128 |
 | Drow drider (spellcaster) | Large | Monstr. | Chaotic evil | 2,300 XP | 41 gp | MM 120 |
@@ -697,8 +697,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Underdark Humanoids](#underdark-humanoids)
 
 ### Underdark Humanoids: Miscellaneous Underdark Humanoids
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | Derro | Small | Human. | Chaotic evil | 50 XP | 10 sp | MToF 158 |
 | Grimlock | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 175 |
 | Troglodyte | Med. | Human. | Chaotic evil | 50 XP | 10 sp | MM 290 |
@@ -718,8 +718,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Giants: Ogres
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 1 | Ogrillon half-ogre | Large | Giant | Any chaotic | 200 XP | 40 sp | MM 238 |
 | CR 2 | Ogre | Large | Giant | Chaotic evil | 450 XP | 80 sp | MM 237 |
 | CR 2 | Ogre bolt launcher | Large | Giant | Chaotic evil | 450 XP | 80 sp | MToF 220 |
@@ -730,8 +730,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Giants](#giants)
 
 ### Giants: Trolls
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Troll | Large | Giant | Chaotic evil | 1,800 XP | 27 gp | MM 291 |
 | CR 7 | Troll, venom | Large | Giant | Chaotic evil | 2,900 XP | 61 gp | MToF 245 |
 | CR 9 | Troll, rot | Large | Giant | Chaotic evil | 5,000 XP | 14 pp | MToF 244 |
@@ -741,8 +741,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Giants](#giants)
 
 ### Giants: Miscellaneous Giants
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 4 | Ettin | Large | Giant | Chaotic evil | 1,100 XP | 18 gp | MM 132 |
 | CR 6 | Cyclops | Huge | Giant | Chaotic neutral | 2,300 XP | 41 gp | MM 45 |
 | CR 7 | Oni (spellcaster) (shapechanger) | Large | Giant | Lawful evil | 2,900 XP | 61 gp | MM 239 |
@@ -751,8 +751,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Giants](#giants)
 
 ### Giants: Original Giants
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Giant, hill | Huge | Giant | Chaotic evil | 1,800 XP | 27 gp | MM 155 |
 | CR 6 | Giant, hill, mouth of Grolantor | Huge | Giant | Chaotic evil | 2,300 XP | 41 gp | VGtM 149 |
 | CR 7 | Giant, stone | Huge | Giant | True neutral | 2,900 XP | 61 gp | MM 156 |
@@ -781,8 +781,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Sentient Monsters: Myconids
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Myconid sprout | Small | Plant | Lawful neutral | 10 XP | 20 cp | MM 230 |
 | CR ½ | Myconid adult | Med. | Plant | Lawful neutral | 100 XP | 20 sp | MM 232 |
 | CR 1 | Myconid spore servant, quaggoth | Med. | Plant | Unaligned | 200 XP | – | MM 230 |
@@ -791,8 +791,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ### Sentient Monsters: Vegepygmies
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Vegepygmy | Small | Plant | True neutral | 50 XP | 10 sp | VGtM 196 |
 | CR 1 | Vegepygmy thorny | Med. | Plant | True neutral | 200 XP | – | VGtM 197 |
 | CR 2 | Vegepygmy chief | Small | Plant | True neutral | 450 XP | 80 sp | VGtM 197 |
@@ -800,8 +800,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ### Sentient Monsters: Kruthiks
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Kruthik, young | Small | Monstr. | Unaligned | 25 XP | – | MToF 211 |
 | CR 2 | Kruthik, adult | Med. | Monstr. | Unaligned | 450 XP | – | MToF 212 |
 | CR 5 | Kruthik hive lord | Large | Monstr. | Unaligned | 1,800 XP | – | MToF 212 |
@@ -809,8 +809,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ### Sentient Monsters: Yuan-ti
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 1 | Yuan-ti pureblood (spellcaster) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 310 |
 | CR 2 | Yuan-ti broodguard | Med. | Human. | Neutral evil | 450 XP | – | VGtM 203 |
 | CR 3 | Yuan-ti malison (spellcaster) (shapechanger) | Med. | Monstr. | Neutral evil | 700 XP | 12 gp | MM 309 |
@@ -823,8 +823,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ### Sentient Monsters: Nagas
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 4 | Naga, bone (spellcaster) | Large | Undead | Lawful evil | 1,100 XP | – | MM 233 |
 | CR 8 | Naga, spirit (spellcaster) | Large | Monstr. | Chaotic evil | 3,900 XP | – | MM 234 |
 | CR 10 | Naga, guardian (spellcaster) | Large | Monstr. | Lawful good | 5,900 XP | – | MM 234 |
@@ -832,8 +832,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ### Sentient Monsters: Sorrowsworn
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Sorrowsworn, wretched | Small | Monstr. | Neutral evil | 50 XP | – | MToF 233 |
 | CR 7 | Sorrowsworn, lost | Med. | Monstr. | Neutral evil | 2,900 XP | – | MToF 233 |
 | CR 9 | Sorrowsworn, lonely | Med. | Monstr. | Neutral evil | 5,000 XP | – | MToF 232 |
@@ -843,16 +843,16 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ### Sentient Monsters: Sphinxes
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 11 | Sphinx, gynosphinx (spellcaster) (legendary) (lair) | Large | Monstr. | Lawful neutral | 7,200 XP | 30 pp | MM 282 |
 | CR 17 | Sphinx, androsphinx (spellcaster) (legendary) (lair) | Large | Monstr. | Lawful neutral | 18,000 XP | 280 pp | MM 281 |
 
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ### Sentient Monsters: Miscellaneous Sentient Monsters
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Awakened plant, shrub | Small | Plant | Unaligned | 10 XP | – | MM 317 |
 | CR ½ | Chitine | Small | Monstr. | Chaotic evil | 100 XP | 20 sp | VGtM 131 |
 | CR ½ | Worg | Large | Monstr. | Neutral evil | 100 XP | – | MM 341 |
@@ -892,8 +892,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Undead: Undead Thralls
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Crawling claw | Tiny | Undead | Neutral evil | 10 XP | – | MM 44 |
 | CR ¼ | Skeleton | Med. | Undead | Lawful evil | 50 XP | 10 sp | MM 272 |
 | CR ¼ | Zombie | Med. | Undead | Neutral evil | 50 XP | 10 sp | MM 316 |
@@ -906,8 +906,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Undead](#undead)
 
 ### Undead: Spectral Undead
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Shadow | Med. | Undead | Chaotic evil | 100 XP | – | MM 269 |
 | CR 1 | Specter | Med. | Undead | Chaotic evil | 200 XP | – | MM 279 |
 | CR 2 | Specter, poltergeist | Med. | Undead | Chaotic evil | 450 XP | – | MM 279 |
@@ -922,8 +922,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Undead](#undead)
 
 ### Undead: Corporeal Undead
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 1 | Ghoul | Med. | Undead | Chaotic evil | 200 XP | – | MM 148 |
 | CR 2 | Ghoul, ghast | Med. | Undead | Chaotic evil | 450 XP | 80 sp | MM 148 |
 | CR 3 | Deathlock wight (spellcaster) | Med. | Undead | Neutral evil | 700 XP | – | MToF 129 |
@@ -958,8 +958,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Constructs: Animated Objects
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Animated sword, flying | Small | Constr. | Unaligned | 50 XP | – | MM 20 |
 | CR 1 | Animated armor | Med. | Constr. | Unaligned | 200 XP | – | MM 19 |
 | CR 2 | Animated rug of smothering | Large | Constr. | Unaligned | 450 XP | – | MM 20 |
@@ -967,8 +967,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Constructs](#constructs)
 
 ### Constructs: Instinctive Constructs
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 1 | Clockwork bronze scout | Med. | Constr. | Unaligned | 200 XP | – | MToF 125 |
 | CR 1 | Stone cursed | Med. | Constr. | Lawful evil | 200 XP | – | MToF 240 |
 | CR 4 | Clockwork iron cobra | Med. | Constr. | Unaligned | 1,100 XP | – | MToF 125 |
@@ -985,8 +985,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Constructs](#constructs)
 
 ### Constructs: Sentient Constructs
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Homunculus | Tiny | Constr. | True neutral | 10 XP | – | MM 188 |
 | CR 1 | Scarecrow | Med. | Constr. | Chaotic evil | 200 XP | – | MM 268 |
 | CR 4 | Helmed horror | Med. | Constr. | True neutral | 1,100 XP | – | MM 183 |
@@ -997,8 +997,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Constructs](#constructs)
 
 ### Constructs: Mechanus Constructs
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Modron monodrone | Med. | Constr. | Lawful neutral | 25 XP | – | MM 224 |
 | CR ¼ | Modron duodrone | Med. | Constr. | Lawful neutral | 50 XP | – | MM 225 |
 | CR ½ | Modron tridrone | Med. | Constr. | Lawful neutral | 100 XP | – | MM 225 |
@@ -1019,8 +1019,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Dragons: Faerie Dragons
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 1 | Dragon, faerie, red (spellcaster) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
 | CR 1 | Dragon, faerie, orange (spellcaster) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
 | CR 1 | Dragon, faerie, yellow (spellcaster) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
@@ -1032,8 +1032,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Dragons](#dragons)
 
 ### Dragons: Chromatic Dragons
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Dragon, chromatic, white, wyrmling (lair) | Med. | Dragon | Chaotic evil | 450 XP | – | MM 102 |
 | CR 2 | Dragon, chromatic, black, wyrmling (lair) | Med. | Dragon | Chaotic evil | 450 XP | – | MM 88 |
 | CR 2 | Dragon, chromatic, green, wyrmling (lair) | Med. | Dragon | Lawful evil | 450 XP | – | MM 95 |
@@ -1058,8 +1058,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Dragons](#dragons)
 
 ### Dragons: Metallic Dragons
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 1 | Dragon, metallic, brass, wyrmling (lair) | Med. | Dragon | Chaotic good | 200 XP | – | MM 106 |
 | CR 1 | Dragon, metallic, copper, wyrmling (lair) | Med. | Dragon | Chaotic good | 200 XP | – | MM 112 |
 | CR 2 | Dragon, metallic, bronze, wyrmling (lair) | Med. | Dragon | Lawful good | 450 XP | – | MM 109 |
@@ -1084,8 +1084,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Dragons](#dragons)
 
 ### Dragons: Dracoliches
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 14 | Dracolich, chromatic, white, adult (legendary) (lair) | Huge | Undead | Chaotic evil | 11,500 XP | – | MM 84 |
 | CR 15 | Dracolich, chromatic, black, adult (legendary) (lair) | Huge | Undead | Chaotic evil | 13,000 XP | – | MM 84 |
 | CR 16 | Dracolich, chromatic, green, adult (legendary) (lair) | Huge | Undead | Lawful evil | 15,000 XP | – | MM 84 |
@@ -1100,8 +1100,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Dragons](#dragons)
 
 ### Dragons: Shadow Chromatic Dragons
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Dragon, shadow, chromatic, white, wyrmling (lair) | Med. | Dragon | Chaotic evil | 1,800 XP | – | MM 85, 102 |
 | CR 5 | Dragon, shadow, chromatic, black, wyrmling (lair) | Med. | Dragon | Chaotic evil | 1,800 XP | – | MM 85, 88 |
 | CR 5 | Dragon, shadow, chromatic, green, wyrmling (lair) | Med. | Dragon | Lawful evil | 1,800 XP | – | MM 85, 95 |
@@ -1126,8 +1126,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Dragons](#dragons)
 
 ### Dragons: Shadow Metallic Dragons
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 4 | Dragon, shadow, metallic, brass, wyrmling (lair) | Med. | Dragon | Chaotic good | 1,100 XP | – | MM 85, 106 |
 | CR 4 | Dragon, shadow, metallic, copper, wyrmling (lair) | Med. | Dragon | Chaotic good | 1,100 XP | – | MM 85, 112 |
 | CR 5 | Dragon, shadow, metallic, bronze, wyrmling (lair) | Med. | Dragon | Lawful good | 1,800 XP | – | MM 85, 109 |
@@ -1159,8 +1159,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Fey: Hags
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Hag, sea (coven +2 CR) (lair VGtM 59) | Med. | Fey | Chaotic evil | 450 XP | 80 sp | MM 179 |
 | CR 3 | Hag, green (spellcaster) (coven +2 CR) (lair VGtM 59) | Med. | Fey | Neutral evil | 700 XP | 12 gp | MM 177 |
 | CR 6 | Hag, annis (spellcaster) (coven +2 CR) (lair VGtM 59) | Large | Fey | Chaotic evil | 2,300 XP | 41 gp | VGtM 159 |
@@ -1169,8 +1169,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Fey](#fey)
 
 ### Fey: Eladrin
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 10 | Eladrin, autumn (spellcaster) | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 195 |
 | CR 10 | Eladrin, spring (spellcaster) | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 196 |
 | CR 10 | Eladrin, summer | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 196 |
@@ -1179,8 +1179,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Fey](#fey)
 
 ### Fey: Miscellaneous Fey
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Boggle | Small | Fey | Chaotic neutral | 25 XP | – | VGtM 128 |
 | CR ¼ | Dog, blink | Med. | Fey | Lawful good | 50 XP | – | MM 318 |
 | CR ¼ | Pixie (spellcaster) | Tiny | Fey | Neutral good | 50 XP | 10 sp | MM 253 |
@@ -1208,8 +1208,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Elementals: Air Elementals
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Aarakocra | Med. | Human. | Neutral good | 50 XP | 10 sp | MM 12 |
 | CR 5 | Elemental, air | Large | Elemen. | True neutral | 1,800 XP | – | MM 124 |
 | CR 6 | Invisible stalker | Med. | Elemen. | True neutral | 2,300 XP | – | MM 192 |
@@ -1220,8 +1220,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Elementals](#elementals)
 
 ### Elementals: Water Elementals
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 3 | Water weird | Large | Elemen. | True neutral | 700 XP | – | MM 299 |
 | CR 5 | Elemental, water | Large | Elemen. | True neutral | 1,800 XP | – | MM 125 |
 | CR 7 | Elemental, water, myrmidon | Med. | Elemen. | True neutral | 2,900 XP | – | MToF 203 |
@@ -1231,8 +1231,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Elementals](#elementals)
 
 ### Elementals: Earth Elementals
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Gargoyle | Med. | Elemen. | Chaotic evil | 450 XP | – | MM 140 |
 | CR 3 | Flail snail | Large | Elemen. | Unaligned | 700 XP | – | VGtM 144 |
 | CR 5 | Elemental, earth | Large | Elemen. | True neutral | 1,800 XP | – | MM 124 |
@@ -1245,8 +1245,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Elementals](#elementals)
 
 ### Elementals: Fire Elementals
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Magmin | Small | Elemen. | Chaotic neutral | 100 XP | – | MM 212 |
 | CR 1 | Salamander fire snake | Med. | Elemen. | Neutral evil | 200 XP | – | MM 265 |
 | CR 2 | Azer | Med. | Elemen. | Lawful neutral | 450 XP | 80 sp | MM 22 |
@@ -1259,8 +1259,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Elementals](#elementals)
 
 ### Elementals: Miscellaneous Elementals
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Mephit, mud | Small | Elemen. | Neutral evil | 50 XP | – | MM 216 |
 | CR ¼ | Mephit, smoke | Small | Elemen. | Neutral evil | 50 XP | – | MM 217 |
 | CR ¼ | Mephit, steam | Small | Elemen. | Neutral evil | 50 XP | – | MM 217 |
@@ -1272,8 +1272,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Elementals](#elementals)
 
 ## Celestials
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Pegasus | Large | Celest. | Chaotic good | 450 XP | – | MM 250 |
 | CR 4 | Couatl (spellcaster) (shapechanger) | Med. | Celest. | Lawful good | 1,100 XP | – | MM 43 |
 | CR 5 | Unicorn (spellcaster) (legendary) | Large | Celest. | Lawful good | 1,800 XP | – | MM 294 |
@@ -1295,8 +1295,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Fiends: Demons
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Demon, manes | Small | Fiend | Chaotic evil | 25 XP | – | MM 60 |
 | CR ¼ | Demon, abyssal wretch | Med. | Fiend | Chaotic evil | 50 XP | – | MToF 136 |
 | CR ¼ | Demon, dretch | Small | Fiend | Chaotic evil | 50 XP | – | MM 57 |
@@ -1337,8 +1337,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Fiends](#fiends)
 
 ### Fiends: Devils
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Devil, lemure | Med. | Fiend | Lawful evil | 10 XP | – | MM 76 |
 | CR ½ | Devil, nupperibo | Med. | Fiend | Lawful evil | 100 XP | – | MToF 168 |
 | CR 1 | Devil, imp (shapechanger) | Tiny | Fiend | Lawful evil | 200 XP | – | MM 76 |
@@ -1366,8 +1366,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Fiends](#fiends)
 
 ### Fiends: Abishai
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 6 | Devil, abishai, white | Med. | Fiend | Lawful evil | 2,300 XP | 41 gp | MToF 163 |
 | CR 7 | Devil, abishai, black | Med. | Fiend | Lawful evil | 2,900 XP | 61 gp | MToF 160 |
 | CR 15 | Devil, abishai, green (spellcaster) | Med. | Fiend | Lawful evil | 13,000 XP | 140 pp | MToF 162 |
@@ -1377,8 +1377,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Fiends](#fiends)
 
 ### Fiends: Yugoloths
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 3 | Yugoloth merrenoloth (spellcaster) | Med. | Fiend | Neutral evil | 700 XP | 12 gp | MToF 250 |
 | CR 5 | Yugoloth mezzoloth (spellcaster) | Med. | Fiend | Neutral evil | 1,800 XP | 27 gp | MM 313 |
 | CR 7 | Yugoloth dhergoloth (spellcaster) | Med. | Fiend | Neutral evil | 2,900 XP | 61 gp | MToF 248 |
@@ -1393,8 +1393,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Fiends](#fiends)
 
 ### Fiends: Miscellaneous Fiends
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Stench kow | Large | Fiend | Unaligned | 50 XP | – | VGtM 207 |
 | CR 1 | Vargouille | Tiny | Fiend | Chaotic evil | 200 XP | – | VGtM 195 |
 | CR 3 | Dog, hound, hell | Med. | Fiend | Lawful evil | 700 XP | – | MM 182 |
@@ -1415,8 +1415,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Oozes: Instinctive Oozes
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Gray ooze | Med. | Ooze | Unaligned | 100 XP | – | MM 243 |
 | CR 2 | Gelatinous cube | Large | Ooze | Unaligned | 450 XP | 80 sp | MM 242 |
 | CR 2 | Ochre jelly | Large | Ooze | Unaligned | 450 XP | 80 sp | MM 243 |
@@ -1425,8 +1425,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Oozes](#oozes)
 
 ### Oozes: Sentient Oozes
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Oblex spawn | Tiny | Ooze | Lawful evil | 50 XP | – | MToF 217 |
 | CR 3 | Slithering tracker | Med. | Ooze | Chaotic evil | 700 XP | – | VGtM 191 |
 | CR 5 | Oblex, adult (spellcaster) | Med. | Ooze | Lawful evil | 1,800 XP | – | MToF 218 |
@@ -1445,8 +1445,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Top](#monsters)
 
 ### Aberrations: Neogi
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Neogi hatchling | Tiny | Aberr. | Lawful evil | 25 XP | 50 cp | VGtM 179 |
 | CR 3 | Neogi | Small | Aberr. | Lawful evil | 700 XP | 12 gp | VGtM 180 |
 | CR 4 | Neogi master (spellcaster) | Med. | Aberr. | Lawful evil | 1,100 XP | 18 gp | VGtM 180 |
@@ -1454,8 +1454,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aberrations](#aberrations)
 
 ### Aberrations: Slaadi
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Slaad tadpole | Tiny | Aberr. | Chaotic neutral | 25 XP | – | MM 276 |
 | CR 5 | Slaad, red | Large | Aberr. | Chaotic neutral | 1,800 XP | 27 gp | MM 276 |
 | CR 7 | Slaad, blue | Large | Aberr. | Chaotic neutral | 2,900 XP | 61 gp | MM 276 |
@@ -1466,8 +1466,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aberrations](#aberrations)
 
 ### Aberrations: Star Spawn
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Star spawn grue | Small | Aberr. | Neutral evil | 50 XP | – | MToF 234 |
 | CR 5 | Star spawn mangler | Med. | Aberr. | Chaotic evil | 1,800 XP | – | MToF 236 |
 | CR 10 | Star spawn hulk | Large | Aberr. | Chaotic evil | 5,900 XP | – | MToF 234 |
@@ -1477,8 +1477,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aberrations](#aberrations)
 
 ### Aberrations: Illithids
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Beholder mindwitness | Large | Aberr. | Lawful evil | 1,800 XP | – | VGtM 176 |
 | CR 7 | Illithid (spellcaster) | Med. | Aberr. | Lawful evil | 2,900 XP | 61 gp | MM 222 |
 | CR 8 | Illithid arcanist (spellcaster) | Med. | Aberr. | Lawful evil | 3,900 XP | 91 gp | MM 222 |
@@ -1490,8 +1490,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aberrations](#aberrations)
 
 ### Aberrations: Beholders
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Beholder gazer | Tiny | Aberr. | Neutral evil | 100 XP | – | VGtM 126 |
 | CR 3 | Beholder spectator | Med. | Aberr. | Lawful neutral | 700 XP | – | MM 30 |
 | CR 6 | Beholder gauth | Med. | Aberr. | Lawful evil | 2,300 XP | – | VGtM 125 |
@@ -1502,8 +1502,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 [^ Back to Aberrations](#aberrations)
 
 ### Aberrations: Miscellaneous Aberrations
-| Challenge | Name | Size | Type | Alignment | Experience | Coinage | Source |
-| :-------: | :--- | :--- | :--- | :-------- | ---------: | ------: | -----: |
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Flumph | Small | Aberr. | Lawful good | 25 XP | – | MM 135 |
 | CR 1 | Choker | Small | Aberr. | Chaotic evil | 200 XP | – | MToF 123 |
 | CR 2 | Berbalang (spellcaster) | Med. | Aberr. | Neutral evil | 450 XP | 80 sp | MToF 120 |
