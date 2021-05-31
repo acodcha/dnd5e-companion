@@ -2,6 +2,8 @@
 Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 
 ## Contents
+* [Adventuring](adventuring#adventuring)
+  * [Abilities](#abilities), [Actions](#actions), [Conditions](#conditions), [Environments](#environments)
 * [Character Creation](character_creation#character-creation)
   * [Wealth](character_creation#wealth), [Ability Scores](character_creation#ability-scores)
 * [Consumable Magic Items](magic_items_consumable#consumable-magic-items)
@@ -17,8 +19,11 @@ Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 * [Tokens](tokens)
 
 ## License
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+Much of this work is from the Dungeons and Dragons 5th Edition books by Wizards of the Coast and subject to their Open Game License. I simply list and tabulate their content for ease of use.
+
+I do not own any of the artwork used for tokens: all such artwork was available online for free. I simply cropped and adjusted the original artwork to fit each token.
+
+My own content is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -27,8 +32,6 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
-I do not own any of the artwork used for tokens: all such artwork was available online for free. I simply cropped and adjusted the original artwork to fit each token.
 
 ## Maintainer
 Alexandre Coderre-Chabot (<https://github.com/acodcha>)
