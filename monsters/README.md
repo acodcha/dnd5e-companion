@@ -321,112 +321,18 @@ Elves use the same stat blocks as humans, with the following changes:
 * Darkvision: Elves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
 * Fey Ancestry: Elves have advantage on saving throws against being charmed, and magic can't put them to sleep.
 * Trance: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
-* Weapons: Elves favor swords and bows over other weapons.
-
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 0 | Elf commoner | Med. | Human. | Any | 10 XP | 20 cp | MM 344 |
-| CR ⅛ | Elf bandit | Med. | Human. | Any non-lawful | 25 XP | 50 cp | MM 343 |
-| CR ⅛ | Elf cultist | Med. | Human. | Any non-good | 25 XP | 50 cp | MM 345 |
-| CR ⅛ | Elf guard | Med. | Human. | Any | 25 XP | 50 cp | MM 347 |
-| CR ⅛ | Elf noble | Med. | Human. | Any | 25 XP | 50 cp | MM 348 |
-| CR ⅛ | Elf tribal warrior | Med. | Human. | Any | 25 XP | 50 cp | MM 350 |
-| CR ¼ | Elf acolyte (spellcaster) | Med. | Human. | Any | 50 XP | 10 sp | MM 342 |
-| CR ¼ | Elf apprentice wizard (spellcaster) | Med. | Human. | Any | 50 XP | 10 sp | VGtM 209 |
-| CR ½ | Elf scout | Med. | Human. | Any | 100 XP | 20 sp | MM 349 |
-| CR ½ | Elf thug | Med. | Human. | Any | 100 XP | 20 sp | MM 350 |
-| CR 1 | Elf spy | Med. | Human. | Any | 200 XP | 40 sp | MM 349 |
-| CR 2 | Elf bandit captain | Med. | Human. | Any non-lawful | 450 XP | 80 sp | MM 344 |
-| CR 2 | Elf bard (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | VGtM 211 |
-| CR 2 | Elf berserker | Med. | Human. | Any chaotic | 450 XP | 80 sp | MM 344 |
-| CR 2 | Elf cultist fanatic (spellcaster) | Med. | Human. | Any non-good | 450 XP | 80 sp | MM 345 |
-| CR 2 | Elf druid (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | MM 346 |
-| CR 2 | Elf priest (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | MM 348 |
-| CR 3 | Elf archer | Med. | Human. | Any | 700 XP | 12 gp | VGtM 210 |
-| CR 3 | Elf illusionist (spellcaster) | Med. | Human. | Any | 700 XP | 12 gp | VGtM 214 |
-| CR 3 | Elf knight | Med. | Human. | Any | 700 XP | 12 gp | MM 347 |
-| CR 3 | Elf martial arts adept | Med. | Human. | Any | 700 XP | 12 gp | VGtM 216 |
-| CR 3 | Elf swashbuckler | Med. | Human. | Any non-lawful | 700 XP | 12 gp | VGtM 217 |
-| CR 3 | Elf veteran | Med. | Human. | Any | 700 XP | 12 gp | MM 350 |
-| CR 4 | Elf warlock of the archfey (spellcaster) | Med. | Human. | Any | 1,100 XP | 18 gp | VGtM 219 |
-| CR 5 | Elf enchanter (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 213 |
-| CR 5 | Elf gladiator | Med. | Human. | Any | 1,800 XP | 27 gp | MM 346 |
-| CR 5 | Elf kraken priest (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 215 |
-| CR 5 | Elf master thief | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 216 |
-| CR 5 | Elf transmuter (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 218 |
-| CR 6 | Elf conjurer (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | VGtM 212 |
-| CR 6 | Elf mage (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | MM 347 |
-| CR 6 | Elf warlock of the great old one (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | VGtM 220 |
-| CR 7 | Elf warlock of the fiend (spellcaster) | Med. | Human. | Any | 2,900 XP | 61 gp | VGtM 219 |
-| CR 8 | Elf assassin | Med. | Human. | Any non-good | 3,900 XP | 91 gp | MM 343 |
-| CR 8 | Elf blackguard (spellcaster) | Med. | Human. | Any non-good | 3,900 XP | 91 gp | VGtM 211 |
-| CR 8 | Elf diviner (spellcaster) | Med. | Human. | Any | 3,900 XP | 91 gp | VGtM 213 |
-| CR 9 | Elf abjurer (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 209 |
-| CR 9 | Elf champion | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 212 |
-| CR 9 | Elf evoker (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 214 |
-| CR 9 | Elf necromancer (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 217 |
-| CR 9 | Elf war priest (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 218 |
-| CR 12 | Elf archdruid (spellcaster) (shapechanger) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 210 |
-| CR 12 | Elf archmage (spellcaster) | Med. | Human. | Any | 8,400 XP | 44 pp | MM 342 |
-| CR 12 | Elf warlord (legendary) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 220 |
+* Weapons: Elves favor swords (longsword, rapier, scimitar, shortsword, greatsword) and bows (longbow, shortbow) over other weapons.
 
 [^ Back to Common Humanoids](#common-humanoids)
 
 ### Common Humanoids: Dwarves
 Dwarves use the same stat blocks as humans, with the following changes:
-* Speed: Dwarves have a base walking speed of 25 feet.
+* Speed: Dwarves have a base walking speed of 25 feet instead of 30 feet.
 * Darkvision: Dwarves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
-* Dwarves have advantage on saving throws against poison, and have resistance against poison damage.
+* Dwarven Resilience: Dwarves have advantage on saving throws against poison and have resistance against poison damage.
 * Tool Proficiency: Dwarves are proficient in one of smith's tools, brewer's supplies, or mason's tools.
 * Stonecunning: Whenever dwarves make an Intelligence (History) check related to the origin of stonework, they are considered to have expertise in the skill, adding double their proficiency bonus to the check.
-* Weapons: Dwarves favor hammers, axes, and crossbows over other weapons.
-
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 0 | Dwarf commoner | Med. | Human. | Any | 10 XP | 20 cp | MM 344 |
-| CR ⅛ | Dwarf bandit | Med. | Human. | Any non-lawful | 25 XP | 50 cp | MM 343 |
-| CR ⅛ | Dwarf cultist | Med. | Human. | Any non-good | 25 XP | 50 cp | MM 345 |
-| CR ⅛ | Dwarf guard | Med. | Human. | Any | 25 XP | 50 cp | MM 347 |
-| CR ⅛ | Dwarf noble | Med. | Human. | Any | 25 XP | 50 cp | MM 348 |
-| CR ⅛ | Dwarf tribal warrior | Med. | Human. | Any | 25 XP | 50 cp | MM 350 |
-| CR ¼ | Dwarf acolyte (spellcaster) | Med. | Human. | Any | 50 XP | 10 sp | MM 342 |
-| CR ¼ | Dwarf apprentice wizard (spellcaster) | Med. | Human. | Any | 50 XP | 10 sp | VGtM 209 |
-| CR ½ | Dwarf scout | Med. | Human. | Any | 100 XP | 20 sp | MM 349 |
-| CR ½ | Dwarf thug | Med. | Human. | Any | 100 XP | 20 sp | MM 350 |
-| CR 1 | Dwarf spy | Med. | Human. | Any | 200 XP | 40 sp | MM 349 |
-| CR 2 | Dwarf bandit captain | Med. | Human. | Any non-lawful | 450 XP | 80 sp | MM 344 |
-| CR 2 | Dwarf bard (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | VGtM 211 |
-| CR 2 | Dwarf berserker | Med. | Human. | Any chaotic | 450 XP | 80 sp | MM 344 |
-| CR 2 | Dwarf cultist fanatic (spellcaster) | Med. | Human. | Any non-good | 450 XP | 80 sp | MM 345 |
-| CR 2 | Dwarf druid (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | MM 346 |
-| CR 2 | Dwarf priest (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | MM 348 |
-| CR 3 | Dwarf archer | Med. | Human. | Any | 700 XP | 12 gp | VGtM 210 |
-| CR 3 | Dwarf illusionist (spellcaster) | Med. | Human. | Any | 700 XP | 12 gp | VGtM 214 |
-| CR 3 | Dwarf knight | Med. | Human. | Any | 700 XP | 12 gp | MM 347 |
-| CR 3 | Dwarf martial arts adept | Med. | Human. | Any | 700 XP | 12 gp | VGtM 216 |
-| CR 3 | Dwarf swashbuckler | Med. | Human. | Any non-lawful | 700 XP | 12 gp | VGtM 217 |
-| CR 3 | Dwarf veteran | Med. | Human. | Any | 700 XP | 12 gp | MM 350 |
-| CR 4 | Dwarf warlock of the archfey (spellcaster) | Med. | Human. | Any | 1,100 XP | 18 gp | VGtM 219 |
-| CR 5 | Dwarf enchanter (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 213 |
-| CR 5 | Dwarf gladiator | Med. | Human. | Any | 1,800 XP | 27 gp | MM 346 |
-| CR 5 | Dwarf kraken priest (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 215 |
-| CR 5 | Dwarf master thief | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 216 |
-| CR 5 | Dwarf transmuter (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 218 |
-| CR 6 | Dwarf conjurer (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | VGtM 212 |
-| CR 6 | Dwarf mage (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | MM 347 |
-| CR 6 | Dwarf warlock of the great old one (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | VGtM 220 |
-| CR 7 | Dwarf warlock of the fiend (spellcaster) | Med. | Human. | Any | 2,900 XP | 61 gp | VGtM 219 |
-| CR 8 | Dwarf assassin | Med. | Human. | Any non-good | 3,900 XP | 91 gp | MM 343 |
-| CR 8 | Dwarf blackguard (spellcaster) | Med. | Human. | Any non-good | 3,900 XP | 91 gp | VGtM 211 |
-| CR 8 | Dwarf diviner (spellcaster) | Med. | Human. | Any | 3,900 XP | 91 gp | VGtM 213 |
-| CR 9 | Dwarf abjurer (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 209 |
-| CR 9 | Dwarf champion | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 212 |
-| CR 9 | Dwarf evoker (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 214 |
-| CR 9 | Dwarf necromancer (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 217 |
-| CR 9 | Dwarf war priest (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 218 |
-| CR 12 | Dwarf archdruid (spellcaster) (shapechanger) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 210 |
-| CR 12 | Dwarf archmage (spellcaster) | Med. | Human. | Any | 8,400 XP | 44 pp | MM 342 |
-| CR 12 | Dwarf warlord (legendary) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 220 |
+* Weapons: Dwarves favor hammers (warhammer, maul, mace, light hammer), axes (battleaxe, greataxe, handaxe), and crossbows (light crossbow, heavy crossbow, hand crossbow) over other weapons.
 
 [^ Back to Common Humanoids](#common-humanoids)
 
