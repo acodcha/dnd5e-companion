@@ -17,7 +17,7 @@
 * [Oozes](#oozes)
 * [Aberrations](#aberrations)
 
-[< Back to Main Page](../README.md)
+[< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
 Abbreviations:
 * MM: *Monster Manual*

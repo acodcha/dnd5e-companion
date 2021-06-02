@@ -7,7 +7,7 @@
 * [Art Objects](#art-objects)
   * [25 gp Art Objects](#art-objects-25-gp), [25 pp Art Objects](#art-objects-25-pp), [75 pp Art Objects](#art-objects-75-pp), [250 pp Art Objects](#art-objects-250-pp), [750 pp Art Objects](#art-objects-750-pp)
 
-[< Back to Main Page](../README.md)
+[< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
 ## Individual Monster Treasure
 Not all monsters carry coinage on their person, but those that do can be expected to carry the amounts shown in the following table.

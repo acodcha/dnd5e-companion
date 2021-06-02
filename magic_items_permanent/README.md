@@ -23,14 +23,14 @@
 * [Miscellaneous](#miscellaneous)
 * [All Permanent Magic Items by Price](#all-permanent-magic-items-by-price)
 
+[< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
+
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold. All prices are listed in platinum pieces (pp).
 
 Abbreviations:
 * DMG: *Dungeon Master's Guide*
 * TCoE: *Tasha's Cauldron of Everything*
 * XGtE: *Xanathar's Guide to Everything*
-
-[< Back to Main Page](../README.md)
 
 ## Light Armor
 | Magic Item | Price | Weight | Source |

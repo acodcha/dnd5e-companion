@@ -8,7 +8,7 @@
 * [Environments](#environments)
   * [Jumping](#environment-jumping), [Cover](#environment-cover), [Concealment](#environment-concealment), [Light](#environment-light), [Mounted Combat](#environment-mounted-combat), [Underwater Combat](#environment-underwater-combat)
 
-[< Back to Main Page](../README.md)
+[< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
 ## Abilities
 * [Strength](#ability-strength)
