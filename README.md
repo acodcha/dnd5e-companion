@@ -3,7 +3,7 @@ Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 
 ## Contents
 * [Adventuring](adventuring#adventuring)
-  * [Abilities](#abilities), [Actions](#actions), [Conditions](#conditions), [Environments](#environments)
+  * [Abilities](adventuring#abilities), [Actions](adventuring#actions), [Conditions](adventuring#conditions), [Environments](adventuring#environments)
 * [Character Creation](character_creation#character-creation)
   * [Wealth](character_creation#wealth), [Ability Scores](character_creation#ability-scores), [Height and Weight](character_creation#height-and-weight)
 * [Consumable Magic Items](magic_items_consumable#consumable-magic-items)
