@@ -72,40 +72,40 @@ Abbreviations:
 | CR ¼ | Boar | Med. | Beast | Unaligned | 50 XP | – | MM 319 |
 | CR ¼ | Cow | Large | Beast | Unaligned | 50 XP | – | VGtM 207 |
 | CR ¼ | Elk | Large | Beast | Unaligned | 50 XP | – | MM 322 |
-| CR ¼ | Hadrosaurus | Large | Beast | Unaligned | 50 XP | – | VGtM 140 |
+| CR ¼ | Dinosaur, hadrosaurus | Large | Beast | Unaligned | 50 XP | – | VGtM 140 |
 | CR ¼ | Horse, draft | Large | Beast | Unaligned | 50 XP | – | MM 321 |
 | CR ¼ | Horse, riding | Large | Beast | Unaligned | 50 XP | – | MM 336 |
 | CR ¼ | Ox | Large | Beast | Unaligned | 50 XP | – | VGtM 207 |
 | CR ¼ | Rat swarm | Med. | Beast | Unaligned | 50 XP | – | MM 339 |
 | CR ¼ | Rothé | Large | Beast | Unaligned | 50 XP | – | VGtM 207 |
 | CR ¼ | Rothé, deep | Med. | Beast | Unaligned | 50 XP | – | VGtM 207 |
-| CR ¼ | Velociraptor | Tiny | Beast | Unaligned | 50 XP | – | VGtM 140 |
+| CR ¼ | Dinosaur, velociraptor | Tiny | Beast | Unaligned | 50 XP | – | VGtM 140 |
 | CR ¼ | Wolf | Med. | Beast | Unaligned | 50 XP | – | MM 341 |
 | CR ½ | Beetle swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR ½ | Centipede swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR ½ | Goat, giant | Large | Beast | Unaligned | 100 XP | – | MM 326 |
 | CR ½ | Horse, warhorse | Large | Beast | Unaligned | 100 XP | – | MM 340 |
-| CR 1 | Deinonychus | Med. | Beast | Unaligned | 200 XP | – | VGtM 139 |
+| CR 1 | Dinosaur, deinonychus | Med. | Beast | Unaligned | 200 XP | – | VGtM 139 |
 | CR 1 | Hyena, giant | Large | Beast | Unaligned | 200 XP | – | MM 326 |
 | CR 1 | Lion | Large | Beast | Unaligned | 200 XP | – | MM 331 |
 | CR 1 | Tiger | Large | Beast | Unaligned | 200 XP | – | MM 339 |
 | CR 1 | Wolf, dire | Large | Beast | Unaligned | 200 XP | – | MM 321 |
-| CR 2 | Allosaurus | Large | Beast | Unaligned | 450 XP | – | MM 79 |
+| CR 2 | Dinosaur, allosaurus | Large | Beast | Unaligned | 450 XP | – | MM 79 |
 | CR 2 | Aurochs | Large | Beast | Unaligned | 450 XP | – | VGtM 207 |
 | CR 2 | Bear, cave | Large | Beast | Unaligned | 450 XP | – | MM 334 |
 | CR 2 | Boar, giant | Large | Beast | Unaligned | 450 XP | – | MM 323 |
 | CR 2 | Elk, giant | Huge | Beast | Unaligned | 450 XP | – | MM 325 |
 | CR 2 | Rhinoceros | Large | Beast | Unaligned | 450 XP | – | MM 336 |
 | CR 2 | Tiger, saber-toothed | Large | Beast | Unaligned | 450 XP | – | MM 336 |
-| CR 3 | Ankylosaurus | Huge | Beast | Unaligned | 700 XP | – | MM 79 |
+| CR 3 | Dinosaur, ankylosaurus | Huge | Beast | Unaligned | 700 XP | – | MM 79 |
 | CR 3 | Scorpion, giant | Large | Beast | Unaligned | 700 XP | – | MM 327 |
 | CR 4 | Elephant | Huge | Beast | Unaligned | 1,100 XP | – | MM 322 |
-| CR 4 | Stegosaurus | Huge | Beast | Unaligned | 1,100 XP | – | VGtM 140 |
-| CR 5 | Brontosaurus | Garg. | Beast | Unaligned | 1,800 XP | – | VGtM 139 |
+| CR 4 | Dinosaur, stegosaurus | Huge | Beast | Unaligned | 1,100 XP | – | VGtM 140 |
+| CR 5 | Dinosaur, brontosaurus | Garg. | Beast | Unaligned | 1,800 XP | – | VGtM 139 |
 | CR 5 | Rat, cranium, swarm (spellcaster) | Med. | Beast | Lawful evil | 1,800 XP | – | VGtM 133 |
-| CR 5 | Triceratops | Huge | Beast | Unaligned | 1,800 XP | – | MM 80 |
+| CR 5 | Dinosaur, triceratops | Huge | Beast | Unaligned | 1,800 XP | – | MM 80 |
 | CR 6 | Mammoth | Huge | Beast | Unaligned | 2,300 XP | – | MM 332 |
-| CR 8 | Tyrannosaurus rex | Huge | Beast | Unaligned | 3,900 XP | – | MM 80 |
+| CR 8 | Dinosaur, tyrannosaurus rex | Huge | Beast | Unaligned | 3,900 XP | – | MM 80 |
 
 [^ Back to Beasts](#beasts)
 
@@ -141,7 +141,7 @@ Abbreviations:
 | CR ⅛ | Crab, giant | Med. | Beast | Unaligned | 25 XP | – | MM 324 |
 | CR ⅛ | Dolphin | Med. | Beast | Unaligned | 25 XP | – | VGtM 208 |
 | CR ⅛ | Snake, poisonous | Tiny | Beast | Unaligned | 25 XP | – | MM 334 |
-| CR ¼ | Dimetrodon | Med. | Beast | Unaligned | 50 XP | – | VGtM 139 |
+| CR ¼ | Dinosaur, dimetrodon | Med. | Beast | Unaligned | 50 XP | – | VGtM 139 |
 | CR ¼ | Frog, giant | Med. | Beast | Unaligned | 50 XP | – | MM 325 |
 | CR ¼ | Snake, constrictor | Large | Beast | Unaligned | 50 XP | – | MM 320 |
 | CR ¼ | Snake, poisonous, giant | Med. | Beast | Unaligned | 50 XP | – | MM 327 |
@@ -152,7 +152,7 @@ Abbreviations:
 | CR 1 | Quipper swarm | Med. | Beast | Unaligned | 200 XP | – | MM 338 |
 | CR 1 | Toad, giant | Large | Beast | Unaligned | 200 XP | – | MM 329 |
 | CR 2 | Bear, polar | Large | Beast | Unaligned | 450 XP | – | MM 334 |
-| CR 2 | Plesiosaurus | Large | Beast | Unaligned | 450 XP | – | MM 80 |
+| CR 2 | Dinosaur, plesiosaurus | Large | Beast | Unaligned | 450 XP | – | MM 80 |
 | CR 2 | Shark, hunter | Large | Beast | Unaligned | 450 XP | – | MM 330 |
 | CR 2 | Snake, constrictor, giant | Huge | Beast | Unaligned | 450 XP | – | MM 324 |
 | CR 2 | Snake, poisonous, swarm | Med. | Beast | Unaligned | 450 XP | – | MM 338 |
@@ -177,13 +177,13 @@ Abbreviations:
 | CR ¼ | Bat swarm | Med. | Beast | Unaligned | 50 XP | – | MM 337 |
 | CR ¼ | Bat, giant | Large | Beast | Unaligned | 50 XP | – | MM 323 |
 | CR ¼ | Owl, giant | Large | Beast | True neutral | 50 XP | – | MM 327 |
-| CR ¼ | Pteranodon | Med. | Beast | Unaligned | 50 XP | – | MM 80 |
+| CR ¼ | Dinosaur, pteranodon | Med. | Beast | Unaligned | 50 XP | – | MM 80 |
 | CR ¼ | Raven swarm | Med. | Beast | Unaligned | 50 XP | – | MM 339 |
 | CR ½ | Wasp swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR ½ | Wasp, giant | Med. | Beast | Unaligned | 100 XP | – | MM 329 |
 | CR 1 | Eagle, giant | Large | Beast | Neutral good | 200 XP | – | MM 324 |
 | CR 1 | Vulture, giant | Large | Beast | Neutral evil | 200 XP | – | MM 329 |
-| CR 2 | Quetzalcoatlus | Huge | Beast | Unaligned | 450 XP | – | VGtM 140 |
+| CR 2 | Dinosaur, quetzalcoatlus | Huge | Beast | Unaligned | 450 XP | – | VGtM 140 |
 
 [^ Back to Beasts](#beasts)
 
