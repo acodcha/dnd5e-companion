@@ -73,7 +73,10 @@ The following table lists the range of possible heights and weights for each rac
 | Dwarf, hill | Med. | 3 ft 10 in , 119 lb | 4 ft 1 in , 150 lb | 4 ft 4 in , 211 lb | 3 ft 8 in | 115 lb | 2d4 | H.M. × 2d6 |
 | Dwarf, mountain | Med. | 4 ft 2 in , 134 lb | 4 ft 5 in , 165 lb | 4 ft 8 in , 226 lb | 4 ft 0 in | 130 lb | 2d4 | H.M. × 2d6 |
 | Elf, drow | Med. | 4 ft 7 in , 77 lb | 5 ft 0 in , 100 lb | 5 ft 5 in , 147 lb | 4 ft 5 in | 75 lb | 2d6 | H.M. × 1d6 |
+| Elf, eladrin | Med. | 4 ft 8 in , 92 lb | 5 ft 7 in , 123 lb | 6 ft 6 in , 186 lb | 4 ft 6 in | 90 lb | 2d12 | H.M. × 1d4 |
 | Elf, high | Med. | 4 ft 8 in , 92 lb | 5 ft 5 in , 118 lb | 6 ft 2 in , 170 lb | 4 ft 6 in | 90 lb | 2d10 | H.M. × 1d4 |
+| Elf, sea | Med. | 4 ft 8 in , 92 lb | 5 ft 3 in , 113 lb | 5 ft 10 in , 154 lb | 4 ft 6 in | 90 lb | 2d8 | H.M. × 1d4 |
+| Elf, shadar-kai | Med. | 4 ft 10 in , 92 lb | 5 ft 5 in , 113 lb | 6 ft 0 in , 154 lb | 4 ft 8 in | 90 lb | 2d8 | H.M. × 1d4 |
 | Elf, wood | Med. | 4 ft 8 in , 102 lb | 5 ft 5 in , 128 lb | 6 ft 2 in , 180 lb | 4 ft 6 in | 100 lb | 2d10 | H.M. × 1d4 |
 | Firbolg | Med. | 6 ft 4 in , 179 lb | 7 ft 3 in , 266 lb | 8 ft 2 in , 463 lb | 6 ft 2 in | 175 lb | 2d12 | H.M. × 2d6 |
 | Genasi | Med. | 4 ft 10 in , 114 lb | 5 ft 7 in , 165 lb | 6 ft 4 in , 270 lb | 4 ft 8 in | 110 lb | 2d10 | H.M. × 2d4 |
