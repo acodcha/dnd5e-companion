@@ -18,7 +18,7 @@ Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
   * [Beasts](monsters#beasts), [Beastlike Monsters](monsters#beastlike-monsters), [Common Humanoids](monsters#common-humanoids), [Land Humanoids](monsters#land-humanoids), [Aquatic Humanoids](monsters#aquatic-humanoids), [Underdark Humanoids](monsters#underdark-humanoids), [Giants](monsters#giants), [Sentient Monsters](monsters#sentient-monsters), [Undead](monsters#undead), [Constructs](monsters#constructs), [Dragons](monsters#dragons), [Fey](monsters#fey), [Elementals](monsters#elementals), [Celestials](monsters#celestials), [Fiends](monsters#fiends), [Oozes](monsters#oozes), [Aberrations](monsters#aberrations)
 * [Rewards and Treasure](rewards_and_treasure#rewards-and-treasure)
   * [Individual Monster Treasure](rewards_and_treasure#individual-monster-treasure), [Treasure Hoards](rewards_and_treasure#treasure-hoards), [Quest Rewards](rewards_and_treasure#quest-rewards), [Gemstones](rewards_and_treasure#gemstones), [Art Objects](rewards_and_treasure#art-objects)
-* [Tokens](tokens)
+* [Monster Tokens](tokens_monsters)
 
 ## License
 Much of this work is from the Dungeons and Dragons 5th Edition books by Wizards of the Coast and subject to their Open Game License. I simply list and tabulate their content for ease of use.
