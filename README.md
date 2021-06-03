@@ -19,6 +19,7 @@ Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 * [Rewards and Treasure](rewards_and_treasure#rewards-and-treasure)
   * [Individual Monster Treasure](rewards_and_treasure#individual-monster-treasure), [Treasure Hoards](rewards_and_treasure#treasure-hoards), [Quest Rewards](rewards_and_treasure#quest-rewards), [Gemstones](rewards_and_treasure#gemstones), [Art Objects](rewards_and_treasure#art-objects)
 * [Monster Tokens](tokens_monsters)
+* [Weapon Tokens](tokens_weapons)
 
 ## License
 Much of this work is from the Dungeons and Dragons 5th Edition books by Wizards of the Coast and subject to their Open Game License. I simply list and tabulate their content for ease of use.
