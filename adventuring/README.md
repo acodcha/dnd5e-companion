@@ -694,7 +694,7 @@
 ### Spellcasting Services: Communication
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
-| Message | Cantrip spell slot | 1st-level spellcaster | 5 gp |
+| Message | Cantrip | 1st-level spellcaster | 5 gp |
 | Detect thoughts | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
 | Zone of truth | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
 | Sending | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
