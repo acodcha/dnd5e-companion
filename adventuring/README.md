@@ -707,11 +707,11 @@
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
 | Teleportation circle | 5th-level spell slot | 9th-level spellcaster | 35 pp |
-| Permanent teleportation circle | 5th-level spell slot | 9th-level spellcaster | 13,000 pp |
 | Transport via plants | 6th-level spell slot | 11th-level spellcaster | 36 pp |
 | Teleport | 7th-level spell slot | 13th-level spellcaster | 49 pp |
 | Plane shift | 7th-level spell slot | 13th-level spellcaster | 52 pp |
 | Gate | 9th-level spell slot | 17th-level spellcaster | 130 pp |
+| Permanent teleportation circle | 5th-level spell slot | 9th-level spellcaster | 13,000 pp |
 
 [^ Back to Spellcasting Services](#spellcasting-services)
 
