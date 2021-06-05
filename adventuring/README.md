@@ -635,7 +635,7 @@
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
 | Detect poison and disease | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
-| Goodberry | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
+| Goodberry | 1st-level spell slot | 1st-level spellcaster | 1 pp |
 | Lesser restoration | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
 | Create food and water | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
 | Dispel magic | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
