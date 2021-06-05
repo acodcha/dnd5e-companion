@@ -1014,16 +1014,16 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 11 | Dragon, shadow, chromatic, green, young (lair) | Large | Dragon | Lawful evil | 7,200 XP | – | MM 85, 94 |
 | CR 12 | Dragon, shadow, chromatic, blue, young (lair) | Large | Dragon | Lawful evil | 8,400 XP | – | MM 85, 91 |
 | CR 13 | Dragon, shadow, chromatic, red, young (lair) | Large | Dragon | Chaotic evil | 10,000 XP | – | MM 85, 98 |
-| CR 16 | Dragon, shadow, chromatic, white, adult (lair) | Huge | Dragon | Chaotic evil | 15,000 XP | – | MM 85, 101 |
-| CR 17 | Dragon, shadow, chromatic, black, adult (lair) | Huge | Dragon | Chaotic evil | 18,000 XP | – | MM 85, 88 |
-| CR 18 | Dragon, shadow, chromatic, green, adult (lair) | Huge | Dragon | Lawful evil | 20,000 XP | – | MM 85, 94 |
-| CR 19 | Dragon, shadow, chromatic, blue, adult (lair) | Huge | Dragon | Lawful evil | 22,000 XP | – | MM 85, 91 |
-| CR 20 | Dragon, shadow, chromatic, red, adult (lair) | Huge | Dragon | Chaotic evil | 25,000 XP | – | MM 85, 98 |
-| CR 23 | Dragon, shadow, chromatic, white, ancient (lair) | Garg. | Dragon | Chaotic evil | 50,000 XP | – | MM 85, 100 |
-| CR 24 | Dragon, shadow, chromatic, black, ancient (lair) | Garg. | Dragon | Chaotic evil | 62,000 XP | – | MM 85, 87 |
-| CR 25 | Dragon, shadow, chromatic, green, ancient (lair) | Garg. | Dragon | Lawful evil | 75,000 XP | – | MM 85, 93 |
-| CR 26 | Dragon, shadow, chromatic, blue, ancient (lair) | Garg. | Dragon | Lawful evil | 90,000 XP | – | MM 85, 90 |
-| CR 27 | Dragon, shadow, chromatic, red, ancient (lair) | Garg. | Dragon | Chaotic evil | 105,000 XP | – | MM 85, 97 |
+| CR 16 | Dragon, shadow, chromatic, white, adult (legend.) (lair) | Huge | Dragon | Chaotic evil | 15,000 XP | – | MM 85, 101 |
+| CR 17 | Dragon, shadow, chromatic, black, adult (legend.) (lair) | Huge | Dragon | Chaotic evil | 18,000 XP | – | MM 85, 88 |
+| CR 18 | Dragon, shadow, chromatic, green, adult (legend.) (lair) | Huge | Dragon | Lawful evil | 20,000 XP | – | MM 85, 94 |
+| CR 19 | Dragon, shadow, chromatic, blue, adult (legend.) (lair) | Huge | Dragon | Lawful evil | 22,000 XP | – | MM 85, 91 |
+| CR 20 | Dragon, shadow, chromatic, red, adult (legend.) (lair) | Huge | Dragon | Chaotic evil | 25,000 XP | – | MM 85, 98 |
+| CR 23 | Dragon, shadow, chromatic, white, ancient (legend.) (lair) | Garg. | Dragon | Chaotic evil | 50,000 XP | – | MM 85, 100 |
+| CR 24 | Dragon, shadow, chromatic, black, ancient (legend.) (lair) | Garg. | Dragon | Chaotic evil | 62,000 XP | – | MM 85, 87 |
+| CR 25 | Dragon, shadow, chromatic, green, ancient (legend.) (lair) | Garg. | Dragon | Lawful evil | 75,000 XP | – | MM 85, 93 |
+| CR 26 | Dragon, shadow, chromatic, blue, ancient (legend.) (lair) | Garg. | Dragon | Lawful evil | 90,000 XP | – | MM 85, 90 |
+| CR 27 | Dragon, shadow, chromatic, red, ancient (legend.) (lair) | Garg. | Dragon | Chaotic evil | 105,000 XP | – | MM 85, 97 |
 
 [^ Back to Dragons](#dragons)
 
@@ -1040,16 +1040,16 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 11 | Dragon, shadow, metallic, bronze, young (lair) | Large | Dragon | Lawful good | 7,200 XP | – | MM 85, 108 |
 | CR 12 | Dragon, shadow, metallic, silver, young (lair) | Large | Dragon | Lawful good | 8,400 XP | – | MM 85, 118 |
 | CR 13 | Dragon, shadow, metallic, gold, young (lair) | Large | Dragon | Lawful good | 10,000 XP | – | MM 85, 115 |
-| CR 16 | Dragon, shadow, metallic, brass, adult (lair) | Huge | Dragon | Chaotic good | 15,000 XP | – | MM 85, 105 |
-| CR 17 | Dragon, shadow, metallic, copper, adult (lair) | Huge | Dragon | Chaotic good | 18,000 XP | – | MM 85, 111 |
-| CR 18 | Dragon, shadow, metallic, bronze, adult (lair) | Huge | Dragon | Lawful good | 20,000 XP | – | MM 85, 108 |
-| CR 19 | Dragon, shadow, metallic, silver, adult (lair) | Huge | Dragon | Lawful good | 22,000 XP | – | MM 85, 117 |
-| CR 20 | Dragon, shadow, metallic, gold, adult (lair) | Huge | Dragon | Lawful good | 25,000 XP | – | MM 85, 114 |
-| CR 23 | Dragon, shadow, metallic, brass, ancient (lair) | Garg. | Dragon | Chaotic good | 50,000 XP | – | MM 85, 104 |
-| CR 24 | Dragon, shadow, metallic, copper, ancient (lair) | Garg. | Dragon | Chaotic good | 62,000 XP | – | MM 85, 110 |
-| CR 25 | Dragon, shadow, metallic, bronze, ancient (lair) | Garg. | Dragon | Lawful good | 75,000 XP | – | MM 85, 107 |
-| CR 26 | Dragon, shadow, metallic, silver, ancient (lair) | Garg. | Dragon | Lawful good | 90,000 XP | – | MM 85, 116 |
-| CR 27 | Dragon, shadow, metallic, gold, ancient (lair) | Garg. | Dragon | Lawful good | 105,000 XP | – | MM 85, 113 |
+| CR 16 | Dragon, shadow, metallic, brass, adult (legend.) (lair) | Huge | Dragon | Chaotic good | 15,000 XP | – | MM 85, 105 |
+| CR 17 | Dragon, shadow, metallic, copper, adult (legend.) (lair) | Huge | Dragon | Chaotic good | 18,000 XP | – | MM 85, 111 |
+| CR 18 | Dragon, shadow, metallic, bronze, adult (shapech.) (legend.) (lair) | Huge | Dragon | Lawful good | 20,000 XP | – | MM 85, 108 |
+| CR 19 | Dragon, shadow, metallic, silver, adult (shapech.) (legend.) (lair) | Huge | Dragon | Lawful good | 22,000 XP | – | MM 85, 117 |
+| CR 20 | Dragon, shadow, metallic, gold, adult (shapech.) (legend.) (lair) | Huge | Dragon | Lawful good | 25,000 XP | – | MM 85, 114 |
+| CR 23 | Dragon, shadow, metallic, brass, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Chaotic good | 50,000 XP | – | MM 85, 104 |
+| CR 24 | Dragon, shadow, metallic, copper, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Chaotic good | 62,000 XP | – | MM 85, 110 |
+| CR 25 | Dragon, shadow, metallic, bronze, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Lawful good | 75,000 XP | – | MM 85, 107 |
+| CR 26 | Dragon, shadow, metallic, silver, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Lawful good | 90,000 XP | – | MM 85, 116 |
+| CR 27 | Dragon, shadow, metallic, gold, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Lawful good | 105,000 XP | – | MM 85, 113 |
 
 [^ Back to Dragons](#dragons)
 
