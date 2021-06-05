@@ -1,6 +1,4 @@
 # Monsters
-* [Beasts](#beasts)
-  * [Land Beasts](#beasts-land-beasts), [Climbing Beasts](#beasts-climbing-beasts), [Swimming Beasts](#beasts-swimming-beasts), [Flying Beasts](#beasts-flying-beasts)
 * [Beastlike Monsters](#beastlike-monsters)
   * [Beastlike Land Monsters](#beastlike-monsters-beastlike-land-monsters), [Beastlike Climbing Monsters](#beastlike-monsters-beastlike-climbing-monsters), [Beastlike Burrowing Monsters](#beastlike-monsters-beastlike-burrowing-monsters), [Beastlike Swimming Monsters](#beastlike-monsters-beastlike-swimming-monsters), [Beastlike Flying Monsters](#beastlike-monsters-beastlike-flying-monsters)
 * [Land Humanoids](#common-humanoids)
@@ -40,20 +38,22 @@ Abbreviations:
 * MToF: *Mordenkainen's Tome of Foes*
 * VGtM: *Volo's Guide to Monsters*
 
-## Beasts
-* [Land Beasts](#beasts-land-beasts)
-* [Climbing Beasts](#beasts-climbing-beasts)
-* [Swimming Beasts](#beasts-swimming-beasts)
-* [Flying Beasts](#beasts-flying-beasts)
+## Beastlike Monsters
+* [Beastlike Land Monsters](#beastlike-monsters-beastlike-land-monsters)
+* [Beastlike Climbing Monsters](#beastlike-monsters-beastlike-climbing-monsters)
+* [Beastlike Burrowing Monsters](#beastlike-monsters-beastlike-burrowing-monsters)
+* [Beastlike Swimming Monsters](#beastlike-monsters-beastlike-swimming-monsters)
+* [Beastlike Flying Monsters](#beastlike-monsters-beastlike-flying-monsters)
 
 [^ Back to Top](#monsters)
 
-### Beasts: Land Beasts
+## Beastlike Monsters: Beastlike Land Monsters
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Badger | Tiny | Beast | Unaligned | 10 XP | – | MM 318 |
 | CR 0 | Beetle, fire, giant | Small | Beast | Unaligned | 10 XP | – | MM 325 |
 | CR 0 | Deer | Med. | Beast | Unaligned | 10 XP | – | MM 321 |
+| CR 0 | Fungus, shrieker | Med. | Plant | Unaligned | 10 XP | – | MM 138 |
 | CR 0 | Goat | Med. | Beast | Unaligned | 10 XP | – | MM 330 |
 | CR 0 | Hyena | Med. | Beast | Unaligned | 10 XP | – | MM 331 |
 | CR 0 | Jackal | Small | Beast | Unaligned | 10 XP | – | MM 331 |
@@ -61,6 +61,7 @@ Abbreviations:
 | CR 0 | Rat, cranium | Tiny | Beast | Lawful evil | 10 XP | – | VGtM 133 |
 | CR 0 | Scorpion | Tiny | Beast | Unaligned | 10 XP | – | MM 337 |
 | CR 0 | Weasel | Tiny | Beast | Unaligned | 10 XP | – | MM 340 |
+| CR ⅛ | Blight, twig | Small | Plant | Neutral evil | 25 XP | – | MM 32 |
 | CR ⅛ | Camel | Large | Beast | Unaligned | 25 XP | – | MM 320 |
 | CR ⅛ | Dog, mastiff | Med. | Beast | Unaligned | 25 XP | – | MM 332 |
 | CR ⅛ | Mule | Med. | Beast | Unaligned | 25 XP | – | MM 333 |
@@ -69,11 +70,13 @@ Abbreviations:
 | CR ⅛ | Weasel, giant | Med. | Beast | Unaligned | 25 XP | – | MM 329 |
 | CR ¼ | Axe beak | Large | Beast | Unaligned | 50 XP | – | MM 317 |
 | CR ¼ | Badger, giant | Med. | Beast | Unaligned | 50 XP | – | MM 323 |
+| CR ¼ | Blight, needle | Med. | Plant | Neutral evil | 50 XP | – | MM 32 |
 | CR ¼ | Boar | Med. | Beast | Unaligned | 50 XP | – | MM 319 |
 | CR ¼ | Cow | Large | Beast | Unaligned | 50 XP | – | VGtM 207 |
 | CR ¼ | Dinosaur, hadrosaurus | Large | Beast | Unaligned | 50 XP | – | VGtM 140 |
 | CR ¼ | Dinosaur, velociraptor | Tiny | Beast | Unaligned | 50 XP | – | VGtM 140 |
 | CR ¼ | Elk | Large | Beast | Unaligned | 50 XP | – | MM 322 |
+| CR ¼ | Fungus, violet | Med. | Plant | Unaligned | 50 XP | – | MM 138 |
 | CR ¼ | Horse, draft | Large | Beast | Unaligned | 50 XP | – | MM 321 |
 | CR ¼ | Horse, riding | Large | Beast | Unaligned | 50 XP | – | MM 336 |
 | CR ¼ | Ox | Large | Beast | Unaligned | 50 XP | – | VGtM 207 |
@@ -82,34 +85,52 @@ Abbreviations:
 | CR ¼ | Rothé, deep | Med. | Beast | Unaligned | 50 XP | – | VGtM 207 |
 | CR ¼ | Wolf | Med. | Beast | Unaligned | 50 XP | – | MM 341 |
 | CR ½ | Beetle swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
+| CR ½ | Blight, vine | Med. | Plant | Neutral evil | 100 XP | – | MM 32 |
 | CR ½ | Centipede swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR ½ | Goat, giant | Large | Beast | Unaligned | 100 XP | – | MM 326 |
 | CR ½ | Horse, warhorse | Large | Beast | Unaligned | 100 XP | – | MM 340 |
+| CR ½ | Rust monster | Med. | Monstr. | Unaligned | 100 XP | – | MM 262 |
 | CR 1 | Dinosaur, deinonychus | Med. | Beast | Unaligned | 200 XP | – | VGtM 139 |
+| CR 1 | Dog, death | Med. | Monstr. | Neutral evil | 200 XP | – | MM 321 |
 | CR 1 | Hyena, giant | Large | Beast | Unaligned | 200 XP | – | MM 326 |
 | CR 1 | Lion | Large | Beast | Unaligned | 200 XP | – | MM 331 |
+| CR 1 | Strider, giant | Large | Monstr. | Neutral evil | 200 XP | – | VGtM 143 |
 | CR 1 | Tiger | Large | Beast | Unaligned | 200 XP | – | MM 339 |
 | CR 1 | Wolf, dire | Large | Beast | Unaligned | 200 XP | – | MM 321 |
 | CR 2 | Aurochs | Large | Beast | Unaligned | 450 XP | – | VGtM 207 |
 | CR 2 | Bear, cave | Large | Beast | Unaligned | 450 XP | – | MM 334 |
 | CR 2 | Boar, giant | Large | Beast | Unaligned | 450 XP | – | MM 323 |
 | CR 2 | Dinosaur, allosaurus | Large | Beast | Unaligned | 450 XP | – | MM 79 |
+| CR 2 | Dog, mastiff, shadow | Med. | Monstr. | Neutral evil | 450 XP | – | VGtM 190 |
 | CR 2 | Elk, giant | Huge | Beast | Unaligned | 450 XP | – | MM 325 |
+| CR 2 | Mimic (shapech.) | Med. | Monstr. | True neutral | 450 XP | – | MM 220 |
 | CR 2 | Rhinoceros | Large | Beast | Unaligned | 450 XP | – | MM 336 |
 | CR 2 | Tiger, saber-toothed | Large | Beast | Unaligned | 450 XP | – | MM 336 |
+| CR 2 | Guard drake, white | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
+| CR 2 | Guard drake, black | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
+| CR 2 | Guard drake, green | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
+| CR 2 | Guard drake, blue | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
+| CR 2 | Guard drake, red | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
+| CR 3 | Basilisk | Med. | Monstr. | Unaligned | 700 XP | – | MM 24 |
 | CR 3 | Dinosaur, ankylosaurus | Huge | Beast | Unaligned | 700 XP | – | MM 79 |
+| CR 3 | Dog, mastiff, shadow, alpha | Med. | Monstr. | Neutral evil | 700 XP | – | VGtM 190 |
+| CR 3 | Owlbear | Large | Monstr. | Unaligned | 700 XP | – | MM 249 |
 | CR 3 | Scorpion, giant | Large | Beast | Unaligned | 700 XP | – | MM 327 |
 | CR 4 | Dinosaur, stegosaurus | Huge | Beast | Unaligned | 1,100 XP | – | VGtM 140 |
 | CR 4 | Elephant | Huge | Beast | Unaligned | 1,100 XP | – | MM 322 |
+| CR 5 | Catoblepas | Large | Monstr. | Unaligned | 1,800 XP | – | VGtM 129 |
 | CR 5 | Dinosaur, brontosaurus | Garg. | Beast | Unaligned | 1,800 XP | – | VGtM 139 |
 | CR 5 | Dinosaur, triceratops | Huge | Beast | Unaligned | 1,800 XP | – | MM 80 |
+| CR 5 | Gorgon | Large | Monstr. | Unaligned | 1,800 XP | – | MM 171 |
 | CR 5 | Rat, cranium, swarm (spells) | Med. | Beast | Lawful evil | 1,800 XP | – | VGtM 133 |
 | CR 6 | Mammoth | Huge | Beast | Unaligned | 2,300 XP | – | MM 332 |
 | CR 8 | Dinosaur, tyrannosaurus rex | Huge | Beast | Unaligned | 3,900 XP | – | MM 80 |
+| CR 12 | Gray render | Large | Monstr. | Chaotic neutral | 8,400 XP | – | MToF 209 |
+| CR 30 | Tarrasque (legend.) | Garg. | Monstr. | Unaligned | 155,000 XP | – | MM 286 |
 
-[^ Back to Beasts](#beasts)
+[^ Back to Beastlike Monsters](#beastlike-monsters)
 
-### Beasts: Climbing Beasts
+## Beastlike Monsters: Beastlike Climbing Monsters
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Baboon | Small | Beast | Unaligned | 10 XP | – | MM 318 |
@@ -122,15 +143,35 @@ Abbreviations:
 | CR ¼ | Spider, wolf, giant | Med. | Beast | Unaligned | 50 XP | – | MM 330 |
 | CR ½ | Ape | Med. | Beast | Unaligned | 100 XP | – | MM 317 |
 | CR ½ | Bear, black | Med. | Beast | Unaligned | 100 XP | – | MM 318 |
+| CR ½ | Roper piercer | Med. | Monstr. | Unaligned | 100 XP | – | MM 252 |
 | CR ½ | Rot grub swarm | Med. | Beast | Unaligned | 100 XP | – | VGtM 208 |
 | CR ½ | Spider swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR 1 | Bear, brown | Large | Beast | Unaligned | 200 XP | – | MM 319 |
 | CR 1 | Spider, giant | Large | Beast | Unaligned | 200 XP | – | MM 328 |
+| CR 2 | Carrion crawler | Large | Monstr. | Unaligned | 450 XP | – | MM 37 |
+| CR 2 | Grick | Med. | Monstr. | True neutral | 450 XP | – | MM 173 |
+| CR 3 | Cave fisher | Med. | Monstr. | Unaligned | 700 XP | – | VGtM 130 |
+| CR 3 | Spider, phase | Large | Monstr. | Unaligned | 700 XP | – | MM 334 |
+| CR 3 | Trapper | Large | Monstr. | Unaligned | 700 XP | – | VGtM 194 |
+| CR 4 | Girallon | Large | Monstr. | Unaligned | 1,100 XP | – | VGtM 152 |
+| CR 5 | Roper | Large | Monstr. | Neutral evil | 1,800 XP | – | MM 261 |
 | CR 7 | Ape, giant | Huge | Beast | Unaligned | 2,900 XP | – | MM 323 |
+| CR 7 | Grick, alpha | Large | Monstr. | True neutral | 2,900 XP | – | MM 173 |
 
-[^ Back to Beasts](#beasts)
+[^ Back to Beastlike Monsters](#beastlike-monsters)
 
-### Beasts: Swimming Beasts
+## Beastlike Monsters: Beastlike Burrowing Monsters
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 2 | Ankheg | Large | Monstr. | Unaligned | 450 XP | – | MM 21 |
+| CR 5 | Bulette | Large | Monstr. | Unaligned | 1,800 XP | – | MM 34 |
+| CR 5 | Remorhaz, young | Large | Monstr. | Unaligned | 1,800 XP | – | MM 258 |
+| CR 11 | Remorhaz | Huge | Monstr. | Unaligned | 7,200 XP | – | MM 258 |
+| CR 15 | Purple worm | Garg. | Monstr. | Unaligned | 13,000 XP | – | MM 255 |
+
+[^ Back to Beastlike Monsters](#beastlike-monsters)
+
+## Beastlike Monsters: Beastlike Swimming Monsters
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Crab | Tiny | Beast | Unaligned | 10 XP | – | MM 320 |
@@ -158,11 +199,14 @@ Abbreviations:
 | CR 2 | Snake, poisonous, swarm | Med. | Beast | Unaligned | 450 XP | – | MM 338 |
 | CR 3 | Killer whale | Huge | Beast | Unaligned | 700 XP | – | MM 331 |
 | CR 5 | Crocodile, giant | Huge | Beast | Unaligned | 1,800 XP | – | MM 324 |
+| CR 5 | Shambling mound | Large | Plant | Unaligned | 1,800 XP | 27 gp | MM 270 |
 | CR 5 | Shark, giant | Huge | Beast | Unaligned | 1,800 XP | – | MM 328 |
+| CR 8 | Hydra | Huge | Monstr. | Unaligned | 3,900 XP | – | MM 190 |
+| CR 10 | Froghemoth | Huge | Monstr. | Unaligned | 5,900 XP | – | VGtM 145 |
 
-[^ Back to Beasts](#beasts)
+[^ Back to Beastlike Monsters](#beastlike-monsters)
 
-### Beasts: Flying Beasts
+## Beastlike Monsters: Beastlike Flying Monsters
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Bat | Tiny | Beast | Unaligned | 10 XP | – | MM 318 |
@@ -178,95 +222,17 @@ Abbreviations:
 | CR ¼ | Bat, giant | Large | Beast | Unaligned | 50 XP | – | MM 323 |
 | CR ¼ | Dinosaur, pteranodon | Med. | Beast | Unaligned | 50 XP | – | MM 80 |
 | CR ¼ | Owl, giant | Large | Beast | True neutral | 50 XP | – | MM 327 |
-| CR ¼ | Raven swarm | Med. | Beast | Unaligned | 50 XP | – | MM 339 |
-| CR ½ | Wasp swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
-| CR ½ | Wasp, giant | Med. | Beast | Unaligned | 100 XP | – | MM 329 |
-| CR 1 | Eagle, giant | Large | Beast | Neutral good | 200 XP | – | MM 324 |
-| CR 1 | Vulture, giant | Large | Beast | Neutral evil | 200 XP | – | MM 329 |
-| CR 2 | Dinosaur, quetzalcoatlus | Huge | Beast | Unaligned | 450 XP | – | VGtM 140 |
-
-[^ Back to Beasts](#beasts)
-
-## Beastlike Monsters
-* [Beastlike Land Monsters](#beastlike-monsters-beastlike-land-monsters)
-* [Beastlike Climbing Monsters](#beastlike-monsters-beastlike-climbing-monsters)
-* [Beastlike Burrowing Monsters](#beastlike-monsters-beastlike-burrowing-monsters)
-* [Beastlike Swimming Monsters](#beastlike-monsters-beastlike-swimming-monsters)
-* [Beastlike Flying Monsters](#beastlike-monsters-beastlike-flying-monsters)
-
-[^ Back to Top](#monsters)
-
-## Beastlike Monsters: Beastlike Land Monsters
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 0 | Fungus, shrieker | Med. | Plant | Unaligned | 10 XP | – | MM 138 |
-| CR ⅛ | Blight, twig | Small | Plant | Neutral evil | 25 XP | – | MM 32 |
-| CR ¼ | Blight, needle | Med. | Plant | Neutral evil | 50 XP | – | MM 32 |
-| CR ¼ | Fungus, violet | Med. | Plant | Unaligned | 50 XP | – | MM 138 |
-| CR ½ | Blight, vine | Med. | Plant | Neutral evil | 100 XP | – | MM 32 |
-| CR ½ | Rust monster | Med. | Monstr. | Unaligned | 100 XP | – | MM 262 |
-| CR 1 | Dog, death | Med. | Monstr. | Neutral evil | 200 XP | – | MM 321 |
-| CR 1 | Strider, giant | Large | Monstr. | Neutral evil | 200 XP | – | VGtM 143 |
-| CR 2 | Dog, mastiff, shadow | Med. | Monstr. | Neutral evil | 450 XP | – | VGtM 190 |
-| CR 2 | Mimic (shapech.) | Med. | Monstr. | True neutral | 450 XP | – | MM 220 |
-| CR 2 | Guard drake, white | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
-| CR 2 | Guard drake, black | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
-| CR 2 | Guard drake, green | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
-| CR 2 | Guard drake, blue | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
-| CR 2 | Guard drake, red | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
-| CR 3 | Basilisk | Med. | Monstr. | Unaligned | 700 XP | – | MM 24 |
-| CR 3 | Dog, mastiff, shadow, alpha | Med. | Monstr. | Neutral evil | 700 XP | – | VGtM 190 |
-| CR 3 | Owlbear | Large | Monstr. | Unaligned | 700 XP | – | MM 249 |
-| CR 5 | Catoblepas | Large | Monstr. | Unaligned | 1,800 XP | – | VGtM 129 |
-| CR 5 | Gorgon | Large | Monstr. | Unaligned | 1,800 XP | – | MM 171 |
-| CR 12 | Gray render | Large | Monstr. | Chaotic neutral | 8,400 XP | – | MToF 209 |
-| CR 30 | Tarrasque (legend.) | Garg. | Monstr. | Unaligned | 155,000 XP | – | MM 286 |
-
-[^ Back to Beastlike Monsters](#beastlike-monsters)
-
-## Beastlike Monsters: Beastlike Climbing Monsters
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ½ | Roper piercer | Med. | Monstr. | Unaligned | 100 XP | – | MM 252 |
-| CR 2 | Carrion crawler | Large | Monstr. | Unaligned | 450 XP | – | MM 37 |
-| CR 2 | Grick | Med. | Monstr. | True neutral | 450 XP | – | MM 173 |
-| CR 3 | Cave fisher | Med. | Monstr. | Unaligned | 700 XP | – | VGtM 130 |
-| CR 3 | Spider, phase | Large | Monstr. | Unaligned | 700 XP | – | MM 334 |
-| CR 3 | Trapper | Large | Monstr. | Unaligned | 700 XP | – | VGtM 194 |
-| CR 4 | Girallon | Large | Monstr. | Unaligned | 1,100 XP | – | VGtM 152 |
-| CR 5 | Roper | Large | Monstr. | Neutral evil | 1,800 XP | – | MM 261 |
-| CR 7 | Grick, alpha | Large | Monstr. | True neutral | 2,900 XP | – | MM 173 |
-
-[^ Back to Beastlike Monsters](#beastlike-monsters)
-
-## Beastlike Monsters: Beastlike Burrowing Monsters
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 2 | Ankheg | Large | Monstr. | Unaligned | 450 XP | – | MM 21 |
-| CR 5 | Bulette | Large | Monstr. | Unaligned | 1,800 XP | – | MM 34 |
-| CR 5 | Remorhaz, young | Large | Monstr. | Unaligned | 1,800 XP | – | MM 258 |
-| CR 11 | Remorhaz | Huge | Monstr. | Unaligned | 7,200 XP | – | MM 258 |
-| CR 15 | Purple worm | Garg. | Monstr. | Unaligned | 13,000 XP | – | MM 255 |
-
-[^ Back to Beastlike Monsters](#beastlike-monsters)
-
-## Beastlike Monsters: Beastlike Swimming Monsters
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 5 | Shambling mound | Large | Plant | Unaligned | 1,800 XP | 27 gp | MM 270 |
-| CR 8 | Hydra | Huge | Monstr. | Unaligned | 3,900 XP | – | MM 190 |
-| CR 10 | Froghemoth | Huge | Monstr. | Unaligned | 5,900 XP | – | VGtM 145 |
-
-[^ Back to Beastlike Monsters](#beastlike-monsters)
-
-## Beastlike Monsters: Beastlike Flying Monsters
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Pseudodragon | Tiny | Dragon | Neutral good | 50 XP | – | MM 254 |
+| CR ¼ | Raven swarm | Med. | Beast | Unaligned | 50 XP | – | MM 339 |
 | CR ½ | Cockatrice | Small | Monstr. | Unaligned | 100 XP | – | MM 42 |
 | CR ½ | Darkmantle | Small | Monstr. | Unaligned | 100 XP | – | MM 46 |
 | CR ½ | Fungus, gas spore | Large | Plant | Unaligned | 100 XP | – | MM 138 |
+| CR ½ | Wasp swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
+| CR ½ | Wasp, giant | Med. | Beast | Unaligned | 100 XP | – | MM 329 |
+| CR 1 | Eagle, giant | Large | Beast | Neutral good | 200 XP | – | MM 324 |
 | CR 1 | Hippogriff | Large | Monstr. | Unaligned | 200 XP | – | MM 184 |
+| CR 1 | Vulture, giant | Large | Beast | Neutral evil | 200 XP | – | MM 329 |
+| CR 2 | Dinosaur, quetzalcoatlus | Huge | Beast | Unaligned | 450 XP | – | VGtM 140 |
 | CR 2 | Griffon | Large | Monstr. | Unaligned | 450 XP | – | MM 174 |
 | CR 6 | Chimera | Large | Monstr. | Chaotic evil | 2,300 XP | – | MM 39 |
 | CR 6 | Wyvern | Large | Dragon | Unaligned | 2,300 XP | – | MM 303 |
