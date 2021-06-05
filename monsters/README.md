@@ -24,7 +24,7 @@
 * [Fey](#fey)
   * [Hags](#fey-hags), [Eladrin](#fey-eladrin), [Miscellaneous Fey](#fey-miscellaneous-fey)
 * [Elementals](#elementals)
-* [Air Elementals](#elementals-air-elementals), [Water Elementals](#elementals-water-elementals), [Earth Elementals](#elementals-earth-elementals), [Fire Elementals](#elementals-fire-elementals), [Miscellaneous Elementals](#elementals-miscellaneous-elementals)
+  * [Air Elementals](#elementals-air-elementals), [Water Elementals](#elementals-water-elementals), [Earth Elementals](#elementals-earth-elementals), [Fire Elementals](#elementals-fire-elementals), [Miscellaneous Elementals](#elementals-miscellaneous-elementals)
 * [Celestials](#celestials)
 * [Fiends](#fiends)
   * [Demons](#fiends-demons), [Devils](#fiends-devils), [Abishai](#fiends-abishai), [Yugoloths](#fiends-yugoloths), [Miscellaneous Fiends](#fiends-miscellaneous-fiends)
