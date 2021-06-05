@@ -7,6 +7,8 @@
   * [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
 * [Environments](#environments)
   * [Jumping](#environment-jumping), [Cover](#environment-cover), [Concealment](#environment-concealment), [Light](#environment-light), [Mounted Combat](#environment-mounted-combat), [Underwater Combat](#environment-underwater-combat)
+* [Spellcasting Services](#spellcasting-services)
+  * [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
@@ -617,3 +619,112 @@
 * Creatures and objects that are fully immersed in water have resistance to fire damage.
 
 [^ Back to Environments](#environments)
+
+## Spellcasting Services
+* [Wellness](#spellcasting-services-wellness)
+* [Healing](#spellcasting-services-healing)
+* [Resurrection](#spellcasting-services-resurrection)
+* [Security](#spellcasting-services-security)
+* [Communication](#spellcasting-services-communication)
+* [Transportation](#spellcasting-services-transportation)
+* [Surveillance](#spellcasting-services-surveillance)
+
+[^ Back to Top](#adventuring)
+
+### Spellcasting Services: Wellness
+| Spell | Spell Slot | Spellcaster | Price |
+| :---- | :--------- | :---------: | ----: |
+| Detect poison and disease | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
+| Goodberry | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
+| Lesser restoration | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
+| Create food and water | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
+| Dispel magic | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
+| Remove curse | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
+| Dispel evil and good | 5th-level spell slot | 9th-level spellcaster | 25 pp |
+| Greater restoration | 5th-level spell slot | 9th-level spellcaster | 45 pp |
+
+[^ Back to Spellcasting Services](#spellcasting-services)
+
+### Spellcasting Services: Healing
+| Spell | Spell Slot | Spellcaster | Price |
+| :---- | :--------- | :---------: | ----: |
+| Cure wounds | 1st-level spell slot | 1st-level spellcaster | 1 pp |
+| Cure wounds | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
+| Prayer of healing | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
+| Cure wounds | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
+| Prayer of healing | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
+| Cure wounds | 4th-level spell slot | 7th-level spellcaster | 16 pp |
+| Prayer of healing | 4th-level spell slot | 7th-level spellcaster | 16 pp |
+| Cure wounds | 5th-level spell slot | 9th-level spellcaster | 25 pp |
+| Prayer of healing | 5th-level spell slot | 9th-level spellcaster | 25 pp |
+| Heal | 6th-level spell slot | 11th-level spellcaster | 36 pp |
+| Prayer of healing | 6th-level spell slot | 11th-level spellcaster | 36 pp |
+| Heal | 7th-level spell slot | 13th-level spellcaster | 49 pp |
+| Prayer of healing | 7th-level spell slot | 13th-level spellcaster | 49 pp |
+| Heal | 8th-level spell slot | 15th-level spellcaster | 64 pp |
+| Prayer of healing | 8th-level spell slot | 15th-level spellcaster | 64 pp |
+| Mass heal | 9th-level spell slot | 17th-level spellcaster | 81 pp |
+
+[^ Back to Spellcasting Services](#spellcasting-services)
+
+### Spellcasting Services: Resurrection
+| Spell | Spell Slot | Spellcaster | Price |
+| :---- | :--------- | :---------: | ----: |
+| Revivify | 3rd-level spell slot | 5th-level spellcaster | 69 pp |
+| Raise dead | 5th-level spell slot | 9th-level spellcaster | 130 pp |
+| Reincarnate | 5th-level spell slot | 9th-level spellcaster | 230 pp |
+| Resurrection | 7th-level spell slot | 13th-level spellcaster | 250 pp |
+| Clone | 8th-level spell slot | 15th-level spellcaster | 280 pp |
+| True resurrection | 9th-level spell slot | 17th-level spellcaster | 5,100 pp |
+
+[^ Back to Spellcasting Services](#spellcasting-services)
+
+### Spellcasting Services: Security
+| Spell | Spell Slot | Spellcaster | Price |
+| :---- | :--------- | :---------: | ----: |
+| Alarm | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
+| Arcane lock | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
+| Continual flame | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
+| Animate dead | 3rd-level spell slot | 5th-level spellcaster | 10 pp |
+| Guards and wards | 6th-level spell slot | 11th-level spellcaster | 36 pp |
+| Forbiddance | 6th-level spell slot or ritual | 11th-level spellcaster | 46 pp |
+
+[^ Back to Spellcasting Services](#spellcasting-services)
+
+### Spellcasting Services: Communication
+| Spell | Spell Slot | Spellcaster | Price |
+| :---- | :--------- | :---------: | ----: |
+| Message | Cantrip spell slot | 1st-level spellcaster | 5 gp |
+| Detect thoughts | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
+| Zone of truth | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
+| Sending | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
+| Speak with dead | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
+| Dream | 5th-level spell slot | 9th-level spellcaster | 26 pp |
+
+[^ Back to Spellcasting Services](#spellcasting-services)
+
+### Spellcasting Services: Transportation
+| Spell | Spell Slot | Spellcaster | Price |
+| :---- | :--------- | :---------: | ----: |
+| Teleportation circle | 5th-level spell slot | 9th-level spellcaster | 35 pp |
+| Permanent teleportation circle | 5th-level spell slot | 9th-level spellcaster | 13,000 pp |
+| Transport via plants | 6th-level spell slot | 11th-level spellcaster | 36 pp |
+| Teleport | 7th-level spell slot | 13th-level spellcaster | 49 pp |
+| Plane shift | 7th-level spell slot | 13th-level spellcaster | 52 pp |
+| Gate | 9th-level spell slot | 17th-level spellcaster | 130 pp |
+
+[^ Back to Spellcasting Services](#spellcasting-services)
+
+### Spellcasting Services: Surveillance
+| Spell | Spell Slot | Spellcaster | Price |
+| :---- | :--------- | :---------: | ----: |
+| Identify | 1st-level spell slot or ritual | 1st-level spellcaster | 2 pp |
+| Locate object | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
+| Clairvoyance | 3rd-level spell slot | 5th-level spellcaster | 10 pp |
+| Locate creature | 4th-level spell slot | 7th-level spellcaster | 17 pp |
+| Divination | 4th-level spell slot or ritual | 7th-level spellcaster | 21 pp |
+| Commune | 5th-level spell slot or ritual | 9th-level spellcaster | 26 pp |
+| Scrying | 5th-level spell slot | 9th-level spellcaster | 35 pp |
+| Contact other plane | 5th-level spell slot or ritual | 9th-level spellcaster | 50 pp |
+
+[^ Back to Spellcasting Services](#spellcasting-services)
