@@ -3,20 +3,20 @@
   * [Land Beasts](#beasts-land-beasts), [Climbing Beasts](#beasts-climbing-beasts), [Swimming Beasts](#beasts-swimming-beasts), [Flying Beasts](#beasts-flying-beasts)
 * [Beastlike Monsters](#beastlike-monsters)
   * [Beastlike Land Monsters](#beastlike-monsters-beastlike-land-monsters), [Beastlike Climbing Monsters](#beastlike-monsters-beastlike-climbing-monsters), [Beastlike Burrowing Monsters](#beastlike-monsters-beastlike-burrowing-monsters), [Beastlike Swimming Monsters](#beastlike-monsters-beastlike-swimming-monsters), [Beastlike Flying Monsters](#beastlike-monsters-beastlike-flying-monsters)
-* [Common Humanoids](#common-humanoids)
-  * [Humans](#common-humanoids-humans), [Elves](#common-humanoids-elves), [Dwarves](#common-humanoids-dwarves)
-* [Land Humanoids](#land-humanoids)
-  * [Kobolds](#land-humanoids-kobolds), [Firenewts](#land-humanoids-firenewts), [Goblins](#land-humanoids-goblins), [Bugbears](#land-humanoids-bugbears), [Hobgoblins](#land-humanoids-hobgoblins), [Orcs](#land-humanoids-orcs), [Gnolls](#land-humanoids-gnolls), [Lycanthropes](#land-humanoids-lycanthropes), [Half-Dragons](#land-humanoids-half-dragons), [Shadar-kai](#land-humanoids-shadar-kai), [Githyanki](#land-humanoids-githyanki), [Githzerai](#land-humanoids-githzerai), [Miscellaneous Land Humanoids](#land-humanoids-miscellaneous-land-humanoids)
+* [Land Humanoids](#common-humanoids)
+  * [Humans](#land-humanoids-humans), [Dwarves](#land-humanoids-dwarves), [Elves](#land-humanoids-elves), [Kobolds](#land-humanoids-kobolds), [Goblinoids](#land-humanoids-goblinoids), [Orcs](#land-humanoids-orcs), [Gnolls](#land-humanoids-gnolls), [Lycanthropes](#land-humanoids-lycanthropes), [Miscellaneous Land Humanoids](#land-humanoids-miscellaneous-land-humanoids)
 * [Aquatic Humanoids](#aquatic-humanoids)
   * [Grungs](#aquatic-humanoids-grungs), [Kuo-toa](#aquatic-humanoids-kuo-toa), [Lizardfolk](#aquatic-humanoids-lizardfolk), [Sahuagin](#aquatic-humanoids-sahuagin), [Miscellaneous Aquatic Humanoids](#aquatic-humanoids-miscellaneous-aquatic-humanoids)
 * [Underdark Humanoids](#underdark-humanoids)
-  * [Duergar](#aquatic-humanoids-duergar), [Drow](#aquatic-humanoids-drow), [Miscellaneous Underdark Humanoids](#underdark-humanoids-miscellaneous-underdark-humanoids)
+  * [Duergar](#underdark-humanoids-duergar), [Drow](#underdark-humanoids-drow), [Miscellaneous Underdark Humanoids](#underdark-humanoids-miscellaneous-underdark-humanoids)
+* [Planar Humanoids](#planar-humanoids)
+  * [Shadar-kai](#planar-humanoids-shadar-kai), [Githyanki](#planar-humanoids-githyanki), [Githzerai](#planar-humanoids-githzerai)
 * [Giants](#giants)
   * [Ogres](#giants-ogres), [Trolls](#giants-trolls), [Miscellaneous Giants](#giants-miscellaneous-giants), [Original Giants](#giants-original-giants)
 * [Sentient Monsters](#sentient-monsters)
   * [Myconids](#sentient-monsters-myconids), [Vegepygmies](#sentient-monsters-vegepygmies), [Kruthiks](#sentient-monsters-kruthiks), [Yuan-ti](#sentient-monsters-yuan-ti), [Nagas](#sentient-monsters-nagas), [Sorrowsworn](#sentient-monsters-sorrowsworn), [Sphinxes](#sentient-monsters-sphinxes), [Miscellaneous Sentient Monsters](#sentient-monsters-miscellaneous-sentient-monsters)
 * [Undead](#undead)
-  * [Undead Thralls](#undead-undead-thralls), [Spectral Undead](#undead-spectral-undead), [Corporeal Undead](#undead-corporeal-undead)
+  * [Thralls](#undead-thralls), [Spirits](#undead-spirits), [Vampires](#undead-vampires), [Miscellaneous Undead](#undead-miscellaneous-undead)
 * [Constructs](#constructs)
   * [Animated Objects](#constructs-animated-objects), [Instinctive Constructs](#constructs-instinctive-constructs), [Sentient Constructs](#constructs-sentient-constructs), [Mechanus Constructs](#constructs-mechanus-constructs)
 * [Dragons](#dragons)
@@ -103,7 +103,7 @@ Abbreviations:
 | CR 4 | Elephant | Huge | Beast | Unaligned | 1,100 XP | – | MM 322 |
 | CR 5 | Dinosaur, brontosaurus | Garg. | Beast | Unaligned | 1,800 XP | – | VGtM 139 |
 | CR 5 | Dinosaur, triceratops | Huge | Beast | Unaligned | 1,800 XP | – | MM 80 |
-| CR 5 | Rat, cranium, swarm (spellcaster) | Med. | Beast | Lawful evil | 1,800 XP | – | VGtM 133 |
+| CR 5 | Rat, cranium, swarm (spells) | Med. | Beast | Lawful evil | 1,800 XP | – | VGtM 133 |
 | CR 6 | Mammoth | Huge | Beast | Unaligned | 2,300 XP | – | MM 332 |
 | CR 8 | Dinosaur, tyrannosaurus rex | Huge | Beast | Unaligned | 3,900 XP | – | MM 80 |
 
@@ -206,8 +206,9 @@ Abbreviations:
 | CR ½ | Blight, vine | Med. | Plant | Neutral evil | 100 XP | – | MM 32 |
 | CR ½ | Rust monster | Med. | Monstr. | Unaligned | 100 XP | – | MM 262 |
 | CR 1 | Dog, death | Med. | Monstr. | Neutral evil | 200 XP | – | MM 321 |
+| CR 1 | Strider, giant | Large | Monstr. | Neutral evil | 200 XP | – | VGtM 143 |
 | CR 2 | Dog, mastiff, shadow | Med. | Monstr. | Neutral evil | 450 XP | – | VGtM 190 |
-| CR 2 | Mimic (shapechanger) | Med. | Monstr. | True neutral | 450 XP | – | MM 220 |
+| CR 2 | Mimic (shapech.) | Med. | Monstr. | True neutral | 450 XP | – | MM 220 |
 | CR 2 | Guard drake, white | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
 | CR 2 | Guard drake, black | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
 | CR 2 | Guard drake, green | Med. | Dragon | Unaligned | 450 XP | – | VGtM 158 |
@@ -219,7 +220,7 @@ Abbreviations:
 | CR 5 | Catoblepas | Large | Monstr. | Unaligned | 1,800 XP | – | VGtM 129 |
 | CR 5 | Gorgon | Large | Monstr. | Unaligned | 1,800 XP | – | MM 171 |
 | CR 12 | Gray render | Large | Monstr. | Chaotic neutral | 8,400 XP | – | MToF 209 |
-| CR 30 | Tarrasque (legendary) | Garg. | Monstr. | Unaligned | 155,000 XP | – | MM 286 |
+| CR 30 | Tarrasque (legend.) | Garg. | Monstr. | Unaligned | 155,000 XP | – | MM 286 |
 
 [^ Back to Beastlike Monsters](#beastlike-monsters)
 
@@ -270,18 +271,24 @@ Abbreviations:
 | CR 6 | Chimera | Large | Monstr. | Chaotic evil | 2,300 XP | – | MM 39 |
 | CR 6 | Wyvern | Large | Dragon | Unaligned | 2,300 XP | – | MM 303 |
 | CR 11 | Roc | Garg. | Monstr. | Unaligned | 7,200 XP | – | MM 260 |
-| CR 21 | Astral dreadnought (legendary) | Garg. | Monstr. | Unaligned | 33,000 XP | – | MToF 117 |
+| CR 21 | Astral dreadnought (legend.) | Garg. | Monstr. | Unaligned | 33,000 XP | – | MToF 117 |
 
 [^ Back to Beastlike Monsters](#beastlike-monsters)
 
-## Common Humanoids
-* [Humans](#common-humanoids-humans)
-* [Elves](#common-humanoids-elves)
-* [Dwarves](#common-humanoids-dwarves)
+## Land Humanoids
+* [Humans](#land-humanoids-humans)
+* [Dwarves](#land-humanoids-dwarves)
+* [Elves](#land-humanoids-elves)
+* [Kobolds](#land-humanoids-kobolds)
+* [Goblinoids](#land-humanoids-goblinoids)
+* [Orcs](#land-humanoids-orcs)
+* [Gnolls](#land-humanoids-gnolls)
+* [Lycanthropes](#land-humanoids-lycantropes)
+* [Miscellaneous Land Humanoids](#land-humanoids-miscellaneous-land-humanoids)
 
 [^ Back to Top](#monsters)
 
-### Common Humanoids: Humans
+### Land Humanoids: Humans
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Human commoner | Med. | Human. | Any | 10 XP | 20 cp | MM 344 |
@@ -290,58 +297,48 @@ Abbreviations:
 | CR ⅛ | Human guard | Med. | Human. | Any | 25 XP | 50 cp | MM 347 |
 | CR ⅛ | Human noble | Med. | Human. | Any | 25 XP | 50 cp | MM 348 |
 | CR ⅛ | Human tribal warrior | Med. | Human. | Any | 25 XP | 50 cp | MM 350 |
-| CR ¼ | Human acolyte (spellcaster) | Med. | Human. | Any | 50 XP | 10 sp | MM 342 |
-| CR ¼ | Human apprentice wizard (spellcaster) | Med. | Human. | Any | 50 XP | 10 sp | VGtM 209 |
+| CR ¼ | Human acolyte (spells) | Med. | Human. | Any | 50 XP | 10 sp | MM 342 |
+| CR ¼ | Human apprentice wizard (spells) | Med. | Human. | Any | 50 XP | 10 sp | VGtM 209 |
 | CR ½ | Human scout | Med. | Human. | Any | 100 XP | 20 sp | MM 349 |
 | CR ½ | Human thug | Med. | Human. | Any | 100 XP | 20 sp | MM 350 |
 | CR 1 | Human spy | Med. | Human. | Any | 200 XP | 40 sp | MM 349 |
 | CR 2 | Human bandit captain | Med. | Human. | Any non-lawful | 450 XP | 80 sp | MM 344 |
-| CR 2 | Human bard (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | VGtM 211 |
+| CR 2 | Human bard (spells) | Med. | Human. | Any | 450 XP | 80 sp | VGtM 211 |
 | CR 2 | Human berserker | Med. | Human. | Any chaotic | 450 XP | 80 sp | MM 344 |
-| CR 2 | Human cultist fanatic (spellcaster) | Med. | Human. | Any non-good | 450 XP | 80 sp | MM 345 |
-| CR 2 | Human druid (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | MM 346 |
-| CR 2 | Human priest (spellcaster) | Med. | Human. | Any | 450 XP | 80 sp | MM 348 |
+| CR 2 | Human cultist fanatic (spells) | Med. | Human. | Any non-good | 450 XP | 80 sp | MM 345 |
+| CR 2 | Human druid (spells) | Med. | Human. | Any | 450 XP | 80 sp | MM 346 |
+| CR 2 | Human priest (spells) | Med. | Human. | Any | 450 XP | 80 sp | MM 348 |
 | CR 3 | Human archer | Med. | Human. | Any | 700 XP | 12 gp | VGtM 210 |
-| CR 3 | Human illusionist (spellcaster) | Med. | Human. | Any | 700 XP | 12 gp | VGtM 214 |
+| CR 3 | Human illusionist (spells) | Med. | Human. | Any | 700 XP | 12 gp | VGtM 214 |
 | CR 3 | Human knight | Med. | Human. | Any | 700 XP | 12 gp | MM 347 |
 | CR 3 | Human martial arts adept | Med. | Human. | Any | 700 XP | 12 gp | VGtM 216 |
 | CR 3 | Human swashbuckler | Med. | Human. | Any non-lawful | 700 XP | 12 gp | VGtM 217 |
 | CR 3 | Human veteran | Med. | Human. | Any | 700 XP | 12 gp | MM 350 |
-| CR 4 | Human warlock of the archfey (spellcaster) | Med. | Human. | Any | 1,100 XP | 18 gp | VGtM 219 |
-| CR 5 | Human enchanter (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 213 |
+| CR 4 | Human warlock of the archfey (spells) | Med. | Human. | Any | 1,100 XP | 18 gp | VGtM 219 |
+| CR 5 | Human enchanter (spells) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 213 |
 | CR 5 | Human gladiator | Med. | Human. | Any | 1,800 XP | 27 gp | MM 346 |
-| CR 5 | Human kraken priest (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 215 |
+| CR 5 | Human kraken priest (spells) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 215 |
 | CR 5 | Human master thief | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 216 |
-| CR 5 | Human transmuter (spellcaster) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 218 |
-| CR 6 | Human conjurer (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | VGtM 212 |
-| CR 6 | Human mage (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | MM 347 |
-| CR 6 | Human warlock of the great old one (spellcaster) | Med. | Human. | Any | 2,300 XP | 41 gp | VGtM 220 |
-| CR 7 | Human warlock of the fiend (spellcaster) | Med. | Human. | Any | 2,900 XP | 61 gp | VGtM 219 |
+| CR 5 | Human transmuter (spells) | Med. | Human. | Any | 1,800 XP | 27 gp | VGtM 218 |
+| CR 6 | Human conjurer (spells) | Med. | Human. | Any | 2,300 XP | 41 gp | VGtM 212 |
+| CR 6 | Human mage (spells) | Med. | Human. | Any | 2,300 XP | 41 gp | MM 347 |
+| CR 6 | Human warlock of the great old one (spells) | Med. | Human. | Any | 2,300 XP | 41 gp | VGtM 220 |
+| CR 7 | Human warlock of the fiend (spells) | Med. | Human. | Any | 2,900 XP | 61 gp | VGtM 219 |
 | CR 8 | Human assassin | Med. | Human. | Any non-good | 3,900 XP | 91 gp | MM 343 |
-| CR 8 | Human blackguard (spellcaster) | Med. | Human. | Any non-good | 3,900 XP | 91 gp | VGtM 211 |
-| CR 8 | Human diviner (spellcaster) | Med. | Human. | Any | 3,900 XP | 91 gp | VGtM 213 |
-| CR 9 | Human abjurer (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 209 |
+| CR 8 | Human blackguard (spells) | Med. | Human. | Any non-good | 3,900 XP | 91 gp | VGtM 211 |
+| CR 8 | Human diviner (spells) | Med. | Human. | Any | 3,900 XP | 91 gp | VGtM 213 |
+| CR 9 | Human abjurer (spells) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 209 |
 | CR 9 | Human champion | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 212 |
-| CR 9 | Human evoker (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 214 |
-| CR 9 | Human necromancer (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 217 |
-| CR 9 | Human war priest (spellcaster) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 218 |
-| CR 12 | Human archdruid (spellcaster) (shapechanger) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 210 |
-| CR 12 | Human archmage (spellcaster) | Med. | Human. | Any | 8,400 XP | 44 pp | MM 342 |
-| CR 12 | Human warlord (legendary) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 220 |
+| CR 9 | Human evoker (spells) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 214 |
+| CR 9 | Human necromancer (spells) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 217 |
+| CR 9 | Human war priest (spells) | Med. | Human. | Any | 5,000 XP | 14 pp | VGtM 218 |
+| CR 12 | Human archdruid (spells) (shapech.) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 210 |
+| CR 12 | Human archmage (spells) | Med. | Human. | Any | 8,400 XP | 44 pp | MM 342 |
+| CR 12 | Human warlord (legend.) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 220 |
 
-[^ Back to Common Humanoids](#common-humanoids)
+[^ Back to Land Humanoids](#land-humanoids)
 
-### Common Humanoids: Elves
-Elves use the same stat blocks as humans, with the following changes:
-* Keen Senses: Elves have proficiency in the Perception skill.
-* Darkvision: Elves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
-* Fey Ancestry: Elves have advantage on saving throws against being charmed, and magic can't put them to sleep.
-* Trance: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
-* Weapons: Elves favor swords (longsword, rapier, scimitar, shortsword, greatsword) and bows (longbow, shortbow) over other weapons.
-
-[^ Back to Common Humanoids](#common-humanoids)
-
-### Common Humanoids: Dwarves
+### Land Humanoids: Dwarves
 Dwarves use the same stat blocks as humans, with the following changes:
 * Speed: Dwarves have a base walking speed of 25 feet instead of 30 feet.
 * Darkvision: Dwarves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
@@ -350,24 +347,17 @@ Dwarves use the same stat blocks as humans, with the following changes:
 * Stonecunning: Whenever dwarves make an Intelligence (History) check related to the origin of stonework, they are considered to have expertise in the skill, adding double their proficiency bonus to the check.
 * Weapons: Dwarves favor hammers (warhammer, maul, mace, light hammer), axes (battleaxe, greataxe, handaxe), and crossbows (light crossbow, heavy crossbow, hand crossbow) over other weapons.
 
-[^ Back to Common Humanoids](#common-humanoids)
+[^ Back to Land Humanoids](#land-humanoids)
 
-## Land Humanoids
-* [Kobolds](#land-humanoids-kobolds)
-* [Firenewts](#land-humanoids-firenewts)
-* [Goblins](#land-humanoids-goblins)
-* [Bugbears](#land-humanoids-bugbears)
-* [Hobgoblins](#land-humanoids-hobgoblins)
-* [Orcs](#land-humanoids-orcs)
-* [Gnolls](#land-humanoids-gnolls)
-* [Lycanthropes](#land-humanoids-lycanthropes)
-* [Half-Dragons](#land-humanoids-half-dragons)
-* [Shadar-kai](#land-humanoids-shadar-kai)
-* [Githyanki](#land-humanoids-githyanki)
-* [Githzerai](#land-humanoids-githzerai)
-* [Miscellaneous Land Humanoids](#land-humanoids-miscellaneous-land-humanoids)
+### Land Humanoids: Elves
+Elves use the same stat blocks as humans, with the following changes:
+* Keen Senses: Elves have proficiency in the Perception skill.
+* Darkvision: Elves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
+* Fey Ancestry: Elves have advantage on saving throws against being charmed, and magic can't put them to sleep.
+* Trance: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
+* Weapons: Elves favor swords (longsword, rapier, scimitar, shortsword, greatsword) and bows (longbow, shortbow) over other weapons.
 
-[^ Back to Top](#monsters)
+[^ Back to Land Humanoids](#land-humanoids)
 
 ### Land Humanoids: Kobolds
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
@@ -376,44 +366,23 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR ¼ | Kobold inventor | Small | Human. | Lawful evil | 50 XP | 10 sp | VGtM 166 |
 | CR ¼ | Kobold, winged | Small | Human. | Lawful evil | 50 XP | 10 sp | MM 195 |
 | CR 1 | Kobold dragonshield | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 165 |
-| CR 1 | Kobold scale sorcerer (spellcaster) | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 167 |
+| CR 1 | Kobold scale sorcerer (spells) | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 167 |
 
 [^ Back to Land Humanoids](#land-humanoids)
 
-### Land Humanoids: Firenewts
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ½ | Firenewt warrior | Med. | Human. | Neutral evil | 100 XP | 20 sp | VGtM 142 |
-| CR 1 | Firenewt warlock of Imix (spellcaster) | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 143 |
-| CR 1 | Strider, giant | Large | Monstr. | Neutral evil | 200 XP | – | VGtM 143 |
-
-[^ Back to Land Humanoids](#land-humanoids)
-
-### Land Humanoids: Goblins
+### Land Humanoids: Goblinoids
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Goblin | Small | Human. | Neutral evil | 50 XP | 10 sp | MM 166 |
-| CR 1 | Goblin boss | Small | Human. | Neutral evil | 200 XP | 40 sp | MM 166 |
-| CR 1 | Goblin nilbog (spellcaster) | Small | Human. | Chaotic evil | 200 XP | 40 sp | VGtM 182 |
-| CR 4 | Goblin barghest (spellcaster) (shapechanger) | Large | Fiend | Neutral evil | 1,100 XP | – | VGtM 123 |
-
-[^ Back to Land Humanoids](#land-humanoids)
-
-### Land Humanoids: Bugbears
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 1 | Bugbear | Med. | Human. | Chaotic evil | 200 XP | 40 sp | MM 33 |
-| CR 3 | Bugbear chief | Med. | Human. | Chaotic evil | 700 XP | 12 gp | MM 33 |
-
-[^ Back to Land Humanoids](#land-humanoids)
-
-### Land Humanoids: Hobgoblins
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Hobgoblin | Med. | Human. | Lawful evil | 100 XP | 20 sp | MM 186 |
-| CR 2 | Hobgoblin iron shadow (spellcaster) | Med. | Human. | Lawful evil | 450 XP | 80 sp | VGtM 162 |
+| CR 1 | Bugbear | Med. | Human. | Chaotic evil | 200 XP | 40 sp | MM 33 |
+| CR 1 | Goblin boss | Small | Human. | Neutral evil | 200 XP | 40 sp | MM 166 |
+| CR 1 | Goblin nilbog (spells) | Small | Human. | Chaotic evil | 200 XP | 40 sp | VGtM 182 |
+| CR 2 | Hobgoblin iron shadow (spells) | Med. | Human. | Lawful evil | 450 XP | 80 sp | VGtM 162 |
+| CR 3 | Bugbear chief | Med. | Human. | Chaotic evil | 700 XP | 12 gp | MM 33 |
 | CR 3 | Hobgoblin captain | Med. | Human. | Lawful evil | 700 XP | 12 gp | MM 186 |
-| CR 4 | Hobgoblin devastator (spellcaster) | Med. | Human. | Lawful evil | 1,100 XP | 18 gp | VGtM 161 |
+| CR 4 | Goblin barghest (spells) (shapech.) | Large | Fiend | Neutral evil | 1,100 XP | – | VGtM 123 |
+| CR 4 | Hobgoblin devastator (spells) | Med. | Human. | Lawful evil | 1,100 XP | 18 gp | VGtM 161 |
 | CR 6 | Hobgoblin warlord | Med. | Human. | Lawful evil | 2,300 XP | 41 gp | MM 187 |
 
 [^ Back to Land Humanoids](#land-humanoids)
@@ -423,9 +392,9 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Orc | Med. | Human. | Chaotic evil | 100 XP | 20 sp | MM 246 |
 | CR ½ | Orc nurtured one of Yurtrus | Med. | Human. | Chaotic evil | 100 XP | – | VGtM 184 |
-| CR 2 | Orc claw of Luthic (spellcaster) | Med. | Human. | Chaotic evil | 450 XP | 80 sp | VGtM 183 |
-| CR 2 | Orc eye of Gruumsh (spellcaster) | Med. | Human. | Chaotic evil | 450 XP | 80 sp | MM 247 |
-| CR 2 | Orc hand of Yurtrus (spellcaster) | Med. | Human. | Chaotic evil | 450 XP | 80 sp | VGtM 184 |
+| CR 2 | Orc claw of Luthic (spells) | Med. | Human. | Chaotic evil | 450 XP | 80 sp | VGtM 183 |
+| CR 2 | Orc eye of Gruumsh (spells) | Med. | Human. | Chaotic evil | 450 XP | 80 sp | MM 247 |
+| CR 2 | Orc hand of Yurtrus (spells) | Med. | Human. | Chaotic evil | 450 XP | 80 sp | VGtM 184 |
 | CR 2 | Orc orog | Med. | Human. | Chaotic evil | 450 XP | 80 sp | MM 247 |
 | CR 3 | Orc red fang of Shargaas | Med. | Human. | Chaotic evil | 700 XP | 12 gp | VGtM 185 |
 | CR 4 | Orc blade of Ilneval | Med. | Human. | Chaotic evil | 1,100 XP | 18 gp | VGtM 183 |
@@ -450,52 +419,12 @@ Dwarves use the same stat blocks as humans, with the following changes:
 ### Land Humanoids: Lycanthropes
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 2 | Lycanthrope wererat (shapechanger) | Med. | Human. | Lawful evil | 450 XP | 80 sp | MM 209 |
-| CR 3 | Lycanthrope werewolf (shapechanger) | Med. | Human. | Chaotic evil | 700 XP | 12 gp | MM 211 |
-| CR 4 | Lycanthrope wereboar (shapechanger) | Med. | Human. | Neutral evil | 1,100 XP | 18 gp | MM 209 |
-| CR 4 | Lycanthrope weretiger (shapechanger) | Med. | Human. | True neutral | 1,100 XP | 18 gp | MM 210 |
-| CR 5 | Lycanthrope werebear (shapechanger) | Med. | Human. | Neutral good | 1,800 XP | 27 gp | MM 208 |
-
-[^ Back to Land Humanoids](#land-humanoids)
-
-### Land Humanoids: Half-Dragons
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 5 | Half-dragon, black, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-| CR 5 | Half-dragon, blue, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-| CR 5 | Half-dragon, green, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-| CR 5 | Half-dragon, red, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-| CR 5 | Half-dragon, white, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-
-[^ Back to Land Humanoids](#land-humanoids)
-
-### Land Humanoids: Shadar-kai
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 7 | Shadar-kai shadow dancer | Med. | Human. | True neutral | 2,900 XP | 61 gp | MToF 225 |
-| CR 9 | Shadar-kai gloom weaver (spellcaster) | Med. | Human. | True neutral | 5,000 XP | 14 pp | MToF 224 |
-| CR 11 | Shadar-kai soul monger (spellcaster) | Med. | Human. | True neutral | 7,200 XP | 30 pp | MToF 226 |
-
-[^ Back to Land Humanoids](#land-humanoids)
-
-### Land Humanoids: Githyanki
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 3 | Githyanki warrior (spellcaster) | Med. | Human. | Lawful evil | 700 XP | 12 gp | MM 160 |
-| CR 8 | Githyanki knight (spellcaster) | Med. | Human. | Lawful evil | 3,900 XP | 91 gp | MM 160 |
-| CR 10 | Githyanki gish (spellcaster) | Med. | Human. | Lawful evil | 5,900 XP | 20 pp | MToF 205 |
-| CR 12 | Githyanki kith'rak (spellcaster) | Med. | Human. | Lawful evil | 8,400 XP | 44 pp | MToF 205 |
-| CR 14 | Githyanki supreme commander (spellcaster) (legendary) | Med. | Human. | Lawful evil | 11,500 XP | 94 pp | MToF 206 |
-
-[^ Back to Land Humanoids](#land-humanoids)
-
-### Land Humanoids: Githzerai
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 2 | Githzerai monk (spellcaster) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MM 161 |
-| CR 6 | Githzerai zerth (spellcaster) | Med. | Human. | Lawful neutral | 2,300 XP | 41 gp | MM 161 |
-| CR 10 | Githzerai enlightened (spellcaster) | Med. | Human. | Lawful neutral | 5,900 XP | 20 pp | MToF 208 |
-| CR 16 | Githzerai anarch (spellcaster) (legendary) (lair) | Med. | Human. | Lawful neutral | 15,000 XP | 200 pp | MToF 207 |
+| CR ½ | Jackalwere (shapech.) | Med. | Human. | Chaotic evil | 100 XP | 20 sp | MM 193 |
+| CR 2 | Lycanthrope wererat (shapech.) | Med. | Human. | Lawful evil | 450 XP | 80 sp | MM 209 |
+| CR 3 | Lycanthrope werewolf (shapech.) | Med. | Human. | Chaotic evil | 700 XP | 12 gp | MM 211 |
+| CR 4 | Lycanthrope wereboar (shapech.) | Med. | Human. | Neutral evil | 1,100 XP | 18 gp | MM 209 |
+| CR 4 | Lycanthrope weretiger (shapech.) | Med. | Human. | True neutral | 1,100 XP | 18 gp | MM 210 |
+| CR 5 | Lycanthrope werebear (shapech.) | Med. | Human. | Neutral good | 1,800 XP | 27 gp | MM 208 |
 
 [^ Back to Land Humanoids](#land-humanoids)
 
@@ -505,16 +434,23 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR ⅛ | Xvart | Small | Human. | Chaotic evil | 25 XP | 50 cp | VGtM 200 |
 | CR ¼ | Kenku | Med. | Human. | Chaotic neutral | 50 XP | 10 sp | MM 194 |
 | CR ¼ | Tortle | Med. | Human. | Lawful good | 50 XP | 10 sp | MToF 242 |
-| CR ½ | Jackalwere (shapechanger) | Med. | Human. | Chaotic evil | 100 XP | 20 sp | MM 193 |
+| CR ½ | Firenewt warrior | Med. | Human. | Neutral evil | 100 XP | 20 sp | VGtM 142 |
 | CR ½ | Skulk | Med. | Human. | Chaotic neutral | 100 XP | – | MToF 227 |
+| CR 1 | Firenewt warlock of Imix (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 143 |
 | CR 1 | Meazel | Med. | Human. | Neutral evil | 200 XP | 40 sp | MToF 214 |
+| CR 1 | Strider, giant | Large | Monstr. | Neutral evil | 200 XP | – | VGtM 143 |
 | CR 1 | Thri-kreen | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
-| CR 1 | Thri-kreen spellcaster (spellcaster) | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
+| CR 1 | Thri-kreen spellcaster (spells) | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
 | CR 1 | Thri-kreen warrior | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
-| CR 1 | Xvart warlock of Raxivort (spellcaster) | Small | Human. | Chaotic evil | 200 XP | 40 sp | VGtM 200 |
-| CR 2 | Tortle druid (spellcaster) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MToF 242 |
+| CR 1 | Xvart warlock of Raxivort (spells) | Small | Human. | Chaotic evil | 200 XP | 40 sp | VGtM 200 |
+| CR 2 | Tortle druid (spells) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MToF 242 |
 | CR 3 | Giff | Med. | Human. | Lawful neutral | 700 XP | 12 gp | MToF 204 |
-| CR 17 | Nagpa (spellcaster) | Med. | Human. | Neutral evil | 18,000 XP | 280 pp | MToF 215 |
+| CR 5 | Half-dragon, black, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 5 | Half-dragon, blue, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 5 | Half-dragon, green, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 5 | Half-dragon, red, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 5 | Half-dragon, white, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 17 | Nagpa (spells) | Med. | Human. | Neutral evil | 18,000 XP | 280 pp | MToF 215 |
 
 [^ Back to Land Humanoids](#land-humanoids)
 
@@ -531,7 +467,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Grung | Small | Human. | Lawful evil | 50 XP | 10 sp | VGtM 156 |
-| CR 1 | Grung wildling (spellcaster) | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 157 |
+| CR 1 | Grung wildling (spells) | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 157 |
 | CR 2 | Grung elite warrior | Small | Human. | Lawful evil | 450 XP | 80 sp | VGtM 157 |
 
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
@@ -540,9 +476,9 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Kuo-toa | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 199 |
-| CR 1 | Kuo-toa whip (spellcaster) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 200 |
+| CR 1 | Kuo-toa whip (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 200 |
 | CR 3 | Kuo-toa monitor | Med. | Human. | Neutral evil | 700 XP | 12 gp | MM 198 |
-| CR 6 | Kuo-toa archpriest (spellcaster) | Med. | Human. | Neutral evil | 2,300 XP | 41 gp | MM 200 |
+| CR 6 | Kuo-toa archpriest (spells) | Med. | Human. | Neutral evil | 2,300 XP | 41 gp | MM 200 |
 
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
 
@@ -550,7 +486,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Lizardfolk | Med. | Human. | True neutral | 100 XP | 20 sp | MM 204 |
-| CR 2 | Lizardfolk shaman (spellcaster) (shapechanger) | Med. | Human. | True neutral | 450 XP | 80 sp | MM 205 |
+| CR 2 | Lizardfolk shaman (spells) (shapech.) | Med. | Human. | True neutral | 450 XP | 80 sp | MM 205 |
 | CR 4 | Lizardfolk king/queen | Med. | Human. | Chaotic evil | 1,100 XP | 18 gp | MM 205 |
 
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
@@ -559,7 +495,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Sahuagin | Med. | Human. | Lawful evil | 100 XP | 20 sp | MM 263 |
-| CR 2 | Sahuagin priestess (spellcaster) | Med. | Human. | Lawful evil | 450 XP | 80 sp | MM 264 |
+| CR 2 | Sahuagin priestess (spells) | Med. | Human. | Lawful evil | 450 XP | 80 sp | MM 264 |
 | CR 5 | Sahuagin baron | Large | Human. | Lawful evil | 1,800 XP | 27 gp | MM 264 |
 
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
@@ -571,13 +507,13 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR ¼ | Bullywug | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 35 |
 | CR 1 | Sea spawn | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 189 |
 | CR 2 | Merfolk merrow | Large | Monstr. | Chaotic evil | 450 XP | 80 sp | MM 219 |
-| CR 3 | Deep scion (shapechanger) | Med. | Human. | Neutral evil | 700 XP | 12 gp | VGtM 135 |
+| CR 3 | Deep scion (shapech.) | Med. | Human. | Neutral evil | 700 XP | 12 gp | VGtM 135 |
 
 [^ Back to Aquatic Humanoids](#aquatic-humanoids)
 
 ## Underdark Humanoids
-* [Duergar](#aquatic-humanoids-duergar)
-* [Drow](#aquatic-humanoids-drow)
+* [Duergar](#underdark-humanoids-duergar)
+* [Drow](#underdark-humanoids-drow)
 * [Miscellaneous Underdark Humanoids](#underdark-humanoids-miscellaneous-underdark-humanoids)
 
 [^ Back to Top](#monsters)
@@ -587,7 +523,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Steeder, male | Med. | Monstr. | Unaligned | 50 XP | – | MToF 238 |
 | CR 1 | Duergar | Med. | Human. | Lawful evil | 200 XP | 40 sp | MM 122 |
-| CR 1 | Duergar soulblade (spellcaster) | Med. | Human. | Lawful evil | 200 XP | 40 sp | MToF 190 |
+| CR 1 | Duergar soulblade (spells) | Med. | Human. | Lawful evil | 200 XP | 40 sp | MToF 190 |
 | CR 1 | Steeder, female | Large | Monstr. | Unaligned | 200 XP | – | MToF 238 |
 | CR 2 | Duergar hammerer | Med. | Constr. | Lawful evil | 450 XP | – | MToF 188 |
 | CR 2 | Duergar kavalrachni | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 189 |
@@ -596,40 +532,77 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 2 | Duergar xarrorn | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 193 |
 | CR 3 | Duergar screamer | Med. | Constr. | Lawful evil | 700 XP | – | MToF 190 |
 | CR 6 | Duergar warlord | Med. | Human. | Lawful evil | 2,300 XP | 41 gp | MToF 192 |
-| CR 12 | Duergar despot (spellcaster) | Med. | Human. | Lawful evil | 8,400 XP | 44 pp | MToF 188 |
+| CR 12 | Duergar despot (spells) | Med. | Human. | Lawful evil | 8,400 XP | 44 pp | MToF 188 |
 
 [^ Back to Underdark Humanoids](#underdark-humanoids)
 
 ### Underdark Humanoids: Drow
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| Drow (spellcaster) | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 128 |
-| Drow elite warrior (spellcaster) | Med. | Human. | Neutral evil | 1,800 XP | 27 gp | MM 128 |
-| Drow drider (spellcaster) | Large | Monstr. | Chaotic evil | 2,300 XP | 41 gp | MM 120 |
-| Drow draegloth (spellcaster) | Large | Fiend | Chaotic evil | 2,900 XP | 61 gp | VGtM 141 |
-| Drow mage (spellcaster) | Med. | Human. | Neutral evil | 2,900 XP | 61 gp | MM 129 |
-| Drow priestess of lolth (spellcaster) | Med. | Human. | Neutral evil | 3,900 XP | 91 gp | MM 129 |
-| Drow house captain (spellcaster) | Med. | Human. | Neutral evil | 5,000 XP | 14 pp | MToF 184 |
-| Drow shadowblade (spellcaster) | Med. | Human. | Neutral evil | 7,200 XP | 30 pp | MToF 187 |
-| Drow arachnomancer (spellcaster) (shapechanger) | Med. | Human. | Chaotic evil | 10,000 XP | 64 pp | MToF 182 |
-| Drow inquisitor (spellcaster) | Med. | Human. | Neutral evil | 11,500 XP | 94 pp | MToF 184 |
-| Drow favored consort (spellcaster) | Med. | Human. | Neutral evil | 20,000 XP | 380 pp | MToF 183 |
-| Drow matron mother (spellcaster) (legendary) | Med. | Human. | Neutral evil | 25,000 XP | 610 pp | MToF 186 |
+| CR ¼ | Drow (spells) | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 128 |
+| CR 5 | Drow elite warrior (spells) | Med. | Human. | Neutral evil | 1,800 XP | 27 gp | MM 128 |
+| CR 6 | Drow drider (spells) | Large | Monstr. | Chaotic evil | 2,300 XP | 41 gp | MM 120 |
+| CR 7 | Drow draegloth (spells) | Large | Fiend | Chaotic evil | 2,900 XP | 61 gp | VGtM 141 |
+| CR 7 | Drow mage (spells) | Med. | Human. | Neutral evil | 2,900 XP | 61 gp | MM 129 |
+| CR 8 | Drow priestess of lolth (spells) | Med. | Human. | Neutral evil | 3,900 XP | 91 gp | MM 129 |
+| CR 9 | Drow house captain (spells) | Med. | Human. | Neutral evil | 5,000 XP | 14 pp | MToF 184 |
+| CR 11 | Drow shadowblade (spells) | Med. | Human. | Neutral evil | 7,200 XP | 30 pp | MToF 187 |
+| CR 13 | Drow arachnomancer (spells) (shapech.) | Med. | Human. | Chaotic evil | 10,000 XP | 64 pp | MToF 182 |
+| CR 14 | Drow inquisitor (spells) | Med. | Human. | Neutral evil | 11,500 XP | 94 pp | MToF 184 |
+| CR 18 | Drow favored consort (spells) | Med. | Human. | Neutral evil | 20,000 XP | 380 pp | MToF 183 |
+| CR 20 | Drow matron mother (spells) (legend.) | Med. | Human. | Neutral evil | 25,000 XP | 610 pp | MToF 186 |
 
 [^ Back to Underdark Humanoids](#underdark-humanoids)
 
 ### Underdark Humanoids: Miscellaneous Underdark Humanoids
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| Derro | Small | Human. | Chaotic evil | 50 XP | 10 sp | MToF 158 |
-| Grimlock | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 175 |
-| Troglodyte | Med. | Human. | Chaotic evil | 50 XP | 10 sp | MM 290 |
-| Gnome, Svirfneblin (spellcaster) | Small | Human. | Neutral good | 100 XP | 20 sp | MM 164 |
-| Quaggoth | Med. | Human. | Chaotic neutral | 450 XP | 80 sp | MM 256 |
-| Derro savant (spellcaster) | Small | Human. | Chaotic evil | 700 XP | 12 gp | MToF 159 |
-| Quaggoth thonot | Med. | Human. | Chaotic neutral | 700 XP | 12 gp | MM 256 |
+| CR ¼ | Derro | Small | Human. | Chaotic evil | 50 XP | 10 sp | MToF 158 |
+| CR ¼ | Grimlock | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 175 |
+| CR ¼ | Troglodyte | Med. | Human. | Chaotic evil | 50 XP | 10 sp | MM 290 |
+| CR ½ | Gnome, Svirfneblin (spells) | Small | Human. | Neutral good | 100 XP | 20 sp | MM 164 |
+| CR 2 | Quaggoth | Med. | Human. | Chaotic neutral | 450 XP | 80 sp | MM 256 |
+| CR 3 | Derro savant (spells) | Small | Human. | Chaotic evil | 700 XP | 12 gp | MToF 159 |
+| CR 3 | Quaggoth thonot | Med. | Human. | Chaotic neutral | 700 XP | 12 gp | MM 256 |
 
 [^ Back to Underdark Humanoids](#underdark-humanoids)
+
+## Planar Humanoids
+* [Shadar-kai](#planar-humanoids-shadar-kai)
+* [Githyanki](#planar-humanoids-githyanki)
+* [Githzerai](#planar-humanoids-githzerai)
+
+[^ Back to Top](#monsters)
+
+### Planar Humanoids: Shadar-kai
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 7 | Shadar-kai shadow dancer | Med. | Human. | True neutral | 2,900 XP | 61 gp | MToF 225 |
+| CR 9 | Shadar-kai gloom weaver (spells) | Med. | Human. | True neutral | 5,000 XP | 14 pp | MToF 224 |
+| CR 11 | Shadar-kai soul monger (spells) | Med. | Human. | True neutral | 7,200 XP | 30 pp | MToF 226 |
+
+[^ Back to Planar Humanoids](#planar-humanoids)
+
+### Planar Humanoids: Githyanki
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 3 | Githyanki warrior (spells) | Med. | Human. | Lawful evil | 700 XP | 12 gp | MM 160 |
+| CR 8 | Githyanki knight (spells) | Med. | Human. | Lawful evil | 3,900 XP | 91 gp | MM 160 |
+| CR 10 | Githyanki gish (spells) | Med. | Human. | Lawful evil | 5,900 XP | 20 pp | MToF 205 |
+| CR 12 | Githyanki kith'rak (spells) | Med. | Human. | Lawful evil | 8,400 XP | 44 pp | MToF 205 |
+| CR 14 | Githyanki supreme commander (spells) (legend.) | Med. | Human. | Lawful evil | 11,500 XP | 94 pp | MToF 206 |
+
+[^ Back to Planar Humanoids](#planar-humanoids)
+
+### Planar Humanoids: Githzerai
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 2 | Githzerai monk (spells) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MM 161 |
+| CR 6 | Githzerai zerth (spells) | Med. | Human. | Lawful neutral | 2,300 XP | 41 gp | MM 161 |
+| CR 10 | Githzerai enlightened (spells) | Med. | Human. | Lawful neutral | 5,900 XP | 20 pp | MToF 208 |
+| CR 16 | Githzerai anarch (spells) (legend.) (lair) | Med. | Human. | Lawful neutral | 15,000 XP | 200 pp | MToF 207 |
+
+[^ Back to Planar Humanoids](#planar-humanoids)
 
 ## Giants
 * [Ogres](#giants-ogres)
@@ -667,7 +640,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 4 | Ettin | Large | Giant | Chaotic evil | 1,100 XP | 18 gp | MM 132 |
 | CR 6 | Cyclops | Huge | Giant | Chaotic neutral | 2,300 XP | 41 gp | MM 45 |
-| CR 7 | Oni (spellcaster) (shapechanger) | Large | Giant | Lawful evil | 2,900 XP | 61 gp | MM 239 |
+| CR 7 | Oni (spells) (shapech.) | Large | Giant | Lawful evil | 2,900 XP | 61 gp | MM 239 |
 | CR 8 | Fomorian | Huge | Giant | Chaotic evil | 3,900 XP | 91 gp | MM 136 |
 
 [^ Back to Giants](#giants)
@@ -680,13 +653,13 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 7 | Giant, stone | Huge | Giant | True neutral | 2,900 XP | 61 gp | MM 156 |
 | CR 8 | Giant, frost | Huge | Giant | Neutral evil | 3,900 XP | 91 gp | MM 155 |
 | CR 9 | Giant, fire | Huge | Giant | Lawful evil | 5,000 XP | 14 pp | MM 154 |
-| CR 9 | Giant, cloud (spellcaster) | Huge | Giant | NG or NE | 5,000 XP | 14 pp | MM 154 |
+| CR 9 | Giant, cloud (spells) | Huge | Giant | NG or NE | 5,000 XP | 14 pp | MM 154 |
 | CR 10 | Giant, stone, dreamwalker | Huge | Giant | Chaotic neutral | 5,900 XP | 20 pp | VGtM 150 |
-| CR 11 | Giant, cloud, smiling one (spellcaster) (shapechanger) | Huge | Giant | Chaotic neutral | 7,200 XP | 30 pp | VGtM 146 |
+| CR 11 | Giant, cloud, smiling one (spells) (shapech.) | Huge | Giant | Chaotic neutral | 7,200 XP | 30 pp | VGtM 146 |
 | CR 12 | Giant, frost, everlasting one | Huge | Giant | Chaotic evil | 8,400 XP | 44 pp | VGtM 148 |
-| CR 13 | Giant, storm (spellcaster) | Huge | Giant | Chaotic good | 10,000 XP | 64 pp | MM 156 |
+| CR 13 | Giant, storm (spells) | Huge | Giant | Chaotic good | 10,000 XP | 64 pp | MM 156 |
 | CR 14 | Giant, fire, dreadnought | Huge | Giant | Lawful evil | 11,500 XP | 94 pp | VGtM 147 |
-| CR 16 | Giant, storm, quintessent (legendary) (lair) | Huge | Giant | Chaotic good | 15,000 XP | 200 pp | VGtM 151 |
+| CR 16 | Giant, storm, quintessent (legend.) (lair) | Huge | Giant | Chaotic good | 15,000 XP | 200 pp | VGtM 151 |
 
 [^ Back to Giants](#giants)
 
@@ -733,23 +706,23 @@ Dwarves use the same stat blocks as humans, with the following changes:
 ### Sentient Monsters: Yuan-ti
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 1 | Yuan-ti pureblood (spellcaster) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 310 |
+| CR 1 | Yuan-ti pureblood (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 310 |
 | CR 2 | Yuan-ti broodguard | Med. | Human. | Neutral evil | 450 XP | – | VGtM 203 |
-| CR 3 | Yuan-ti malison (spellcaster) (shapechanger) | Med. | Monstr. | Neutral evil | 700 XP | 12 gp | MM 309 |
-| CR 4 | Yuan-ti mind whisperer (spellcaster) (shapechanger) | Med. | Monstr. | Neutral evil | 1,100 XP | 18 gp | VGtM 204 |
-| CR 4 | Yuan-ti nightmare speaker (spellcaster) (shapechanger) | Med. | Monstr. | Neutral evil | 1,100 XP | 18 gp | VGtM 205 |
-| CR 5 | Yuan-ti pit master (spellcaster) (shapechanger) | Med. | Monstr. | Neutral evil | 1,800 XP | 27 gp | VGtM 206 |
-| CR 7 | Yuan-ti abomination (spellcaster) (shapechanger) | Large | Monstr. | Neutral evil | 2,900 XP | 61 gp | MM 308 |
-| CR 12 | Yuan-ti anathema (spellcaster) (shapechanger) | Huge | Monstr. | Neutral evil | 8,400 XP | 44 pp | VGtM 202 |
+| CR 3 | Yuan-ti malison (spells) (shapech.) | Med. | Monstr. | Neutral evil | 700 XP | 12 gp | MM 309 |
+| CR 4 | Yuan-ti mind whisperer (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,100 XP | 18 gp | VGtM 204 |
+| CR 4 | Yuan-ti nightmare speaker (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,100 XP | 18 gp | VGtM 205 |
+| CR 5 | Yuan-ti pit master (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,800 XP | 27 gp | VGtM 206 |
+| CR 7 | Yuan-ti abomination (spells) (shapech.) | Large | Monstr. | Neutral evil | 2,900 XP | 61 gp | MM 308 |
+| CR 12 | Yuan-ti anathema (spells) (shapech.) | Huge | Monstr. | Neutral evil | 8,400 XP | 44 pp | VGtM 202 |
 
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ### Sentient Monsters: Nagas
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 4 | Naga, bone (spellcaster) | Large | Undead | Lawful evil | 1,100 XP | – | MM 233 |
-| CR 8 | Naga, spirit (spellcaster) | Large | Monstr. | Chaotic evil | 3,900 XP | – | MM 234 |
-| CR 10 | Naga, guardian (spellcaster) | Large | Monstr. | Lawful good | 5,900 XP | – | MM 234 |
+| CR 4 | Naga, bone (spells) | Large | Undead | Lawful evil | 1,100 XP | – | MM 233 |
+| CR 8 | Naga, spirit (spells) | Large | Monstr. | Chaotic evil | 3,900 XP | – | MM 234 |
+| CR 10 | Naga, guardian (spells) | Large | Monstr. | Lawful good | 5,900 XP | – | MM 234 |
 
 [^ Back to Sentient Monsters](#sentient-monsters)
 
@@ -767,8 +740,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 ### Sentient Monsters: Sphinxes
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 11 | Sphinx, gynosphinx (spellcaster) (legendary) (lair) | Large | Monstr. | Lawful neutral | 7,200 XP | 30 pp | MM 282 |
-| CR 17 | Sphinx, androsphinx (spellcaster) (legendary) (lair) | Large | Monstr. | Lawful neutral | 18,000 XP | 280 pp | MM 281 |
+| CR 11 | Sphinx, gynosphinx (spells) (legend.) (lair) | Large | Monstr. | Lawful neutral | 7,200 XP | 30 pp | MM 282 |
+| CR 17 | Sphinx, androsphinx (spells) (legend.) (lair) | Large | Monstr. | Lawful neutral | 18,000 XP | 280 pp | MM 281 |
 
 [^ Back to Sentient Monsters](#sentient-monsters)
 
@@ -783,15 +756,15 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 2 | Centaur | Large | Monstr. | Neutral good | 450 XP | 80 sp | MM 38 |
 | CR 2 | Ettercap | Med. | Monstr. | Neutral evil | 450 XP | – | MM 131 |
 | CR 2 | Peryton | Med. | Monstr. | Chaotic evil | 450 XP | – | MM 251 |
-| CR 3 | Chitine choldrith (spellcaster) | Med. | Monstr. | Chaotic evil | 700 XP | 12 gp | VGtM 132 |
-| CR 3 | Doppelganger (shapechanger) | Med. | Monstr. | True neutral | 700 XP | 12 gp | MM 82 |
+| CR 3 | Chitine choldrith (spells) | Med. | Monstr. | Chaotic evil | 700 XP | 12 gp | VGtM 132 |
+| CR 3 | Doppelganger (shapech.) | Med. | Monstr. | True neutral | 700 XP | 12 gp | MM 82 |
 | CR 3 | Hook horror | Large | Monstr. | True neutral | 700 XP | – | MM 189 |
 | CR 3 | Leucrotta | Large | Monstr. | Chaotic evil | 700 XP | – | VGtM 169 |
 | CR 3 | Manticore | Large | Monstr. | Lawful evil | 700 XP | – | MM 213 |
 | CR 3 | Minotaur | Large | Monstr. | Chaotic evil | 700 XP | 12 gp | MM 223 |
 | CR 3 | Wolf, winter | Large | Monstr. | Neutral evil | 700 XP | – | MM 340 |
 | CR 3 | Yeti | Large | Monstr. | Chaotic evil | 700 XP | – | MM 305 |
-| CR 4 | Lamia (spellcaster) | Large | Monstr. | Chaotic evil | 1,100 XP | 18 gp | MM 201 |
+| CR 4 | Lamia (spells) | Large | Monstr. | Chaotic evil | 1,100 XP | 18 gp | MM 201 |
 | CR 5 | Banderhobb | Large | Monstr. | Neutral evil | 1,800 XP | – | VGtM 122 |
 | CR 5 | Tlincalli | Large | Monstr. | Neutral evil | 1,800 XP | 27 gp | VGtM 193 |
 | CR 5 | Umber hulk | Large | Monstr. | Chaotic evil | 1,800 XP | – | MM 292 |
@@ -802,18 +775,19 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 9 | Yeti, abominable | Huge | Monstr. | Chaotic evil | 5,000 XP | – | MM 306 |
 | CR 11 | Behir | Huge | Monstr. | Neutral evil | 7,200 XP | – | MM 25 |
 | CR 17 | Turtle, dragon | Garg. | Dragon | True neutral | 18,000 XP | – | MM 119 |
-| CR 23 | Kraken (legendary) (lair) | Garg. | Monstr. | Chaotic evil | 50,000 XP | – | MM 197 |
+| CR 23 | Kraken (legend.) (lair) | Garg. | Monstr. | Chaotic evil | 50,000 XP | – | MM 197 |
 
 [^ Back to Sentient Monsters](#sentient-monsters)
 
 ## Undead
-* [Undead Thralls](#undead-undead-thralls)
-* [Spectral Undead](#undead-spectral-undead)
-* [Corporeal Undead](#undead-corporeal-undead)
+* [Thralls](#undead-thralls)
+* [Spirits](#undead-spirits)
+* [Vampires](#undead-vampires)
+* [Miscellaneous Undead](#undead-miscellaneous-undead)
 
 [^ Back to Top](#monsters)
 
-### Undead: Undead Thralls
+### Undead: Thralls
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Crawling claw | Tiny | Undead | Neutral evil | 10 XP | – | MM 44 |
@@ -827,7 +801,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 
 [^ Back to Undead](#undead)
 
-### Undead: Spectral Undead
+### Undead: Spirits
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Shadow | Med. | Undead | Chaotic evil | 100 XP | – | MM 269 |
@@ -843,31 +817,37 @@ Dwarves use the same stat blocks as humans, with the following changes:
 
 [^ Back to Undead](#undead)
 
-### Undead: Corporeal Undead
+### Undead: Vampires
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 3 | Vampire, vampiric mist | Med. | Undead | Chaotic evil | 700 XP | – | MToF 246 |
+| CR 5 | Vampire spawn | Med. | Undead | Neutral evil | 1,800 XP | – | MM 298 |
+| CR 13 | Vampire lord (shapech.) (legend.) | Med. | Undead | Lawful evil | 10,000 XP | 64 pp | MM 297 |
+| CR 15 | Vampire lord spellcaster (spells) (shapech.) (legend.) | Med. | Undead | Lawful evil | 13,000 XP | 140 pp | MM 297 |
+| CR 15 | Vampire lord warrior (shapech.) (legend.) | Med. | Undead | Lawful evil | 13,000 XP | 140 pp | MM 297 |
+
+[^ Back to Undead](#undead)
+
+### Undead: Miscellaneous Undead
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 1 | Ghoul | Med. | Undead | Chaotic evil | 200 XP | – | MM 148 |
 | CR 2 | Ghoul, ghast | Med. | Undead | Chaotic evil | 450 XP | 80 sp | MM 148 |
-| CR 3 | Deathlock wight (spellcaster) | Med. | Undead | Neutral evil | 700 XP | – | MToF 129 |
+| CR 3 | Deathlock wight (spells) | Med. | Undead | Neutral evil | 700 XP | – | MToF 129 |
 | CR 3 | Mummy | Med. | Undead | Lawful evil | 700 XP | 12 gp | MM 228 |
-| CR 3 | Vampire, vampiric mist | Med. | Undead | Chaotic evil | 700 XP | – | MToF 246 |
 | CR 3 | Wight | Med. | Undead | Neutral evil | 700 XP | 12 gp | MM 300 |
-| CR 4 | Deathlock (spellcaster) | Med. | Undead | Neutral evil | 1,100 XP | 18 gp | MToF 128 |
-| CR 4 | Flameskull (spellcaster) | Tiny | Undead | Neutral evil | 1,100 XP | – | MM 134 |
+| CR 4 | Deathlock (spells) | Med. | Undead | Neutral evil | 1,100 XP | 18 gp | MToF 128 |
+| CR 4 | Flameskull (spells) | Tiny | Undead | Neutral evil | 1,100 XP | – | MM 134 |
 | CR 5 | Revenant | Med. | Undead | True neutral | 1,800 XP | 27 gp | MM 259 |
-| CR 5 | Vampire spawn | Med. | Undead | Neutral evil | 1,800 XP | – | MM 298 |
 | CR 6 | Bodak | Med. | Undead | Chaotic evil | 2,300 XP | – | VGtM 127 |
-| CR 8 | Deathlock mastermind (spellcaster) | Med. | Undead | Neutral evil | 3,900 XP | 91 gp | MToF 129 |
+| CR 8 | Deathlock mastermind (spells) | Med. | Undead | Neutral evil | 3,900 XP | 91 gp | MToF 129 |
 | CR 12 | Boneclaw | Large | Undead | Chaotic evil | 8,400 XP | – | MToF 121 |
-| CR 13 | Vampire lord (shapechanger) (legendary) | Med. | Undead | Lawful evil | 10,000 XP | 64 pp | MM 297 |
-| CR 15 | Mummy lord (spellcaster) (legendary) (lair +1 CR) | Med. | Undead | Lawful evil | 13,000 XP | 140 pp | MM 229 |
-| CR 15 | Skull lord (spellcaster) (legendary) | Med. | Undead | Lawful evil | 13,000 XP | 140 pp | MToF 230 |
-| CR 15 | Vampire lord spellcaster (spellcaster) (shapechanger) (legendary) | Med. | Undead | Lawful evil | 13,000 XP | 140 pp | MM 297 |
-| CR 15 | Vampire lord warrior (shapechanger) (legendary) | Med. | Undead | Lawful evil | 13,000 XP | 140 pp | MM 297 |
-| CR 17 | Death knight (spellcaster) | Med. | Undead | Chaotic evil | 18,000 XP | 280 pp | MM 47 |
-| CR 18 | Demilich (legendary) (lair +2 CR) | Tiny | Undead | Neutral evil | 20,000 XP | – | MM 48 |
+| CR 15 | Mummy lord (spells) (legend.) (lair +1 CR) | Med. | Undead | Lawful evil | 13,000 XP | 140 pp | MM 229 |
+| CR 15 | Skull lord (spells) (legend.) | Med. | Undead | Lawful evil | 13,000 XP | 140 pp | MToF 230 |
+| CR 17 | Death knight (spells) | Med. | Undead | Chaotic evil | 18,000 XP | 280 pp | MM 47 |
+| CR 18 | Demilich (legend.) (lair +2 CR) | Tiny | Undead | Neutral evil | 20,000 XP | – | MM 48 |
 | CR 20 | Nightwalker | Huge | Undead | Chaotic evil | 25,000 XP | – | MToF 216 |
-| CR 21 | Lich (spellcaster) (legendary) (lair +1 CR) | Med. | Undead | Any evil | 33,000 XP | 730 pp | MM 202 |
+| CR 21 | Lich (spells) (legend.) (lair +1 CR) | Med. | Undead | Any evil | 33,000 XP | 730 pp | MM 202 |
 
 [^ Back to Undead](#undead)
 
@@ -900,9 +880,9 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 9 | Golem, clay | Large | Constr. | Unaligned | 5,000 XP | – | MM 168 |
 | CR 10 | Golem, stone | Large | Constr. | Unaligned | 5,900 XP | – | MM 170 |
 | CR 14 | Cadaver collector | Large | Constr. | Lawful evil | 11,500 XP | – | MToF 122 |
-| CR 14 | Retriever (spellcaster) | Large | Constr. | Lawful evil | 11,500 XP | – | MToF 222 |
+| CR 14 | Retriever (spells) | Large | Constr. | Lawful evil | 11,500 XP | – | MToF 222 |
 | CR 16 | Golem, iron | Large | Constr. | Unaligned | 15,000 XP | – | MM 170 |
-| CR 16 | Steel predator (spellcaster) | Large | Constr. | Lawful evil | 15,000 XP | – | MToF 239 |
+| CR 16 | Steel predator (spells) | Large | Constr. | Lawful evil | 15,000 XP | – | MToF 239 |
 
 [^ Back to Constructs](#constructs)
 
@@ -912,7 +892,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 0 | Homunculus | Tiny | Constr. | True neutral | 10 XP | – | MM 188 |
 | CR 1 | Scarecrow | Med. | Constr. | Chaotic evil | 200 XP | – | MM 268 |
 | CR 4 | Helmed horror | Med. | Constr. | True neutral | 1,100 XP | – | MM 183 |
-| CR 7 | Shield guardian (spellcaster) | Large | Constr. | Unaligned | 2,900 XP | – | MM 271 |
+| CR 7 | Shield guardian (spells) | Large | Constr. | Unaligned | 2,900 XP | – | MM 271 |
 | CR 12 | Eidolon, sacred statue | Large | Constr. | Any | 8,400 XP | – | MToF 194 |
 | CR 12 | Eidolon, true form | Med. | Undead | Any | 8,400 XP | – | MToF 194 |
 
@@ -926,7 +906,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR ½ | Modron tridrone | Med. | Constr. | Lawful neutral | 100 XP | – | MM 225 |
 | CR 1 | Modron quadrone | Med. | Constr. | Lawful neutral | 200 XP | – | MM 226 |
 | CR 2 | Modron pentadrone | Large | Constr. | Lawful neutral | 450 XP | – | MM 226 |
-| CR 25 | Inevitable, marut (spellcaster) (legendary) | Large | Constr. | Lawful neutral | 75,000 XP | – | MToF 213 |
+| CR 25 | Inevitable, marut (spells) (legend.) | Large | Constr. | Lawful neutral | 75,000 XP | – | MToF 213 |
 
 [^ Back to Constructs](#constructs)
 
@@ -943,13 +923,13 @@ Dwarves use the same stat blocks as humans, with the following changes:
 ### Dragons: Faerie Dragons
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 1 | Dragon, faerie, red (spellcaster) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
-| CR 1 | Dragon, faerie, orange (spellcaster) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
-| CR 1 | Dragon, faerie, yellow (spellcaster) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
-| CR 2 | Dragon, faerie, green (spellcaster) | Tiny | Dragon | Chaotic good | 450 XP | – | MM 133 |
-| CR 2 | Dragon, faerie, blue (spellcaster) | Tiny | Dragon | Chaotic good | 450 XP | – | MM 133 |
-| CR 2 | Dragon, faerie, indigo (spellcaster) | Tiny | Dragon | Chaotic good | 450 XP | – | MM 133 |
-| CR 2 | Dragon, faerie, violet (spellcaster) | Tiny | Dragon | Chaotic good | 450 XP | – | MM 133 |
+| CR 1 | Dragon, faerie, red (spells) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
+| CR 1 | Dragon, faerie, orange (spells) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
+| CR 1 | Dragon, faerie, yellow (spells) | Tiny | Dragon | Chaotic good | 200 XP | – | MM 133 |
+| CR 2 | Dragon, faerie, green (spells) | Tiny | Dragon | Chaotic good | 450 XP | – | MM 133 |
+| CR 2 | Dragon, faerie, blue (spells) | Tiny | Dragon | Chaotic good | 450 XP | – | MM 133 |
+| CR 2 | Dragon, faerie, indigo (spells) | Tiny | Dragon | Chaotic good | 450 XP | – | MM 133 |
+| CR 2 | Dragon, faerie, violet (spells) | Tiny | Dragon | Chaotic good | 450 XP | – | MM 133 |
 
 [^ Back to Dragons](#dragons)
 
@@ -966,16 +946,16 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 8 | Dragon, chromatic, green, young (lair) | Large | Dragon | Lawful evil | 3,900 XP | – | MM 94 |
 | CR 9 | Dragon, chromatic, blue, young (lair) | Large | Dragon | Lawful evil | 5,000 XP | – | MM 91 |
 | CR 10 | Dragon, chromatic, red, young (lair) | Large | Dragon | Chaotic evil | 5,900 XP | – | MM 98 |
-| CR 13 | Dragon, chromatic, white, adult (legendary) (lair) | Huge | Dragon | Chaotic evil | 10,000 XP | – | MM 101 |
-| CR 14 | Dragon, chromatic, black, adult (legendary) (lair) | Huge | Dragon | Chaotic evil | 11,500 XP | – | MM 88 |
-| CR 15 | Dragon, chromatic, green, adult (legendary) (lair) | Huge | Dragon | Lawful evil | 13,000 XP | – | MM 94 |
-| CR 16 | Dragon, chromatic, blue, adult (legendary) (lair) | Huge | Dragon | Lawful evil | 15,000 XP | – | MM 91 |
-| CR 17 | Dragon, chromatic, red, adult (legendary) (lair) | Huge | Dragon | Chaotic evil | 18,000 XP | – | MM 98 |
-| CR 20 | Dragon, chromatic, white, ancient (legendary) (lair) | Garg. | Dragon | Chaotic evil | 25,000 XP | – | MM 100 |
-| CR 21 | Dragon, chromatic, black, ancient (legendary) (lair) | Garg. | Dragon | Chaotic evil | 33,000 XP | – | MM 87 |
-| CR 22 | Dragon, chromatic, green, ancient (legendary) (lair) | Garg. | Dragon | Lawful evil | 41,000 XP | – | MM 93 |
-| CR 23 | Dragon, chromatic, blue, ancient (legendary) (lair) | Garg. | Dragon | Lawful evil | 50,000 XP | – | MM 90 |
-| CR 24 | Dragon, chromatic, red, ancient (legendary) (lair) | Garg. | Dragon | Chaotic evil | 62,000 XP | – | MM 97 |
+| CR 13 | Dragon, chromatic, white, adult (legend.) (lair) | Huge | Dragon | Chaotic evil | 10,000 XP | – | MM 101 |
+| CR 14 | Dragon, chromatic, black, adult (legend.) (lair) | Huge | Dragon | Chaotic evil | 11,500 XP | – | MM 88 |
+| CR 15 | Dragon, chromatic, green, adult (legend.) (lair) | Huge | Dragon | Lawful evil | 13,000 XP | – | MM 94 |
+| CR 16 | Dragon, chromatic, blue, adult (legend.) (lair) | Huge | Dragon | Lawful evil | 15,000 XP | – | MM 91 |
+| CR 17 | Dragon, chromatic, red, adult (legend.) (lair) | Huge | Dragon | Chaotic evil | 18,000 XP | – | MM 98 |
+| CR 20 | Dragon, chromatic, white, ancient (legend.) (lair) | Garg. | Dragon | Chaotic evil | 25,000 XP | – | MM 100 |
+| CR 21 | Dragon, chromatic, black, ancient (legend.) (lair) | Garg. | Dragon | Chaotic evil | 33,000 XP | – | MM 87 |
+| CR 22 | Dragon, chromatic, green, ancient (legend.) (lair) | Garg. | Dragon | Lawful evil | 41,000 XP | – | MM 93 |
+| CR 23 | Dragon, chromatic, blue, ancient (legend.) (lair) | Garg. | Dragon | Lawful evil | 50,000 XP | – | MM 90 |
+| CR 24 | Dragon, chromatic, red, ancient (legend.) (lair) | Garg. | Dragon | Chaotic evil | 62,000 XP | – | MM 97 |
 
 [^ Back to Dragons](#dragons)
 
@@ -992,32 +972,32 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 8 | Dragon, metallic, bronze, young (lair) | Large | Dragon | Lawful good | 3,900 XP | – | MM 108 |
 | CR 9 | Dragon, metallic, silver, young (lair) | Large | Dragon | Lawful good | 5,000 XP | – | MM 118 |
 | CR 10 | Dragon, metallic, gold, young (lair) | Large | Dragon | Lawful good | 5,900 XP | – | MM 115 |
-| CR 13 | Dragon, metallic, brass, adult (legendary) (lair) | Huge | Dragon | Chaotic good | 10,000 XP | – | MM 105 |
-| CR 14 | Dragon, metallic, copper, adult (legendary) (lair) | Huge | Dragon | Chaotic good | 11,500 XP | – | MM 111 |
-| CR 15 | Dragon, metallic, bronze, adult (shapechanger) (legendary) (lair) | Huge | Dragon | Lawful good | 13,000 XP | – | MM 108 |
-| CR 16 | Dragon, metallic, silver, adult (shapechanger) (legendary) (lair) | Huge | Dragon | Lawful good | 15,000 XP | – | MM 117 |
-| CR 17 | Dragon, metallic, gold, adult (shapechanger) (legendary) (lair) | Huge | Dragon | Lawful good | 18,000 XP | – | MM 114 |
-| CR 20 | Dragon, metallic, brass, ancient (shapechanger) (legendary) (lair) | Garg. | Dragon | Chaotic good | 25,000 XP | – | MM 104 |
-| CR 21 | Dragon, metallic, copper, ancient (shapechanger) (legendary) (lair) | Garg. | Dragon | Chaotic good | 33,000 XP | – | MM 110 |
-| CR 22 | Dragon, metallic, bronze, ancient (shapechanger) (legendary) (lair) | Garg. | Dragon | Lawful good | 41,000 XP | – | MM 107 |
-| CR 23 | Dragon, metallic, silver, ancient (shapechanger) (legendary) (lair) | Garg. | Dragon | Lawful good | 50,000 XP | – | MM 116 |
-| CR 24 | Dragon, metallic, gold, ancient (shapechanger) (legendary) (lair) | Garg. | Dragon | Lawful good | 62,000 XP | – | MM 113 |
+| CR 13 | Dragon, metallic, brass, adult (legend.) (lair) | Huge | Dragon | Chaotic good | 10,000 XP | – | MM 105 |
+| CR 14 | Dragon, metallic, copper, adult (legend.) (lair) | Huge | Dragon | Chaotic good | 11,500 XP | – | MM 111 |
+| CR 15 | Dragon, metallic, bronze, adult (shapech.) (legend.) (lair) | Huge | Dragon | Lawful good | 13,000 XP | – | MM 108 |
+| CR 16 | Dragon, metallic, silver, adult (shapech.) (legend.) (lair) | Huge | Dragon | Lawful good | 15,000 XP | – | MM 117 |
+| CR 17 | Dragon, metallic, gold, adult (shapech.) (legend.) (lair) | Huge | Dragon | Lawful good | 18,000 XP | – | MM 114 |
+| CR 20 | Dragon, metallic, brass, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Chaotic good | 25,000 XP | – | MM 104 |
+| CR 21 | Dragon, metallic, copper, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Chaotic good | 33,000 XP | – | MM 110 |
+| CR 22 | Dragon, metallic, bronze, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Lawful good | 41,000 XP | – | MM 107 |
+| CR 23 | Dragon, metallic, silver, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Lawful good | 50,000 XP | – | MM 116 |
+| CR 24 | Dragon, metallic, gold, ancient (shapech.) (legend.) (lair) | Garg. | Dragon | Lawful good | 62,000 XP | – | MM 113 |
 
 [^ Back to Dragons](#dragons)
 
 ### Dragons: Dracoliches
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 14 | Dracolich, chromatic, white, adult (legendary) (lair) | Huge | Undead | Chaotic evil | 11,500 XP | – | MM 84 |
-| CR 15 | Dracolich, chromatic, black, adult (legendary) (lair) | Huge | Undead | Chaotic evil | 13,000 XP | – | MM 84 |
-| CR 16 | Dracolich, chromatic, green, adult (legendary) (lair) | Huge | Undead | Lawful evil | 15,000 XP | – | MM 84 |
-| CR 17 | Dracolich, chromatic, blue, adult (legendary) (lair) | Huge | Undead | Lawful evil | 18,000 XP | – | MM 84 |
-| CR 18 | Dracolich, chromatic, red, adult (legendary) (lair) | Huge | Undead | Chaotic evil | 20,000 XP | – | MM 84 |
-| CR 21 | Dracolich, chromatic, white, ancient (legendary) (lair) | Garg. | Undead | Chaotic evil | 33,000 XP | – | MM 84 |
-| CR 22 | Dracolich, chromatic, black, ancient (legendary) (lair) | Garg. | Undead | Chaotic evil | 41,000 XP | – | MM 84 |
-| CR 23 | Dracolich, chromatic, green, ancient (legendary) (lair) | Garg. | Undead | Lawful evil | 50,000 XP | – | MM 84 |
-| CR 24 | Dracolich, chromatic, blue, ancient (legendary) (lair) | Garg. | Undead | Lawful evil | 62,000 XP | – | MM 84 |
-| CR 25 | Dracolich, chromatic, red, ancient (legendary) (lair) | Garg. | Undead | Chaotic evil | 75,000 XP | – | MM 84 |
+| CR 14 | Dracolich, chromatic, white, adult (legend.) (lair) | Huge | Undead | Chaotic evil | 11,500 XP | – | MM 84 |
+| CR 15 | Dracolich, chromatic, black, adult (legend.) (lair) | Huge | Undead | Chaotic evil | 13,000 XP | – | MM 84 |
+| CR 16 | Dracolich, chromatic, green, adult (legend.) (lair) | Huge | Undead | Lawful evil | 15,000 XP | – | MM 84 |
+| CR 17 | Dracolich, chromatic, blue, adult (legend.) (lair) | Huge | Undead | Lawful evil | 18,000 XP | – | MM 84 |
+| CR 18 | Dracolich, chromatic, red, adult (legend.) (lair) | Huge | Undead | Chaotic evil | 20,000 XP | – | MM 84 |
+| CR 21 | Dracolich, chromatic, white, ancient (legend.) (lair) | Garg. | Undead | Chaotic evil | 33,000 XP | – | MM 84 |
+| CR 22 | Dracolich, chromatic, black, ancient (legend.) (lair) | Garg. | Undead | Chaotic evil | 41,000 XP | – | MM 84 |
+| CR 23 | Dracolich, chromatic, green, ancient (legend.) (lair) | Garg. | Undead | Lawful evil | 50,000 XP | – | MM 84 |
+| CR 24 | Dracolich, chromatic, blue, ancient (legend.) (lair) | Garg. | Undead | Lawful evil | 62,000 XP | – | MM 84 |
+| CR 25 | Dracolich, chromatic, red, ancient (legend.) (lair) | Garg. | Undead | Chaotic evil | 75,000 XP | – | MM 84 |
 
 [^ Back to Dragons](#dragons)
 
@@ -1084,19 +1064,19 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Hag, sea (coven +2 CR) (lair VGtM 59) | Med. | Fey | Chaotic evil | 450 XP | 80 sp | MM 179 |
-| CR 3 | Hag, green (spellcaster) (coven +2 CR) (lair VGtM 59) | Med. | Fey | Neutral evil | 700 XP | 12 gp | MM 177 |
-| CR 6 | Hag, annis (spellcaster) (coven +2 CR) (lair VGtM 59) | Large | Fey | Chaotic evil | 2,300 XP | 41 gp | VGtM 159 |
-| CR 7 | Hag, bheur (spellcaster) (coven +2 CR) (lair VGtM 59) | Med. | Fey | Chaotic evil | 2,900 XP | 61 gp | VGtM 160 |
+| CR 3 | Hag, green (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | Neutral evil | 700 XP | 12 gp | MM 177 |
+| CR 6 | Hag, annis (spells) (coven +2 CR) (lair VGtM 59) | Large | Fey | Chaotic evil | 2,300 XP | 41 gp | VGtM 159 |
+| CR 7 | Hag, bheur (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | Chaotic evil | 2,900 XP | 61 gp | VGtM 160 |
 
 [^ Back to Fey](#fey)
 
 ### Fey: Eladrin
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 10 | Eladrin, autumn (spellcaster) | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 195 |
-| CR 10 | Eladrin, spring (spellcaster) | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 196 |
+| CR 10 | Eladrin, autumn (spells) | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 195 |
+| CR 10 | Eladrin, spring (spells) | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 196 |
 | CR 10 | Eladrin, summer | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 196 |
-| CR 10 | Eladrin, winter (spellcaster) | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 197 |
+| CR 10 | Eladrin, winter (spells) | Med. | Fey | Chaotic neutral | 5,900 XP | 20 pp | MToF 197 |
 
 [^ Back to Fey](#fey)
 
@@ -1105,18 +1085,18 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Boggle | Small | Fey | Chaotic neutral | 25 XP | – | VGtM 128 |
 | CR ¼ | Dog, blink | Med. | Fey | Lawful good | 50 XP | – | MM 318 |
-| CR ¼ | Pixie (spellcaster) | Tiny | Fey | Neutral good | 50 XP | 10 sp | MM 253 |
+| CR ¼ | Pixie (spells) | Tiny | Fey | Neutral good | 50 XP | 10 sp | MM 253 |
 | CR ¼ | Sprite | Tiny | Fey | Neutral good | 50 XP | 10 sp | MM 283 |
 | CR ½ | Darkling | Small | Fey | Chaotic neutral | 100 XP | 20 sp | VGtM 134 |
 | CR ½ | Satyr | Med. | Fey | Chaotic neutral | 100 XP | 20 sp | MM 267 |
-| CR 1 | Dryad (spellcaster) | Med. | Fey | True neutral | 200 XP | – | MM 121 |
+| CR 1 | Dryad (spells) | Med. | Fey | True neutral | 200 XP | – | MM 121 |
 | CR 1 | Quickling | Tiny | Fey | Chaotic evil | 200 XP | 40 sp | VGtM 187 |
 | CR 2 | Darkling elder | Med. | Fey | Chaotic neutral | 450 XP | 80 sp | VGtM 134 |
 | CR 2 | Meenlock | Small | Fey | Neutral evil | 450 XP | – | VGtM 170 |
 | CR 3 | Displacer beast | Large | Monstr. | Lawful evil | 700 XP | – | MM 81 |
 | CR 3 | Redcap | Small | Fey | Chaotic evil | 700 XP | 12 gp | VGtM 188 |
 | CR 4 | Dog, hound, yeth | Large | Fey | Neutral evil | 1,100 XP | – | VGtM 201 |
-| CR 7 | Korred (spellcaster) | Small | Fey | Chaotic neutral | 2,900 XP | 61 gp | VGtM 168 |
+| CR 7 | Korred (spells) | Small | Fey | Chaotic neutral | 2,900 XP | 61 gp | VGtM 168 |
 
 [^ Back to Fey](#fey)
 
@@ -1136,8 +1116,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 5 | Elemental, air | Large | Elemen. | True neutral | 1,800 XP | – | MM 124 |
 | CR 6 | Invisible stalker | Med. | Elemen. | True neutral | 2,300 XP | – | MM 192 |
 | CR 7 | Elemental, air, myrmidon | Med. | Elemen. | True neutral | 2,900 XP | – | MToF 202 |
-| CR 11 | Genie, djinni (spellcaster) | Large | Elemen. | Chaotic good | 7,200 XP | 30 pp | MM 144 |
-| CR 23 | Elder tempest (legendary) | Garg. | Elemen. | True neutral | 50,000 XP | – | MToF 200 |
+| CR 11 | Genie, djinni (spells) | Large | Elemen. | Chaotic good | 7,200 XP | 30 pp | MM 144 |
+| CR 23 | Elder tempest (legend.) | Garg. | Elemen. | True neutral | 50,000 XP | – | MToF 200 |
 
 [^ Back to Elementals](#elementals)
 
@@ -1147,8 +1127,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 3 | Water weird | Large | Elemen. | True neutral | 700 XP | – | MM 299 |
 | CR 5 | Elemental, water | Large | Elemen. | True neutral | 1,800 XP | – | MM 125 |
 | CR 7 | Elemental, water, myrmidon | Med. | Elemen. | True neutral | 2,900 XP | – | MToF 203 |
-| CR 11 | Genie, marid (spellcaster) | Large | Elemen. | Chaotic neutral | 7,200 XP | 30 pp | MM 146 |
-| CR 20 | Leviathan (legendary) | Garg. | Elemen. | True neutral | 25,000 XP | – | MToF 198 |
+| CR 11 | Genie, marid (spells) | Large | Elemen. | Chaotic neutral | 7,200 XP | 30 pp | MM 146 |
+| CR 20 | Leviathan (legend.) | Garg. | Elemen. | True neutral | 25,000 XP | – | MToF 198 |
 
 [^ Back to Elementals](#elementals)
 
@@ -1161,8 +1141,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 5 | Xorn | Med. | Elemen. | True neutral | 1,800 XP | – | MM 304 |
 | CR 6 | Galeb duhr | Med. | Elemen. | True neutral | 2,300 XP | – | MM 139 |
 | CR 7 | Elemental, earth, myrmidon | Med. | Elemen. | True neutral | 2,900 XP | – | MToF 202 |
-| CR 11 | Genie, dao (spellcaster) | Large | Elemen. | Neutral evil | 7,200 XP | 30 pp | MM 143 |
-| CR 22 | Zaratan (legendary) | Garg. | Elemen. | True neutral | 41,000 XP | – | MToF 201 |
+| CR 11 | Genie, dao (spells) | Large | Elemen. | Neutral evil | 7,200 XP | 30 pp | MM 143 |
+| CR 22 | Zaratan (legend.) | Garg. | Elemen. | True neutral | 41,000 XP | – | MToF 201 |
 
 [^ Back to Elementals](#elementals)
 
@@ -1175,8 +1155,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 5 | Elemental, fire | Large | Elemen. | True neutral | 1,800 XP | – | MM 125 |
 | CR 5 | Salamander | Large | Elemen. | Neutral evil | 1,800 XP | 27 gp | MM 266 |
 | CR 7 | Elemental, fire, myrmidon | Med. | Elemen. | True neutral | 2,900 XP | – | MToF 203 |
-| CR 11 | Genie, efreeti (spellcaster) | Large | Elemen. | Lawful evil | 7,200 XP | 30 pp | MM 145 |
-| CR 16 | Phoenix (legendary) | Garg. | Elemen. | True neutral | 15,000 XP | – | MToF 199 |
+| CR 11 | Genie, efreeti (spells) | Large | Elemen. | Lawful evil | 7,200 XP | 30 pp | MM 145 |
+| CR 16 | Phoenix (legend.) | Garg. | Elemen. | True neutral | 15,000 XP | – | MToF 199 |
 
 [^ Back to Elementals](#elementals)
 
@@ -1197,13 +1177,13 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 2 | Pegasus | Large | Celest. | Chaotic good | 450 XP | – | MM 250 |
-| CR 4 | Couatl (spellcaster) (shapechanger) | Med. | Celest. | Lawful good | 1,100 XP | – | MM 43 |
-| CR 5 | Unicorn (spellcaster) (legendary) | Large | Celest. | Lawful good | 1,800 XP | – | MM 294 |
-| CR 10 | Angel, deva (spellcaster) (shapechanger) | Med. | Celest. | Lawful good | 5,900 XP | 20 pp | MM 16 |
-| CR 12 | Ki-rin (spellcaster) (legendary) | Huge | Celest. | Lawful good | 8,400 XP | – | VGtM 163 |
-| CR 16 | Angel, planetar (spellcaster) | Large | Celest. | Lawful good | 15,000 XP | 200 pp | MM 17 |
-| CR 21 | Angel, solar (spellcaster) (legendary) | Large | Celest. | Lawful good | 33,000 XP | 730 pp | MM 18 |
-| CR 23 | Empyrean (spellcaster) (legendary) | Huge | Celest. | CG or NE | 50,000 XP | 930 pp | MM 130 |
+| CR 4 | Couatl (spells) (shapech.) | Med. | Celest. | Lawful good | 1,100 XP | – | MM 43 |
+| CR 5 | Unicorn (spells) (legend.) | Large | Celest. | Lawful good | 1,800 XP | – | MM 294 |
+| CR 10 | Angel, deva (spells) (shapech.) | Med. | Celest. | Lawful good | 5,900 XP | 20 pp | MM 16 |
+| CR 12 | Ki-rin (spells) (legend.) | Huge | Celest. | Lawful good | 8,400 XP | – | VGtM 163 |
+| CR 16 | Angel, planetar (spells) | Large | Celest. | Lawful good | 15,000 XP | 200 pp | MM 17 |
+| CR 21 | Angel, solar (spells) (legend.) | Large | Celest. | Lawful good | 33,000 XP | 730 pp | MM 18 |
+| CR 23 | Empyrean (spells) (legend.) | Huge | Celest. | CG or NE | 50,000 XP | 930 pp | MM 130 |
 
 [^ Back to Top](#monsters)
 
@@ -1223,38 +1203,38 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR ¼ | Demon, abyssal wretch | Med. | Fiend | Chaotic evil | 50 XP | – | MToF 136 |
 | CR ¼ | Demon, dretch | Small | Fiend | Chaotic evil | 50 XP | – | MM 57 |
 | CR 1 | Demon, maw | Med. | Fiend | Chaotic evil | 200 XP | – | VGtM 137 |
-| CR 1 | Demon, quasit (shapechanger) | Tiny | Fiend | Chaotic evil | 200 XP | – | MM 63 |
+| CR 1 | Demon, quasit (shapech.) | Tiny | Fiend | Chaotic evil | 200 XP | – | MM 63 |
 | CR 2 | Demon, rutterkin | Med. | Fiend | Chaotic evil | 450 XP | – | MToF 136 |
 | CR 3 | Demon, bulezau | Med. | Fiend | Chaotic evil | 700 XP | 12 gp | MToF 131 |
-| CR 4 | Demon, babau (spellcaster) | Med. | Fiend | Chaotic evil | 1,100 XP | 18 gp | VGtM 136 |
-| CR 4 | Demon, dybbuk (spellcaster) | Med. | Fiend | Chaotic evil | 1,100 XP | – | MToF 132 |
+| CR 4 | Demon, babau (spells) | Med. | Fiend | Chaotic evil | 1,100 XP | 18 gp | VGtM 136 |
+| CR 4 | Demon, dybbuk (spells) | Med. | Fiend | Chaotic evil | 1,100 XP | – | MToF 132 |
 | CR 4 | Demon, shadow | Med. | Fiend | Chaotic evil | 1,100 XP | – | MM 64 |
-| CR 5 | Demon, barlgura (spellcaster) | Large | Fiend | Chaotic evil | 1,800 XP | 27 gp | MM 56 |
+| CR 5 | Demon, barlgura (spells) | Large | Fiend | Chaotic evil | 1,800 XP | 27 gp | MM 56 |
 | CR 6 | Demon, chasme | Large | Fiend | Chaotic evil | 2,300 XP | 41 gp | MM 57 |
 | CR 6 | Demon, vrock | Large | Fiend | Chaotic evil | 2,300 XP | 41 gp | MM 64 |
 | CR 7 | Demon, armanite | Large | Fiend | Chaotic evil | 2,900 XP | 61 gp | MToF 131 |
 | CR 7 | Demon, maurezhi | Med. | Fiend | Chaotic evil | 2,900 XP | 61 gp | MToF 133 |
 | CR 8 | Demon, hezrou | Large | Fiend | Chaotic evil | 3,900 XP | – | MM 60 |
 | CR 8 | Demon, shoosuva | Large | Fiend | Chaotic evil | 3,900 XP | – | VGtM 137 |
-| CR 9 | Demon, glabrezu (spellcaster) | Large | Fiend | Chaotic evil | 5,000 XP | 14 pp | MM 58 |
-| CR 10 | Demon, yochlol (spellcaster) (shapechanger) | Med. | Fiend | Chaotic evil | 5,900 XP | – | MM 65 |
+| CR 9 | Demon, glabrezu (spells) | Large | Fiend | Chaotic evil | 5,000 XP | 14 pp | MM 58 |
+| CR 10 | Demon, yochlol (spells) (shapech.) | Med. | Fiend | Chaotic evil | 5,900 XP | – | MM 65 |
 | CR 11 | Demon, alkilith | Med. | Fiend | Chaotic evil | 7,200 XP | – | MToF 130 |
 | CR 13 | Demon, nalfeshnee | Large | Fiend | Chaotic evil | 10,000 XP | 64 pp | MM 62 |
 | CR 13 | Demon, wastrilith | Large | Fiend | Chaotic evil | 10,000 XP | 64 pp | MToF 139 |
 | CR 15 | Demon, nabassu | Med. | Fiend | Chaotic evil | 13,000 XP | 140 pp | MToF 135 |
 | CR 16 | Demon, marilith | Large | Fiend | Chaotic evil | 15,000 XP | 200 pp | MM 61 |
 | CR 17 | Demon, goristro | Huge | Fiend | Chaotic evil | 18,000 XP | 280 pp | MM 59 |
-| CR 18 | Demon, sibriex (spellcaster) (legendary) | Huge | Fiend | Chaotic evil | 20,000 XP | 380 pp | MToF 137 |
+| CR 18 | Demon, sibriex (spells) (legend.) | Huge | Fiend | Chaotic evil | 20,000 XP | 380 pp | MToF 137 |
 | CR 19 | Demon, balor | Huge | Fiend | Chaotic evil | 22,000 XP | 490 pp | MM 55 |
-| CR 21 | Demon, molydeus (spellcaster) (legendary) | Huge | Fiend | Chaotic evil | 33,000 XP | 730 pp | MToF 134 |
-| CR 23 | Demon, lord, Baphomet (spellcaster) (legendary) (lair) | Huge | Fiend | Chaotic evil | 50,000 XP | 930 pp | MToF 143 |
-| CR 23 | Demon, lord, Fraz-urb'luu (spellcaster) (legendary) (lair) | Large | Fiend | Chaotic evil | 50,000 XP | 930 pp | MToF 146 |
-| CR 23 | Demon, lord, Juiblex (spellcaster) (legendary) (lair) | Huge | Fiend | Chaotic evil | 50,000 XP | – | MToF 151 |
-| CR 23 | Demon, lord, Zuggtmoy (spellcaster) (legendary) (lair) | Large | Fiend | Chaotic evil | 50,000 XP | 930 pp | MToF 157 |
-| CR 24 | Demon, lord, Graz'zt (spellcaster) (legendary) (lair) | Large | Fiend | Chaotic evil | 62,000 XP | 970 pp | MToF 149 |
-| CR 24 | Demon, lord, Yeenoghu (spellcaster) (legendary) (lair) | Huge | Fiend | Chaotic evil | 62,000 XP | 970 pp | MToF 155 |
-| CR 26 | Demon, lord, Demogorgon (spellcaster) (legendary) (lair) | Huge | Fiend | Chaotic evil | 90,000 XP | 1,100 pp | MToF 144 |
-| CR 26 | Demon, lord, Orcus (spellcaster) (legendary) (lair) | Huge | Fiend | Chaotic evil | 90,000 XP | 1,100 pp | MToF 153 |
+| CR 21 | Demon, molydeus (spells) (legend.) | Huge | Fiend | Chaotic evil | 33,000 XP | 730 pp | MToF 134 |
+| CR 23 | Demon, lord, Baphomet (spells) (legend.) (lair) | Huge | Fiend | Chaotic evil | 50,000 XP | 930 pp | MToF 143 |
+| CR 23 | Demon, lord, Fraz-urb'luu (spells) (legend.) (lair) | Large | Fiend | Chaotic evil | 50,000 XP | 930 pp | MToF 146 |
+| CR 23 | Demon, lord, Juiblex (spells) (legend.) (lair) | Huge | Fiend | Chaotic evil | 50,000 XP | – | MToF 151 |
+| CR 23 | Demon, lord, Zuggtmoy (spells) (legend.) (lair) | Large | Fiend | Chaotic evil | 50,000 XP | 930 pp | MToF 157 |
+| CR 24 | Demon, lord, Graz'zt (spells) (legend.) (lair) | Large | Fiend | Chaotic evil | 62,000 XP | 970 pp | MToF 149 |
+| CR 24 | Demon, lord, Yeenoghu (spells) (legend.) (lair) | Huge | Fiend | Chaotic evil | 62,000 XP | 970 pp | MToF 155 |
+| CR 26 | Demon, lord, Demogorgon (spells) (legend.) (lair) | Huge | Fiend | Chaotic evil | 90,000 XP | 1,100 pp | MToF 144 |
+| CR 26 | Demon, lord, Orcus (spells) (legend.) (lair) | Huge | Fiend | Chaotic evil | 90,000 XP | 1,100 pp | MToF 153 |
 
 [^ Back to Fiends](#fiends)
 
@@ -1263,7 +1243,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Devil, lemure | Med. | Fiend | Lawful evil | 10 XP | – | MM 76 |
 | CR ½ | Devil, nupperibo | Med. | Fiend | Lawful evil | 100 XP | – | MToF 168 |
-| CR 1 | Devil, imp (shapechanger) | Tiny | Fiend | Lawful evil | 200 XP | – | MM 76 |
+| CR 1 | Devil, imp (shapech.) | Tiny | Fiend | Lawful evil | 200 XP | – | MM 76 |
 | CR 2 | Devil, spinagon | Small | Fiend | Lawful evil | 450 XP | 80 sp | MM 78 |
 | CR 3 | Devil, barbazu | Med. | Fiend | Lawful evil | 700 XP | 12 gp | MM 70 |
 | CR 4 | Devil, merregon | Med. | Fiend | Lawful evil | 1,100 XP | – | MToF 166 |
@@ -1275,15 +1255,15 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 12 | Devil, erinyes | Med. | Fiend | Lawful evil | 8,400 XP | 44 pp | MM 73 |
 | CR 13 | Devil, narzugon | Med. | Fiend | Lawful evil | 10,000 XP | 64 pp | MToF 167 |
 | CR 14 | Devil, gelugon | Large | Fiend | Lawful evil | 11,500 XP | 94 pp | MM 75 |
-| CR 16 | Devil, archdevil, Titivilus (spellcaster) (legendary) | Med. | Fiend | Lawful evil | 15,000 XP | 200 pp | MToF 179 |
+| CR 16 | Devil, archdevil, Titivilus (spells) (legend.) | Med. | Fiend | Lawful evil | 15,000 XP | 200 pp | MToF 179 |
 | CR 16 | Hellfire engine | Huge | Constr. | Lawful evil | 15,000 XP | – | MToF 165 |
-| CR 18 | Devil, amnizu (spellcaster) | Med. | Fiend | Lawful evil | 20,000 XP | 380 pp | MToF 164 |
-| CR 19 | Devil, archdevil, Bael (spellcaster) (legendary) | Large | Fiend | Lawful evil | 22,000 XP | 490 pp | MToF 170 |
-| CR 20 | Devil, pit fiend (spellcaster) | Large | Fiend | Lawful evil | 25,000 XP | 610 pp | MM 77 |
-| CR 21 | Devil, archdevil, Hutijin (spellcaster) (legendary) | Large | Fiend | Lawful evil | 33,000 XP | 730 pp | MToF 175 |
-| CR 21 | Devil, archdevil, Moloch (spellcaster) (legendary) | Large | Fiend | Lawful evil | 33,000 XP | 730 pp | MToF 177 |
-| CR 22 | Devil, archdevil, Geryon (spellcaster) (legendary) | Huge | Fiend | Lawful evil | 41,000 XP | 840 pp | MToF 173 |
-| CR 26 | Devil, archdevil, Zariel (spellcaster) (legendary) (lair) | Large | Fiend | Lawful evil | 90,000 XP | 1,100 pp | MToF 180 |
+| CR 18 | Devil, amnizu (spells) | Med. | Fiend | Lawful evil | 20,000 XP | 380 pp | MToF 164 |
+| CR 19 | Devil, archdevil, Bael (spells) (legend.) | Large | Fiend | Lawful evil | 22,000 XP | 490 pp | MToF 170 |
+| CR 20 | Devil, pit fiend (spells) | Large | Fiend | Lawful evil | 25,000 XP | 610 pp | MM 77 |
+| CR 21 | Devil, archdevil, Hutijin (spells) (legend.) | Large | Fiend | Lawful evil | 33,000 XP | 730 pp | MToF 175 |
+| CR 21 | Devil, archdevil, Moloch (spells) (legend.) | Large | Fiend | Lawful evil | 33,000 XP | 730 pp | MToF 177 |
+| CR 22 | Devil, archdevil, Geryon (spells) (legend.) | Huge | Fiend | Lawful evil | 41,000 XP | 840 pp | MToF 173 |
+| CR 26 | Devil, archdevil, Zariel (spells) (legend.) (lair) | Large | Fiend | Lawful evil | 90,000 XP | 1,100 pp | MToF 180 |
 
 [^ Back to Fiends](#fiends)
 
@@ -1292,8 +1272,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 6 | Devil, abishai, white | Med. | Fiend | Lawful evil | 2,300 XP | 41 gp | MToF 163 |
 | CR 7 | Devil, abishai, black | Med. | Fiend | Lawful evil | 2,900 XP | 61 gp | MToF 160 |
-| CR 15 | Devil, abishai, green (spellcaster) | Med. | Fiend | Lawful evil | 13,000 XP | 140 pp | MToF 162 |
-| CR 17 | Devil, abishai, blue (spellcaster) | Med. | Fiend | Lawful evil | 18,000 XP | 280 pp | MToF 161 |
+| CR 15 | Devil, abishai, green (spells) | Med. | Fiend | Lawful evil | 13,000 XP | 140 pp | MToF 162 |
+| CR 17 | Devil, abishai, blue (spells) | Med. | Fiend | Lawful evil | 18,000 XP | 280 pp | MToF 161 |
 | CR 19 | Devil, abishai, red | Med. | Fiend | Lawful evil | 22,000 XP | 490 pp | MToF 162 |
 
 [^ Back to Fiends](#fiends)
@@ -1301,16 +1281,16 @@ Dwarves use the same stat blocks as humans, with the following changes:
 ### Fiends: Yugoloths
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 3 | Yugoloth merrenoloth (spellcaster) | Med. | Fiend | Neutral evil | 700 XP | 12 gp | MToF 250 |
-| CR 5 | Yugoloth mezzoloth (spellcaster) | Med. | Fiend | Neutral evil | 1,800 XP | 27 gp | MM 313 |
-| CR 7 | Yugoloth dhergoloth (spellcaster) | Med. | Fiend | Neutral evil | 2,900 XP | 61 gp | MToF 248 |
+| CR 3 | Yugoloth merrenoloth (spells) | Med. | Fiend | Neutral evil | 700 XP | 12 gp | MToF 250 |
+| CR 5 | Yugoloth mezzoloth (spells) | Med. | Fiend | Neutral evil | 1,800 XP | 27 gp | MM 313 |
+| CR 7 | Yugoloth dhergoloth (spells) | Med. | Fiend | Neutral evil | 2,900 XP | 61 gp | MToF 248 |
 | CR 8 | Yugoloth canoloth | Med. | Fiend | Neutral evil | 3,900 XP | – | MToF 247 |
-| CR 9 | Yugoloth hydroloth (spellcaster) | Med. | Fiend | Neutral evil | 5,000 XP | 14 pp | MToF 249 |
-| CR 9 | Yugoloth nycaloth (spellcaster) | Large | Fiend | Neutral evil | 5,000 XP | 14 pp | MM 314 |
-| CR 11 | Yugoloth yagnoloth (spellcaster) | Large | Fiend | Neutral evil | 7,200 XP | 30 pp | MToF 252 |
-| CR 12 | Yugoloth arcanaloth (spellcaster) | Med. | Fiend | Neutral evil | 8,400 XP | 44 pp | MM 313 |
-| CR 12 | Yugoloth oinoloth (spellcaster) | Med. | Fiend | Neutral evil | 8,400 XP | 44 pp | MToF 251 |
-| CR 13 | Yugoloth ultroloth (spellcaster) | Med. | Fiend | Neutral evil | 10,000 XP | 64 pp | MM 314 |
+| CR 9 | Yugoloth hydroloth (spells) | Med. | Fiend | Neutral evil | 5,000 XP | 14 pp | MToF 249 |
+| CR 9 | Yugoloth nycaloth (spells) | Large | Fiend | Neutral evil | 5,000 XP | 14 pp | MM 314 |
+| CR 11 | Yugoloth yagnoloth (spells) | Large | Fiend | Neutral evil | 7,200 XP | 30 pp | MToF 252 |
+| CR 12 | Yugoloth arcanaloth (spells) | Med. | Fiend | Neutral evil | 8,400 XP | 44 pp | MM 313 |
+| CR 12 | Yugoloth oinoloth (spells) | Med. | Fiend | Neutral evil | 8,400 XP | 44 pp | MToF 251 |
+| CR 13 | Yugoloth ultroloth (spells) | Med. | Fiend | Neutral evil | 10,000 XP | 64 pp | MM 314 |
 
 [^ Back to Fiends](#fiends)
 
@@ -1321,12 +1301,12 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 1 | Vargouille | Tiny | Fiend | Chaotic evil | 200 XP | – | VGtM 195 |
 | CR 3 | Dog, hound, hell | Med. | Fiend | Lawful evil | 700 XP | – | MM 182 |
 | CR 3 | Horse, nightmare | Large | Fiend | Neutral evil | 700 XP | – | MM 235 |
-| CR 4 | Succubus/Incubus (shapechanger) | Med. | Fiend | Neutral evil | 1,100 XP | 18 gp | MM 285 |
-| CR 5 | Cambion (spellcaster) | Med. | Fiend | Any evil | 1,800 XP | 27 gp | MM 36 |
-| CR 5 | Hag, night (spellcaster) (shapechanger) (coven +2 CR) (lair VGtM 59) | Med. | Fiend | Neutral evil | 1,800 XP | 27 gp | MM 178 |
+| CR 4 | Succubus/Incubus (shapech.) | Med. | Fiend | Neutral evil | 1,100 XP | 18 gp | MM 285 |
+| CR 5 | Cambion (spells) | Med. | Fiend | Any evil | 1,800 XP | 27 gp | MM 36 |
+| CR 5 | Hag, night (spells) (shapech.) (coven +2 CR) (lair VGtM 59) | Med. | Fiend | Neutral evil | 1,800 XP | 27 gp | MM 178 |
 | CR 8 | Howler | Large | Fiend | Chaotic evil | 3,900 XP | – | MToF 210 |
 | CR 13 | Devourer | Large | Fiend | Chaotic evil | 10,000 XP | – | VGtM 138 |
-| CR 13 | Rakshasa (spellcaster) | Med. | Fiend | Lawful evil | 10,000 XP | 64 pp | MM 257 |
+| CR 13 | Rakshasa (spells) | Med. | Fiend | Lawful evil | 10,000 XP | 64 pp | MM 257 |
 
 [^ Back to Fiends](#fiends)
 
@@ -1351,8 +1331,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Oblex spawn | Tiny | Ooze | Lawful evil | 50 XP | – | MToF 217 |
 | CR 3 | Slithering tracker | Med. | Ooze | Chaotic evil | 700 XP | – | VGtM 191 |
-| CR 5 | Oblex, adult (spellcaster) | Med. | Ooze | Lawful evil | 1,800 XP | – | MToF 218 |
-| CR 10 | Oblex, elder (spellcaster) | Huge | Ooze | Lawful evil | 5,900 XP | – | MToF 219 |
+| CR 5 | Oblex, adult (spells) | Med. | Ooze | Lawful evil | 1,800 XP | – | MToF 218 |
+| CR 10 | Oblex, elder (spells) | Huge | Ooze | Lawful evil | 5,900 XP | – | MToF 219 |
 
 [^ Back to Oozes](#oozes)
 
@@ -1371,7 +1351,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Neogi hatchling | Tiny | Aberr. | Lawful evil | 25 XP | 50 cp | VGtM 179 |
 | CR 3 | Neogi | Small | Aberr. | Lawful evil | 700 XP | 12 gp | VGtM 180 |
-| CR 4 | Neogi master (spellcaster) | Med. | Aberr. | Lawful evil | 1,100 XP | 18 gp | VGtM 180 |
+| CR 4 | Neogi master (spells) | Med. | Aberr. | Lawful evil | 1,100 XP | 18 gp | VGtM 180 |
 
 [^ Back to Aberrations](#aberrations)
 
@@ -1381,9 +1361,9 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR ⅛ | Slaad tadpole | Tiny | Aberr. | Chaotic neutral | 25 XP | – | MM 276 |
 | CR 5 | Slaad, red | Large | Aberr. | Chaotic neutral | 1,800 XP | 27 gp | MM 276 |
 | CR 7 | Slaad, blue | Large | Aberr. | Chaotic neutral | 2,900 XP | 61 gp | MM 276 |
-| CR 8 | Slaad, green (spellcaster) (shapechanger) | Large | Aberr. | Chaotic neutral | 3,900 XP | 91 gp | MM 277 |
-| CR 9 | Slaad, gray (spellcaster) (shapechanger) | Med. | Aberr. | Chaotic neutral | 5,000 XP | 14 pp | MM 277 |
-| CR 10 | Slaad, death (spellcaster) (shapechanger) | Med. | Aberr. | Chaotic evil | 5,900 XP | 20 pp | MM 278 |
+| CR 8 | Slaad, green (spells) (shapech.) | Large | Aberr. | Chaotic neutral | 3,900 XP | 91 gp | MM 277 |
+| CR 9 | Slaad, gray (spells) (shapech.) | Med. | Aberr. | Chaotic neutral | 5,000 XP | 14 pp | MM 277 |
+| CR 10 | Slaad, death (spells) (shapech.) | Med. | Aberr. | Chaotic evil | 5,900 XP | 20 pp | MM 278 |
 
 [^ Back to Aberrations](#aberrations)
 
@@ -1394,7 +1374,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 5 | Star spawn mangler | Med. | Aberr. | Chaotic evil | 1,800 XP | – | MToF 236 |
 | CR 10 | Star spawn hulk | Large | Aberr. | Chaotic evil | 5,900 XP | – | MToF 234 |
 | CR 13 | Star spawn seer | Med. | Aberr. | Neutral evil | 10,000 XP | 64 pp | MToF 236 |
-| CR 16 | Star spawn larva mage (spellcaster) (legendary) | Med. | Aberr. | Chaotic evil | 15,000 XP | 200 pp | MToF 235 |
+| CR 16 | Star spawn larva mage (spells) (legend.) | Med. | Aberr. | Chaotic evil | 15,000 XP | 200 pp | MToF 235 |
 
 [^ Back to Aberrations](#aberrations)
 
@@ -1402,12 +1382,12 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Beholder mindwitness | Large | Aberr. | Lawful evil | 1,800 XP | – | VGtM 176 |
-| CR 7 | Illithid (spellcaster) | Med. | Aberr. | Lawful evil | 2,900 XP | 61 gp | MM 222 |
-| CR 8 | Illithid arcanist (spellcaster) | Med. | Aberr. | Lawful evil | 3,900 XP | 91 gp | MM 222 |
-| CR 9 | Illithid ulitharid (spellcaster) | Large | Aberr. | Lawful evil | 5,000 XP | 14 pp | VGtM 175 |
-| CR 10 | Illithid alhoon (spellcaster) | Med. | Undead | Any evil | 5,900 XP | 20 pp | VGtM 172 |
-| CR 14 | Elder brain (spellcaster) (legendary) (lair) | Large | Aberr. | Lawful evil | 11,500 XP | – | VGtM 174 |
-| CR 22 | Illithid lich (spellcaster) (legendary) | Med. | Undead | Any evil | 41,000 XP | 840 pp | VGtM 172 |
+| CR 7 | Illithid (spells) | Med. | Aberr. | Lawful evil | 2,900 XP | 61 gp | MM 222 |
+| CR 8 | Illithid arcanist (spells) | Med. | Aberr. | Lawful evil | 3,900 XP | 91 gp | MM 222 |
+| CR 9 | Illithid ulitharid (spells) | Large | Aberr. | Lawful evil | 5,000 XP | 14 pp | VGtM 175 |
+| CR 10 | Illithid alhoon (spells) | Med. | Undead | Any evil | 5,900 XP | 20 pp | VGtM 172 |
+| CR 14 | Elder brain (spells) (legend.) (lair) | Large | Aberr. | Lawful evil | 11,500 XP | – | VGtM 174 |
+| CR 22 | Illithid lich (spells) (legend.) | Med. | Undead | Any evil | 41,000 XP | 840 pp | VGtM 172 |
 
 [^ Back to Aberrations](#aberrations)
 
@@ -1418,8 +1398,8 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 3 | Beholder spectator | Med. | Aberr. | Lawful neutral | 700 XP | – | MM 30 |
 | CR 6 | Beholder gauth | Med. | Aberr. | Lawful evil | 2,300 XP | – | VGtM 125 |
 | CR 10 | Beholder death kiss | Large | Aberr. | Neutral evil | 5,900 XP | – | VGtM 124 |
-| CR 13 | Beholder (legendary) (lair +1 CR) | Large | Aberr. | Lawful evil | 10,000 XP | – | MM 28 |
-| CR 14 | Beholder death tyrant (legendary) (lair +1 CR) | Large | Undead | Lawful evil | 11,500 XP | – | MM 29 |
+| CR 13 | Beholder (legend.) (lair +1 CR) | Large | Aberr. | Lawful evil | 10,000 XP | – | MM 28 |
+| CR 14 | Beholder death tyrant (legend.) (lair +1 CR) | Large | Undead | Lawful evil | 11,500 XP | – | MM 29 |
 
 [^ Back to Aberrations](#aberrations)
 
@@ -1428,7 +1408,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Flumph | Small | Aberr. | Lawful good | 25 XP | – | MM 135 |
 | CR 1 | Choker | Small | Aberr. | Chaotic evil | 200 XP | – | MToF 123 |
-| CR 2 | Berbalang (spellcaster) | Med. | Aberr. | Neutral evil | 450 XP | 80 sp | MToF 120 |
+| CR 2 | Berbalang (spells) | Med. | Aberr. | Neutral evil | 450 XP | 80 sp | MToF 120 |
 | CR 2 | Gibbering mouther | Med. | Aberr. | True neutral | 450 XP | – | MM 157 |
 | CR 2 | Intellect devourer | Tiny | Aberr. | Lawful evil | 450 XP | – | MM 191 |
 | CR 2 | Nothic | Med. | Aberr. | Neutral evil | 450 XP | 80 sp | MM 236 |
@@ -1436,9 +1416,9 @@ Dwarves use the same stat blocks as humans, with the following changes:
 | CR 4 | Chuul | Large | Aberr. | Chaotic evil | 1,100 XP | – | MM 40 |
 | CR 5 | Otyugh | Large | Aberr. | True neutral | 1,800 XP | – | MM 248 |
 | CR 8 | Cloaker | Large | Aberr. | Chaotic neutral | 3,900 XP | – | MM 41 |
-| CR 10 | Aboleth (legendary) (lair) | Large | Aberr. | Lawful evil | 5,900 XP | – | MM 13 |
-| CR 11 | Balhannoth (legendary) (lair) | Large | Aberr. | Chaotic evil | 7,200 XP | – | MToF 118 |
-| CR 11 | Morkoth (spellcaster) (lair) | Med. | Aberr. | Chaotic evil | 7,200 XP | 30 pp | VGtM 178 |
-| CR 13 | Neothelid (spellcaster) | Garg. | Aberr. | Chaotic evil | 10,000 XP | – | VGtM 181 |
+| CR 10 | Aboleth (legend.) (lair) | Large | Aberr. | Lawful evil | 5,900 XP | – | MM 13 |
+| CR 11 | Balhannoth (legend.) (lair) | Large | Aberr. | Chaotic evil | 7,200 XP | – | MToF 118 |
+| CR 11 | Morkoth (spells) (lair) | Med. | Aberr. | Chaotic evil | 7,200 XP | 30 pp | VGtM 178 |
+| CR 13 | Neothelid (spells) | Garg. | Aberr. | Chaotic evil | 10,000 XP | – | VGtM 181 |
 
 [^ Back to Aberrations](#aberrations)
