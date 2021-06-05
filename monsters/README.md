@@ -1,18 +1,14 @@
 # Monsters
 * [Beastlike Monsters](#beastlike-monsters)
   * [Beastlike Land Monsters](#beastlike-monsters-beastlike-land-monsters), [Beastlike Climbing Monsters](#beastlike-monsters-beastlike-climbing-monsters), [Beastlike Burrowing Monsters](#beastlike-monsters-beastlike-burrowing-monsters), [Beastlike Swimming Monsters](#beastlike-monsters-beastlike-swimming-monsters), [Beastlike Flying Monsters](#beastlike-monsters-beastlike-flying-monsters)
-* [Land Humanoids](#common-humanoids)
-  * [Humans](#land-humanoids-humans), [Dwarves](#land-humanoids-dwarves), [Elves](#land-humanoids-elves), [Kobolds](#land-humanoids-kobolds), [Goblinoids](#land-humanoids-goblinoids), [Orcs](#land-humanoids-orcs), [Gnolls](#land-humanoids-gnolls), [Lycanthropes](#land-humanoids-lycanthropes), [Miscellaneous Land Humanoids](#land-humanoids-miscellaneous-land-humanoids)
-* [Aquatic Humanoids](#aquatic-humanoids)
-  * [Grungs](#aquatic-humanoids-grungs), [Kuo-toa](#aquatic-humanoids-kuo-toa), [Lizardfolk](#aquatic-humanoids-lizardfolk), [Sahuagin](#aquatic-humanoids-sahuagin), [Miscellaneous Aquatic Humanoids](#aquatic-humanoids-miscellaneous-aquatic-humanoids)
-* [Underdark Humanoids](#underdark-humanoids)
-  * [Duergar](#underdark-humanoids-duergar), [Drow](#underdark-humanoids-drow), [Miscellaneous Underdark Humanoids](#underdark-humanoids-miscellaneous-underdark-humanoids)
-* [Planar Humanoids](#planar-humanoids)
-  * [Shadar-kai](#planar-humanoids-shadar-kai), [Githyanki](#planar-humanoids-githyanki), [Githzerai](#planar-humanoids-githzerai)
-* [Giants](#giants)
-  * [Ogres](#giants-ogres), [Trolls](#giants-trolls), [Miscellaneous Giants](#giants-miscellaneous-giants), [Original Giants](#giants-original-giants)
-* [Sentient Monsters](#sentient-monsters)
-  * [Myconids](#sentient-monsters-myconids), [Vegepygmies](#sentient-monsters-vegepygmies), [Kruthiks](#sentient-monsters-kruthiks), [Yuan-ti](#sentient-monsters-yuan-ti), [Nagas](#sentient-monsters-nagas), [Sorrowsworn](#sentient-monsters-sorrowsworn), [Sphinxes](#sentient-monsters-sphinxes), [Miscellaneous Sentient Monsters](#sentient-monsters-miscellaneous-sentient-monsters)
+* [Surface Peoples](#surface-peoples)
+  * [Humans](#surface-peoples-humans), [Dwarves](#surface-peoples-dwarves), [Elves](#surface-peoples-elves), [Kobolds](#surface-peoples-kobolds), [Vegepygmies](#surface-peoples-vegepygmies), [Goblinoids](#surface-peoples-goblinoids), [Ogres](#surface-peoples-ogres), [Orcs](#surface-peoples-orcs), [Gnolls](#surface-peoples-gnolls), [Lycanthropes](#surface-peoples-lycantropes), [Flying Peoples](#surface-peoples-flying-peoples), [Yuan-ti](#surface-peoples-yuan-ti), [Half-dragons](#surface-peoples-half-dragons), [Nagas](#surface-peoples-nagas), [Trolls](#surface-peoples-trolls), [Sorrowsworn](#surface-peoples-sorrowsworn), [Giants](#surface-peoples-giants), [Miscellaneous Surface Peoples](#surface-peoples-miscellaneous-surface-peoples)
+* [Aquatic Peoples](#aquatic-peoples)
+  * [Grungs](#aquatic-peoples-grungs), [Kuo-toa](#aquatic-peoples-kuo-toa), [Lizardfolk](#aquatic-peoples-lizardfolk), [Sahuagin](#aquatic-peoples-sahuagin), [Miscellaneous Aquatic Peoples](#aquatic-peoples-miscellaneous-aquatic-peoples)
+* [Underdark Peoples](#underdark-peoples)
+  * [Myconids](#underdark-peoples-myconids), [Kruthiks](#underdark-peoples-kruthiks), [Duergar](#underdark-peoples-duergar), [Drow](#underdark-peoples-drow), [Miscellaneous Underdark Peoples](#underdark-peoples-miscellaneous-underdark-peoples)
+* [Planar Peoples](#planar-peoples)
+  * [Shadar-kai](#planar-peoples-shadar-kai), [Githyanki](#planar-peoples-githyanki), [Githzerai](#planar-peoples-githzerai), [Sphinxes](#planar-peoples-sphinxes)
 * [Undead](#undead)
   * [Thralls](#undead-thralls), [Spirits](#undead-spirits), [Vampires](#undead-vampires), [Miscellaneous Undead](#undead-miscellaneous-undead)
 * [Constructs](#constructs)
@@ -241,20 +237,29 @@ Abbreviations:
 
 [^ Back to Beastlike Monsters](#beastlike-monsters)
 
-## Land Humanoids
-* [Humans](#land-humanoids-humans)
-* [Dwarves](#land-humanoids-dwarves)
-* [Elves](#land-humanoids-elves)
-* [Kobolds](#land-humanoids-kobolds)
-* [Goblinoids](#land-humanoids-goblinoids)
-* [Orcs](#land-humanoids-orcs)
-* [Gnolls](#land-humanoids-gnolls)
-* [Lycanthropes](#land-humanoids-lycantropes)
-* [Miscellaneous Land Humanoids](#land-humanoids-miscellaneous-land-humanoids)
+## Surface Peoples
+* [Humans](#surface-peoples-humans)
+* [Dwarves](#surface-peoples-dwarves)
+* [Elves](#surface-peoples-elves)
+* [Kobolds](#surface-peoples-kobolds)
+* [Vegepygmies](#surface-peoples-vegepygmies)
+* [Goblinoids](#surface-peoples-goblinoids)
+* [Ogres](#surface-peoples-ogres)
+* [Orcs](#surface-peoples-orcs)
+* [Gnolls](#surface-peoples-gnolls)
+* [Lycanthropes](#surface-peoples-lycantropes)
+* [Flying Peoples](#surface-peoples-flying-peoples)
+* [Yuan-ti](#surface-peoples-yuan-ti)
+* [Half-dragons](#surface-peoples-half-dragons)
+* [Nagas](#surface-peoples-nagas)
+* [Trolls](#surface-peoples-trolls)
+* [Sorrowsworn](#surface-peoples-sorrowsworn)
+* [Giants](#surface-peoples-giants)
+* [Miscellaneous Surface Peoples](#surface-peoples-miscellaneous-surface-peoples)
 
 [^ Back to Top](#monsters)
 
-### Land Humanoids: Humans
+### Surface Peoples: Humans
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Human commoner | Med. | Human. | Any | 10 XP | 20 cp | MM 344 |
@@ -302,9 +307,9 @@ Abbreviations:
 | CR 12 | Human archmage (spells) | Med. | Human. | Any | 8,400 XP | 44 pp | MM 342 |
 | CR 12 | Human warlord (legend.) | Med. | Human. | Any | 8,400 XP | 44 pp | VGtM 220 |
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Land Humanoids: Dwarves
+### Surface Peoples: Dwarves
 Dwarves use the same stat blocks as humans, with the following changes:
 * Speed: Dwarves have a base walking speed of 25 feet instead of 30 feet.
 * Darkvision: Dwarves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
@@ -313,9 +318,9 @@ Dwarves use the same stat blocks as humans, with the following changes:
 * Stonecunning: Whenever dwarves make an Intelligence (History) check related to the origin of stonework, they are considered to have expertise in the skill, adding double their proficiency bonus to the check.
 * Weapons: Dwarves favor hammers (warhammer, maul, mace, light hammer), axes (battleaxe, greataxe, handaxe), and crossbows (light crossbow, heavy crossbow, hand crossbow) over other weapons.
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Land Humanoids: Elves
+### Surface Peoples: Elves
 Elves use the same stat blocks as humans, with the following changes:
 * Keen Senses: Elves have proficiency in the Perception skill.
 * Darkvision: Elves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
@@ -323,9 +328,9 @@ Elves use the same stat blocks as humans, with the following changes:
 * Trance: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
 * Weapons: Elves favor swords (longsword, rapier, scimitar, shortsword, greatsword) and bows (longbow, shortbow) over other weapons.
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Land Humanoids: Kobolds
+### Surface Peoples: Kobolds
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Kobold | Small | Human. | Lawful evil | 25 XP | 50 cp | MM 195 |
@@ -334,9 +339,18 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 1 | Kobold dragonshield | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 165 |
 | CR 1 | Kobold scale sorcerer (spells) | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 167 |
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Land Humanoids: Goblinoids
+### Surface Peoples: Vegepygmies
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR ¼ | Vegepygmy | Small | Plant | True neutral | 50 XP | 10 sp | VGtM 196 |
+| CR 1 | Vegepygmy thorny | Med. | Plant | True neutral | 200 XP | – | VGtM 197 |
+| CR 2 | Vegepygmy chief | Small | Plant | True neutral | 450 XP | 80 sp | VGtM 197 |
+
+[^ Back to Surface Peoples](#surface-peoples)
+
+### Surface Peoples: Goblinoids
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Goblin | Small | Human. | Neutral evil | 50 XP | 10 sp | MM 166 |
@@ -351,9 +365,21 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Hobgoblin devastator (spells) | Med. | Human. | Lawful evil | 1,100 XP | 18 gp | VGtM 161 |
 | CR 6 | Hobgoblin warlord | Med. | Human. | Lawful evil | 2,300 XP | 41 gp | MM 187 |
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Land Humanoids: Orcs
+### Surface Peoples: Ogres
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 1 | Ogrillon half-ogre | Large | Giant | Any chaotic | 200 XP | 40 sp | MM 238 |
+| CR 2 | Ogre | Large | Giant | Chaotic evil | 450 XP | 80 sp | MM 237 |
+| CR 2 | Ogre bolt launcher | Large | Giant | Chaotic evil | 450 XP | 80 sp | MToF 220 |
+| CR 2 | Ogre howdah | Large | Giant | Chaotic evil | 450 XP | 80 sp | MToF 221 |
+| CR 3 | Ogre chain brute | Large | Giant | Chaotic evil | 700 XP | 12 gp | MToF 221 |
+| CR 4 | Ogre battering ram | Large | Giant | Chaotic evil | 1,100 XP | 18 gp | MToF 220 |
+
+[^ Back to Surface Peoples](#surface-peoples)
+
+### Surface Peoples: Orcs
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Orc | Med. | Human. | Chaotic evil | 100 XP | 20 sp | MM 246 |
@@ -367,9 +393,9 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Orc war chief | Med. | Human. | Chaotic evil | 1,100 XP | 18 gp | MM 246 |
 | CR 5 | Orc tanarukk | Med. | Fiend | Chaotic evil | 1,800 XP | 27 gp | VGtM 186 |
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Land Humanoids: Gnolls
+### Surface Peoples: Gnolls
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ¼ | Gnoll witherling | Med. | Undead | Chaotic evil | 50 XP | – | VGtM 155 |
@@ -377,12 +403,13 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ½ | Gnoll hunter | Med. | Human. | Chaotic evil | 100 XP | 20 sp | VGtM 154 |
 | CR 1 | Gnoll flesh gnawer | Med. | Human. | Chaotic evil | 200 XP | 40 sp | VGtM 154 |
 | CR 2 | Gnoll pack lord | Med. | Human. | Chaotic evil | 450 XP | 80 sp | MM 163 |
+| CR 3 | Leucrotta | Large | Monstr. | Chaotic evil | 700 XP | – | VGtM 169 |
 | CR 4 | Gnoll fang of Yeenoghu | Med. | Fiend | Chaotic evil | 1,100 XP | 18 gp | MM 163 |
 | CR 9 | Gnoll flind | Med. | Human. | Chaotic evil | 5,000 XP | 14 pp | VGtM 153 |
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Land Humanoids: Lycanthropes
+### Surface Peoples: Lycanthropes
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ½ | Jackalwere (shapech.) | Med. | Human. | Chaotic evil | 100 XP | 20 sp | MM 193 |
@@ -392,205 +419,52 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Lycanthrope weretiger (shapech.) | Med. | Human. | True neutral | 1,100 XP | 18 gp | MM 210 |
 | CR 5 | Lycanthrope werebear (shapech.) | Med. | Human. | Neutral good | 1,800 XP | 27 gp | MM 208 |
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Land Humanoids: Miscellaneous Land Humanoids
+### Surface Peoples: Flying Peoples
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ⅛ | Xvart | Small | Human. | Chaotic evil | 25 XP | 50 cp | VGtM 200 |
-| CR ¼ | Kenku | Med. | Human. | Chaotic neutral | 50 XP | 10 sp | MM 194 |
-| CR ¼ | Tortle | Med. | Human. | Lawful good | 50 XP | 10 sp | MToF 242 |
-| CR ½ | Firenewt warrior | Med. | Human. | Neutral evil | 100 XP | 20 sp | VGtM 142 |
-| CR ½ | Skulk | Med. | Human. | Chaotic neutral | 100 XP | – | MToF 227 |
-| CR 1 | Firenewt warlock of Imix (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 143 |
-| CR 1 | Meazel | Med. | Human. | Neutral evil | 200 XP | 40 sp | MToF 214 |
-| CR 1 | Strider, giant | Large | Monstr. | Neutral evil | 200 XP | – | VGtM 143 |
-| CR 1 | Thri-kreen | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
-| CR 1 | Thri-kreen spellcaster (spells) | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
-| CR 1 | Thri-kreen warrior | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
-| CR 1 | Xvart warlock of Raxivort (spells) | Small | Human. | Chaotic evil | 200 XP | 40 sp | VGtM 200 |
-| CR 2 | Tortle druid (spells) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MToF 242 |
-| CR 3 | Giff | Med. | Human. | Lawful neutral | 700 XP | 12 gp | MToF 204 |
-| CR 5 | Half-dragon, black, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-| CR 5 | Half-dragon, blue, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-| CR 5 | Half-dragon, green, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-| CR 5 | Half-dragon, red, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 1 | Harpy | Med. | Monstr. | Chaotic evil | 200 XP | 40 sp | MM 181 |
+| CR 2 | Peryton | Med. | Monstr. | Chaotic evil | 450 XP | – | MM 251 |
+| CR 3 | Manticore | Large | Monstr. | Lawful evil | 700 XP | – | MM 213 |
+
+[^ Back to Surface Peoples](#surface-peoples)
+
+### Surface Peoples: Yuan-ti
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 1 | Yuan-ti pureblood (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 310 |
+| CR 2 | Yuan-ti broodguard | Med. | Human. | Neutral evil | 450 XP | – | VGtM 203 |
+| CR 3 | Yuan-ti malison (spells) (shapech.) | Med. | Monstr. | Neutral evil | 700 XP | 12 gp | MM 309 |
+| CR 4 | Yuan-ti mind whisperer (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,100 XP | 18 gp | VGtM 204 |
+| CR 4 | Yuan-ti nightmare speaker (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,100 XP | 18 gp | VGtM 205 |
+| CR 5 | Yuan-ti pit master (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,800 XP | 27 gp | VGtM 206 |
+| CR 7 | Yuan-ti abomination (spells) (shapech.) | Large | Monstr. | Neutral evil | 2,900 XP | 61 gp | MM 308 |
+| CR 12 | Yuan-ti anathema (spells) (shapech.) | Huge | Monstr. | Neutral evil | 8,400 XP | 44 pp | VGtM 202 |
+
+[^ Back to Surface Peoples](#surface-peoples)
+
+### Surface Peoples: Half-dragons
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Half-dragon, white, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
-| CR 17 | Nagpa (spells) | Med. | Human. | Neutral evil | 18,000 XP | 280 pp | MToF 215 |
+| CR 5 | Half-dragon, black, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 5 | Half-dragon, green, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 5 | Half-dragon, blue, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
+| CR 5 | Half-dragon, red, veteran | Med. | Human. | Any | 1,800 XP | 27 gp | MM 180 |
 
-[^ Back to Land Humanoids](#land-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-## Aquatic Humanoids
-* [Grungs](#aquatic-humanoids-grungs)
-* [Kuo-toa](#aquatic-humanoids-kuo-toa)
-* [Lizardfolk](#aquatic-humanoids-lizardfolk)
-* [Sahuagin](#aquatic-humanoids-sahuagin)
-* [Miscellaneous Aquatic Humanoids](#aquatic-humanoids-miscellaneous-aquatic-humanoids)
-
-[^ Back to Top](#monsters)
-
-### Aquatic Humanoids: Grungs
+### Surface Peoples: Nagas
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ¼ | Grung | Small | Human. | Lawful evil | 50 XP | 10 sp | VGtM 156 |
-| CR 1 | Grung wildling (spells) | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 157 |
-| CR 2 | Grung elite warrior | Small | Human. | Lawful evil | 450 XP | 80 sp | VGtM 157 |
+| CR 4 | Naga, bone (spells) | Large | Undead | Lawful evil | 1,100 XP | – | MM 233 |
+| CR 8 | Naga, spirit (spells) | Large | Monstr. | Chaotic evil | 3,900 XP | – | MM 234 |
+| CR 10 | Naga, guardian (spells) | Large | Monstr. | Lawful good | 5,900 XP | – | MM 234 |
 
-[^ Back to Aquatic Humanoids](#aquatic-humanoids)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Aquatic Humanoids: Kuo-toa
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ¼ | Kuo-toa | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 199 |
-| CR 1 | Kuo-toa whip (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 200 |
-| CR 3 | Kuo-toa monitor | Med. | Human. | Neutral evil | 700 XP | 12 gp | MM 198 |
-| CR 6 | Kuo-toa archpriest (spells) | Med. | Human. | Neutral evil | 2,300 XP | 41 gp | MM 200 |
-
-[^ Back to Aquatic Humanoids](#aquatic-humanoids)
-
-### Aquatic Humanoids: Lizardfolk
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ½ | Lizardfolk | Med. | Human. | True neutral | 100 XP | 20 sp | MM 204 |
-| CR 2 | Lizardfolk shaman (spells) (shapech.) | Med. | Human. | True neutral | 450 XP | 80 sp | MM 205 |
-| CR 4 | Lizardfolk king/queen | Med. | Human. | Chaotic evil | 1,100 XP | 18 gp | MM 205 |
-
-[^ Back to Aquatic Humanoids](#aquatic-humanoids)
-
-### Aquatic Humanoids: Sahuagin
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ½ | Sahuagin | Med. | Human. | Lawful evil | 100 XP | 20 sp | MM 263 |
-| CR 2 | Sahuagin priestess (spells) | Med. | Human. | Lawful evil | 450 XP | 80 sp | MM 264 |
-| CR 5 | Sahuagin baron | Large | Human. | Lawful evil | 1,800 XP | 27 gp | MM 264 |
-
-[^ Back to Aquatic Humanoids](#aquatic-humanoids)
-
-### Aquatic Humanoids: Miscellaneous Aquatic Humanoids
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ⅛ | Merfolk | Med. | Human. | True neutral | 25 XP | 50 cp | MM 218 |
-| CR ¼ | Bullywug | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 35 |
-| CR 1 | Sea spawn | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 189 |
-| CR 2 | Merfolk merrow | Large | Monstr. | Chaotic evil | 450 XP | 80 sp | MM 219 |
-| CR 3 | Deep scion (shapech.) | Med. | Human. | Neutral evil | 700 XP | 12 gp | VGtM 135 |
-
-[^ Back to Aquatic Humanoids](#aquatic-humanoids)
-
-## Underdark Humanoids
-* [Duergar](#underdark-humanoids-duergar)
-* [Drow](#underdark-humanoids-drow)
-* [Miscellaneous Underdark Humanoids](#underdark-humanoids-miscellaneous-underdark-humanoids)
-
-[^ Back to Top](#monsters)
-
-### Underdark Humanoids: Duergar
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ¼ | Steeder, male | Med. | Monstr. | Unaligned | 50 XP | – | MToF 238 |
-| CR 1 | Duergar | Med. | Human. | Lawful evil | 200 XP | 40 sp | MM 122 |
-| CR 1 | Duergar soulblade (spells) | Med. | Human. | Lawful evil | 200 XP | 40 sp | MToF 190 |
-| CR 1 | Steeder, female | Large | Monstr. | Unaligned | 200 XP | – | MToF 238 |
-| CR 2 | Duergar hammerer | Med. | Constr. | Lawful evil | 450 XP | – | MToF 188 |
-| CR 2 | Duergar kavalrachni | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 189 |
-| CR 2 | Duergar mind master | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 189 |
-| CR 2 | Duergar stone guard | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 191 |
-| CR 2 | Duergar xarrorn | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 193 |
-| CR 3 | Duergar screamer | Med. | Constr. | Lawful evil | 700 XP | – | MToF 190 |
-| CR 6 | Duergar warlord | Med. | Human. | Lawful evil | 2,300 XP | 41 gp | MToF 192 |
-| CR 12 | Duergar despot (spells) | Med. | Human. | Lawful evil | 8,400 XP | 44 pp | MToF 188 |
-
-[^ Back to Underdark Humanoids](#underdark-humanoids)
-
-### Underdark Humanoids: Drow
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ¼ | Drow (spells) | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 128 |
-| CR 5 | Drow elite warrior (spells) | Med. | Human. | Neutral evil | 1,800 XP | 27 gp | MM 128 |
-| CR 6 | Drow drider (spells) | Large | Monstr. | Chaotic evil | 2,300 XP | 41 gp | MM 120 |
-| CR 7 | Drow draegloth (spells) | Large | Fiend | Chaotic evil | 2,900 XP | 61 gp | VGtM 141 |
-| CR 7 | Drow mage (spells) | Med. | Human. | Neutral evil | 2,900 XP | 61 gp | MM 129 |
-| CR 8 | Drow priestess of lolth (spells) | Med. | Human. | Neutral evil | 3,900 XP | 91 gp | MM 129 |
-| CR 9 | Drow house captain (spells) | Med. | Human. | Neutral evil | 5,000 XP | 14 pp | MToF 184 |
-| CR 11 | Drow shadowblade (spells) | Med. | Human. | Neutral evil | 7,200 XP | 30 pp | MToF 187 |
-| CR 13 | Drow arachnomancer (spells) (shapech.) | Med. | Human. | Chaotic evil | 10,000 XP | 64 pp | MToF 182 |
-| CR 14 | Drow inquisitor (spells) | Med. | Human. | Neutral evil | 11,500 XP | 94 pp | MToF 184 |
-| CR 18 | Drow favored consort (spells) | Med. | Human. | Neutral evil | 20,000 XP | 380 pp | MToF 183 |
-| CR 20 | Drow matron mother (spells) (legend.) | Med. | Human. | Neutral evil | 25,000 XP | 610 pp | MToF 186 |
-
-[^ Back to Underdark Humanoids](#underdark-humanoids)
-
-### Underdark Humanoids: Miscellaneous Underdark Humanoids
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ¼ | Derro | Small | Human. | Chaotic evil | 50 XP | 10 sp | MToF 158 |
-| CR ¼ | Grimlock | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 175 |
-| CR ¼ | Troglodyte | Med. | Human. | Chaotic evil | 50 XP | 10 sp | MM 290 |
-| CR ½ | Gnome, Svirfneblin (spells) | Small | Human. | Neutral good | 100 XP | 20 sp | MM 164 |
-| CR 2 | Quaggoth | Med. | Human. | Chaotic neutral | 450 XP | 80 sp | MM 256 |
-| CR 3 | Derro savant (spells) | Small | Human. | Chaotic evil | 700 XP | 12 gp | MToF 159 |
-| CR 3 | Quaggoth thonot | Med. | Human. | Chaotic neutral | 700 XP | 12 gp | MM 256 |
-
-[^ Back to Underdark Humanoids](#underdark-humanoids)
-
-## Planar Humanoids
-* [Shadar-kai](#planar-humanoids-shadar-kai)
-* [Githyanki](#planar-humanoids-githyanki)
-* [Githzerai](#planar-humanoids-githzerai)
-
-[^ Back to Top](#monsters)
-
-### Planar Humanoids: Shadar-kai
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 7 | Shadar-kai shadow dancer | Med. | Human. | True neutral | 2,900 XP | 61 gp | MToF 225 |
-| CR 9 | Shadar-kai gloom weaver (spells) | Med. | Human. | True neutral | 5,000 XP | 14 pp | MToF 224 |
-| CR 11 | Shadar-kai soul monger (spells) | Med. | Human. | True neutral | 7,200 XP | 30 pp | MToF 226 |
-
-[^ Back to Planar Humanoids](#planar-humanoids)
-
-### Planar Humanoids: Githyanki
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 3 | Githyanki warrior (spells) | Med. | Human. | Lawful evil | 700 XP | 12 gp | MM 160 |
-| CR 8 | Githyanki knight (spells) | Med. | Human. | Lawful evil | 3,900 XP | 91 gp | MM 160 |
-| CR 10 | Githyanki gish (spells) | Med. | Human. | Lawful evil | 5,900 XP | 20 pp | MToF 205 |
-| CR 12 | Githyanki kith'rak (spells) | Med. | Human. | Lawful evil | 8,400 XP | 44 pp | MToF 205 |
-| CR 14 | Githyanki supreme commander (spells) (legend.) | Med. | Human. | Lawful evil | 11,500 XP | 94 pp | MToF 206 |
-
-[^ Back to Planar Humanoids](#planar-humanoids)
-
-### Planar Humanoids: Githzerai
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 2 | Githzerai monk (spells) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MM 161 |
-| CR 6 | Githzerai zerth (spells) | Med. | Human. | Lawful neutral | 2,300 XP | 41 gp | MM 161 |
-| CR 10 | Githzerai enlightened (spells) | Med. | Human. | Lawful neutral | 5,900 XP | 20 pp | MToF 208 |
-| CR 16 | Githzerai anarch (spells) (legend.) (lair) | Med. | Human. | Lawful neutral | 15,000 XP | 200 pp | MToF 207 |
-
-[^ Back to Planar Humanoids](#planar-humanoids)
-
-## Giants
-* [Ogres](#giants-ogres)
-* [Trolls](#giants-trolls)
-* [Miscellaneous Giants](#giants-miscellaneous-giants)
-* [Original Giants](#giants-original-giants)
-
-[^ Back to Top](#monsters)
-
-### Giants: Ogres
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 1 | Ogrillon half-ogre | Large | Giant | Any chaotic | 200 XP | 40 sp | MM 238 |
-| CR 2 | Ogre | Large | Giant | Chaotic evil | 450 XP | 80 sp | MM 237 |
-| CR 2 | Ogre bolt launcher | Large | Giant | Chaotic evil | 450 XP | 80 sp | MToF 220 |
-| CR 2 | Ogre howdah | Large | Giant | Chaotic evil | 450 XP | 80 sp | MToF 221 |
-| CR 3 | Ogre chain brute | Large | Giant | Chaotic evil | 700 XP | 12 gp | MToF 221 |
-| CR 4 | Ogre battering ram | Large | Giant | Chaotic evil | 1,100 XP | 18 gp | MToF 220 |
-
-[^ Back to Giants](#giants)
-
-### Giants: Trolls
+### Surface Peoples: Trolls
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Troll | Large | Giant | Chaotic evil | 1,800 XP | 27 gp | MM 291 |
@@ -599,19 +473,20 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 11 | Troll, spirit | Large | Giant | Chaotic evil | 7,200 XP | – | MToF 244 |
 | CR 13 | Troll, dire | Huge | Giant | Chaotic evil | 10,000 XP | 64 pp | MToF 243 |
 
-[^ Back to Giants](#giants)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Giants: Miscellaneous Giants
+### Surface Peoples: Sorrowsworn
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 4 | Ettin | Large | Giant | Chaotic evil | 1,100 XP | 18 gp | MM 132 |
-| CR 6 | Cyclops | Huge | Giant | Chaotic neutral | 2,300 XP | 41 gp | MM 45 |
-| CR 7 | Oni (spells) (shapech.) | Large | Giant | Lawful evil | 2,900 XP | 61 gp | MM 239 |
-| CR 8 | Fomorian | Huge | Giant | Chaotic evil | 3,900 XP | 91 gp | MM 136 |
+| CR ¼ | Sorrowsworn, wretched | Small | Monstr. | Neutral evil | 50 XP | – | MToF 233 |
+| CR 7 | Sorrowsworn, lost | Med. | Monstr. | Neutral evil | 2,900 XP | – | MToF 233 |
+| CR 9 | Sorrowsworn, lonely | Med. | Monstr. | Neutral evil | 5,000 XP | – | MToF 232 |
+| CR 11 | Sorrowsworn, hungry | Med. | Monstr. | Neutral evil | 7,200 XP | – | MToF 232 |
+| CR 13 | Sorrowsworn, angry | Med. | Monstr. | Neutral evil | 10,000 XP | – | MToF 231 |
 
-[^ Back to Giants](#giants)
+[^ Back to Surface Peoples](#surface-peoples)
 
-### Giants: Original Giants
+### Surface Peoples: Giants
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 5 | Giant, hill | Huge | Giant | Chaotic evil | 1,800 XP | 27 gp | MM 155 |
@@ -627,21 +502,116 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 14 | Giant, fire, dreadnought | Huge | Giant | Lawful evil | 11,500 XP | 94 pp | VGtM 147 |
 | CR 16 | Giant, storm, quintessent (legend.) (lair) | Huge | Giant | Chaotic good | 15,000 XP | 200 pp | VGtM 151 |
 
-[^ Back to Giants](#giants)
+[^ Back to Surface Peoples](#surface-peoples)
 
-## Sentient Monsters
-* [Myconids](#sentient-monsters-myconids)
-* [Vegepygmies](#sentient-monsters-vegepygmies)
-* [Kruthiks](#sentient-monsters-kruthiks)
-* [Yuan-ti](#sentient-monsters-yuan-ti)
-* [Nagas](#sentient-monsters-nagas)
-* [Sorrowsworn](#sentient-monsters-sorrowsworn)
-* [Sphinxes](#sentient-monsters-sphinxes)
-* [Miscellaneous Sentient Monsters](#sentient-monsters-miscellaneous-sentient-monsters)
+### Surface Peoples: Miscellaneous Surface Peoples
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 0 | Awakened plant, shrub | Small | Plant | Unaligned | 10 XP | – | MM 317 |
+| CR ⅛ | Xvart | Small | Human. | Chaotic evil | 25 XP | 50 cp | VGtM 200 |
+| CR ¼ | Kenku | Med. | Human. | Chaotic neutral | 50 XP | 10 sp | MM 194 |
+| CR ¼ | Tortle | Med. | Human. | Lawful good | 50 XP | 10 sp | MToF 242 |
+| CR ½ | Firenewt warrior | Med. | Human. | Neutral evil | 100 XP | 20 sp | VGtM 142 |
+| CR ½ | Skulk | Med. | Human. | Chaotic neutral | 100 XP | – | MToF 227 |
+| CR ½ | Worg | Large | Monstr. | Neutral evil | 100 XP | – | MM 341 |
+| CR 1 | Firenewt warlock of Imix (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 143 |
+| CR 1 | Meazel | Med. | Human. | Neutral evil | 200 XP | 40 sp | MToF 214 |
+| CR 1 | Thri-kreen | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
+| CR 1 | Thri-kreen spellcaster (spells) | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
+| CR 1 | Thri-kreen warrior | Med. | Human. | Chaotic neutral | 200 XP | 40 sp | MM 288 |
+| CR 1 | Xvart warlock of Raxivort (spells) | Small | Human. | Chaotic evil | 200 XP | 40 sp | VGtM 200 |
+| CR 2 | Awakened plant, tree | Huge | Plant | Unaligned | 450 XP | – | MM 317 |
+| CR 2 | Centaur | Large | Monstr. | Neutral good | 450 XP | 80 sp | MM 38 |
+| CR 2 | Ettercap | Med. | Monstr. | Neutral evil | 450 XP | – | MM 131 |
+| CR 2 | Tortle druid (spells) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MToF 242 |
+| CR 3 | Doppelganger (shapech.) | Med. | Monstr. | True neutral | 700 XP | 12 gp | MM 82 |
+| CR 3 | Giff | Med. | Human. | Lawful neutral | 700 XP | 12 gp | MToF 204 |
+| CR 3 | Minotaur | Large | Monstr. | Chaotic evil | 700 XP | 12 gp | MM 223 |
+| CR 3 | Wolf, winter | Large | Monstr. | Neutral evil | 700 XP | – | MM 340 |
+| CR 3 | Yeti | Large | Monstr. | Chaotic evil | 700 XP | – | MM 305 |
+| CR 4 | Ettin | Large | Giant | Chaotic evil | 1,100 XP | 18 gp | MM 132 |
+| CR 4 | Lamia (spells) | Large | Monstr. | Chaotic evil | 1,100 XP | 18 gp | MM 201 |
+| CR 5 | Banderhobb | Large | Monstr. | Neutral evil | 1,800 XP | – | VGtM 122 |
+| CR 5 | Tlincalli | Large | Monstr. | Neutral evil | 1,800 XP | 27 gp | VGtM 193 |
+| CR 5 | Wood woad | Med. | Plant | Lawful neutral | 1,800 XP | – | VGtM 198 |
+| CR 6 | Cyclops | Huge | Giant | Chaotic neutral | 2,300 XP | 41 gp | MM 45 |
+| CR 6 | Medusa | Med. | Monstr. | Lawful evil | 2,300 XP | 41 gp | MM 214 |
+| CR 7 | Oni (spells) (shapech.) | Large | Giant | Lawful evil | 2,900 XP | 61 gp | MM 239 |
+| CR 9 | Treant | Huge | Plant | Chaotic good | 5,000 XP | – | MM 289 |
+| CR 9 | Yeti, abominable | Huge | Monstr. | Chaotic evil | 5,000 XP | – | MM 306 |
+| CR 17 | Nagpa (spells) | Med. | Human. | Neutral evil | 18,000 XP | 280 pp | MToF 215 |
+
+[^ Back to Surface Peoples](#surface-peoples)
+
+## Aquatic Peoples
+* [Grungs](#aquatic-peoples-grungs)
+* [Kuo-toa](#aquatic-peoples-kuo-toa)
+* [Lizardfolk](#aquatic-peoples-lizardfolk)
+* [Sahuagin](#aquatic-peoples-sahuagin)
+* [Miscellaneous Aquatic Peoples](#aquatic-peoples-miscellaneous-aquatic-peoples)
 
 [^ Back to Top](#monsters)
 
-### Sentient Monsters: Myconids
+### Aquatic Peoples: Grungs
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR ¼ | Grung | Small | Human. | Lawful evil | 50 XP | 10 sp | VGtM 156 |
+| CR 1 | Grung wildling (spells) | Small | Human. | Lawful evil | 200 XP | 40 sp | VGtM 157 |
+| CR 2 | Grung elite warrior | Small | Human. | Lawful evil | 450 XP | 80 sp | VGtM 157 |
+
+[^ Back to Aquatic Peoples](#aquatic-peoples)
+
+### Aquatic Peoples: Kuo-toa
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR ¼ | Kuo-toa | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 199 |
+| CR 1 | Kuo-toa whip (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 200 |
+| CR 3 | Kuo-toa monitor | Med. | Human. | Neutral evil | 700 XP | 12 gp | MM 198 |
+| CR 6 | Kuo-toa archpriest (spells) | Med. | Human. | Neutral evil | 2,300 XP | 41 gp | MM 200 |
+
+[^ Back to Aquatic Peoples](#aquatic-peoples)
+
+### Aquatic Peoples: Lizardfolk
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR ½ | Lizardfolk | Med. | Human. | True neutral | 100 XP | 20 sp | MM 204 |
+| CR 2 | Lizardfolk shaman (spells) (shapech.) | Med. | Human. | True neutral | 450 XP | 80 sp | MM 205 |
+| CR 4 | Lizardfolk king/queen | Med. | Human. | Chaotic evil | 1,100 XP | 18 gp | MM 205 |
+
+[^ Back to Aquatic Peoples](#aquatic-peoples)
+
+### Aquatic Peoples: Sahuagin
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR ½ | Sahuagin | Med. | Human. | Lawful evil | 100 XP | 20 sp | MM 263 |
+| CR 2 | Sahuagin priestess (spells) | Med. | Human. | Lawful evil | 450 XP | 80 sp | MM 264 |
+| CR 5 | Sahuagin baron | Large | Human. | Lawful evil | 1,800 XP | 27 gp | MM 264 |
+
+[^ Back to Aquatic Peoples](#aquatic-peoples)
+
+### Aquatic Peoples: Miscellaneous Aquatic Peoples
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR ⅛ | Merfolk | Med. | Human. | True neutral | 25 XP | 50 cp | MM 218 |
+| CR ¼ | Bullywug | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 35 |
+| CR 1 | Sea spawn | Med. | Human. | Neutral evil | 200 XP | 40 sp | VGtM 189 |
+| CR 2 | Merfolk merrow | Large | Monstr. | Chaotic evil | 450 XP | 80 sp | MM 219 |
+| CR 3 | Deep scion (shapech.) | Med. | Human. | Neutral evil | 700 XP | 12 gp | VGtM 135 |
+| CR 17 | Turtle, dragon | Garg. | Dragon | True neutral | 18,000 XP | – | MM 119 |
+| CR 23 | Kraken (legend.) (lair) | Garg. | Monstr. | Chaotic evil | 50,000 XP | – | MM 197 |
+
+[^ Back to Aquatic Peoples](#aquatic-peoples)
+
+## Underdark Peoples
+* [Myconids](#underdark-peoples-myconids)
+* [Kruthiks](#underdark-peoples-kruthiks)
+* [Duergar](#underdark-peoples-duergar)
+* [Drow](#underdark-peoples-drow)
+* [Miscellaneous Underdark Peoples](#underdark-peoples-miscellaneous-underdark-peoples)
+
+[^ Back to Top](#monsters)
+
+### Underdark Peoples: Myconids
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 0 | Myconid sprout | Small | Plant | Lawful neutral | 10 XP | 20 cp | MM 230 |
@@ -649,101 +619,117 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 1 | Myconid spore servant, quaggoth | Med. | Plant | Unaligned | 200 XP | – | MM 230 |
 | CR 2 | Myconid sovereign | Large | Plant | Lawful neutral | 450 XP | 80 sp | MM 232 |
 
-[^ Back to Sentient Monsters](#sentient-monsters)
+[^ Back to Underdark Peoples](#underdark-peoples)
 
-### Sentient Monsters: Vegepygmies
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ¼ | Vegepygmy | Small | Plant | True neutral | 50 XP | 10 sp | VGtM 196 |
-| CR 1 | Vegepygmy thorny | Med. | Plant | True neutral | 200 XP | – | VGtM 197 |
-| CR 2 | Vegepygmy chief | Small | Plant | True neutral | 450 XP | 80 sp | VGtM 197 |
-
-[^ Back to Sentient Monsters](#sentient-monsters)
-
-### Sentient Monsters: Kruthiks
+### Underdark Peoples: Kruthiks
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR ⅛ | Kruthik, young | Small | Monstr. | Unaligned | 25 XP | – | MToF 211 |
 | CR 2 | Kruthik, adult | Med. | Monstr. | Unaligned | 450 XP | – | MToF 212 |
 | CR 5 | Kruthik hive lord | Large | Monstr. | Unaligned | 1,800 XP | – | MToF 212 |
 
-[^ Back to Sentient Monsters](#sentient-monsters)
+[^ Back to Underdark Peoples](#underdark-peoples)
 
-### Sentient Monsters: Yuan-ti
+### Underdark Peoples: Duergar
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 1 | Yuan-ti pureblood (spells) | Med. | Human. | Neutral evil | 200 XP | 40 sp | MM 310 |
-| CR 2 | Yuan-ti broodguard | Med. | Human. | Neutral evil | 450 XP | – | VGtM 203 |
-| CR 3 | Yuan-ti malison (spells) (shapech.) | Med. | Monstr. | Neutral evil | 700 XP | 12 gp | MM 309 |
-| CR 4 | Yuan-ti mind whisperer (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,100 XP | 18 gp | VGtM 204 |
-| CR 4 | Yuan-ti nightmare speaker (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,100 XP | 18 gp | VGtM 205 |
-| CR 5 | Yuan-ti pit master (spells) (shapech.) | Med. | Monstr. | Neutral evil | 1,800 XP | 27 gp | VGtM 206 |
-| CR 7 | Yuan-ti abomination (spells) (shapech.) | Large | Monstr. | Neutral evil | 2,900 XP | 61 gp | MM 308 |
-| CR 12 | Yuan-ti anathema (spells) (shapech.) | Huge | Monstr. | Neutral evil | 8,400 XP | 44 pp | VGtM 202 |
+| CR ¼ | Steeder, male | Med. | Monstr. | Unaligned | 50 XP | – | MToF 238 |
+| CR 1 | Duergar | Med. | Human. | Lawful evil | 200 XP | 40 sp | MM 122 |
+| CR 1 | Duergar soulblade (spells) | Med. | Human. | Lawful evil | 200 XP | 40 sp | MToF 190 |
+| CR 1 | Steeder, female | Large | Monstr. | Unaligned | 200 XP | – | MToF 238 |
+| CR 2 | Duergar hammerer | Med. | Constr. | Lawful evil | 450 XP | – | MToF 188 |
+| CR 2 | Duergar kavalrachni | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 189 |
+| CR 2 | Duergar mind master | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 189 |
+| CR 2 | Duergar stone guard | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 191 |
+| CR 2 | Duergar xarrorn | Med. | Human. | Lawful evil | 450 XP | 80 sp | MToF 193 |
+| CR 3 | Duergar screamer | Med. | Constr. | Lawful evil | 700 XP | – | MToF 190 |
+| CR 6 | Duergar warlord | Med. | Human. | Lawful evil | 2,300 XP | 41 gp | MToF 192 |
+| CR 12 | Duergar despot (spells) | Med. | Human. | Lawful evil | 8,400 XP | 44 pp | MToF 188 |
 
-[^ Back to Sentient Monsters](#sentient-monsters)
+[^ Back to Underdark Peoples](#underdark-peoples)
 
-### Sentient Monsters: Nagas
+### Underdark Peoples: Drow
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 4 | Naga, bone (spells) | Large | Undead | Lawful evil | 1,100 XP | – | MM 233 |
-| CR 8 | Naga, spirit (spells) | Large | Monstr. | Chaotic evil | 3,900 XP | – | MM 234 |
-| CR 10 | Naga, guardian (spells) | Large | Monstr. | Lawful good | 5,900 XP | – | MM 234 |
+| CR ¼ | Drow (spells) | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 128 |
+| CR 5 | Drow elite warrior (spells) | Med. | Human. | Neutral evil | 1,800 XP | 27 gp | MM 128 |
+| CR 6 | Drow drider (spells) | Large | Monstr. | Chaotic evil | 2,300 XP | 41 gp | MM 120 |
+| CR 7 | Drow draegloth (spells) | Large | Fiend | Chaotic evil | 2,900 XP | 61 gp | VGtM 141 |
+| CR 7 | Drow mage (spells) | Med. | Human. | Neutral evil | 2,900 XP | 61 gp | MM 129 |
+| CR 8 | Drow priestess of lolth (spells) | Med. | Human. | Neutral evil | 3,900 XP | 91 gp | MM 129 |
+| CR 9 | Drow house captain (spells) | Med. | Human. | Neutral evil | 5,000 XP | 14 pp | MToF 184 |
+| CR 11 | Drow shadowblade (spells) | Med. | Human. | Neutral evil | 7,200 XP | 30 pp | MToF 187 |
+| CR 13 | Drow arachnomancer (spells) (shapech.) | Med. | Human. | Chaotic evil | 10,000 XP | 64 pp | MToF 182 |
+| CR 14 | Drow inquisitor (spells) | Med. | Human. | Neutral evil | 11,500 XP | 94 pp | MToF 184 |
+| CR 18 | Drow favored consort (spells) | Med. | Human. | Neutral evil | 20,000 XP | 380 pp | MToF 183 |
+| CR 20 | Drow matron mother (spells) (legend.) | Med. | Human. | Neutral evil | 25,000 XP | 610 pp | MToF 186 |
 
-[^ Back to Sentient Monsters](#sentient-monsters)
+[^ Back to Underdark Peoples](#underdark-peoples)
 
-### Sentient Monsters: Sorrowsworn
+### Underdark Peoples: Miscellaneous Underdark Peoples
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR ¼ | Sorrowsworn, wretched | Small | Monstr. | Neutral evil | 50 XP | – | MToF 233 |
-| CR 7 | Sorrowsworn, lost | Med. | Monstr. | Neutral evil | 2,900 XP | – | MToF 233 |
-| CR 9 | Sorrowsworn, lonely | Med. | Monstr. | Neutral evil | 5,000 XP | – | MToF 232 |
-| CR 11 | Sorrowsworn, hungry | Med. | Monstr. | Neutral evil | 7,200 XP | – | MToF 232 |
-| CR 13 | Sorrowsworn, angry | Med. | Monstr. | Neutral evil | 10,000 XP | – | MToF 231 |
+| CR ¼ | Derro | Small | Human. | Chaotic evil | 50 XP | 10 sp | MToF 158 |
+| CR ¼ | Grimlock | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 175 |
+| CR ¼ | Troglodyte | Med. | Human. | Chaotic evil | 50 XP | 10 sp | MM 290 |
+| CR ½ | Chitine | Small | Monstr. | Chaotic evil | 100 XP | 20 sp | VGtM 131 |
+| CR ½ | Gnome, Svirfneblin (spells) | Small | Human. | Neutral good | 100 XP | 20 sp | MM 164 |
+| CR 2 | Quaggoth | Med. | Human. | Chaotic neutral | 450 XP | 80 sp | MM 256 |
+| CR 3 | Chitine choldrith (spells) | Med. | Monstr. | Chaotic evil | 700 XP | 12 gp | VGtM 132 |
+| CR 3 | Derro savant (spells) | Small | Human. | Chaotic evil | 700 XP | 12 gp | MToF 159 |
+| CR 3 | Hook horror | Large | Monstr. | True neutral | 700 XP | – | MM 189 |
+| CR 3 | Quaggoth thonot | Med. | Human. | Chaotic neutral | 700 XP | 12 gp | MM 256 |
+| CR 5 | Umber hulk | Large | Monstr. | Chaotic evil | 1,800 XP | – | MM 292 |
+| CR 8 | Fomorian | Huge | Giant | Chaotic evil | 3,900 XP | 91 gp | MM 136 |
+| CR 11 | Behir | Huge | Monstr. | Neutral evil | 7,200 XP | – | MM 25 |
 
-[^ Back to Sentient Monsters](#sentient-monsters)
+[^ Back to Underdark Peoples](#underdark-peoples)
 
-### Sentient Monsters: Sphinxes
+## Planar Peoples
+* [Shadar-kai](#planar-peoples-shadar-kai)
+* [Githyanki](#planar-peoples-githyanki)
+* [Githzerai](#planar-peoples-githzerai)
+* [Sphinxes](#planar-peoples-sphinxes)
+
+[^ Back to Top](#monsters)
+
+### Planar Peoples: Shadar-kai
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 7 | Shadar-kai shadow dancer | Med. | Human. | True neutral | 2,900 XP | 61 gp | MToF 225 |
+| CR 9 | Shadar-kai gloom weaver (spells) | Med. | Human. | True neutral | 5,000 XP | 14 pp | MToF 224 |
+| CR 11 | Shadar-kai soul monger (spells) | Med. | Human. | True neutral | 7,200 XP | 30 pp | MToF 226 |
+
+[^ Back to Planar Peoples](#planar-peoples)
+
+### Planar Peoples: Githyanki
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 3 | Githyanki warrior (spells) | Med. | Human. | Lawful evil | 700 XP | 12 gp | MM 160 |
+| CR 8 | Githyanki knight (spells) | Med. | Human. | Lawful evil | 3,900 XP | 91 gp | MM 160 |
+| CR 10 | Githyanki gish (spells) | Med. | Human. | Lawful evil | 5,900 XP | 20 pp | MToF 205 |
+| CR 12 | Githyanki kith'rak (spells) | Med. | Human. | Lawful evil | 8,400 XP | 44 pp | MToF 205 |
+| CR 14 | Githyanki supreme commander (spells) (legend.) | Med. | Human. | Lawful evil | 11,500 XP | 94 pp | MToF 206 |
+
+[^ Back to Planar Peoples](#planar-peoples)
+
+### Planar Peoples: Githzerai
+| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
+| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR 2 | Githzerai monk (spells) | Med. | Human. | Lawful neutral | 450 XP | 80 sp | MM 161 |
+| CR 6 | Githzerai zerth (spells) | Med. | Human. | Lawful neutral | 2,300 XP | 41 gp | MM 161 |
+| CR 10 | Githzerai enlightened (spells) | Med. | Human. | Lawful neutral | 5,900 XP | 20 pp | MToF 208 |
+| CR 16 | Githzerai anarch (spells) (legend.) (lair) | Med. | Human. | Lawful neutral | 15,000 XP | 200 pp | MToF 207 |
+
+[^ Back to Planar Peoples](#planar-peoples)
+
+### Planar Peoples: Sphinxes
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
 | CR 11 | Sphinx, gynosphinx (spells) (legend.) (lair) | Large | Monstr. | Lawful neutral | 7,200 XP | 30 pp | MM 282 |
 | CR 17 | Sphinx, androsphinx (spells) (legend.) (lair) | Large | Monstr. | Lawful neutral | 18,000 XP | 280 pp | MM 281 |
 
-[^ Back to Sentient Monsters](#sentient-monsters)
-
-### Sentient Monsters: Miscellaneous Sentient Monsters
-| CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
-| :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
-| CR 0 | Awakened plant, shrub | Small | Plant | Unaligned | 10 XP | – | MM 317 |
-| CR ½ | Chitine | Small | Monstr. | Chaotic evil | 100 XP | 20 sp | VGtM 131 |
-| CR ½ | Worg | Large | Monstr. | Neutral evil | 100 XP | – | MM 341 |
-| CR 1 | Harpy | Med. | Monstr. | Chaotic evil | 200 XP | 40 sp | MM 181 |
-| CR 2 | Awakened plant, tree | Huge | Plant | Unaligned | 450 XP | – | MM 317 |
-| CR 2 | Centaur | Large | Monstr. | Neutral good | 450 XP | 80 sp | MM 38 |
-| CR 2 | Ettercap | Med. | Monstr. | Neutral evil | 450 XP | – | MM 131 |
-| CR 2 | Peryton | Med. | Monstr. | Chaotic evil | 450 XP | – | MM 251 |
-| CR 3 | Chitine choldrith (spells) | Med. | Monstr. | Chaotic evil | 700 XP | 12 gp | VGtM 132 |
-| CR 3 | Doppelganger (shapech.) | Med. | Monstr. | True neutral | 700 XP | 12 gp | MM 82 |
-| CR 3 | Hook horror | Large | Monstr. | True neutral | 700 XP | – | MM 189 |
-| CR 3 | Leucrotta | Large | Monstr. | Chaotic evil | 700 XP | – | VGtM 169 |
-| CR 3 | Manticore | Large | Monstr. | Lawful evil | 700 XP | – | MM 213 |
-| CR 3 | Minotaur | Large | Monstr. | Chaotic evil | 700 XP | 12 gp | MM 223 |
-| CR 3 | Wolf, winter | Large | Monstr. | Neutral evil | 700 XP | – | MM 340 |
-| CR 3 | Yeti | Large | Monstr. | Chaotic evil | 700 XP | – | MM 305 |
-| CR 4 | Lamia (spells) | Large | Monstr. | Chaotic evil | 1,100 XP | 18 gp | MM 201 |
-| CR 5 | Banderhobb | Large | Monstr. | Neutral evil | 1,800 XP | – | VGtM 122 |
-| CR 5 | Tlincalli | Large | Monstr. | Neutral evil | 1,800 XP | 27 gp | VGtM 193 |
-| CR 5 | Umber hulk | Large | Monstr. | Chaotic evil | 1,800 XP | – | MM 292 |
-| CR 5 | Wood woad | Med. | Plant | Lawful neutral | 1,800 XP | – | VGtM 198 |
-| CR 6 | Medusa | Med. | Monstr. | Lawful evil | 2,300 XP | 41 gp | MM 214 |
-| CR 8 | Corpse flower | Large | Plant | Chaotic evil | 3,900 XP | – | MToF 127 |
-| CR 9 | Treant | Huge | Plant | Chaotic good | 5,000 XP | – | MM 289 |
-| CR 9 | Yeti, abominable | Huge | Monstr. | Chaotic evil | 5,000 XP | – | MM 306 |
-| CR 11 | Behir | Huge | Monstr. | Neutral evil | 7,200 XP | – | MM 25 |
-| CR 17 | Turtle, dragon | Garg. | Dragon | True neutral | 18,000 XP | – | MM 119 |
-| CR 23 | Kraken (legend.) (lair) | Garg. | Monstr. | Chaotic evil | 50,000 XP | – | MM 197 |
-
-[^ Back to Sentient Monsters](#sentient-monsters)
+[^ Back to Planar Peoples](#planar-peoples)
 
 ## Undead
 * [Thralls](#undead-thralls)
