@@ -633,7 +633,7 @@
 
 ### Spellcasting Services: Wellness
 | Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------: | ----: |
+| :---- | :--------- | :---------- | ----: |
 | Detect poison and disease | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
 | Goodberry | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
 | Lesser restoration | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
@@ -647,7 +647,7 @@
 
 ### Spellcasting Services: Healing
 | Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------: | ----: |
+| :---- | :--------- | :---------- | ----: |
 | Cure wounds | 1st-level spell slot | 1st-level spellcaster | 1 pp |
 | Cure wounds | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
 | Prayer of healing | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
@@ -669,7 +669,7 @@
 
 ### Spellcasting Services: Resurrection
 | Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------: | ----: |
+| :---- | :--------- | :---------- | ----: |
 | Revivify | 3rd-level spell slot | 5th-level spellcaster | 69 pp |
 | Raise dead | 5th-level spell slot | 9th-level spellcaster | 130 pp |
 | Reincarnate | 5th-level spell slot | 9th-level spellcaster | 230 pp |
@@ -681,7 +681,7 @@
 
 ### Spellcasting Services: Security
 | Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------: | ----: |
+| :---- | :--------- | :---------- | ----: |
 | Alarm | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
 | Arcane lock | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
 | Continual flame | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
@@ -693,7 +693,7 @@
 
 ### Spellcasting Services: Communication
 | Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------: | ----: |
+| :---- | :--------- | :---------- | ----: |
 | Message | Cantrip spell slot | 1st-level spellcaster | 5 gp |
 | Detect thoughts | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
 | Zone of truth | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
@@ -705,7 +705,7 @@
 
 ### Spellcasting Services: Transportation
 | Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------: | ----: |
+| :---- | :--------- | :---------- | ----: |
 | Teleportation circle | 5th-level spell slot | 9th-level spellcaster | 35 pp |
 | Permanent teleportation circle | 5th-level spell slot | 9th-level spellcaster | 13,000 pp |
 | Transport via plants | 6th-level spell slot | 11th-level spellcaster | 36 pp |
@@ -717,7 +717,7 @@
 
 ### Spellcasting Services: Surveillance
 | Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------: | ----: |
+| :---- | :--------- | :---------- | ----: |
 | Identify | 1st-level spell slot or ritual | 1st-level spellcaster | 2 pp |
 | Locate object | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
 | Clairvoyance | 3rd-level spell slot | 5th-level spellcaster | 10 pp |
