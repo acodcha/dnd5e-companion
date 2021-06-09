@@ -673,7 +673,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ¼ | Grimlock | Med. | Human. | Neutral evil | 50 XP | 10 sp | MM 175 |
 | CR ¼ | Troglodyte | Med. | Human. | Chaotic evil | 50 XP | 10 sp | MM 290 |
 | CR ½ | Chitine | Small | Monstr. | Chaotic evil | 100 XP | 20 sp | VGtM 131 |
-| CR ½ | Gnome, Svirfneblin (spells) | Small | Human. | Neutral good | 100 XP | 20 sp | MM 164 |
+| CR ½ | Svirfneblin (spells) | Small | Human. | Neutral good | 100 XP | 20 sp | MM 164 |
 | CR 2 | Quaggoth | Med. | Human. | Chaotic neutral | 450 XP | 80 sp | MM 256 |
 | CR 3 | Chitine choldrith (spells) | Med. | Monstr. | Chaotic evil | 700 XP | 12 gp | VGtM 132 |
 | CR 3 | Derro savant (spells) | Small | Human. | Chaotic evil | 700 XP | 12 gp | MToF 159 |
