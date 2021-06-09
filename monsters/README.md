@@ -80,9 +80,7 @@ Abbreviations:
 | CR ¼ | Rothé | Large | Beast | Unaligned | 50 XP | – | VGtM 207 |
 | CR ¼ | Rothé, deep | Med. | Beast | Unaligned | 50 XP | – | VGtM 207 |
 | CR ¼ | Wolf | Med. | Beast | Unaligned | 50 XP | – | MM 341 |
-| CR ½ | Beetle swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR ½ | Blight, vine | Med. | Plant | Neutral evil | 100 XP | – | MM 32 |
-| CR ½ | Centipede swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR ½ | Goat, giant | Large | Beast | Unaligned | 100 XP | – | MM 326 |
 | CR ½ | Horse, warhorse | Large | Beast | Unaligned | 100 XP | – | MM 340 |
 | CR ½ | Rust monster | Med. | Monstr. | Unaligned | 100 XP | – | MM 262 |
@@ -139,6 +137,7 @@ Abbreviations:
 | CR ¼ | Spider, wolf, giant | Med. | Beast | Unaligned | 50 XP | – | MM 330 |
 | CR ½ | Ape | Med. | Beast | Unaligned | 100 XP | – | MM 317 |
 | CR ½ | Bear, black | Med. | Beast | Unaligned | 100 XP | – | MM 318 |
+| CR ½ | Centipede swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR ½ | Roper piercer | Med. | Monstr. | Unaligned | 100 XP | – | MM 252 |
 | CR ½ | Rot grub swarm | Med. | Beast | Unaligned | 100 XP | – | VGtM 208 |
 | CR ½ | Spider swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
@@ -159,6 +158,7 @@ Abbreviations:
 ## Beastlike Monsters: Beastlike Burrowing Monsters
 | CR    | Name | Size | Type | Alignment | XP   | Coinage | Source |
 | :---: | :--- | :--- | :--- | :-------- | ---: | ------: | -----: |
+| CR ½ | Beetle swarm | Med. | Beast | Unaligned | 100 XP | – | MM 338 |
 | CR 2 | Ankheg | Large | Monstr. | Unaligned | 450 XP | – | MM 21 |
 | CR 5 | Bulette | Large | Monstr. | Unaligned | 1,800 XP | – | MM 34 |
 | CR 5 | Remorhaz, young | Large | Monstr. | Unaligned | 1,800 XP | – | MM 258 |
