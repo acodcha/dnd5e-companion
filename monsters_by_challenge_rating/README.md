@@ -6,7 +6,7 @@
 * [CR 13](#challenge-rating-13), [CR 14](#challenge-rating-14), [CR 15](#challenge-rating-15), [CR 16](#challenge-rating-16)
 * [CR 17](#challenge-rating-17), [CR 18](#challenge-rating-18), [CR 19](#challenge-rating-19), [CR 20](#challenge-rating-20)
 * [CR 21](#challenge-rating-21), [CR 22](#challenge-rating-22), [CR 23](#challenge-rating-23), [CR 24](#challenge-rating-24)
-* [CR 25](#challenge-rating-25), [CR 26](#challenge-rating-26), [CR 27](#challenge-rating-27), [CR 28+](#challenge-rating-28+)
+* [CR 25](#challenge-rating-25), [CR 26](#challenge-rating-26), [CR 27](#challenge-rating-27), [CR 28+](#challenge-rating-28)
 
 Abbreviations:
 * MM: *Monster Manual*
