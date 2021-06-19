@@ -1,5 +1,5 @@
 # Monsters by Challenge Rating
-* [CR 0](#challenge-rating-0), [CR ⅛](#challenge-rating-⅛), [CR ¼](#challenge-rating-¼), [CR ½](#challenge-rating-½)
+* [CR 0](#challenge-rating-0), [CR ⅛](#challenge-rating-), [CR ¼](#challenge-rating--1), [CR ½](#challenge-rating--2)
 * [CR 1](#challenge-rating-1), [CR 2](#challenge-rating-2), [CR 3](#challenge-rating-3), [CR 4](#challenge-rating-4)
 * [CR 5](#challenge-rating-5), [CR 6](#challenge-rating-6), [CR 7](#challenge-rating-7), [CR 8](#challenge-rating-8)
 * [CR 9](#challenge-rating-9), [CR 10](#challenge-rating-10), [CR 11](#challenge-rating-11), [CR 12](#challenge-rating-12)
