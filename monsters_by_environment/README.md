@@ -1,38 +1,21 @@
 # Monsters by Environment
-* [Common](#common)
-  * [Humans](#common-humans), [Dwarves](#common-dwarves), [Elves](#common-elves)
-* [Arctic](#arctic)
-  * [Monsters](#arctic-monsters), [Peoples](#arctic-peoples), [White Dragons](#arctic-white-dragons)
-* [Oceans](#oceans)
-  * [Monsters](#oceans-monsters), [Peoples](#oceans-peoples)
-* [Coastal](#coastal)
-  * [Monsters](#coastal-monsters), [Peoples](#coastal-peoples), [Bronze Dragons](#coastal-bronze-dragons)
-* [Swamps](#swamps)
-  * [Monsters](#swamps-monsters), [Yuan-ti](#swamps-yuan-ti), [Peoples](#swamps-peoples), [Black Dragons](#swamps-black-dragons)
-* [Forests](#forests)
-  * [Monsters](#forests-monsters), [Trolls](#forests-trolls), [Peoples](#forests-peoples), [Faerie Dragons](#forests-faerie-dragons), [Green Dragons](#forests-green-dragons)
-* [Plains](#plains)
-  * [Monsters](#plains-monsters), [Hobgoblins](#plains-hobgoblins), [Gnolls](#plains-gnolls), [Peoples](#plains-peoples), [Gold Dragons](#plains-gold-dragons)
-* [Hills](#hills)
-  * [Monsters](#hills-monsters), [Goblins](#hills-goblins), [Ogres](#hills-ogres), [Peoples](#hills-peoples), [Copper Dragons](#hills-copper-dragons)
-* [Mountains](#mountains)
-  * [Monsters](#mountains-monsters), [Kobolds](#mountains-kobolds), [Orcs](#mountains-orcs), [Peoples](#mountains-peoples), [Red Dragons](#mountains-red-dragons), [Silver Dragons](#mountains-silver-dragons)
-* [Deserts](#deserts)
-  * [Monsters](#deserts-monsters), [Peoples](#deserts-peoples), [Blue Dragons](#deserts-blue-dragons), [Brass Dragons](#deserts-brass-dragons)
-* [Ruins](#ruins)
-  * [Monsters](#ruins-monsters), [Lycanthropes](#ruins-lycanthropes), [Star Spawn](#ruins-star-spawn), [Peoples](#ruins-peoples)
-* [Underground](#underground)
-  * [Monsters](#underground-monsters), [Duergar](#underground-duergar), [Drow](#underground-drow), [Peoples](#underground-peoples), [Beholders](#underground-beholders), [Illithids](#underground-illithids)
-* [Constructs](#constructs)
-  * [Instinctive](#constructs-instinctive), [Sentient](#constructs-sentient), [Mechanus](#constructs-mechanus)
-* [Undead](#undead)
-  * [Monsters](#undead-monsters), [Spirits](#undead-spirits), [Peoples](#undead-peoples)
-* [Shadowfell](#shadowfell)
-  * [Monsters](#shadowfell-monsters), [Peoples](#shadowfell-peoples), [Shadow Chromatic Dragons](#shadowfell-shadow-chromatic-dragons), [Shadow Metallic Dragons](#shadowfell-shadow-chromatic-dragons)
-* [Lower Planes](#lower-planes)
-  * [Monsters](#lower-planes-monsters), [Demons](#lower-planes-demons), [Devils](#lower-planes-devils), [Abishai](#lower-planes-abishai), [Slaadi](#lower-planes-slaadi), [Peoples](#lower-planes-peoples)
-* [Upper Planes](#upper-planes)
-  * [Celestials](#upper-planes-celestials), [Githyanki](#upper-planes-githyanki), [Githzerai](#upper-planes-githzerai)
+* [Common](#common): [Humans](#common-humans), [Dwarves](#common-dwarves), [Elves](#common-elves)
+* [Arctic](#arctic): [Monsters](#arctic-monsters), [Peoples](#arctic-peoples), [White Dragons](#arctic-white-dragons)
+* [Oceans](#oceans): [Monsters](#oceans-monsters), [Peoples](#oceans-peoples)
+* [Coastal](#coastal): [Monsters](#coastal-monsters), [Peoples](#coastal-peoples), [Bronze Dragons](#coastal-bronze-dragons)
+* [Swamps](#swamps): [Monsters](#swamps-monsters), [Yuan-ti](#swamps-yuan-ti), [Peoples](#swamps-peoples), [Black Dragons](#swamps-black-dragons)
+* [Forests](#forests): [Monsters](#forests-monsters), [Trolls](#forests-trolls), [Peoples](#forests-peoples), [Faerie Dragons](#forests-faerie-dragons), [Green Dragons](#forests-green-dragons)
+* [Plains](#plains): [Monsters](#plains-monsters), [Hobgoblins](#plains-hobgoblins), [Gnolls](#plains-gnolls), [Peoples](#plains-peoples), [Gold Dragons](#plains-gold-dragons)
+* [Hills](#hills): [Monsters](#hills-monsters), [Goblins](#hills-goblins), [Ogres](#hills-ogres), [Peoples](#hills-peoples), [Copper Dragons](#hills-copper-dragons)
+* [Mountains](#mountains): [Monsters](#mountains-monsters), [Kobolds](#mountains-kobolds), [Orcs](#mountains-orcs), [Peoples](#mountains-peoples), [Red Dragons](#mountains-red-dragons), [Silver Dragons](#mountains-silver-dragons)
+* [Deserts](#deserts): [Monsters](#deserts-monsters), [Peoples](#deserts-peoples), [Blue Dragons](#deserts-blue-dragons), [Brass Dragons](#deserts-brass-dragons)
+* [Ruins](#ruins): [Monsters](#ruins-monsters), [Lycanthropes](#ruins-lycanthropes), [Star Spawn](#ruins-star-spawn), [Peoples](#ruins-peoples)
+* [Underground](#underground): [Monsters](#underground-monsters), [Duergar](#underground-duergar), [Drow](#underground-drow), [Peoples](#underground-peoples), [Beholders](#underground-beholders), [Illithids](#underground-illithids)
+* [Constructs](#constructs): [Instinctive](#constructs-instinctive), [Sentient](#constructs-sentient), [Mechanus](#constructs-mechanus)
+* [Undead](#undead): [Monsters](#undead-monsters), [Spirits](#undead-spirits), [Peoples](#undead-peoples)
+* [Shadowfell](#shadowfell): [Monsters](#shadowfell-monsters), [Peoples](#shadowfell-peoples), [Shadow Chromatic Dragons](#shadowfell-shadow-chromatic-dragons), [Shadow Metallic Dragons](#shadowfell-shadow-chromatic-dragons)
+* [Lower Planes](#lower-planes): [Monsters](#lower-planes-monsters), [Demons](#lower-planes-demons), [Devils](#lower-planes-devils), [Abishai](#lower-planes-abishai), [Slaadi](#lower-planes-slaadi), [Peoples](#lower-planes-peoples)
+* [Upper Planes](#upper-planes): [Celestials](#upper-planes-celestials), [Githyanki](#upper-planes-githyanki), [Githzerai](#upper-planes-githzerai)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
@@ -100,22 +83,22 @@ Abbreviations:
 
 ### Common: Dwarves
 Dwarves use the same stat blocks as humans, with the following changes:
-* Speed: Dwarves have a base walking speed of 25 feet instead of 30 feet.
-* Darkvision: Dwarves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
-* Dwarven Resilience: Dwarves have advantage on saving throws against poison and have resistance against poison damage.
-* Tool Proficiency: Dwarves are proficient in one of smith's tools, brewer's supplies, or mason's tools.
-* Stonecunning: Whenever dwarves make an Intelligence (History) check related to the origin of stonework, they are considered to have expertise in the skill, adding double their proficiency bonus to the check.
-* Weapons: Dwarves favor hammers (warhammer, maul, mace, light hammer), axes (battleaxe, greataxe, handaxe), and crossbows (light crossbow, heavy crossbow, hand crossbow) over other weapons.
+* *Speed*: Dwarves have a base walking speed of 25 feet instead of 30 feet.
+* *Darkvision*: Dwarves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
+* *Dwarven Resilience*: Dwarves have advantage on saving throws against poison and have resistance against poison damage.
+* *Tool Proficiency*: Dwarves are proficient in one of smith's tools, brewer's supplies, or mason's tools.
+* *Stonecunning*: Whenever dwarves make an Intelligence (History) check related to the origin of stonework, they are considered to have expertise in the skill, adding double their proficiency bonus to the check.
+* *Weapons*: Dwarves favor hammers (warhammer, maul, mace, light hammer), axes (battleaxe, greataxe, handaxe), and crossbows (light crossbow, heavy crossbow, hand crossbow) over other weapons.
 
 [^ Back to Common](#common)
 
 ### Common: Elves
 Elves use the same stat blocks as humans, with the following changes:
-* Keen Senses: Elves have proficiency in the Perception skill.
-* Darkvision: Elves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
-* Fey Ancestry: Elves have advantage on saving throws against being charmed, and magic can't put them to sleep.
-* Trance: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
-* Weapons: Elves favor swords (longsword, rapier, scimitar, shortsword, greatsword) and bows (longbow, shortbow) over other weapons.
+* *Keen Senses*: Elves have proficiency in the Perception skill.
+* *Darkvision*: Elves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
+* *Fey Ancestry*: Elves have advantage on saving throws against being charmed, and magic can't put them to sleep.
+* *Trance*: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
+* *Weapons*: Elves favor swords (longsword, rapier, scimitar, shortsword, greatsword) and bows (longbow, shortbow) over other weapons.
 
 [^ Back to Common](#common)
 
