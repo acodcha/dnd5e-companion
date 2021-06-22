@@ -1,11 +1,9 @@
 # Rewards and Treasure
-* [Individual Monster Treasure](#individual-monster-treasure)
-* [Treasure Hoards](#treasure-hoards)
-* [Quest Rewards](#quest-rewards)
-* [Gemstones](#gemstones)
-  * [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [10 pp Gemstones](#gemstones-10-pp), [50 pp Gemstones](#gemstones-50-pp), [100 pp Gemstones](#gemstones-100-pp), [500 pp Gemstones](#gemstones-500-pp)
-* [Art Objects](#art-objects)
-  * [25 gp Art Objects](#art-objects-25-gp), [25 pp Art Objects](#art-objects-25-pp), [75 pp Art Objects](#art-objects-75-pp), [250 pp Art Objects](#art-objects-250-pp), [750 pp Art Objects](#art-objects-750-pp)
+* **[Individual Monster Treasure](#individual-monster-treasure)**
+* **[Treasure Hoards](#treasure-hoards)**
+* **[Quest Rewards](#quest-rewards)**
+* **[Gemstones](#gemstones):** [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [10 pp Gemstones](#gemstones-10-pp), [50 pp Gemstones](#gemstones-50-pp), [100 pp Gemstones](#gemstones-100-pp), [500 pp Gemstones](#gemstones-500-pp)
+* **[Art Objects](#art-objects):** [25 gp Art Objects](#art-objects-25-gp), [25 pp Art Objects](#art-objects-25-pp), [75 pp Art Objects](#art-objects-75-pp), [250 pp Art Objects](#art-objects-250-pp), [750 pp Art Objects](#art-objects-750-pp)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
