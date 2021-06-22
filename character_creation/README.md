@@ -106,10 +106,8 @@ The following table lists the range of possible heights and weights for each rac
 | Simic Hybrid | Med. | 4 ft 10 in , 114 lb | 5 ft 7 in , 165 lb | 6 ft 4 in , 270 lb | 4 ft 8 in | 110 lb | 2d10 | H.M. × 2d4 |
 | Siren | Med. | 4 ft 5 in , 72 lb | 5 ft 0 in , 93 lb | 5 ft 7 in , 134 lb | 4 ft 3 in | 70 lb | 2d8 | H.M. × 1d4 |
 | Tabaxi | Med. | 5 ft 0 in , 94 lb | 5 ft 9 in , 145 lb | 6 ft 6 in , 250 lb | 4 ft 10 in | 90 lb | 2d10 | H.M. × 2d4 |
-| Tabaxi | Med. | 5 ft 0 in , 94 lb | 5 ft 9 in , 145 lb | 6 ft 6 in , 250 lb | 4 ft 10 in | 90 lb | 2d10 | H.M. × 2d4 |
 | Tiefling | Med. | 4 ft 11 in , 114 lb | 5 ft 6 in , 155 lb | 6 ft 1 in , 238 lb | 4 ft 9 in | 110 lb | 2d8 | H.M. × 2d4 |
 | Tortle | Med. | 5 ft 0 in , 404 lb | 5 ft 7 in , 445 lb | 6 ft 2 in , 528 lb | 4 ft 10 in | 400 lb | 2d8 | H.M. × 2d4 |
-| Triton | Med. | 4 ft 8 in , 94 lb | 5 ft 5 in , 145 lb | 6 ft 2 in , 250 lb | 4 ft 6 in | 90 lb | 2d10 | H.M. × 2d4 |
 | Triton | Med. | 4 ft 8 in , 94 lb | 5 ft 5 in , 145 lb | 6 ft 2 in , 250 lb | 4 ft 6 in | 90 lb | 2d10 | H.M. × 2d4 |
 | Vampire | Med. | 4 ft 10 in , 114 lb | 5 ft 7 in , 165 lb | 6 ft 4 in , 270 lb | 4 ft 8 in | 110 lb | 2d10 | H.M. × 2d4 |
 | Vedalken | Med. | 5 ft 8 in , 154 lb | 6 ft 3 in , 195 lb | 6 ft 10 in , 278 lb | 5 ft 6 in | 150 lb | 2d8 | H.M. × 2d4 |
