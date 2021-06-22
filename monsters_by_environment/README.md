@@ -12,7 +12,7 @@
 * **[Ruins](#ruins):** [Monsters](#ruins-monsters), [Lycanthropes](#ruins-lycanthropes), [Star Spawn](#ruins-star-spawn), [Peoples](#ruins-peoples)
 * **[Underground](#underground):** [Monsters](#underground-monsters), [Duergar](#underground-duergar), [Drow](#underground-drow), [Peoples](#underground-peoples), [Beholders](#underground-beholders), [Illithids](#underground-illithids)
 * **[Constructs](#constructs):** [Instinctive](#constructs-instinctive), [Sentient](#constructs-sentient), [Mechanus](#constructs-mechanus)
-* **[Undead](#undead):** [Monsters](#undead-monsters), [Spirits](#undead-spirits), [Peoples](#undead-peoples)
+* **[Undead](#undead):** [Instinctive](#undead-instinctive), [Ethereal](#undead-ethereal), [Sentient](#undead-sentient)
 * **[Shadowfell](#shadowfell):** [Monsters](#shadowfell-monsters), [Peoples](#shadowfell-peoples), [Shadow Chromatic Dragons](#shadowfell-shadow-chromatic-dragons), [Shadow Metallic Dragons](#shadowfell-shadow-chromatic-dragons)
 * **[Lower Planes](#lower-planes):** [Monsters](#lower-planes-monsters), [Demons](#lower-planes-demons), [Devils](#lower-planes-devils), [Abishai](#lower-planes-abishai), [Slaadi](#lower-planes-slaadi), [Peoples](#lower-planes-peoples)
 * **[Upper Planes](#upper-planes):** [Celestials](#upper-planes-celestials), [Githyanki](#upper-planes-githyanki), [Githzerai](#upper-planes-githzerai)
@@ -1022,13 +1022,13 @@ Elves use the same stat blocks as humans, with the following changes:
 [^ Back to Constructs](#constructs)
 
 ## Undead
-* [Monsters](#undead-monsters)
-* [Spirits](#undead-spirits)
-* [Peoples](#undead-peoples)
+* [Instinctive](#undead-instinctive)
+* [Ethereal](#undead-ethereal)
+* [Sentient](#undead-sentient)
 
 [^ Back to Top](#monsters-by-environment)
 
-### Undead: Monsters
+### Undead: Instinctive
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 0 | Crawling claw (climb) | Tiny | Undead | NE | 10 XP | – | MM 44 |
@@ -1048,7 +1048,7 @@ Elves use the same stat blocks as humans, with the following changes:
 
 [^ Back to Undead](#undead)
 
-### Undead: Spirits
+### Undead: Ethereal
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 1 | Specter (fly) | Med. | Undead | CE | 200 XP | – | MM 279 |
@@ -1064,7 +1064,7 @@ Elves use the same stat blocks as humans, with the following changes:
 
 [^ Back to Undead](#undead)
 
-### Undead: Peoples
+### Undead: Sentient
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 3 | Wight | Med. | Undead | NE | 700 XP | 12 gp | MM 300 |
