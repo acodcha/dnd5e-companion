@@ -13,7 +13,7 @@
 * **[Underground](#underground):** [Monsters](#underground-monsters), [Duergar](#underground-duergar), [Drow](#underground-drow), [Peoples](#underground-peoples), [Beholders](#underground-beholders), [Illithids](#underground-illithids)
 * **[Constructs](#constructs):** [Instinctive](#constructs-instinctive), [Sentient](#constructs-sentient), [Mechanus](#constructs-mechanus)
 * **[Undead](#undead):** [Instinctive](#undead-instinctive), [Ethereal](#undead-ethereal), [Sentient](#undead-sentient)
-* **[Shadowfell](#shadowfell):** [Monsters](#shadowfell-monsters), [Peoples](#shadowfell-peoples), [Shadow Chromatic Dragons](#shadowfell-shadow-chromatic-dragons), [Shadow Metallic Dragons](#shadowfell-shadow-chromatic-dragons)
+* **[Shadowfell](#shadowfell):** [Monsters](#shadowfell-monsters), [Peoples](#shadowfell-peoples), [Shadow Chromatic Dragons](#shadowfell-shadow-chromatic-dragons), [Shadow Metallic Dragons](#shadowfell-shadow-metallic-dragons)
 * **[Lower Planes](#lower-planes):** [Monsters](#lower-planes-monsters), [Demons](#lower-planes-demons), [Devils](#lower-planes-devils), [Abishai](#lower-planes-abishai), [Slaadi](#lower-planes-slaadi), [Peoples](#lower-planes-peoples)
 * **[Upper Planes](#upper-planes):** [Celestials](#upper-planes-celestials), [Githyanki](#upper-planes-githyanki), [Githzerai](#upper-planes-githzerai)
 
@@ -1084,7 +1084,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Monsters](#shadowfell-monsters)
 * [Peoples](#shadowfell-peoples)
 * [Shadow Chromatic Dragons](#shadowfell-shadow-chromatic-dragons)
-* [Shadow Metallic Dragons](#shadowfell-shadow-chromatic-dragons)
+* [Shadow Metallic Dragons](#shadowfell-shadow-metallic-dragons)
 
 [^ Back to Top](#monsters-by-environment)
 
