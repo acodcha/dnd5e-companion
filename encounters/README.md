@@ -1,5 +1,5 @@
 # Encounters
-* **[1 Player Character](#1-player-character):** [1 Encounter per Day](#1-player-character-1-encounter-per-day), [2 Encounters per Day](#1-player-character-2-encounters-per-day), [3 Encounters per Day](#1-player-character-3-encounters-per-day), [4 Encounters per Day](#1-player-character-4-encounters-per-day),
+* **[1 Player Character](#1-player-character):** [1 Encounter per Day](#1-player-character-1-encounter-per-day), [2 Encounters per Day](#1-player-character-2-encounters-per-day), [3 Encounters per Day](#1-player-character-3-encounters-per-day), [4 Encounters per Day](#1-player-character-4-encounters-per-day)
 * **[2 Player Characters](#2-player-characters):** [1 Encounter per Day](#2-player-characters-1-encounter-per-day), [2 Encounters per Day](#2-player-characters-2-encounters-per-day), [3 Encounters per Day](#2-player-characters-3-encounters-per-day), [4 Encounters per Day](#2-player-characters-4-encounters-per-day)
 * **[3 Player Characters](#3-player-characters):** [1 Encounter per Day](#3-player-characters-1-encounter-per-day), [2 Encounters per Day](#3-player-characters-2-encounters-per-day), [3 Encounters per Day](#3-player-characters-3-encounters-per-day), [4 Encounters per Day](#3-player-characters-4-encounters-per-day)
 * **[4 Player Characters](#4-player-characters):** [1 Encounter per Day](#4-player-characters-1-encounter-per-day), [2 Encounters per Day](#4-player-characters-2-encounters-per-day), [3 Encounters per Day](#4-player-characters-3-encounters-per-day), [4 Encounters per Day](#4-player-characters-4-encounters-per-day)
@@ -7,7 +7,7 @@
 * **[6 Player Characters](#6-player-characters):** [1 Encounter per Day](#6-player-characters-1-encounter-per-day), [2 Encounters per Day](#6-player-characters-2-encounters-per-day), [3 Encounters per Day](#6-player-characters-3-encounters-per-day), [4 Encounters per Day](#6-player-characters-4-encounters-per-day)
 * **[7 Player Characters](#7-player-characters):** [1 Encounter per Day](#7-player-characters-1-encounter-per-day), [2 Encounters per Day](#7-player-characters-2-encounters-per-day), [3 Encounters per Day](#7-player-characters-3-encounters-per-day), [4 Encounters per Day](#7-player-characters-4-encounters-per-day)
 * **[8 Player Characters](#8-player-characters):** [1 Encounter per Day](#8-player-characters-1-encounter-per-day), [2 Encounters per Day](#8-player-characters-2-encounters-per-day), [3 Encounters per Day](#8-player-characters-3-encounters-per-day), [4 Encounters per Day](#8-player-characters-4-encounters-per-day)
-* [General](#general)
+* **[General](#general)**
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
