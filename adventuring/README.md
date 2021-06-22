@@ -5,8 +5,8 @@
   * [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 * [Conditions](#conditions)
   * [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
-* [Environments](#environments)
-  * [Jumping](#environment-jumping), [Cover](#environment-cover), [Concealment](#environment-concealment), [Light](#environment-light), [Mounted Combat](#environment-mounted-combat), [Underwater Combat](#environment-underwater-combat)
+* [Circumstances](#circumstances)
+  * [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
 * [Spellcasting Services](#spellcasting-services)
   * [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
 
@@ -188,7 +188,7 @@
 [^ Back to Abilities](#abilities)
 
 ### Ability: Wisdom (Perception)
-* Notice things about the environment.
+* Notice things about the circumstance.
 * Spot, hear, or otherwise detect the presence of something through your awareness of your surroundings and the keenness of your senses.
 * Hear a conversation through a closed door.
 * Eavesdrop under an open window.
@@ -453,7 +453,7 @@
 [^ Back to Conditions](#conditions)
 
 ### Condition: Exhaustion
-* Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
+* Some special abilities and circumstanceal hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 * Exhaustion is measured in six levels:
   * Level 1: Disadvantage on ability checks.
   * Level 2: Speed halved.
@@ -552,17 +552,17 @@
 
 [^ Back to Conditions](#conditions)
 
-## Environments
-* [Jumping](#environment-jumping)
-* [Cover](#environment-cover)
-* [Concealment](#environment-concealment)
-* [Light](#environment-light)
-* [Mounted Combat](#environment-mounted-combat)
-* [Underwater Combat](#environment-underwater-combat)
+## Circumstances
+* [Jumping](#circumstance-jumping)
+* [Cover](#circumstance-cover)
+* [Concealment](#circumstance-concealment)
+* [Light](#circumstance-light)
+* [Mounted Combat](#circumstance-mounted-combat)
+* [Underwater Combat](#circumstance-underwater-combat)
 
 [^ Back to Top](#adventuring)
 
-### Environment: Jumping
+### Circumstance: Jumping
 * Each foot you clear while jumping costs a foot of movement.
 * When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. At your DM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
 * When you make a long jump and land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
@@ -570,55 +570,55 @@
 * When you make a high jump, you can extend your arms half your height above yourself during a high jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 * In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher or further than you normally can.
 
-[^ Back to Environments](#environments)
+[^ Back to Circumstances](#circumstances)
 
-### Environment: Cover
+### Circumstance: Cover
 * A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
 * If a target is behind multiple sources of cover, only the most protective degree of cover applies.
 * A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
 * A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three­-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
 * A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
-[^ Back to Environments](#environments)
+[^ Back to Circumstances](#circumstances)
 
-### Environment: Concealment
+### Circumstance: Concealment
 * In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 * A heavily obscured area such as darkness, opaque fog, or dense foliage blocks vision entirely. A creature effectively suffers from the blinded condition when trying to see something in that area.
 
-[^ Back to Environments](#environments)
+[^ Back to Circumstances](#circumstances)
 
-### Environment: Light
+### Circumstance: Light
 * Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lan­terns, fires, and other sources of illumination within a specific radius.
 * Dim light, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
 * Darkness creates a heavily obscured area. Charac­ters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a sub­terranean vault, or in an area of magical darkness.
 
-[^ Back to Environments](#environments)
+[^ Back to Circumstances](#circumstances)
 
-### Environment: Mounted Combat
+### Circumstance: Mounted Combat
 * A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount
 * Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed.
 * If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it.
 * If you're knocked prone while mounted, you must make the same saving throw.
 * If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
-* If the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
+* If your mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
 * While you're mounted, you can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
 * Controlling a mount:
   * You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training.
   * The initiative of a controlled mount changes to match yours when you mount it.
-  * It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge.
+  * A controlled mount moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge.
   * A controlled mount can move and act even on the turn that you mount it.
 * Independent mount:
   * An independent mount retains its place in the initiative order.
   * Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
 
-[^ Back to Environments](#environments)
+[^ Back to Circumstances](#circumstances)
 
-### Environment: Underwater Combat
+### Circumstance: Underwater Combat
 * When making a melee weapon attack, a creature that doesn't have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident.
-* A ranged weapon attack automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
+* A ranged weapon attack automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a thrown javelin, spear, trident, or dart.
 * Creatures and objects that are fully immersed in water have resistance to fire damage.
 
-[^ Back to Environments](#environments)
+[^ Back to Circumstances](#circumstances)
 
 ## Spellcasting Services
 * [Wellness](#spellcasting-services-wellness)
