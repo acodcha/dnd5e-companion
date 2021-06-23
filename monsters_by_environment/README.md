@@ -542,6 +542,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 1 | Bear, brown (climb) | Large | Beast | – | 200 XP | – | MM 319 |
 | CR 1 | Hippogriff (fly) | Large | Monstr. | – | 200 XP | – | MM 184 |
 | CR 2 | Ankheg (burrow) | Large | Monstr. | – | 450 XP | – | MM 21 |
+| CR 2 | Gargoyle (fly) | Med. | Elem. | CE | 450 XP | – | MM 140 |
 | CR 3 | Dinosaur, ankylosaurus | Huge | Beast | – | 700 XP | – | MM 79 |
 | CR 3 | Flail snail | Large | Elem. | – | 700 XP | – | Volo 144 |
 | CR 4 | Dinosaur, stegosaurus | Huge | Beast | – | 1,100 XP | – | Volo 140 |
@@ -671,7 +672,6 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ⅛ | Xvart | Small | Hum. | CE | 25 XP | 50 cp | Volo 200 |
 | CR ¼ | Aarakocra (fly) | Med. | Hum. | NG | 50 XP | 10 sp | MM 12 |
 | CR 1 | Xvart warlock of Raxivort (spells) | Small | Hum. | CE | 200 XP | 40 sp | Volo 200 |
-| CR 2 | Gargoyle (fly) | Med. | Elem. | CE | 450 XP | – | MM 140 |
 | CR 4 | Ettin | Large | Giant | CE | 1,100 XP | 18 gp | MM 132 |
 | CR 5 | Half-dragon, red, veteran | Med. | Hum. | * | 1,800 XP | 27 gp | MM 180 |
 | CR 6 | Hag, annis (spells) (coven +2 CR) (lair VGtM 59) | Large | Fey | CE | 2,300 XP | 41 gp | Volo 159 |
