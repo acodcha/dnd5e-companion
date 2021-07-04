@@ -97,6 +97,7 @@ Abbreviations:
 | CR ¼ | Bat swarm (fly) | Med. | Beast | – | 50 XP | – | MM 337 |
 | CR ¼ | Bat, giant (fly) | Large | Beast | – | 50 XP | – | MM 323 |
 | CR ¼ | Blight, needle | Med. | Plant | NE | 50 XP | – | MM 32 |
+| CR ¼ | Blink dog | Med. | Fey | LG | 50 XP | – | MM 318 |
 | CR ¼ | Boar | Med. | Beast | – | 50 XP | – | MM 319 |
 | CR ¼ | Bullywug (swim) | Med. | Hum. | NE | 50 XP | 10 sp | MM 35 |
 | CR ¼ | Centipede, giant (climb) | Small | Beast | – | 50 XP | – | MM 323 |
@@ -108,7 +109,6 @@ Abbreviations:
 | CR ¼ | Dinosaur, hadrosaurus | Large | Beast | – | 50 XP | – | Volo 140 |
 | CR ¼ | Dinosaur, pteranodon (fly) | Med. | Beast | – | 50 XP | – | MM 80 |
 | CR ¼ | Dinosaur, velociraptor | Tiny | Beast | – | 50 XP | – | Volo 140 |
-| CR ¼ | Dog, blink | Med. | Fey | LG | 50 XP | – | MM 318 |
 | CR ¼ | Drow (spells) | Med. | Hum. | NE | 50 XP | 10 sp | MM 128 |
 | CR ¼ | Elk | Large | Beast | – | 50 XP | – | MM 322 |
 | CR ¼ | Frog, giant (swim) | Med. | Beast | – | 50 XP | – | MM 325 |
@@ -449,7 +449,6 @@ Abbreviations:
 | CR 4 | Demon, shadow (fly) | Med. | Fiend | CE | 1,100 XP | – | MM 64 |
 | CR 4 | Devil, merregon | Med. | Fiend | LE | 1,100 XP | – | Mord 166 |
 | CR 4 | Dinosaur, stegosaurus | Huge | Beast | – | 1,100 XP | – | Volo 140 |
-| CR 4 | Dog, hound, yeth (fly) | Large | Fey | NE | 1,100 XP | – | Volo 201 |
 | CR 4 | Dragon, red, wyrmling (climb) (fly) (lair) | Med. | Dragon | CE | 1,100 XP | – | MM 98 |
 | CR 4 | Dragon, shadow, brass, wyrmling (burrow) (fly) (lair) | Med. | Dragon | CG | 1,100 XP | – | MM 85, 106 |
 | CR 4 | Dragon, shadow, copper, wyrmling (climb) (fly) (lair) | Med. | Dragon | CG | 1,100 XP | – | MM 85, 112 |
@@ -473,6 +472,7 @@ Abbreviations:
 | CR 4 | Orc blade of Ilneval | Med. | Hum. | CE | 1,100 XP | 18 gp | Volo 183 |
 | CR 4 | Orc war chief | Med. | Hum. | CE | 1,100 XP | 18 gp | MM 246 |
 | CR 4 | Succubus/Incubus (shapech) | Med. | Fiend | NE | 1,100 XP | 18 gp | MM 285 |
+| CR 4 | Yeth hound (fly) | Large | Fey | NE | 1,100 XP | – | Volo 201 |
 | CR 4 | Yuan-ti mind whisperer (spells) (shapech) | Med. | Monstr. | NE | 1,100 XP | 18 gp | Volo 204 |
 | CR 4 | Yuan-ti nightmare speaker (spells) (shapech) | Med. | Monstr. | NE | 1,100 XP | 18 gp | Volo 205 |
 

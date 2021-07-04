@@ -337,9 +337,9 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 0 | Cat (climb) | Tiny | Beast | – | 10 XP | – | MM 320 |
 | CR 0 | Hawk (fly) | Tiny | Beast | – | 10 XP | – | MM 330 |
 | CR 0 | Spider (climb) | Tiny | Beast | – | 10 XP | – | MM 337 |
+| CR ¼ | Blink dog | Med. | Fey | LG | 50 XP | – | MM 318 |
 | CR ¼ | Boar | Med. | Beast | – | 50 XP | – | MM 319 |
 | CR ¼ | Dinosaur, velociraptor | Tiny | Beast | – | 50 XP | – | Volo 140 |
-| CR ¼ | Dog, blink | Med. | Fey | LG | 50 XP | – | MM 318 |
 | CR ¼ | Panther (climb) | Med. | Beast | – | 50 XP | – | MM 333 |
 | CR ¼ | Spider, wolf, giant (climb) | Med. | Beast | – | 50 XP | – | MM 330 |
 | CR ½ | Ape (climb) | Med. | Beast | – | 100 XP | – | MM 317 |
@@ -356,8 +356,8 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 3 | Displacer beast | Large | Monstr. | LE | 700 XP | – | MM 81 |
 | CR 3 | Owlbear | Large | Monstr. | – | 700 XP | – | MM 249 |
 | CR 3 | Spider, phase (climb) | Large | Monstr. | – | 700 XP | – | MM 334 |
-| CR 4 | Dog, hound, yeth (fly) | Large | Fey | NE | 1,100 XP | – | Volo 201 |
 | CR 4 | Girallon (climb) | Large | Monstr. | – | 1,100 XP | – | Volo 152 |
+| CR 4 | Yeth hound (fly) | Large | Fey | NE | 1,100 XP | – | Volo 201 |
 | CR 7 | Ape, giant (climb) | Huge | Beast | – | 2,900 XP | – | MM 323 |
 
 [^ Back to Forests](#forests)
