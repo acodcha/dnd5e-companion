@@ -441,7 +441,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 0 | Hyena | Med. | Beast | – | 10 XP | – | MM 331 |
 | CR 0 | Jackal | Small | Beast | – | 10 XP | – | MM 331 |
 | CR 0 | Weasel | Tiny | Beast | – | 10 XP | – | MM 340 |
-| CR ⅛ | Dog, mastiff | Med. | Beast | – | 25 XP | – | MM 332 |
+| CR ⅛ | Mastiff | Med. | Beast | – | 25 XP | – | MM 332 |
 | CR ⅛ | Weasel, giant | Med. | Beast | – | 25 XP | – | MM 329 |
 | CR ¼ | Axe beak | Large | Beast | – | 50 XP | – | MM 317 |
 | CR ¼ | Horse, draft | Large | Beast | – | 50 XP | – | MM 321 |
@@ -869,7 +869,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ½ | Roper piercer (climb) | Med. | Monstr. | – | 100 XP | – | MM 252 |
 | CR ½ | Rust monster | Med. | Monstr. | – | 100 XP | – | MM 262 |
 | CR 1 | Choker | Small | Aberr. | CE | 200 XP | – | Mord 123 |
-| CR 1 | Dog, death | Med. | Monstr. | NE | 200 XP | – | MM 321 |
+| CR 1 | Death dog | Med. | Monstr. | NE | 200 XP | – | MM 321 |
 | CR 1 | Myconid spore servant, quaggoth (climb) | Med. | Plant | – | 200 XP | – | MM 230 |
 | CR 1 | Steeder, female (climb) | Large | Monstr. | – | 200 XP | – | Mord 238 |
 | CR 2 | Kruthik, adult (climb) (burrow) | Med. | Monstr. | – | 450 XP | – | Mord 212 |
@@ -1095,8 +1095,8 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ½ | Darkmantle (fly) | Small | Monstr. | – | 100 XP | – | MM 46 |
 | CR ½ | Shadow | Med. | Undead | CE | 100 XP | – | MM 269 |
 | CR ½ | Skulk | Med. | Hum. | CN | 100 XP | – | Mord 227 |
-| CR 2 | Dog, mastiff, shadow | Med. | Monstr. | NE | 450 XP | – | Volo 190 |
-| CR 3 | Dog, mastiff, shadow, alpha | Med. | Monstr. | NE | 700 XP | – | Volo 190 |
+| CR 2 | Mastiff, shadow | Med. | Monstr. | NE | 450 XP | – | Volo 190 |
+| CR 3 | Mastiff, shadow, alpha | Med. | Monstr. | NE | 700 XP | – | Volo 190 |
 | CR 3 | Slithering tracker (climb) (swim) | Med. | Ooze | CE | 700 XP | – | Volo 191 |
 | CR 3 | Vampire, vampiric mist (fly) | Med. | Undead | CE | 700 XP | – | Mord 246 |
 | CR 5 | Banderhobb | Large | Monstr. | NE | 1,800 XP | – | Volo 122 |
@@ -1191,7 +1191,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR ¼ | Stench kow | Large | Fiend | – | 50 XP | – | Volo 207 |
 | CR 1 | Vargouille (fly) | Tiny | Fiend | CE | 200 XP | – | Volo 195 |
-| CR 3 | Dog, hound, hell | Med. | Fiend | LE | 700 XP | – | MM 182 |
+| CR 3 | Hell hound | Med. | Fiend | LE | 700 XP | – | MM 182 |
 | CR 3 | Horse, nightmare (fly) | Large | Fiend | NE | 700 XP | – | MM 235 |
 | CR 8 | Howler | Large | Fiend | CE | 3,900 XP | – | Mord 210 |
 | CR 8 | Yugoloth canoloth | Med. | Fiend | NE | 3,900 XP | – | Mord 247 |

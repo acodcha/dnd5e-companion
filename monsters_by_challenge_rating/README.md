@@ -61,7 +61,6 @@ Abbreviations:
 | CR ⅛ | Camel | Large | Beast | – | 25 XP | – | MM 320 |
 | CR ⅛ | Crab, giant (swim) | Med. | Beast | – | 25 XP | – | MM 324 |
 | CR ⅛ | Demon, manes | Small | Fiend | CE | 25 XP | – | MM 60 |
-| CR ⅛ | Dog, mastiff | Med. | Beast | – | 25 XP | – | MM 332 |
 | CR ⅛ | Dolphin (swim) | Med. | Beast | – | 25 XP | – | Volo 208 |
 | CR ⅛ | Flumph (fly) | Small | Aberr. | LG | 25 XP | – | MM 135 |
 | CR ⅛ | Hawk, blood (fly) | Small | Beast | – | 25 XP | – | MM 319 |
@@ -72,6 +71,7 @@ Abbreviations:
 | CR ⅛ | Human tribal warrior | Med. | Hum. | * | 25 XP | 50 cp | MM 350 |
 | CR ⅛ | Kobold | Small | Hum. | LE | 25 XP | 50 cp | MM 195 |
 | CR ⅛ | Kruthik, young (climb) (burrow) | Small | Monstr. | – | 25 XP | – | Mord 211 |
+| CR ⅛ | Mastiff | Med. | Beast | – | 25 XP | – | MM 332 |
 | CR ⅛ | Merfolk (swim) | Med. | Hum. | N | 25 XP | 50 cp | MM 218 |
 | CR ⅛ | Modron monodrone (fly) | Med. | Constr. | LN | 25 XP | – | MM 224 |
 | CR ⅛ | Mule | Med. | Beast | – | 25 XP | – | MM 333 |
@@ -218,11 +218,11 @@ Abbreviations:
 | CR 1 | Bugbear | Med. | Hum. | CE | 200 XP | 40 sp | MM 33 |
 | CR 1 | Choker | Small | Aberr. | CE | 200 XP | – | Mord 123 |
 | CR 1 | Clockwork bronze scout (burrow) | Med. | Constr. | – | 200 XP | – | Mord 125 |
+| CR 1 | Death dog | Med. | Monstr. | NE | 200 XP | – | MM 321 |
 | CR 1 | Demon, maw | Med. | Fiend | CE | 200 XP | – | Volo 137 |
 | CR 1 | Demon, quasit (shapech) | Tiny | Fiend | CE | 200 XP | – | MM 63 |
 | CR 1 | Devil, imp (fly) (shapech) | Tiny | Fiend | LE | 200 XP | – | MM 76 |
 | CR 1 | Dinosaur, deinonychus | Med. | Beast | – | 200 XP | – | Volo 139 |
-| CR 1 | Dog, death | Med. | Monstr. | NE | 200 XP | – | MM 321 |
 | CR 1 | Dragon, brass, wyrmling (burrow) (fly) (lair) | Med. | Dragon | CG | 200 XP | – | MM 106 |
 | CR 1 | Dragon, copper, wyrmling (climb) (fly) (lair) | Med. | Dragon | CG | 200 XP | – | MM 112 |
 | CR 1 | Dragon, faerie, orange (fly) (spells) | Tiny | Dragon | CG | 200 XP | – | MM 133 |
@@ -295,7 +295,6 @@ Abbreviations:
 | CR 2 | Dinosaur, allosaurus | Large | Beast | – | 450 XP | – | MM 79 |
 | CR 2 | Dinosaur, plesiosaurus (swim) | Large | Beast | – | 450 XP | – | MM 80 |
 | CR 2 | Dinosaur, quetzalcoatlus (fly) | Huge | Beast | – | 450 XP | – | Volo 140 |
-| CR 2 | Dog, mastiff, shadow | Med. | Monstr. | NE | 450 XP | – | Volo 190 |
 | CR 2 | Dragon, black, wyrmling (swim) (fly) (lair) | Med. | Dragon | CE | 450 XP | – | MM 88 |
 | CR 2 | Dragon, bronze, wyrmling (swim) (fly) (lair) | Med. | Dragon | LG | 450 XP | – | MM 109 |
 | CR 2 | Dragon, faerie, blue (fly) (spells) | Tiny | Dragon | CG | 450 XP | – | MM 133 |
@@ -338,6 +337,7 @@ Abbreviations:
 | CR 2 | Kruthik, adult (climb) (burrow) | Med. | Monstr. | – | 450 XP | – | Mord 212 |
 | CR 2 | Lizardfolk shaman (swim) (spells) (shapech) | Med. | Hum. | N | 450 XP | 80 sp | MM 205 |
 | CR 2 | Lycanthrope wererat (shapech) | Med. | Hum. | LE | 450 XP | 80 sp | MM 209 |
+| CR 2 | Mastiff, shadow | Med. | Monstr. | NE | 450 XP | – | Volo 190 |
 | CR 2 | Meenlock | Small | Fey | NE | 450 XP | – | Volo 170 |
 | CR 2 | Merfolk merrow (swim) | Large | Monstr. | CE | 450 XP | 80 sp | MM 219 |
 | CR 2 | Mimic (shapech) | Med. | Monstr. | N | 450 XP | – | MM 220 |
@@ -386,8 +386,6 @@ Abbreviations:
 | CR 3 | Devil, barbazu | Med. | Fiend | LE | 700 XP | 12 gp | MM 70 |
 | CR 3 | Dinosaur, ankylosaurus | Huge | Beast | – | 700 XP | – | MM 79 |
 | CR 3 | Displacer beast | Large | Monstr. | LE | 700 XP | – | MM 81 |
-| CR 3 | Dog, hound, hell | Med. | Fiend | LE | 700 XP | – | MM 182 |
-| CR 3 | Dog, mastiff, shadow, alpha | Med. | Monstr. | NE | 700 XP | – | Volo 190 |
 | CR 3 | Doppelganger (shapech) | Med. | Monstr. | N | 700 XP | 12 gp | MM 82 |
 | CR 3 | Dragon, blue, wyrmling (burrow) (fly) (lair) | Med. | Dragon | LE | 700 XP | – | MM 91 |
 | CR 3 | Dragon, gold, wyrmling (swim) (fly) (lair) | Med. | Dragon | LG | 700 XP | – | MM 115 |
@@ -397,6 +395,7 @@ Abbreviations:
 | CR 3 | Githyanki warrior (spells) | Med. | Hum. | LE | 700 XP | 12 gp | MM 160 |
 | CR 3 | Grell (fly) | Med. | Aberr. | NE | 700 XP | – | MM 172 |
 | CR 3 | Hag, green (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | NE | 700 XP | 12 gp | MM 177 |
+| CR 3 | Hell hound | Med. | Fiend | LE | 700 XP | – | MM 182 |
 | CR 3 | Hobgoblin captain | Med. | Hum. | LE | 700 XP | 12 gp | MM 186 |
 | CR 3 | Hook horror (climb) | Large | Monstr. | N | 700 XP | – | MM 189 |
 | CR 3 | Horse, nightmare (fly) | Large | Fiend | NE | 700 XP | – | MM 235 |
@@ -411,6 +410,7 @@ Abbreviations:
 | CR 3 | Leucrotta | Large | Monstr. | CE | 700 XP | – | Volo 169 |
 | CR 3 | Lycanthrope werewolf (shapech) | Med. | Hum. | CE | 700 XP | 12 gp | MM 211 |
 | CR 3 | Manticore (fly) | Large | Monstr. | LE | 700 XP | – | MM 213 |
+| CR 3 | Mastiff, shadow, alpha | Med. | Monstr. | NE | 700 XP | – | Volo 190 |
 | CR 3 | Minotaur | Large | Monstr. | CE | 700 XP | 12 gp | MM 223 |
 | CR 3 | Mummy | Med. | Undead | LE | 700 XP | 12 gp | MM 228 |
 | CR 3 | Neogi (climb) | Small | Aberr. | LE | 700 XP | 12 gp | Volo 180 |
