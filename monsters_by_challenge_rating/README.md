@@ -109,6 +109,7 @@ Abbreviations:
 | CR ¼ | Dinosaur, hadrosaurus | Large | Beast | – | 50 XP | – | Volo 140 |
 | CR ¼ | Dinosaur, pteranodon (fly) | Med. | Beast | – | 50 XP | – | MM 80 |
 | CR ¼ | Dinosaur, velociraptor | Tiny | Beast | – | 50 XP | – | Volo 140 |
+| CR ¼ | Draft horse | Large | Beast | – | 50 XP | – | MM 321 |
 | CR ¼ | Drow (spells) | Med. | Hum. | NE | 50 XP | 10 sp | MM 128 |
 | CR ¼ | Elk | Large | Beast | – | 50 XP | – | MM 322 |
 | CR ¼ | Frog, giant (swim) | Med. | Beast | – | 50 XP | – | MM 325 |
@@ -117,8 +118,6 @@ Abbreviations:
 | CR ¼ | Goblin | Small | Hum. | NE | 50 XP | 10 sp | MM 166 |
 | CR ¼ | Grimlock | Med. | Hum. | NE | 50 XP | 10 sp | MM 175 |
 | CR ¼ | Grung (climb) | Small | Hum. | LE | 50 XP | 10 sp | Volo 156 |
-| CR ¼ | Horse, draft | Large | Beast | – | 50 XP | – | MM 321 |
-| CR ¼ | Horse, riding | Large | Beast | – | 50 XP | – | MM 336 |
 | CR ¼ | Human acolyte (spells) | Med. | Hum. | * | 50 XP | 10 sp | MM 342 |
 | CR ¼ | Human apprentice wizard (spells) | Med. | Hum. | * | 50 XP | 10 sp | Volo 209 |
 | CR ¼ | Kenku | Med. | Hum. | CN | 50 XP | 10 sp | MM 194 |
@@ -138,6 +137,7 @@ Abbreviations:
 | CR ¼ | Pseudodragon (fly) | Tiny | Dragon | NG | 50 XP | – | MM 254 |
 | CR ¼ | Rat swarm | Med. | Beast | – | 50 XP | – | MM 339 |
 | CR ¼ | Raven swarm (fly) | Med. | Beast | – | 50 XP | – | MM 339 |
+| CR ¼ | Riding horse | Large | Beast | – | 50 XP | – | MM 336 |
 | CR ¼ | Rothé | Large | Beast | – | 50 XP | – | Volo 207 |
 | CR ¼ | Rothé, deep | Med. | Beast | – | 50 XP | – | Volo 207 |
 | CR ¼ | Skeleton | Med. | Undead | LE | 50 XP | 10 sp | MM 272 |
@@ -179,7 +179,6 @@ Abbreviations:
 | CR ½ | Goat, giant | Large | Beast | – | 100 XP | – | MM 326 |
 | CR ½ | Gray ooze (climb) | Med. | Ooze | – | 100 XP | – | MM 243 |
 | CR ½ | Hobgoblin | Med. | Hum. | LE | 100 XP | 20 sp | MM 186 |
-| CR ½ | Horse, warhorse | Large | Beast | – | 100 XP | – | MM 340 |
 | CR ½ | Human scout | Med. | Hum. | * | 100 XP | 20 sp | MM 349 |
 | CR ½ | Human thug | Med. | Hum. | * | 100 XP | 20 sp | MM 350 |
 | CR ½ | Jackalwere (shapech) | Med. | Hum. | CE | 100 XP | 20 sp | MM 193 |
@@ -204,6 +203,7 @@ Abbreviations:
 | CR ½ | Skulk | Med. | Hum. | CN | 100 XP | – | Mord 227 |
 | CR ½ | Spider swarm (climb) | Med. | Beast | – | 100 XP | – | MM 338 |
 | CR ½ | Svirfneblin (spells) | Small | Hum. | NG | 100 XP | 20 sp | MM 164 |
+| CR ½ | Warhorse | Large | Beast | – | 100 XP | – | MM 340 |
 | CR ½ | Wasp swarm (fly) | Med. | Beast | – | 100 XP | – | MM 338 |
 | CR ½ | Wasp, giant (fly) | Med. | Beast | – | 100 XP | – | MM 329 |
 | CR ½ | Worg | Large | Monstr. | NE | 100 XP | – | MM 341 |
@@ -398,7 +398,6 @@ Abbreviations:
 | CR 3 | Hell hound | Med. | Fiend | LE | 700 XP | – | MM 182 |
 | CR 3 | Hobgoblin captain | Med. | Hum. | LE | 700 XP | 12 gp | MM 186 |
 | CR 3 | Hook horror (climb) | Large | Monstr. | N | 700 XP | – | MM 189 |
-| CR 3 | Horse, nightmare (fly) | Large | Fiend | NE | 700 XP | – | MM 235 |
 | CR 3 | Human archer | Med. | Hum. | * | 700 XP | 12 gp | Volo 210 |
 | CR 3 | Human illusionist (spells) | Med. | Hum. | * | 700 XP | 12 gp | Volo 214 |
 | CR 3 | Human knight | Med. | Hum. | * | 700 XP | 12 gp | MM 347 |
@@ -414,6 +413,7 @@ Abbreviations:
 | CR 3 | Minotaur | Large | Monstr. | CE | 700 XP | 12 gp | MM 223 |
 | CR 3 | Mummy | Med. | Undead | LE | 700 XP | 12 gp | MM 228 |
 | CR 3 | Neogi (climb) | Small | Aberr. | LE | 700 XP | 12 gp | Volo 180 |
+| CR 3 | Nightmare horse (fly) | Large | Fiend | NE | 700 XP | – | MM 235 |
 | CR 3 | Ogre chain brute | Large | Giant | CE | 700 XP | 12 gp | Mord 221 |
 | CR 3 | Orc red fang of Shargaas | Med. | Hum. | CE | 700 XP | 12 gp | Volo 185 |
 | CR 3 | Owlbear | Large | Monstr. | – | 700 XP | – | MM 249 |

@@ -444,11 +444,11 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ⅛ | Mastiff | Med. | Beast | – | 25 XP | – | MM 332 |
 | CR ⅛ | Weasel, giant | Med. | Beast | – | 25 XP | – | MM 329 |
 | CR ¼ | Axe beak | Large | Beast | – | 50 XP | – | MM 317 |
-| CR ¼ | Horse, draft | Large | Beast | – | 50 XP | – | MM 321 |
-| CR ¼ | Horse, riding | Large | Beast | – | 50 XP | – | MM 336 |
+| CR ¼ | Draft horse | Large | Beast | – | 50 XP | – | MM 321 |
 | CR ¼ | Ox | Large | Beast | – | 50 XP | – | Volo 207 |
+| CR ¼ | Riding horse | Large | Beast | – | 50 XP | – | MM 336 |
 | CR ¼ | Rothé | Large | Beast | – | 50 XP | – | Volo 207 |
-| CR ½ | Horse, warhorse | Large | Beast | – | 100 XP | – | MM 340 |
+| CR ½ | Warhorse | Large | Beast | – | 100 XP | – | MM 340 |
 | CR ½ | Worg | Large | Monstr. | NE | 100 XP | – | MM 341 |
 | CR 1 | Dinosaur, deinonychus | Med. | Beast | – | 200 XP | – | Volo 139 |
 | CR 1 | Eagle, giant (fly) | Large | Beast | NG | 200 XP | – | MM 324 |
@@ -1192,7 +1192,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ¼ | Stench kow | Large | Fiend | – | 50 XP | – | Volo 207 |
 | CR 1 | Vargouille (fly) | Tiny | Fiend | CE | 200 XP | – | Volo 195 |
 | CR 3 | Hell hound | Med. | Fiend | LE | 700 XP | – | MM 182 |
-| CR 3 | Horse, nightmare (fly) | Large | Fiend | NE | 700 XP | – | MM 235 |
+| CR 3 | Nightmare horse (fly) | Large | Fiend | NE | 700 XP | – | MM 235 |
 | CR 8 | Howler | Large | Fiend | CE | 3,900 XP | – | Mord 210 |
 | CR 8 | Yugoloth canoloth | Med. | Fiend | NE | 3,900 XP | – | Mord 247 |
 | CR 13 | Devourer | Large | Fiend | CE | 10,000 XP | – | Volo 138 |
