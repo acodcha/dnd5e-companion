@@ -1034,7 +1034,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 0 | Crawling claw (climb) | Tiny | Undead | NE | 10 XP | – | MM 44 |
 | CR ¼ | Skeleton | Med. | Undead | LE | 50 XP | 10 sp | MM 272 |
 | CR ¼ | Zombie | Med. | Undead | NE | 50 XP | 10 sp | MM 316 |
-| CR ½ | Skeleton, horse, warhorse | Large | Undead | LE | 100 XP | – | MM 273 |
+| CR ½ | Skeleton, warhorse | Large | Undead | LE | 100 XP | – | MM 273 |
 | CR 1 | Ghoul | Med. | Undead | CE | 200 XP | – | MM 148 |
 | CR 2 | Ghoul, ghast | Med. | Undead | CE | 450 XP | 80 sp | MM 148 |
 | CR 2 | Skeleton, minotaur | Large | Undead | LE | 450 XP | 80 sp | MM 273 |

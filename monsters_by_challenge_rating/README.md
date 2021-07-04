@@ -199,7 +199,7 @@ Abbreviations:
 | CR ½ | Sea horse, giant (swim) | Large | Beast | – | 100 XP | – | MM 328 |
 | CR ½ | Shadow | Med. | Undead | CE | 100 XP | – | MM 269 |
 | CR ½ | Shark, reef (swim) | Med. | Beast | – | 100 XP | – | MM 336 |
-| CR ½ | Skeleton, horse, warhorse | Large | Undead | LE | 100 XP | – | MM 273 |
+| CR ½ | Skeleton, warhorse | Large | Undead | LE | 100 XP | – | MM 273 |
 | CR ½ | Skulk | Med. | Hum. | CN | 100 XP | – | Mord 227 |
 | CR ½ | Spider swarm (climb) | Med. | Beast | – | 100 XP | – | MM 338 |
 | CR ½ | Svirfneblin (spells) | Small | Hum. | NG | 100 XP | 20 sp | MM 164 |
