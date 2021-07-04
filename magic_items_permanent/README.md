@@ -512,7 +512,7 @@ Abbreviations:
 | Ruby of the war mage (attunement spellcaster) | 50 pp | 1 lb | XGtE 138 |
 | Talking doll (attunement) | 50 pp | 1 lb | XGtE 139 |
 | Tankard of sobriety | 50 pp | 1 lb | XGtE 139 |
-| Driftglobe | 75 pp | 3 lb | DMG 166 |
+| Driftglobe | 75 pp | 1 lb | DMG 166 |
 | Charlatan's die (attunement) | 100 pp | – | XGtE 136 |
 | Eversmoking bottle | 100 pp | 1 lb | DMG 168 |
 | Ioun stone of sustenance (attunement) | 100 pp | – | DMG 176 |
@@ -640,7 +640,7 @@ Abbreviations:
 | Breastplate armor of gleaming | 60 pp | 20 lb | XGtE 136 |
 | Smoldering breastplate armor | 60 pp | 20 lb | XGtE 139 |
 | Cast-off breastplate armor | 70 pp | 20 lb | XGtE 136 |
-| Driftglobe | 75 pp | 3 lb | DMG 166 |
+| Driftglobe | 75 pp | 1 lb | DMG 166 |
 | Trident of fish command (attunement) | 80 pp | 4 lb | DMG 209 |
 | Adamantine breastplate armor | 90 pp | 20 lb | DMG 150 |
 | Half plate armor of gleaming | 95 pp | 40 lb | XGtE 136 |
