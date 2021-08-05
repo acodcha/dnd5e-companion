@@ -6,7 +6,7 @@
 * [CR 13](#challenge-rating-13), [CR 14](#challenge-rating-14), [CR 15](#challenge-rating-15), [CR 16](#challenge-rating-16)
 * [CR 17](#challenge-rating-17), [CR 18](#challenge-rating-18), [CR 19](#challenge-rating-19), [CR 20](#challenge-rating-20)
 * [CR 21](#challenge-rating-21), [CR 22](#challenge-rating-22), [CR 23](#challenge-rating-23), [CR 24](#challenge-rating-24)
-* [CR 25](#challenge-rating-25), [CR 26](#challenge-rating-26), [CR 27](#challenge-rating-27), [CR 28+](#challenge-rating-28)
+* [CR 25](#challenge-rating-25), [CR 26](#challenge-rating-26), [CR 27+](#challenge-rating-27)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
@@ -35,6 +35,7 @@ Abbreviations:
 | CR 0 | Hawk (fly) | Tiny | Beast | – | 10 XP | – | MM 330 |
 | CR 0 | Homunculus (fly) | Tiny | Constr. | N | 10 XP | – | MM 188 |
 | CR 0 | Human commoner | Med. | Hum. | * | 10 XP | 20 cp | MM 344 |
+|	CR 0	|	Human magewright (spells)	|	Med.	|	Hum.	|	*	|	10 XP	|	20 cp	|	Eber	318	|
 | CR 0 | Hyena | Med. | Beast | – | 10 XP | – | MM 331 |
 | CR 0 | Jackal | Small | Beast | – | 10 XP | – | MM 331 |
 | CR 0 | Lizard (climb) | Tiny | Beast | – | 10 XP | – | MM 332 |
@@ -64,6 +65,7 @@ Abbreviations:
 | CR ⅛ | Dolphin (swim) | Med. | Beast | – | 25 XP | – | Volo 208 |
 | CR ⅛ | Flumph (fly) | Small | Aberr. | LG | 25 XP | – | MM 135 |
 | CR ⅛ | Hawk, blood (fly) | Small | Beast | – | 25 XP | – | MM 319 |
+|	CR ⅛	|	Homunculus, expeditious messenger (fly)	|	Tiny	|	Constr.	|	N	|	25 XP	|	–	|	Eber	293	|
 | CR ⅛ | Human bandit | Med. | Hum. | C | 25 XP | 50 cp | MM 343 |
 | CR ⅛ | Human cultist | Med. | Hum. | E | 25 XP | 50 cp | MM 345 |
 | CR ⅛ | Human guard | Med. | Hum. | * | 25 XP | 50 cp | MM 347 |
@@ -82,6 +84,7 @@ Abbreviations:
 | CR ⅛ | Snake, flying (swim) (fly) | Tiny | Beast | – | 25 XP | – | MM 322 |
 | CR ⅛ | Snake, poisonous (swim) | Tiny | Beast | – | 25 XP | – | MM 334 |
 | CR ⅛ | Stirge (fly) | Tiny | Beast | – | 25 XP | – | MM 284 |
+|	CR ⅛	|	Valenar hawk (fly)	|	Tiny	|	Fey	|	N	|	25 XP	|	–	|	Eber	312	|
 | CR ⅛ | Weasel, giant | Med. | Beast | – | 25 XP | – | MM 329 |
 | CR ⅛ | Xvart | Small | Hum. | CE | 25 XP | 50 cp | Volo 200 |
 
@@ -106,6 +109,7 @@ Abbreviations:
 | CR ¼ | Demon, dretch | Small | Fiend | CE | 50 XP | – | MM 57 |
 | CR ¼ | Derro | Small | Hum. | CE | 50 XP | 10 sp | Mord 158 |
 | CR ¼ | Dinosaur, dimetrodon (swim) | Med. | Beast | – | 50 XP | – | Volo 139 |
+|	CR ¼	|	Dinosaur, fastieth	|	Med.	|	Beast	|	–	|	50 XP	|	–	|	Eber	289	|
 | CR ¼ | Dinosaur, hadrosaurus | Large | Beast | – | 50 XP | – | Volo 140 |
 | CR ¼ | Dinosaur, pteranodon (fly) | Med. | Beast | – | 50 XP | – | MM 80 |
 | CR ¼ | Dinosaur, velociraptor | Tiny | Beast | – | 50 XP | – | Volo 140 |
@@ -120,6 +124,7 @@ Abbreviations:
 | CR ¼ | Grung (climb) | Small | Hum. | LE | 50 XP | 10 sp | Volo 156 |
 | CR ¼ | Human acolyte (spells) | Med. | Hum. | * | 50 XP | 10 sp | MM 342 |
 | CR ¼ | Human apprentice wizard (spells) | Med. | Hum. | * | 50 XP | 10 sp | Volo 209 |
+|	CR ¼	|	Kalashtar	|	Med.	|	Hum.	|	*	|	50 XP	|	10 sp	|	Eber	317	|
 | CR ¼ | Kenku | Med. | Hum. | CN | 50 XP | 10 sp | MM 194 |
 | CR ¼ | Kobold inventor | Small | Hum. | LE | 50 XP | 10 sp | Volo 166 |
 | CR ¼ | Kobold, winged (fly) | Small | Hum. | LE | 50 XP | 10 sp | MM 195 |
@@ -166,9 +171,11 @@ Abbreviations:
 | CR ½ | Beholder gazer (fly) | Tiny | Aberr. | NE | 100 XP | – | Volo 126 |
 | CR ½ | Blight, vine | Med. | Plant | NE | 100 XP | – | MM 32 |
 | CR ½ | Centipede swarm (climb) | Med. | Beast | – | 100 XP | – | MM 338 |
+|	CR ½	|	Changeling (shapech)	|	Med.	|	Hum.	|	*	|	100 XP	|	20 sp	|	Eber	317	|
 | CR ½ | Chitine (climb) | Small | Monstr. | CE | 100 XP | 20 sp | Volo 131 |
 | CR ½ | Cockatrice (fly) | Small | Monstr. | – | 100 XP | – | MM 42 |
 | CR ½ | Crocodile (swim) | Large | Beast | – | 100 XP | – | MM 320 |
+|	CR ½	|	Daelkyr dolgrim	|	Small	|	Aberr.	|	CE	|	100 XP	|	20 sp	|	Eber	291	|
 | CR ½ | Darkling | Small | Fey | CN | 100 XP | 20 sp | Volo 134 |
 | CR ½ | Darkmantle (fly) | Small | Monstr. | – | 100 XP | – | MM 46 |
 | CR ½ | Devil, nupperibo | Med. | Fiend | LE | 100 XP | – | Mord 168 |
@@ -199,10 +206,13 @@ Abbreviations:
 | CR ½ | Sea horse, giant (swim) | Large | Beast | – | 100 XP | – | MM 328 |
 | CR ½ | Shadow | Med. | Undead | CE | 100 XP | – | MM 269 |
 | CR ½ | Shark, reef (swim) | Med. | Beast | – | 100 XP | – | MM 336 |
+|	CR ½	|	Shifter	|	Med.	|	Hum.	|	*	|	100 XP	|	20 sp	|	Eber	319	|
 | CR ½ | Skeleton, warhorse | Large | Undead | LE | 100 XP | – | MM 273 |
 | CR ½ | Skulk | Med. | Hum. | CN | 100 XP | – | Mord 227 |
 | CR ½ | Spider swarm (climb) | Med. | Beast | – | 100 XP | – | MM 338 |
 | CR ½ | Svirfneblin (spells) | Small | Hum. | NG | 100 XP | 20 sp | MM 164 |
+|	CR ½	|	Valenar hound	|	Med.	|	Fey	|	N	|	100 XP	|	–	|	Eber	312	|
+|	CR ½	|	Valenar steed	|	Large	|	Fey	|	N	|	100 XP	|	–	|	Eber	313	|
 | CR ½ | Warhorse | Large | Beast | – | 100 XP | – | MM 340 |
 | CR ½ | Wasp swarm (fly) | Med. | Beast | – | 100 XP | – | MM 338 |
 | CR ½ | Wasp, giant (fly) | Med. | Beast | – | 100 XP | – | MM 329 |
@@ -222,6 +232,7 @@ Abbreviations:
 | CR 1 | Demon, maw | Med. | Fiend | CE | 200 XP | – | Volo 137 |
 | CR 1 | Demon, quasit (shapech) | Tiny | Fiend | CE | 200 XP | – | MM 63 |
 | CR 1 | Devil, imp (fly) (shapech) | Tiny | Fiend | LE | 200 XP | – | MM 76 |
+|	CR 1	|	Dinosaur, clawfoot	|	Med.	|	Beast	|	–	|	200 XP	|	–	|	Eber	289	|
 | CR 1 | Dinosaur, deinonychus | Med. | Beast | – | 200 XP | – | Volo 139 |
 | CR 1 | Dragon, brass, wyrmling (burrow) (fly) (lair) | Med. | Dragon | CG | 200 XP | – | MM 106 |
 | CR 1 | Dragon, copper, wyrmling (climb) (fly) (lair) | Med. | Dragon | CG | 200 XP | – | MM 112 |
@@ -240,12 +251,14 @@ Abbreviations:
 | CR 1 | Grung wildling (climb) (spells) | Small | Hum. | LE | 200 XP | 40 sp | Volo 157 |
 | CR 1 | Harpy (fly) | Med. | Monstr. | CE | 200 XP | 40 sp | MM 181 |
 | CR 1 | Hippogriff (fly) | Large | Monstr. | – | 200 XP | – | MM 184 |
+|	CR 1	|	Homunculus, iron defender	|	Med.	|	Constr.	|	N	|	200 XP	|	–	|	Eber	293	|
 | CR 1 | Human spy | Med. | Hum. | * | 200 XP | 40 sp | MM 349 |
 | CR 1 | Hyena, giant | Large | Beast | – | 200 XP | – | MM 326 |
 | CR 1 | Kobold dragonshield | Small | Hum. | LE | 200 XP | 40 sp | Volo 165 |
 | CR 1 | Kobold scale sorcerer (spells) | Small | Hum. | LE | 200 XP | 40 sp | Volo 167 |
 | CR 1 | Kuo-toa whip (swim) (spells) | Med. | Hum. | NE | 200 XP | 40 sp | MM 200 |
 | CR 1 | Lion | Large | Beast | – | 200 XP | – | MM 331 |
+|	CR 1	|	Living spell, burning hands (fly)	|	Med.	|	Constr.	|	–	|	200 XP	|	–	|	Eber	298	|
 | CR 1 | Meazel | Med. | Hum. | NE | 200 XP | 40 sp | Mord 214 |
 | CR 1 | Modron quadrone (fly) | Med. | Constr. | LN | 200 XP | – | MM 226 |
 | CR 1 | Myconid spore servant, quaggoth (climb) | Med. | Plant | – | 200 XP | – | MM 230 |
@@ -269,6 +282,7 @@ Abbreviations:
 | CR 1 | Vargouille (fly) | Tiny | Fiend | CE | 200 XP | – | Volo 195 |
 | CR 1 | Vegepygmy thorny | Med. | Plant | N | 200 XP | – | Volo 197 |
 | CR 1 | Vulture, giant (fly) | Large | Beast | NE | 200 XP | – | MM 329 |
+|	CR 1	|	Warforged soldier	|	Med.	|	Hum.	|	*	|	200 XP	|	40 sp	|	Eber	320	|
 | CR 1 | Wolf, dire | Large | Beast | – | 200 XP | – | MM 321 |
 | CR 1 | Xvart warlock of Raxivort (spells) | Small | Hum. | CE | 200 XP | 40 sp | Volo 200 |
 | CR 1 | Yuan-ti pureblood (spells) | Med. | Hum. | NE | 200 XP | 40 sp | MM 310 |
@@ -333,6 +347,7 @@ Abbreviations:
 | CR 2 | Human cultist fanatic (spells) | Med. | Hum. | E | 450 XP | 80 sp | MM 345 |
 | CR 2 | Human druid (spells) | Med. | Hum. | * | 450 XP | 80 sp | MM 346 |
 | CR 2 | Human priest (spells) | Med. | Hum. | * | 450 XP | 80 sp | MM 348 |
+|	CR 2	|	Human Tarkanan assassin (spells)	|	Med.	|	Hum.	|	E	|	450 XP	|	80 sp	|	Eber	320	|
 | CR 2 | Intellect devourer | Tiny | Aberr. | LE | 450 XP | – | MM 191 |
 | CR 2 | Kruthik, adult (climb) (burrow) | Med. | Monstr. | – | 450 XP | – | Mord 212 |
 | CR 2 | Lizardfolk shaman (swim) (spells) (shapech) | Med. | Hum. | N | 450 XP | 80 sp | MM 205 |
@@ -355,6 +370,9 @@ Abbreviations:
 | CR 2 | Pegasus (fly) | Large | Celest. | CG | 450 XP | – | MM 250 |
 | CR 2 | Peryton (fly) | Med. | Monstr. | CE | 450 XP | – | MM 251 |
 | CR 2 | Quaggoth (climb) | Med. | Hum. | CN | 450 XP | 80 sp | MM 256 |
+|	CR 2	|	Quori inspired, hashalaq (spells)	|	Med.	|	Hum.	|	LE	|	450 XP	|	80 sp	|	Eber	294	|
+|	CR 2	|	Quori inspired, kalaraq (spells)	|	Med.	|	Hum.	|	LE	|	450 XP	|	80 sp	|	Eber	294	|
+|	CR 2	|	Quori inspired, tsucora (spells)	|	Med.	|	Hum.	|	LE	|	450 XP	|	80 sp	|	Eber	294	|
 | CR 2 | Rhinoceros | Large | Beast | – | 450 XP | – | MM 336 |
 | CR 2 | Sahuagin priestess (swim) (spells) | Med. | Hum. | LE | 450 XP | 80 sp | MM 264 |
 | CR 2 | Shark, hunter (swim) | Large | Beast | – | 450 XP | – | MM 330 |
@@ -364,6 +382,7 @@ Abbreviations:
 | CR 2 | Specter, poltergeist (fly) | Med. | Undead | CE | 450 XP | – | MM 279 |
 | CR 2 | Tiger, saber-toothed | Large | Beast | – | 450 XP | – | MM 336 |
 | CR 2 | Tortle druid (spells) | Med. | Hum. | LN | 450 XP | 80 sp | Mord 242 |
+|	CR 2	|	Undying soldier	|	Med.	|	Undead	|	NG	|	450 XP	|	80 sp	|	Eber	311	|
 | CR 2 | Vegepygmy chief | Small | Plant | N | 450 XP | 80 sp | Volo 197 |
 | CR 2 | Will-o-wisp (fly) | Tiny | Undead | CE | 450 XP | – | MM 301 |
 | CR 2 | Yuan-ti broodguard | Med. | Hum. | NE | 450 XP | – | Volo 203 |
@@ -379,6 +398,7 @@ Abbreviations:
 | CR 3 | Bugbear chief | Med. | Hum. | CE | 700 XP | 12 gp | MM 33 |
 | CR 3 | Cave fisher (climb) | Med. | Monstr. | – | 700 XP | – | Volo 130 |
 | CR 3 | Chitine choldrith (climb) (spells) | Med. | Monstr. | CE | 700 XP | 12 gp | Volo 132 |
+|	CR 3	|	Daelkyr dolgaunt	|	Med.	|	Aberr.	|	LE	|	700 XP	|	12 gp	|	Eber	290	|
 | CR 3 | Deathlock wight (spells) | Med. | Undead | NE | 700 XP | – | Mord 129 |
 | CR 3 | Deep scion (swim) (shapech) | Med. | Hum. | NE | 700 XP | 12 gp | Volo 135 |
 | CR 3 | Demon, bulezau | Med. | Fiend | CE | 700 XP | 12 gp | Mord 131 |
@@ -404,6 +424,7 @@ Abbreviations:
 | CR 3 | Human martial arts adept | Med. | Hum. | * | 700 XP | 12 gp | Volo 216 |
 | CR 3 | Human swashbuckler | Med. | Hum. | C | 700 XP | 12 gp | Volo 217 |
 | CR 3 | Human veteran | Med. | Hum. | * | 700 XP | 12 gp | MM 350 |
+|	CR 3	|	Karrnathi undead soldier	|	Med.	|	Undead	|	LE	|	700 XP	|	12 gp	|	Eber	295	|
 | CR 3 | Killer whale (swim) | Huge | Beast | – | 700 XP | – | MM 331 |
 | CR 3 | Kuo-toa monitor (swim) | Med. | Hum. | NE | 700 XP | 12 gp | MM 198 |
 | CR 3 | Leucrotta | Large | Monstr. | CE | 700 XP | – | Volo 169 |
@@ -512,16 +533,19 @@ Abbreviations:
 | CR 5 | Half-dragon, green, veteran | Med. | Hum. | * | 1,800 XP | 27 gp | MM 180 |
 | CR 5 | Half-dragon, red, veteran | Med. | Hum. | * | 1,800 XP | 27 gp | MM 180 |
 | CR 5 | Half-dragon, white, veteran | Med. | Hum. | * | 1,800 XP | 27 gp | MM 180 |
+|	CR 5	|	Human bone knight (spells)	|	Med.	|	Hum.	|	E	|	1,800 XP	|	27 gp	|	Eber	316	|
 | CR 5 | Human enchanter (spells) | Med. | Hum. | * | 1,800 XP | 27 gp | Volo 213 |
 | CR 5 | Human gladiator | Med. | Hum. | * | 1,800 XP | 27 gp | MM 346 |
 | CR 5 | Human kraken priest (swim) (spells) | Med. | Hum. | * | 1,800 XP | 27 gp | Volo 215 |
 | CR 5 | Human master thief | Med. | Hum. | * | 1,800 XP | 27 gp | Volo 216 |
 | CR 5 | Human transmuter (spells) | Med. | Hum. | * | 1,800 XP | 27 gp | Volo 218 |
 | CR 5 | Kruthik hive lord (climb) (burrow) | Large | Monstr. | – | 1,800 XP | – | Mord 212 |
+|	CR 5	|	Living spell, lightning bolt (fly)	|	Large	|	Constr.	|	–	|	1,800 XP	|	–	|	Eber	299	|
 | CR 5 | Lycanthrope werebear (climb) (shapech) | Med. | Hum. | NG | 1,800 XP | 27 gp | MM 208 |
 | CR 5 | Oblex, adult (spells) | Med. | Ooze | LE | 1,800 XP | – | Mord 218 |
 | CR 5 | Orc tanarukk | Med. | Fiend | CE | 1,800 XP | 27 gp | Volo 186 |
 | CR 5 | Otyugh | Large | Aberr. | N | 1,800 XP | – | MM 248 |
+|	CR 5	|	Rakshasa zakya (spells)	|	Med.	|	Fiend	|	LE	|	1,800 XP	|	27 gp	|	Eber	309	|
 | CR 5 | Rat, cranium, swarm (spells) | Med. | Beast | LE | 1,800 XP | – | Volo 133 |
 | CR 5 | Remorhaz, young (burrow) | Large | Monstr. | – | 1,800 XP | – | MM 258 |
 | CR 5 | Revenant | Med. | Undead | N | 1,800 XP | 27 gp | MM 259 |
@@ -567,6 +591,7 @@ Abbreviations:
 | CR 6 | Giant, hill, mouth of Grolantor | Huge | Giant | CE | 2,300 XP | 41 gp | Volo 149 |
 | CR 6 | Githzerai zerth (spells) | Med. | Hum. | LN | 2,300 XP | 41 gp | MM 161 |
 | CR 6 | Hag, annis (spells) (coven +2 CR) (lair VGtM 59) | Large | Fey | CE | 2,300 XP | 41 gp | Volo 159 |
+|	CR 6	|	Hag, dusk (spells) (coven +2 CR) (lair VGtM 59)	|	Med.	|	Fey	|	NE	|	2,300 XP	|	41 gp	|	Eber	292	|
 | CR 6 | Hobgoblin warlord | Med. | Hum. | LE | 2,300 XP | 41 gp | MM 187 |
 | CR 6 | Human conjurer (spells) | Med. | Hum. | * | 2,300 XP | 41 gp | Volo 212 |
 | CR 6 | Human mage (spells) | Med. | Hum. | * | 2,300 XP | 41 gp | MM 347 |
@@ -601,7 +626,9 @@ Abbreviations:
 | CR 7 | Human warlock of the fiend (spells) | Med. | Hum. | * | 2,900 XP | 61 gp | Volo 219 |
 | CR 7 | Illithid (spells) | Med. | Aberr. | LE | 2,900 XP | 61 gp | MM 222 |
 | CR 7 | Korred (burrow) (spells) | Small | Fey | CN | 2,900 XP | 61 gp | Volo 168 |
+|	CR 7	|	Living spell, cloudkill (fly)	|	Large	|	Constr.	|	–	|	2,900 XP	|	–	|	Eber	299	|
 | CR 7 | Oni (fly) (spells) (shapech) | Large | Giant | LE | 2,900 XP | 61 gp | MM 239 |
+|	CR 7	|	Quori tsucora (spells)	|	Med.	|	Aberr.	|	LE	|	2,900 XP	|	–	|	Eber	307	|
 | CR 7 | Shadar-kai shadow dancer | Med. | Hum. | N | 2,900 XP | 61 gp | Mord 225 |
 | CR 7 | Shield guardian (spells) | Large | Constr. | – | 2,900 XP | – | MM 271 |
 | CR 7 | Slaad, blue | Large | Aberr. | CN | 2,900 XP | 61 gp | MM 276 |
@@ -636,6 +663,7 @@ Abbreviations:
 | CR 8 | Illithid arcanist (spells) | Med. | Aberr. | LE | 3,900 XP | 91 gp | MM 222 |
 | CR 8 | Naga, spirit (spells) | Large | Monstr. | CE | 3,900 XP | – | MM 234 |
 | CR 8 | Slaad, green (spells) (shapech) | Large | Aberr. | CN | 3,900 XP | 91 gp | MM 277 |
+|	CR 8	|	Warforged titan	|	Huge	|	Constr.	|	LN	|	3,900 XP	|	–	|	Eber	315	|
 | CR 8 | Wraith, sword commander | Med. | Undead | LE | 3,900 XP | – | Mord 241 |
 | CR 8 | Yugoloth canoloth | Med. | Fiend | NE | 3,900 XP | – | Mord 247 |
 
@@ -661,6 +689,7 @@ Abbreviations:
 | CR 9 | Human necromancer (spells) | Med. | Hum. | * | 5,000 XP | 14 pp | Volo 217 |
 | CR 9 | Human war priest (spells) | Med. | Hum. | * | 5,000 XP | 14 pp | Volo 218 |
 | CR 9 | Illithid ulitharid (spells) | Large | Aberr. | LE | 5,000 XP | 14 pp | Volo 175 |
+|	CR 9	|	Quori hashalaq (spells)	|	Med.	|	Aberr.	|	LE	|	5,000 XP	|	–	|	Eber	305	|
 | CR 9 | Salamander, frost (burrow) (climb) | Huge | Elem. | – | 5,000 XP | – | Mord 223 |
 | CR 9 | Shadar-kai gloom weaver (spells) | Med. | Hum. | N | 5,000 XP | 14 pp | Mord 224 |
 | CR 9 | Slaad, gray (spells) (shapech) | Med. | Aberr. | CN | 5,000 XP | 14 pp | MM 277 |
@@ -699,12 +728,14 @@ Abbreviations:
 | CR 10 | Oblex, elder (spells) | Huge | Ooze | LE | 5,900 XP | – | Mord 219 |
 | CR 10 | Slaad, death (spells) (shapech) | Med. | Aberr. | CE | 5,900 XP | 20 pp | MM 278 |
 | CR 10 | Star spawn hulk | Large | Aberr. | CE | 5,900 XP | – | Mord 234 |
+|	CR 10	|	Undying councilor (spells) (legend)	|	Med.	|	Undead	|	NG	|	5,900 XP	|	20 pp	|	Eber	311	|
 
 [^ Back to Top](#monsters-by-challenge-rating)
 
 ## Challenge Rating 11
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+|	CR 11	|	Angel, radiant idol (spells)	|	Large	|	Celest.	|	LE	|	7,200 XP	|	30 pp	|	Eber	308	|
 | CR 11 | Balhannoth (climb) (legend) (lair) | Large | Aberr. | CE | 7,200 XP | – | Mord 118 |
 | CR 11 | Behir (climb) | Huge | Monstr. | NE | 7,200 XP | – | MM 25 |
 | CR 11 | Demon, alkilith | Med. | Fiend | CE | 7,200 XP | – | Mord 130 |
@@ -802,6 +833,7 @@ Abbreviations:
 | CR 15 | Dragon, green, adult (swim) (fly) (legend) (lair) | Huge | Dragon | LE | 13,000 XP | – | MM 94 |
 | CR 15 | Mummy lord (spells) (legend) (lair +1 CR) | Med. | Undead | LE | 13,000 XP | 140 pp | MM 229 |
 | CR 15 | Purple worm (burrow) | Garg. | Monstr. | – | 13,000 XP | – | MM 255 |
+|	CR 15	|	Rakshasa Mordakhesh (spells) (legend)	|	Med.	|	Fiend	|	LE	|	13,000 XP	|	140 pp	|	Eber	301	|
 | CR 15 | Skull lord (spells) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | Mord 230 |
 | CR 15 | Vampire lord spellcaster (fly) (spells) (shapech) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | MM 297 |
 | CR 15 | Vampire lord warrior (fly) (shapech) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | MM 297 |
@@ -856,6 +888,7 @@ Abbreviations:
 | CR 18 | Dragon, shadow, bronze, adult (swim) (fly) (shapech) (legend) (lair) | Huge | Dragon | LG | 20,000 XP | – | MM 85, 108 |
 | CR 18 | Dragon, shadow, green, adult (swim) (fly) (legend) (lair) | Huge | Dragon | LE | 20,000 XP | – | MM 85, 94 |
 | CR 18 | Drow favored consort (spells) | Med. | Hum. | NE | 20,000 XP | 380 pp | Mord 183 |
+|	CR 18	|	Warforged, Lord of Blades (spells) (legend)	|	Med.	|	Hum.	|	LE	|	20,000 XP	|	380 pp	|	Eber	300	|
 
 [^ Back to Top](#monsters-by-challenge-rating)
 
@@ -867,6 +900,7 @@ Abbreviations:
 | CR 19 | Devil, archdevil, Bael (spells) (legend) | Large | Fiend | LE | 22,000 XP | 490 pp | Mord 170 |
 | CR 19 | Dragon, shadow, blue, adult (burrow) (fly) (legend) (lair) | Huge | Dragon | LE | 22,000 XP | – | MM 85, 91 |
 | CR 19 | Dragon, shadow, silver, adult (fly) (shapech) (legend) (lair) | Huge | Dragon | LG | 22,000 XP | – | MM 85, 117 |
+|	CR 19	|	Quori kalaraq (fly) (spells)	|	Med.	|	Aberr.	|	LE	|	22,000 XP	|	–	|	Eber	306	|
 
 [^ Back to Top](#monsters-by-challenge-rating)
 
@@ -902,11 +936,13 @@ Abbreviations:
 ## Challenge Rating 22
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+|	CR 22	|	Daelkyr, lord, Belashyrra (fly) (legend) (lair)	|	Med.	|	Aberr.	|	CE	|	41,000 XP	|	840 pp	|	Eber	286	|
 | CR 22 | Devil, archdevil, Geryon (fly) (spells) (legend) | Huge | Fiend | LE | 41,000 XP | 840 pp | Mord 173 |
 | CR 22 | Dracolich, black, ancient (swim) (fly) (legend) (lair) | Garg. | Undead | CE | 41,000 XP | – | MM 84, 87 |
 | CR 22 | Dragon, bronze, ancient (swim) (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 41,000 XP | – | MM 107 |
 | CR 22 | Dragon, green, ancient (swim) (fly) (legend) (lair) | Garg. | Dragon | LE | 41,000 XP | – | MM 93 |
 | CR 22 | Illithid lich (spells) (legend) | Med. | Undead | E | 41,000 XP | 840 pp | Volo 172 |
+|	CR 22	|	Lich, Lady Illmarrow (fly) (spells) (legend)	|	Med.	|	Undead	|	NE	|	41,000 XP	|	840 pp	|	Eber	297	|
 | CR 22 | Zaratan (swim) (legend) | Garg. | Elem. | N | 41,000 XP | – | Mord 201 |
 
 [^ Back to Top](#monsters-by-challenge-rating)
@@ -932,6 +968,7 @@ Abbreviations:
 ## Challenge Rating 24
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+|	CR 24	|	Daelkyr, lord, Dyrrn (fly) (legend) (lair)	|	Med.	|	Aberr.	|	CE	|	62,000 XP	|	970 pp	|	Eber	288	|
 | CR 24 | Demon, lord, Graz'zt (spells) (legend) (lair) | Large | Fiend | CE | 62,000 XP | 970 pp | Mord 149 |
 | CR 24 | Demon, lord, Yeenoghu (spells) (legend) (lair) | Huge | Fiend | CE | 62,000 XP | 970 pp | Mord 155 |
 | CR 24 | Dracolich, blue, ancient (burrow) (fly) (legend) (lair) | Garg. | Undead | LE | 62,000 XP | – | MM 84, 90 |
@@ -949,6 +986,7 @@ Abbreviations:
 | CR 25 | Dragon, shadow, bronze, ancient (swim) (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 75,000 XP | – | MM 85, 107 |
 | CR 25 | Dragon, shadow, green, ancient (swim) (fly) (legend) (lair) | Garg. | Dragon | LE | 75,000 XP | – | MM 85, 93 |
 | CR 25 | Inevitable, marut (fly) (spells) (legend) | Large | Constr. | LN | 75,000 XP | – | Mord 213 |
+|	CR 25	|	Warforged colossus	|	Garg.	|	Constr.	|	–	|	75,000 XP	|	–	|	Eber	314	|
 
 [^ Back to Top](#monsters-by-challenge-rating)
 
@@ -963,17 +1001,13 @@ Abbreviations:
 
 [^ Back to Top](#monsters-by-challenge-rating)
 
-## Challenge Rating 27
+## Challenge Rating 27+
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 27 | Dragon, shadow, gold, ancient (swim) (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 105,000 XP | – | MM 85, 113 |
 | CR 27 | Dragon, shadow, red, ancient (climb) (fly) (legend) (lair) | Garg. | Dragon | CE | 105,000 XP | – | MM 85, 97 |
-
-[^ Back to Top](#monsters-by-challenge-rating)
-
-## Challenge Rating 28+
-| CR    | Name | Size | Type | Align | XP   | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+|	CR 28	|	Overlord, Rak Tulkhesh (climb) (fly) (spells) (shapech) (legend)	|	Huge	|	Fiend	|	NE	|	120,000 XP	|	1,200 pp	|	Eber	303	|
+|	CR 28	|	Overlord, Sul Khatesh (fly) (spells) (shapech) (legend)	|	Large	|	Fiend	|	LE	|	120,000 XP	|	1,200 pp	|	Eber	304	|
 | CR 30 | Tarrasque (legend) | Garg. | Monstr. | – | 155,000 XP | – | MM 286 |
 
 [^ Back to Top](#monsters-by-challenge-rating)

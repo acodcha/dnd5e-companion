@@ -871,8 +871,8 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 11 | Sphinx, gynosphinx (fly) (spells) (legend) (lair) | Large | Monstr. | LN | 7,200 XP | 30 pp | MM 282 |
 | CR 17 | Nagpa (spells) | Med. | Hum. | NE | 18,000 XP | 280 pp | Mord 215 |
 | CR 17 | Sphinx, androsphinx (fly) (spells) (legend) (lair) | Large | Monstr. | LN | 18,000 XP | 280 pp | MM 281 |
-| CR 22 | Daelkyr lord, Belashyrra (fly) (legend) (lair) | Med. | Aberr. | CE | 41,000 XP | 840 pp | Eber 286 |
-| CR 24 | Daelkyr lord, Dyrrn (fly) (legend) (lair) | Med. | Aberr. | CE | 62,000 XP | 970 pp | Eber 288 |
+| CR 22 | Daelkyr, lord, Belashyrra (fly) (legend) (lair) | Med. | Aberr. | CE | 41,000 XP | 840 pp | Eber 286 |
+| CR 24 | Daelkyr, lord, Dyrrn (fly) (legend) (lair) | Med. | Aberr. | CE | 62,000 XP | 970 pp | Eber 288 |
 
 [^ Back to Ruins](#ruins)
 
@@ -1042,7 +1042,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 8 | Warforged titan | Huge | Constr. | LN | 3,900 XP | – | Eber 315 |
 | CR 12 | Eidolon, sacred statue | Large | Constr. | * | 8,400 XP | – | Mord 194 |
 | CR 12 | Eidolon, true form (fly) | Med. | Undead | * | 8,400 XP | – | Mord 194 |
-| CR 18 | Warforged Lord of Blades (spells) (legend) | Med. | Hum. | LE | 20,000 XP | 380 pp | Eber 300 |
+| CR 18 | Warforged, Lord of Blades (spells) (legend) | Med. | Hum. | LE | 20,000 XP | 380 pp | Eber 300 |
 | CR 25 | Warforged colossus | Garg. | Constr. | – | 75,000 XP | – | Eber 314 |
 
 [^ Back to Constructs](#constructs)
@@ -1352,7 +1352,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 12 | Yugoloth oinoloth (spells) | Med. | Fiend | NE | 8,400 XP | 44 pp | Mord 251 |
 | CR 13 | Rakshasa (spells) | Med. | Fiend | LE | 10,000 XP | 64 pp | MM 257 |
 | CR 13 | Yugoloth ultroloth (fly) (spells) | Med. | Fiend | NE | 10,000 XP | 64 pp | MM 314 |
-| CR 15 | Rakshasa Mordakhesh (spells) (legend) | Med. | Fiend | LE | 13,000 XP | 140 pp | Eber 301 |
+| CR 15 | Rakshasa, Mordakhesh (spells) (legend) | Med. | Fiend | LE | 13,000 XP | 140 pp | Eber 301 |
 | CR 28 | Overlord, Rak Tulkhesh (climb) (fly) (spells) (shapech) (legend) | Huge | Fiend | NE | 120,000 XP | 1,200 pp | Eber 303 |
 | CR 28 | Overlord, Sul Khatesh (fly) (spells) (shapech) (legend) | Large | Fiend | LE | 120,000 XP | 1,200 pp | Eber 304 |
 
