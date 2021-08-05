@@ -120,6 +120,11 @@ The following table lists the range of possible heights and weights for each rac
 ## Wild Shape and Polymorph Beasts
 The following table lists all beasts. The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
 
+Abbreviations:
+* Eber: *Eberron: Rising from the Last War*
+* MM: *Monster Manual*
+* Volo: *Volo's Guide to Monsters*
+
 | CR    | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR 0 | Baboon (climb) | Small | MM 318 |
@@ -167,6 +172,7 @@ The following table lists all beasts. The druid's Wild Shape feature and the Pol
 | CR ¼ | Centipede, giant (climb) | Small | MM 323 |
 | CR ¼ | Cow | Large | Volo 207 |
 | CR ¼ | Dinosaur, dimetrodon (swim) | Med. | Volo 139 |
+| CR ¼ | Dinosaur, fastieth | Med. | Eber 289 |
 | CR ¼ | Dinosaur, hadrosaurus | Large | Volo 140 |
 | CR ¼ | Dinosaur, pteranodon (fly) | Med. | MM 80 |
 | CR ¼ | Dinosaur, velociraptor | Tiny | Volo 140 |
@@ -200,6 +206,7 @@ The following table lists all beasts. The druid's Wild Shape feature and the Pol
 | CR ½ | Wasp swarm (fly) | Med. | MM 338 |
 | CR ½ | Wasp, giant (fly) | Med. | MM 329 |
 | CR 1 | Bear, brown (climb) | Large | MM 319 |
+| CR 1 | Dinosaur, clawfoot | Med. | Eber 289 |
 | CR 1 | Dinosaur, deinonychus | Med. | Volo 139 |
 | CR 1 | Eagle, giant (fly) | Large | MM 324 |
 | CR 1 | Hyena, giant | Large | MM 326 |
