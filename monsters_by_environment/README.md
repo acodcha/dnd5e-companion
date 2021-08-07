@@ -1009,6 +1009,7 @@ Elves use the same stat blocks as humans, with the following changes:
 ### Constructs: Instinctive
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| CR 0 | Homunculus (fly) | Tiny | Constr. | N | 10 XP | – | MM 188 |
 | CR ⅛ | Homunculus, expeditious messenger (fly) | Tiny | Constr. | N | 25 XP | – | Eber 293 |
 | CR ¼ | Animated sword, flying (fly) | Small | Constr. | – | 50 XP | – | MM 20 |
 | CR 1 | Animated armor | Med. | Constr. | – | 200 XP | – | MM 19 |
@@ -1034,7 +1035,6 @@ Elves use the same stat blocks as humans, with the following changes:
 ### Constructs: Sentient
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 0 | Homunculus (fly) | Tiny | Constr. | N | 10 XP | – | MM 188 |
 | CR 1 | Scarecrow | Med. | Constr. | CE | 200 XP | – | MM 268 |
 | CR 1 | Warforged soldier | Med. | Hum. | * | 200 XP | 40 sp | Eber 320 |
 | CR 4 | Helmed horror (fly) | Med. | Constr. | N | 1,100 XP | – | MM 183 |
