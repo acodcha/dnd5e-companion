@@ -349,6 +349,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ¼ | Spider, wolf, giant (climb) | Med. | Beast | – | 50 XP | – | MM 330 |
 | CR ½ | Ape (climb) | Med. | Beast | – | 100 XP | – | MM 317 |
 | CR ½ | Bear, black (climb) | Med. | Beast | – | 100 XP | – | MM 318 |
+| CR ½ | Insect swarm (climb) | Med. | Beast | – | 100 XP | – | MM 338 |
 | CR ½ | Spider swarm (climb) | Med. | Beast | – | 100 XP | – | MM 338 |
 | CR 1 | Spider, giant (climb) | Large | Beast | – | 200 XP | – | MM 328 |
 | CR 1 | Tiger | Large | Beast | – | 200 XP | – | MM 339 |
@@ -789,6 +790,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Monsters](#ruins-monsters)
 * [Lycanthropes](#ruins-lycanthropes)
 * [Star Spawn](#ruins-star-spawn)
+* [Quori](#ruins-quori)
 * [Peoples](#ruins-peoples)
 
 [^ Back to Top](#monsters-by-environment)
