@@ -30,7 +30,7 @@ Abbreviations:
 * [Dwarves](#common-dwarves)
 * [Elves](#common-elves)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Common: Humans
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -111,7 +111,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Peoples](#arctic-peoples)
 * [White Dragons](#arctic-white-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Arctic: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -159,7 +159,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Monsters](#oceans-monsters)
 * [Peoples](#oceans-peoples)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Oceans: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -202,7 +202,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Peoples](#coastal-peoples)
 * [Bronze Dragons](#coastal-bronze-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Coastal: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -254,7 +254,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Peoples](#swamps-peoples)
 * [Black Dragons](#swamps-black-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Swamps: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -332,7 +332,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Faerie Dragons](#forests-faerie-dragons)
 * [Green Dragons](#forests-green-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Forests: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -438,7 +438,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Peoples](#plains-peoples)
 * [Gold Dragons](#plains-gold-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Plains: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -531,7 +531,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Peoples](#hills-peoples)
 * [Copper Dragons](#hills-copper-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Hills: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -622,7 +622,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Red Dragons](#mountains-red-dragons)
 * [Silver Dragons](#mountains-silver-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Mountains: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -722,7 +722,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Blue Dragons](#deserts-blue-dragons)
 * [Brass Dragons](#deserts-brass-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Deserts: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -793,7 +793,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Quori](#ruins-quori)
 * [Peoples](#ruins-peoples)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Ruins: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -886,7 +886,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Beholders](#underground-beholders)
 * [Illithids](#underground-illithids)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Underground: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -1006,7 +1006,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Sentient](#constructs-sentient)
 * [Mechanus](#constructs-mechanus)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Constructs: Instinctive
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -1066,7 +1066,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Ethereal](#undead-ethereal)
 * [Sentient](#undead-sentient)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Undead: Instinctive
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -1130,7 +1130,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Shadow Chromatic Dragons](#shadowfell-shadow-chromatic-dragons)
 * [Shadow Metallic Dragons](#shadowfell-shadow-metallic-dragons)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Shadowfell: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -1228,7 +1228,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Slaadi](#lower-planes-slaadi)
 * [Peoples](#lower-planes-peoples)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Lower Planes: Monsters
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
@@ -1365,7 +1365,7 @@ Elves use the same stat blocks as humans, with the following changes:
 * [Githyanki](#upper-planes-githyanki)
 * [Githzerai](#upper-planes-githzerai)
 
-[^ Back to Top](#monsters-by-environment)
+[^ Back to Top](#monsters-by-category)
 
 ### Upper Planes: Celestials
 | CR    | Name | Size | Type | Align | XP   | Coins | Source |
