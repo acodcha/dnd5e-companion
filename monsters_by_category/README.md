@@ -1,4 +1,4 @@
-# Monsters by Environment
+# Monsters by Category
 * **[Common](#common):** [Humans](#common-humans), [Dwarves](#common-dwarves), [Elves](#common-elves)
 * **[Arctic](#arctic):** [Monsters](#arctic-monsters), [Peoples](#arctic-peoples), [White Dragons](#arctic-white-dragons)
 * **[Oceans](#oceans):** [Monsters](#oceans-monsters), [Peoples](#oceans-peoples)
