@@ -405,8 +405,8 @@
 [^ Back to Actions](#actions)
 
 ### Action: Use an Object
-* You normally interact with an object while doing something else, such as when you draw a sword as part of an attack.
-* When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
+* You can interact with one object or feature of the environment for free, during either your move or your action. For example, you can open a door during your move as you stride toward a foe, or you can draw your weapon as part of the same action you use to attack.
+* If you want to interact with a second object, you need to use your action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
 
 [^ Back to Actions](#actions)
 
