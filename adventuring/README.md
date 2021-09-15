@@ -1,6 +1,6 @@
 # Adventuring
 * **[Abilities](#abilities):** [Strength](#ability-strength), [Strength (Athletics)](#ability-strength-athletics), [Dexterity](#ability-dexterity), [Dexterity (Acrobatics)](#ability-dexterity-acrobatics), [Dexterity (Sleight of Hand)](#ability-dexterity-sleight-of-hand), [Dexterity (Stealth)](#ability-dexterity-stealth), [Constitution](#ability-constitution), [Intelligence](#ability-intelligence), [Intelligence (Arcana)](#ability-intelligence-arcana), [Intelligence (History)](#ability-intelligence-history), [Intelligence (Investigation)](#ability-intelligence-investigation), [Intelligence (Nature)](#ability-intelligence-nature), [Intelligence (Religion)](#ability-intelligence-religion), [Wisdom](#ability-wisdom), [Wisdom (Animal-Handling)](#ability-wisdom-animal-handling), [Wisdom (Insight)](#ability-wisdom-insight), [Wisdom (Medicine)](#ability-wisdom-medicine), [Wisdom (Perception)](#ability-wisdom-perception), [Wisdom (Survival)](#ability-wisdom-survival), [Charisma](#ability-charisma), [Charisma (Deception)](#ability-charisma-deception), [Charisma (Intimidation)](#ability-charisma-intimidation), [Charisma (Performance)](#ability-charisma-performance), [Charisma (Persuasion)](#ability-charisma-persuasion)
-* **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
+* **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 * **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
 * **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
 * **[Spellcasting Services](#spellcasting-services):** [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
@@ -256,6 +256,7 @@
 * [Grapple](#action-grapple)
 * [Help](#action-help)
 * [Hide](#action-hide)
+* [Identify a Spell](#action-identify-a-spell)
 * [Opportunity Attack](#action-opportunity-attack)
 * [Overrun](#action-overrun)
 * [Ready](#action-ready)
@@ -346,6 +347,13 @@
 * An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
 * In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
 * When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score.
+
+[^ Back to Actions](#actions)
+
+### Action: Identify a Spell
+* A character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
+* If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence (Arcana) check with the reaction or action. The DC equals 15 + the spell's level.
+* If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
 
 [^ Back to Actions](#actions)
 
