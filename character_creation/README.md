@@ -7,13 +7,13 @@
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
 ## Wealth
-When creating a character at 2nd level or higher, gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and wealth.
+When creating a character at 2nd level or higher, gain additional starting wealth as per the following table. All wealth values are in platinum pieces (pp). Gain this wealth in addition to your regular 1st level starting equipment and wealth.
 
 | Experience | Level |   Wealth |       | Experience | Level |     Wealth |
 | ---------: | :---: | -------: | :---: | ---------: | :---: | ---------: |
 |       0 XP |  1st  |        – |       |  85,000 XP | 11th  |   + 230 pp |
-|     300 XP |  2nd  |  + 45 gp |       | 100,000 XP | 12th  |   + 360 pp |
-|     900 XP |  3rd  |  + 70 gp |       | 120,000 XP | 13th  |   + 560 pp |
+|     300 XP |  2nd  |  +  5 pp |       | 100,000 XP | 12th  |   + 360 pp |
+|     900 XP |  3rd  |  +  7 pp |       | 120,000 XP | 13th  |   + 560 pp |
 |   2,700 XP |  4th  |  + 11 pp |       | 140,000 XP | 14th  |   + 850 pp |
 |   6,500 XP |  5th  |  + 17 pp |       | 165,000 XP | 15th  | + 1,300 pp |
 |  14,000 XP |  6th  |  + 26 pp |       | 195,000 XP | 16th  | + 1,700 pp |
