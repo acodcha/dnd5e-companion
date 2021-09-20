@@ -67,15 +67,15 @@ Abbreviations:
 | Oil of etherealness | 190 pp | ½ lb | DMG 183 |
 | Potion of superior healing | 200 pp | ½ lb | DMG 187 |
 | Oil of sharpness | 320 pp | ½ lb | DMG 184 |
+| Potion of hill giant strength | 400 pp | ½ lb | DMG 187 |
+| Potion of frost giant strength | 800 pp | ½ lb | DMG 187 |
+| Potion of stone giant strength | 800 pp | ½ lb | DMG 187 |
+| Potion of longevity | 900 pp | ½ lb | DMG 188 |
 | Potion of invulnerability | 1,000 pp | ½ lb | DMG 188 |
+| Potion of fire giant strength | 1,600 pp | ½ lb | DMG 187 |
 | Potion of supreme healing | 2,000 pp | ½ lb | DMG 187 |
-| Potion of cloud giant strength | – | ½ lb | DMG 187 |
-| Potion of fire giant strength | – | ½ lb | DMG 187 |
-| Potion of frost giant strength | – | ½ lb | DMG 187 |
-| Potion of hill giant strength | – | ½ lb | DMG 187 |
-| Potion of longevity | – | ½ lb | DMG 188 |
-| Potion of stone giant strength | – | ½ lb | DMG 187 |
-| Potion of storm giant strength | – | ½ lb | DMG 187 |
+| Potion of cloud giant strength | 3,200 pp | ½ lb | DMG 187 |
+| Potion of storm giant strength | 6,400 pp | ½ lb | DMG 187 |
 
 [^ Back to Top](#consumable-magic-items)
 
@@ -136,16 +136,16 @@ Abbreviations:
 | Quaal's feather token, swan boat | 300 pp | – | DMG 188 |
 | Gem of brightness | 500 pp | – | DMG 171 |
 | Deck of illusions | 610 pp | – | DMG 161 |
+| Manual of flesh golems | 1,000 pp | 3 lb | DMG 180 |
+| Manual of clay golems | 1,300 pp | 3 lb | DMG 180 |
+| Manual of stone golems | 1,600 pp | 3 lb | DMG 180 |
+| Manual of iron golems | 2,000 pp | 3 lb | DMG 180 |
 | Talisman of ultimate evil (attunement evil-aligned) | 6,100 pp | – | DMG 207 |
 | Talisman of pure good (attunement good-aligned) | 7,200 pp | – | DMG 207 |
-| Bag of beans | – | 3 lb | DMG 152 |
-| Candle of invocation (attunement) | – | – | DMG 157 |
-| Deck of many things | – | – | DMG 162 |
-| Efreeti bottle | – | 1 lb | DMG 167 |
-| Manual of clay golems | – | 3 lb | DMG 180 |
-| Manual of flesh golems | – | 3 lb | DMG 180 |
-| Manual of iron golems | – | 3 lb | DMG 180 |
-| Manual of stone golems | – | 3 lb | DMG 180 |
+| Bag of beans | 15,000 pp | 3 lb | DMG 152 |
+| Efreeti bottle | 20,000 pp | 1 lb | DMG 167 |
+| Candle of invocation (attunement) | 30,000 pp | – | DMG 157 |
+| Deck of many things | 70,000 pp | 1 lb | DMG 162 |
 
 [^ Back to Top](#consumable-magic-items)
 
@@ -227,34 +227,34 @@ Abbreviations:
 | Quaal's feather token, bird | 300 pp | – | DMG 188 |
 | Quaal's feather token, swan boat | 300 pp | – | DMG 188 |
 | Oil of sharpness | 320 pp | ½ lb | DMG 184 |
+| Potion of hill giant strength | 400 pp | ½ lb | DMG 187 |
 | Gem of brightness | 500 pp | – | DMG 171 |
 | Spell scroll, 4th level | 500 pp | 1 lb | DMG 200 |
 | Deck of illusions | 610 pp | – | DMG 161 |
 | Spellwrought tattoo, 4th level | 750 pp | – | TCoE 135 |
+| Potion of frost giant strength | 800 pp | ½ lb | DMG 187 |
+| Potion of stone giant strength | 800 pp | ½ lb | DMG 187 |
+| Potion of longevity | 900 pp | ½ lb | DMG 188 |
+| Manual of flesh golems | 1,000 pp | 3 lb | DMG 180 |
 | Potion of invulnerability | 1,000 pp | ½ lb | DMG 188 |
 | Spell scroll, 5th level | 1,000 pp | 1 lb | DMG 200 |
+| Manual of clay golems | 1,300 pp | 3 lb | DMG 180 |
 | Spellwrought tattoo, 5th level | 1,500 pp | – | TCoE 135 |
+| Manual of stone golems | 1,600 pp | 3 lb | DMG 180 |
+| Potion of fire giant strength | 1,600 pp | ½ lb | DMG 187 |
+| Manual of iron golems | 2,000 pp | 3 lb | DMG 180 |
 | Potion of supreme healing | 2,000 pp | ½ lb | DMG 187 |
 | Spell scroll, 6th level | 3,000 pp | 1 lb | DMG 200 |
+| Potion of cloud giant strength | 3,200 pp | ½ lb | DMG 187 |
 | Spell scroll, 7th level | 5,000 pp | 1 lb | DMG 200 |
 | Talisman of ultimate evil (attunement evil-aligned) | 6,100 pp | – | DMG 207 |
+| Potion of storm giant strength | 6,400 pp | ½ lb | DMG 187 |
 | Talisman of pure good (attunement good-aligned) | 7,200 pp | – | DMG 207 |
 | Spell scroll, 8th level | 10,000 pp | 1 lb | DMG 200 |
+| Bag of beans | 15,000 pp | 3 lb | DMG 152 |
+| Efreeti bottle | 20,000 pp | 1 lb | DMG 167 |
+| Candle of invocation (attunement) | 30,000 pp | – | DMG 157 |
 | Spell scroll, 9th level | 50,000 pp | 1 lb | DMG 200 |
-| Bag of beans | – | 3 lb | DMG 152 |
-| Candle of invocation (attunement) | – | – | DMG 157 |
-| Deck of many things | – | – | DMG 162 |
-| Efreeti bottle | – | 1 lb | DMG 167 |
-| Manual of clay golems | – | 3 lb | DMG 180 |
-| Manual of flesh golems | – | 3 lb | DMG 180 |
-| Manual of iron golems | – | 3 lb | DMG 180 |
-| Manual of stone golems | – | 3 lb | DMG 180 |
-| Potion of cloud giant strength | – | ½ lb | DMG 187 |
-| Potion of fire giant strength | – | ½ lb | DMG 187 |
-| Potion of frost giant strength | – | ½ lb | DMG 187 |
-| Potion of hill giant strength | – | ½ lb | DMG 187 |
-| Potion of longevity | – | ½ lb | DMG 188 |
-| Potion of stone giant strength | – | ½ lb | DMG 187 |
-| Potion of storm giant strength | – | ½ lb | DMG 187 |
+| Deck of many things | 70,000 pp | 1 lb | DMG 162 |
 
 [^ Back to Top](#consumable-magic-items)
