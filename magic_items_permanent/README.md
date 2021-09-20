@@ -69,6 +69,7 @@ Abbreviations:
 | Half plate armor, +1 | 230 pp | 40 lb | DMG 152 |
 | Mariner's half plate armor | 230 pp | 40 lb | DMG 181 |
 | Dragon scale mail armor (attunement) | 400 pp | 45 lb | DMG 165 |
+| Elven chain shirt armor | 410 pp | 20 lb | DMG 168 |
 | Hide armor of resistance (attunement) | 600 pp | 12 lb | DMG 152 |
 | Hide armor, +2 | 600 pp | 12 lb | DMG 152 |
 | Breastplate armor of resistance (attunement) | 640 pp | 20 lb | DMG 152 |
@@ -78,8 +79,7 @@ Abbreviations:
 | Breastplate armor, +3 | 2,400 pp | 20 lb | DMG 152 |
 | Hide armor, +3 | 2,400 pp | 12 lb | DMG 152 |
 | Half plate armor, +3 | 2,500 pp | 40 lb | DMG 152 |
-| Efreeti chain mail armor (attunement) | – | 55 lb | DMG 167 |
-| Elven chain shirt armor | – | 20 lb | DMG 168 |
+
 [^ Back to Top](#permanent-magic-items)
 
 ## Heavy Armor
@@ -95,6 +95,7 @@ Abbreviations:
 | Plate armor of resistance (attunement) | 750 pp | 65 lb | DMG 152 |
 | Plate armor, +2 | 750 pp | 65 lb | DMG 152 |
 | Dwarven plate armor | 1,100 pp | 65 lb | DMG 167 |
+| Efreeti chain mail armor (attunement) | 2,000 pp | 55 lb | DMG 167 |
 | Plate armor of invulnerability (attunement) | 2,000 pp | 65 lb | DMG 152 |
 | Plate armor, +3 | 2,600 pp | 65 lb | DMG 152 |
 | Plate armor of etherealness (attunement) | 5,000 pp | 65 lb | DMG 185 |
@@ -122,11 +123,11 @@ Abbreviations:
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Clothes of mending | 10 pp | 3 lb | XGtE 137 |
+| Robe of useful items | 45 pp | 4 lb | DMG 195 |
 | Robe of scintillating colors (attunement) | 600 pp | 4 lb | DMG 194 |
 | Robe of eyes (attunement) | 3,000 pp | 4 lb | DMG 193 |
 | Robe of stars (attunement) | 6,000 pp | 4 lb | DMG 194 |
 | Robe of the archmagi (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 194 |
-| Robe of useful items | – | 4 lb | DMG 195 |
 
 [^ Back to Top](#permanent-magic-items)
 
@@ -144,8 +145,8 @@ Abbreviations:
 | Cape of the mountebank | 800 pp | 1 lb | DMG 157 |
 | Mantle of spell resistance (attunement) | 3,000 pp | 1 lb | DMG 180 |
 | Cloak of displacement (attunement) | 6,000 pp | 1 lb | DMG 158 |
+| Wings of flying (attunement) | 14,000 pp | 1 lb | DMG 214 |
 | Cloak of invisibility (attunement) | – | 1 lb | DMG 158 |
-| Wings of flying (attunement) | – | 1 lb | DMG 214 |
 
 [^ Back to Top](#permanent-magic-items)
 
@@ -172,7 +173,7 @@ Abbreviations:
 | Boots of striding and springing (attunement) | 500 pp | 1 lb | DMG 156 |
 | Slippers of spider climbing (attunement) | 500 pp | – | DMG 200 |
 | Boots of the winterlands (attunement) | 1,000 pp | 1 lb | DMG 156 |
-| Winged boots (attunement) | – | 1 lb | DMG 214 |
+| Winged boots (attunement) | 16,000 pp | 1 lb | DMG 214 |
 
 [^ Back to Top](#permanent-magic-items)
 
@@ -206,8 +207,8 @@ Abbreviations:
 | Hat of disguise (attunement) | 500 pp | – | DMG 173 |
 | Helm of telepathy (attunement) | 1,200 pp | 1 lb | DMG 174 |
 | Helm of teleportation (attunement) | 6,400 pp | 1 lb | DMG 174 |
+| Helm of brilliance (attunement) | 35,000 pp | 1 lb | DMG 173 |
 | Headband of intellect (attunement) | – | – | DMG 173 |
-| Helm of brilliance (attunement) | – | 1 lb | DMG 173 |
 
 [^ Back to Top](#permanent-magic-items)
 
@@ -261,7 +262,7 @@ Abbreviations:
 | Necklace of prayer beads, bead of wind walking (each) | 9,600 pp | – | DMG 182 |
 | Necklace of prayer beads, bead of summons (each) | 13,000 pp | – | DMG 182 |
 | Amulet of the planes (attunement) | 16,000 pp | – | DMG 150 |
-| Ring of three wishes | 150,000 pp | – | DMG 193 |
+| Ring of three wishes | 90,000 pp | – | DMG 193 |
 | Amulet of health (attunement) | – | – | DMG 150 |
 | Ring of air elemental command (attunement) | – | – | DMG 190 |
 | Ring of djinni summoning (attunement) | – | – | DMG 190 |
@@ -326,9 +327,9 @@ Abbreviations:
 | Sword of answering (longsword) (attunement) | 3,600 pp | 3 lb | DMG 206 |
 | Weapon of warning (any weapon) (attunement) | 6,000 pp | (varies) | DMG 213 |
 | Holy avenger (any sword) (attunement paladin) | 17,000 pp | (varies) | DMG 174 |
+| Luck blade (any sword) (attunement) | 60,000 pp | (varies) | DMG 179 |
 | Axe of the dwarvish lords (battleaxe) (artifact) (cursed) (attunement) | – | 4 lb | DMG 221 |
 | Berserker axe (any axe) (cursed) (attunement) | – | (varies) | DMG 155 |
-| Luck blade (any sword) (attunement) | – | (varies) | DMG 179 |
 | Sword of Kas (longsword) (artifact) (attunement) | – | 3 lb | DMG 226 |
 | Sword of vengeance (any sword) (cursed) (attunement) | – | (varies) | DMG 206 |
 
@@ -382,6 +383,7 @@ Abbreviations:
 | Staff of fire (attunement druid/sorcerer/warlock/wizard) | 1,600 pp | 4 lb | DMG 201 |
 | Staff of swarming insects (attunement bard/cleric/druid/sorcerer/warlock/wizard) | 1,600 pp | 4 lb | DMG 203 |
 | Wand of paralysis (attunement spellcaster) | 1,600 pp | 1 lb | DMG 211 |
+| Wand of wonder (attunement spellcaster) | 1,800 pp | 1 lb | DMG 212 |
 | Wand of the war mage, +3 (attunement spellcaster) | 1,900 pp | 1 lb | DMG 212 |
 | Staff of striking (attunement) | 2,100 pp | 4 lb | DMG 203 |
 | Duplicitous manuscript (attunement wizard) | 2,400 pp | 3 lb | TCoE 126 |
@@ -396,6 +398,7 @@ Abbreviations:
 | Wand of lightning bolts (attunement spellcaster) | 3,200 pp | 1 lb | DMG 211 |
 | Wand of polymorph (attunement spellcaster) | 3,200 pp | 1 lb | DMG 211 |
 | Bloodwell vial, +3 (attunement sorcerer) | 3,600 pp | – | TCoE 122 |
+| Rod of resurrection (attunement cleric/druid/paladin) | 4,000 pp | 2 lb | DMG 197 |
 | Staff of the woodlands (attunement druid) | 4,400 pp | 4 lb | DMG 204 |
 | Alchemical compendium (attunement wizard) | 4,900 pp | 3 lb | TCoE 119 |
 | Rod of absorption (attunement) | 5,000 pp | 2 lb | DMG 195 |
@@ -407,12 +410,10 @@ Abbreviations:
 | Planecaller's codex (attunement wizard) | 28,000 pp | 3 lb | TCoE 134 |
 | Astromancy archive (attunement wizard) | 29,000 pp | 3 lb | TCoE 120 |
 | Atlas of endless horizons (attunement wizard) | 33,000 pp | 3 lb | TCoE 120 |
-| Rod of resurrection (attunement cleric/druid/paladin) | – | 2 lb | DMG 197 |
 | Rod of security | – | 2 lb | DMG 197 |
 | Staff of power (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 202 |
 | Staff of the magi (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 203 |
 | Wand of Orcus (artifact) (attunement) | – | 1 lb | DMG 227 |
-| Wand of wonder (attunement spellcaster) | – | 1 lb | DMG 212 |
 
 [^ Back to Top](#permanent-magic-items)
 
@@ -489,10 +490,10 @@ Abbreviations:
 | Gray bag of tricks | 1,700 pp | ½ lb | DMG 154 |
 | Rust bag of tricks | 1,800 pp | ½ lb | DMG 154 |
 | Figurine of wondrous power, ivory goat of terror | 2,000 pp | 1 lb | DMG 169 |
-| Figurine of wondrous power, obsidian steed | 13,000 pp | 1 lb | DMG 170 |
-| Figurine of wondrous power, bronze griffon | – | 1 lb | DMG 169 |
-| Figurine of wondrous power, ebony fly | – | 1 lb | DMG 169 |
-| Figurine of wondrous power, serpentine owl | – | 1 lb | DMG 170 |
+| Figurine of wondrous power, ebony fly | 4,800 pp | 1 lb | DMG 169 |
+| Figurine of wondrous power, serpentine owl | 7,000 pp | 1 lb | DMG 170 |
+| Figurine of wondrous power, bronze griffon | 10,000 pp | 1 lb | DMG 169 |
+| Figurine of wondrous power, obsidian steed | 12,000 pp | 1 lb | DMG 170 |
 
 [^ Back to Top](#permanent-magic-items)
 
@@ -551,23 +552,24 @@ Abbreviations:
 | Ioun stone of mastery (attunement) | 1,500 pp | – | DMG 176 |
 | Cube of force (attunement) | 1,600 pp | – | DMG 159 |
 | Mirror of life trapping | 1,800 pp | 50 lb | DMG 181 |
+| Talisman of the sphere (attunement) | 2,200 pp | – | DMG 207 |
 | Ioun stone of greater absorption (attunement) | 3,100 pp | – | DMG 176 |
 | Gem of seeing (attunement) | 3,200 pp | – | DMG 172 |
 | Scarab of protection (attunement) | 3,600 pp | – | DMG 199 |
+| Daern's instant fortress | 7,500 pp | – | DMG 160 |
 | Decanter of endless water | 14,000 pp | 2 lb | DMG 161 |
+| Broom of flying | 22,000 pp | 3 lb | DMG 156 |
+| Carpet of flying | 25,000 pp | 20 lb | DMG 157 |
 | Baba Yaga's mortar and pestle (artifact) (attunement) | – | 1 lb | TCoE 121 |
 | Bag of devouring (cursed) | – | 15 lb | DMG 153 |
 | Book of exalted deeds (artifact) (attunement good-aligned) | – | 5 lb | DMG 222 |
 | Book of vile darkness (artifact) (attunement) | – | 5 lb | DMG 222 |
-| Broom of flying | – | 3 lb | DMG 156 |
-| Carpet of flying | – | 20 lb | DMG 157 |
 | Crook of Rao (artifact) (attunement) | – | 2 lb | TCoE 123 |
 | Crystal ball (attunement) | – | 3 lb | DMG 159 |
 | Crystal ball of mind reading (attunement) | – | 3 lb | DMG 159 |
 | Crystal ball of telepathy (attunement) | – | 3 lb | DMG 159 |
 | Crystal ball of true seeing (attunement) | – | 3 lb | DMG 159 |
 | Cubic gate | – | 1 lb | DMG 160 |
-| Daern's instant fortress | – | – | DMG 160 |
 | Demonomicon of Iggwilv (artifact) (attunement) | – | 5 lb | TCoE 125 |
 | Eye and hand of Vecna (artifact) (attunement) | – | 1 lb | DMG 224 |
 | Ioun stone of regeneration (attunement) | – | – | DMG 176 |
@@ -579,7 +581,6 @@ Abbreviations:
 | Mighty servant of Leuk-o (artifact) (attunement) | – | 1,000 lb | TCoE 131 |
 | Orb of dragonkind (artifact) (attunement) | – | 3 lb | DMG 225 |
 | Sphere of annihilation | – | – | DMG 201 |
-| Talisman of the sphere (attunement) | – | – | DMG 207 |
 | Teeth of Dahlver-Nar (artifact) (attunement) | – | – | TCoE 135 |
 | Tome of clear thought | – | 5 lb | DMG 208 |
 | Tome of leadership and influence | – | 5 lb | DMG 208 |
@@ -621,6 +622,7 @@ Abbreviations:
 | Vicious weapon (any weapon) | 35 pp | (varies) | DMG 209 |
 | Figurine of wondrous power, ivory goat of travail | 40 pp | 1 lb | DMG 169 |
 | Rope of mending | 40 pp | 10 lb | XGtE 138 |
+| Robe of useful items | 45 pp | 4 lb | DMG 195 |
 | Bell branch (attunement druid/warlock) | 50 pp | 1 lb | TCoE 122 |
 | Boots of false tracks | 50 pp | 1 lb | XGtE 136 |
 | Dark shard amulet (attunement warlock) | 50 pp | 1 lb | XGtE 137 |
@@ -763,6 +765,7 @@ Abbreviations:
 | Rope of entanglement | 400 pp | 3 lb | DMG 197 |
 | Wand of enemy detection (attunement) | 400 pp | 1 lb | DMG 210 |
 | Weapon, +2 (any weapon) | 400 pp | (varies) | DMG 213 |
+| Elven chain shirt armor | 410 pp | 20 lb | DMG 168 |
 | Stone of good luck (attunement) | 420 pp | – | DMG 205 |
 | Wand of the war mage, +2 (attunement spellcaster) | 480 pp | 1 lb | DMG 212 |
 | Boots of striding and springing (attunement) | 500 pp | 1 lb | DMG 156 |
@@ -870,13 +873,16 @@ Abbreviations:
 | Dwarven thrower (warhammer) (attunement dwarf) | 1,800 pp | 2 lb | DMG 167 |
 | Mirror of life trapping | 1,800 pp | 50 lb | DMG 181 |
 | Rust bag of tricks | 1,800 pp | ½ lb | DMG 154 |
+| Wand of wonder (attunement spellcaster) | 1,800 pp | 1 lb | DMG 212 |
 | Wand of the war mage, +3 (attunement spellcaster) | 1,900 pp | 1 lb | DMG 212 |
 | Amulet of proof against detection and location (attunement) | 2,000 pp | – | DMG 150 |
+| Efreeti chain mail armor (attunement) | 2,000 pp | 55 lb | DMG 167 |
 | Figurine of wondrous power, ivory goat of terror | 2,000 pp | 1 lb | DMG 169 |
 | Plate armor of invulnerability (attunement) | 2,000 pp | 65 lb | DMG 152 |
 | Ring of free action (attunement) | 2,000 pp | – | DMG 191 |
 | Sentinel shield | 2,000 pp | 6 lb | DMG 199 |
 | Staff of striking (attunement) | 2,100 pp | 4 lb | DMG 203 |
+| Talisman of the sphere (attunement) | 2,200 pp | – | DMG 207 |
 | Breastplate armor, +3 | 2,400 pp | 20 lb | DMG 152 |
 | Defender (any sword) (attunement) | 2,400 pp | (varies) | DMG 164 |
 | Duplicitous manuscript (attunement wizard) | 2,400 pp | 3 lb | TCoE 126 |
@@ -917,7 +923,9 @@ Abbreviations:
 | Bloodwell vial, +3 (attunement sorcerer) | 3,600 pp | – | TCoE 122 |
 | Scarab of protection (attunement) | 3,600 pp | – | DMG 199 |
 | Sword of answering (longsword) (attunement) | 3,600 pp | 3 lb | DMG 206 |
+| Rod of resurrection (attunement cleric/druid/paladin) | 4,000 pp | 2 lb | DMG 197 |
 | Staff of the woodlands (attunement druid) | 4,400 pp | 4 lb | DMG 204 |
+| Figurine of wondrous power, ebony fly | 4,800 pp | 1 lb | DMG 169 |
 | Alchemical compendium (attunement wizard) | 4,900 pp | 3 lb | TCoE 119 |
 | Plate armor of etherealness (attunement) | 5,000 pp | 65 lb | DMG 185 |
 | Rod of absorption (attunement) | 5,000 pp | 2 lb | DMG 195 |
@@ -928,21 +936,30 @@ Abbreviations:
 | Robe of stars (attunement) | 6,000 pp | 4 lb | DMG 194 |
 | Weapon of warning (any weapon) (attunement) | 6,000 pp | (varies) | DMG 213 |
 | Helm of teleportation (attunement) | 6,400 pp | 1 lb | DMG 174 |
+| Figurine of wondrous power, serpentine owl | 7,000 pp | 1 lb | DMG 170 |
+| Daern's instant fortress | 7,500 pp | – | DMG 160 |
 | Astral shard (attunement sorcerer) | 8,000 pp | 1 lb | TCoE 120 |
 | Necklace of prayer beads, bead of wind walking (each) | 9,600 pp | – | DMG 182 |
+| Figurine of wondrous power, bronze griffon | 10,000 pp | 1 lb | DMG 169 |
 | Heart weaver's primer (attunement wizard) | 11,000 pp | 3 lb | TCoE 128 |
 | Instrument of the bards, anstruth harp (attunement bard) | 11,000 pp | 2 lb | DMG 176 |
-| Figurine of wondrous power, obsidian steed | 13,000 pp | 1 lb | DMG 170 |
+| Figurine of wondrous power, obsidian steed | 12,000 pp | 1 lb | DMG 170 |
 | Instrument of the bards, ollamh harp (attunement bard) | 13,000 pp | 2 lb | DMG 176 |
 | Necklace of prayer beads, bead of summons (each) | 13,000 pp | – | DMG 182 |
 | Decanter of endless water | 14,000 pp | 2 lb | DMG 161 |
+| Wings of flying (attunement) | 14,000 pp | 1 lb | DMG 214 |
 | Elemental essence shard of air (attunement sorcerer) | 15,000 pp | 1 lb | TCoE 127 |
 | Amulet of the planes (attunement) | 16,000 pp | – | DMG 150 |
+| Winged boots (attunement) | 16,000 pp | 1 lb | DMG 214 |
 | Holy avenger (any sword) (attunement paladin) | 17,000 pp | (varies) | DMG 174 |
+| Broom of flying | 22,000 pp | 3 lb | DMG 156 |
+| Carpet of flying | 25,000 pp | 20 lb | DMG 157 |
 | Planecaller's codex (attunement wizard) | 28,000 pp | 3 lb | TCoE 134 |
 | Astromancy archive (attunement wizard) | 29,000 pp | 3 lb | TCoE 120 |
 | Atlas of endless horizons (attunement wizard) | 33,000 pp | 3 lb | TCoE 120 |
-| Ring of three wishes | 150,000 pp | – | DMG 193 |
+| Helm of brilliance (attunement) | 35,000 pp | 1 lb | DMG 173 |
+| Luck blade (any sword) (attunement) | 60,000 pp | (varies) | DMG 179 |
+| Ring of three wishes | 90,000 pp | – | DMG 193 |
 | Amulet of health (attunement) | – | – | DMG 150 |
 | Axe of the dwarvish lords (battleaxe) (artifact) (cursed) (attunement) | – | 4 lb | DMG 221 |
 | Baba Yaga's mortar and pestle (artifact) (attunement) | – | 1 lb | TCoE 121 |
@@ -958,8 +975,6 @@ Abbreviations:
 | Berserker axe (any axe) (cursed) (attunement) | – | (varies) | DMG 155 |
 | Book of exalted deeds (artifact) (attunement good-aligned) | – | 5 lb | DMG 222 |
 | Book of vile darkness (artifact) (attunement) | – | 5 lb | DMG 222 |
-| Broom of flying | – | 3 lb | DMG 156 |
-| Carpet of flying | – | 20 lb | DMG 157 |
 | Cloak of invisibility (attunement) | – | 1 lb | DMG 158 |
 | Crook of Rao (artifact) (attunement) | – | 2 lb | TCoE 123 |
 | Crystal ball (attunement) | – | 3 lb | DMG 159 |
@@ -967,22 +982,14 @@ Abbreviations:
 | Crystal ball of telepathy (attunement) | – | 3 lb | DMG 159 |
 | Crystal ball of true seeing (attunement) | – | 3 lb | DMG 159 |
 | Cubic gate | – | 1 lb | DMG 160 |
-| Daern's instant fortress | – | – | DMG 160 |
 | Demon plate armor (cursed) (attunement) | – | 65 lb | DMG 165 |
 | Demonomicon of Iggwilv (artifact) (attunement) | – | 5 lb | TCoE 125 |
-| Efreeti chain mail armor (attunement) | – | 55 lb | DMG 167 |
-| Elven chain shirt armor | – | 20 lb | DMG 168 |
 | Eye and hand of Vecna (artifact) (attunement) | – | 1 lb | DMG 224 |
-| Figurine of wondrous power, bronze griffon | – | 1 lb | DMG 169 |
-| Figurine of wondrous power, ebony fly | – | 1 lb | DMG 169 |
-| Figurine of wondrous power, serpentine owl | – | 1 lb | DMG 170 |
 | Gauntlets of ogre power (attunement) | – | – | DMG 171 |
 | Headband of intellect (attunement) | – | – | DMG 173 |
-| Helm of brilliance (attunement) | – | 1 lb | DMG 173 |
 | Ioun stone of regeneration (attunement) | – | – | DMG 176 |
 | Iron flask | – | 1 lb | DMG 178 |
 | Luba's tarokka of souls (artifact) (attunement) | – | – | TCoE 129 |
-| Luck blade (any sword) (attunement) | – | (varies) | DMG 179 |
 | Manual of bodily health | – | 5 lb | DMG 180 |
 | Manual of gainful exercise | – | 5 lb | DMG 180 |
 | Manual of quickness of action | – | 5 lb | DMG 181 |
@@ -995,8 +1002,6 @@ Abbreviations:
 | Ring of regeneration (attunement) | – | – | DMG 191 |
 | Ring of telekinesis (attunement) | – | – | DMG 193 |
 | Robe of the archmagi (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 194 |
-| Robe of useful items | – | 4 lb | DMG 195 |
-| Rod of resurrection (attunement cleric/druid/paladin) | – | 2 lb | DMG 197 |
 | Rod of security | – | 2 lb | DMG 197 |
 | Shield of missile attraction (cursed) (attunement) | – | 6 lb | DMG 200 |
 | Sphere of annihilation | – | – | DMG 201 |
@@ -1004,16 +1009,12 @@ Abbreviations:
 | Staff of the magi (attunement sorcerer/warlock/wizard) | – | 4 lb | DMG 203 |
 | Sword of Kas (longsword) (artifact) (attunement) | – | 3 lb | DMG 226 |
 | Sword of vengeance (any sword) (cursed) (attunement) | – | (varies) | DMG 206 |
-| Talisman of the sphere (attunement) | – | – | DMG 207 |
 | Teeth of Dahlver-Nar (artifact) (attunement) | – | – | TCoE 135 |
 | Tome of clear thought | – | 5 lb | DMG 208 |
 | Tome of leadership and influence | – | 5 lb | DMG 208 |
 | Tome of the stilled tongue (attunement wizard) | – | 5 lb | DMG 208 |
 | Tome of understanding | – | 5 lb | DMG 209 |
 | Wand of Orcus (artifact) (attunement) | – | 1 lb | DMG 227 |
-| Wand of wonder (attunement spellcaster) | – | 1 lb | DMG 212 |
 | Well of many worlds | – | – | DMG 213 |
-| Winged boots (attunement) | – | 1 lb | DMG 214 |
-| Wings of flying (attunement) | – | 1 lb | DMG 214 |
 
 [^ Back to Top](#permanent-magic-items)
