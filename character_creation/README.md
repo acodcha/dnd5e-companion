@@ -1,8 +1,8 @@
 # Character Creation
-* [Wealth](#wealth)
-* [Ability Scores](#ability-scores)
-* [Height and Weight](#height-and-weight)
-* [Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts)
+- [Wealth](#wealth)
+- [Ability Scores](#ability-scores)
+- [Height and Weight](#height-and-weight)
+- [Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
@@ -56,10 +56,10 @@ The following table lists all possible sets of ability scores using the point bu
 
 ## Height and Weight
 The following table lists the range of possible heights and weights for each race. To generate a random height and weight, do the following:
-* Obtain your height modifier by rolling the appropriate dice.
-* Your height is your base height plus your height modifier in inches.
-* Obtain your weight modifier by rolling the appropriate dice and multiplying by your height modifier.
-* Your weight is your base weight plus your weight modifier in pounds.
+- Obtain your height modifier by rolling the appropriate dice.
+- Your height is your base height plus your height modifier in inches.
+- Obtain your weight modifier by rolling the appropriate dice and multiplying by your height modifier.
+- Your weight is your base weight plus your weight modifier in pounds.
 
 | Race | Size | Smallest | Average | Biggest | Base Height | Base Weight | Height Mod. (in) | Weight Mod. (lb) |
 | :--- | :--- | :------- | :------ | :------ | :---------: | :---------: | :--------------: | :--------------: |
@@ -121,9 +121,9 @@ The following table lists the range of possible heights and weights for each rac
 The following table lists all beasts. The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
 
 Abbreviations:
-* Eber: *Eberron: Rising from the Last War*
-* MM: *Monster Manual*
-* Volo: *Volo's Guide to Monsters*
+- Eber: *Eberron: Rising from the Last War*
+- MM: *Monster Manual*
+- Volo: *Volo's Guide to Monsters*
 
 | CR    | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
