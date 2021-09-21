@@ -1,9 +1,9 @@
 # Rewards and Treasure
-* **[Individual Monster Treasure](#individual-monster-treasure)**
-* **[Treasure Hoards](#treasure-hoards)**
-* **[Quest Rewards](#quest-rewards)**
-* **[Gemstones](#gemstones):** [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [10 pp Gemstones](#gemstones-10-pp), [50 pp Gemstones](#gemstones-50-pp), [100 pp Gemstones](#gemstones-100-pp), [500 pp Gemstones](#gemstones-500-pp)
-* **[Art Objects](#art-objects):** [25 gp Art Objects](#art-objects-25-gp), [25 pp Art Objects](#art-objects-25-pp), [75 pp Art Objects](#art-objects-75-pp), [250 pp Art Objects](#art-objects-250-pp), [750 pp Art Objects](#art-objects-750-pp)
+- **[Individual Monster Treasure](#individual-monster-treasure)**
+- **[Treasure Hoards](#treasure-hoards)**
+- **[Quest Rewards](#quest-rewards)**
+- **[Gemstones](#gemstones):** [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [100 gp Gemstones](#gemstones-100-gp), [500 gp Gemstones](#gemstones-500-gp), [1,000 gp Gemstones](#gemstones-1,000-gp), [5,000 gp Gemstones](#gemstones-5,000-gp)
+- **[Art Objects](#art-objects):** [25 gp Art Objects](#art-objects-25-gp), [250 gp Art Objects](#art-objects-250-gp), [750 gp Art Objects](#art-objects-750-gp), [2,500 gp Art Objects](#art-objects-2,500-gp), [7,500 gp Art Objects](#art-objects-7,500-gp)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
@@ -33,49 +33,38 @@ Not all monsters carry coinage on their person, but those that do can be expecte
 [^ Back to Top](#rewards-and-treasure)
 
 ## Treasure Hoards
-The following table lists the contents of treasure hoards. Each treasure hoard typically contains coinage, several gems or art objects, a few consumable magic items, and a permanent magic item.
+The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gems, art objects, consumable magic items, and permanent magic items. Note that all content is **per player**. ½ × means 1 item per 2 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
 
-| Challenge |   Coinage | Gems and Art Objects          | Consumable Magic Items            | Permanent Magic Items             |
-| :-------: | --------: | :---------------------------- | :-------------------------------- | :-------------------------------- |
-|   CR 0    |    160 sp | –                             | –                                 | –                                 |
-|   CR ⅛    |    320 sp | –                             | –                                 | –                                 |
-|   CR ¼    |    640 sp | –                             | –                                 | –                                 |
-|   CR ½    |    130 gp | –                             | –                                 | –                                 |
-|   CR 1    |    180 gp | 3d4 (7) × 10 gp gems          | 2 × 7 pp consumable magic items   | 1 × 50 pp permanent magic item    |
-|   CR 2    |    340 gp | 5d6 (17) × 10 gp gems         | 2 × 14 pp consumable magic items  | 1 × 100 pp permanent magic item   |
-|   CR 3    |    460 gp | 5d4 (12) × 25 gp art objects  | 3 × 22 pp consumable magic items  | 1 × 160 pp permanent magic item   |
-|   CR 4    |    680 gp | 5d6 (17) × 25 gp art objects  | 3 × 31 pp consumable magic items  | 1 × 220 pp permanent magic item   |
-|   CR 5    |    970 gp | 5d4 (12) × 50 gp gems         | 4 × 41 pp consumable magic items  | 1 × 290 pp permanent magic item   |
-|   CR 6    |    140 pp | 5d6 (17) × 50 gp gems         | 4 × 49 pp consumable magic items  | 1 × 350 pp permanent magic item   |
-|   CR 7    |    200 pp | 5d4 (12) × 10 pp gems         | 4 × 59 pp consumable magic items  | 1 × 420 pp permanent magic item   |
-|   CR 8    |    280 pp | 5d6 (17) × 10 pp gems         | 4 × 70 pp consumable magic items  | 1 × 500 pp permanent magic item   |
-|   CR 9    |    400 pp | 4d4 (10) × 25 pp art objects  | 4 × 85 pp consumable magic items  | 1 × 600 pp permanent magic item   |
-|   CR 10   |    540 pp | 6d4 (15) × 25 pp art objects  | 4 × 100 pp consumable magic items | 1 × 720 pp permanent magic item   |
-|   CR 11   |    800 pp | 4d4 (10) × 50 pp gems         | 4 × 120 pp consumable magic items | 1 × 870 pp permanent magic item   |
-|   CR 12   |  1,100 pp | 6d4 (15) × 50 pp gems         | 4 × 130 pp consumable magic items | 1 × 1,000 pp permanent magic item |
-|   CR 13   |  1,500 pp | 6d4 (15) × 75 pp art objects  | 4 × 140 pp consumable magic items | 1 × 1,300 pp permanent magic item |
-|   CR 14   |  2,100 pp | 6d6 (21) × 75 pp art objects  | 4 × 160 pp consumable magic items | 1 × 1,500 pp permanent magic item |
-|   CR 15   |  3,000 pp | 6d6 (21) × 100 pp gems        | 4 × 170 pp consumable magic items | 1 × 1,800 pp permanent magic item |
-|   CR 16   |  4,500 pp | 6d8 (27) × 100 pp gems        | 4 × 190 pp consumable magic items | 1 × 2,200 pp permanent magic item |
-|   CR 17   |  6,300 pp | 6d4 (15) × 250 pp art objects | 4 × 200 pp consumable magic items | 1 × 2,500 pp permanent magic item |
-|   CR 18   |  8,400 pp | 6d6 (21) × 250 pp art objects | 4 × 210 pp consumable magic items | 1 × 2,700 pp permanent magic item |
-|   CR 19   | 11,000 pp | 6d4 (15) × 500 pp gems        | 4 × 220 pp consumable magic items | 1 × 2,900 pp permanent magic item |
-|   CR 20   | 14,000 pp | 5d6 (17) × 500 pp gems        | 4 × 230 pp consumable magic items | 1 × 3,000 pp permanent magic item |
-|   CR 21   | 16,000 pp | 6d4 (15) × 750 pp art objects | 4 × 250 pp consumable magic items | 1 × 3,200 pp permanent magic item |
-|   CR 22   | 19,000 pp | 5d6 (17) × 750 pp art objects | 4 × 260 pp consumable magic items | 1 × 3,300 pp permanent magic item |
-|   CR 23   | 20,000 pp | 6d6 (21) × 750 pp art objects | 4 × 270 pp consumable magic items | 1 × 3,500 pp permanent magic item |
-|   CR 24   | 22,000 pp | 5d8 (22) × 750 pp art objects | 4 × 290 pp consumable magic items | 1 × 3,700 pp permanent magic item |
-|   CR 25   | 24,000 pp | 5d8 (22) × 750 pp art objects | 4 × 300 pp consumable magic items | 1 × 3,900 pp permanent magic item |
-|   CR 26   | 26,000 pp | 5d8 (22) × 750 pp art objects | 4 × 310 pp consumable magic items | 1 × 4,000 pp permanent magic item |
-|   CR 27   | 28,000 pp | 5d8 (22) × 750 pp art objects | 4 × 330 pp consumable magic items | 1 × 4,200 pp permanent magic item |
-|   CR 28   | 30,000 pp | 5d8 (22) × 750 pp art objects | 4 × 350 pp consumable magic items | 1 × 4,500 pp permanent magic item |
-|   CR 29   | 33,000 pp | 5d8 (22) × 750 pp art objects | 4 × 360 pp consumable magic items | 1 × 4,700 pp permanent magic item |
-|   CR 30   | 35,000 pp | 5d8 (22) × 750 pp art objects | 4 × 380 pp consumable magic items | 1 × 4,900 pp permanent magic item |
+| Level  |  Coinage |     Gems     | Art Objects  | Consumable Magic Items | Permanent Magic Items |
+| :---:  | -------: | :----------: | :----------: | :--------------------: | :-------------------: |
+|  1st   |    10 gp |    2 × 10 gp |    1 × 25 gp |     1 × 20 gp |     ½ × 100 gp |
+|  2nd   |    20 gp |    2 × 10 gp |    1 × 25 gp |     1 × 30 gp |     ½ × 140 gp |
+|  3rd   |    38 gp |    2 × 10 gp |    1 × 25 gp |     1 × 40 gp |     ½ × 200 gp |
+|  4th   |    68 gp |    2 × 50 gp |    1 × 25 gp |     1 × 60 gp |     ½ × 270 gp |
+|  5th   |    12 pp |    2 × 50 gp |   1 × 250 gp |     1 × 80 gp |     ½ × 380 gp |
+|  6th   |    19 pp |    2 × 50 gp |   1 × 250 gp |    1 × 110 gp |     ½ × 540 gp |
+|  7th   |    28 pp |    2 × 50 gp |   1 × 250 gp |    1 × 150 gp |     ½ × 750 gp |
+|  8th   |    39 pp |   2 × 100 gp |   1 × 250 gp |    1 × 210 gp |   ½ × 1,100 gp |
+|  9th   |    55 pp |   2 × 100 gp |   1 × 250 gp |    1 × 300 gp |   ½ × 1,500 gp |
+| 10th   |    77 pp |   2 × 100 gp |   1 × 750 gp |    1 × 410 gp |   ½ × 2,100 gp |
+| 11th   |   110 pp |   2 × 100 gp |   1 × 750 gp |    1 × 580 gp |   ½ × 2,900 gp |
+| 12th   |   150 pp |   2 × 100 gp |   1 × 750 gp |    1 × 810 gp |   ½ × 4,000 gp |
+| 13th   |   210 pp |   2 × 500 gp |   1 × 750 gp |  1 × 1,100 gp |   ½ × 5,700 gp |
+| 14th   |   290 pp |   2 × 500 gp |   1 × 750 gp |  1 × 1,600 gp |   ½ × 7,900 gp |
+| 15th   |   410 pp |   2 × 500 gp | 1 × 2,500 gp |  1 × 2,200 gp |  ½ × 11,000 gp |
+| 16th   |   580 pp | 2 × 1,000 gp | 1 × 2,500 gp |  1 × 3,100 gp |  ½ × 16,000 gp |
+| 17th   |   810 pp | 2 × 1,000 gp | 1 × 2,500 gp |  1 × 4,400 gp |  ½ × 22,000 gp |
+| 18th   | 1,100 pp | 2 × 1,000 gp | 1 × 2,500 gp |  1 × 6,100 gp |  ½ × 30,000 gp |
+| 19th   | 1,600 pp | 2 × 1,000 gp | 1 × 2,500 gp |  1 × 8,500 gp |  ½ × 43,000 gp |
+| 20th   | 2,200 pp | 2 × 5,000 gp | 1 × 7,500 gp | 1 × 12,000 gp |  ½ × 60,000 gp |
+| 20th+1 | 3,100 pp | 2 × 5,000 gp | 1 × 7,500 gp | 1 × 17,000 gp |  ½ × 84,000 gp |
+| 20th+2 | 4,300 pp | 2 × 5,000 gp | 1 × 7,500 gp | 1 × 23,000 gp | ½ × 120,000 gp |
+| 20th+3 | 6,100 pp | 2 × 5,000 gp | 1 × 7,500 gp | 1 × 33,000 gp | ½ × 160,000 gp |
 
 [^ Back to Top](#rewards-and-treasure)
 
 ## Quest Rewards
-The following table lists total experience and total coinage awarded to the adventuring party for completing a quest.
+The following table lists total experience and total coinage awarded to the adventuring party for completing a quest. The challenge rating of a quest is generally equal to the challenge rating of the strongest monster encountered during that quest.
 
 | Challenge | Experience | Coinage |       | Challenge | Experience |  Coinage |
 | :-------: | ---------: | ------: | :---: | :-------: | ---------: | -------: |
@@ -100,12 +89,12 @@ The following table lists total experience and total coinage awarded to the adve
 [^ Back to Top](#rewards-and-treasure)
 
 ## Gemstones
-* [10 gp Gemstones](#gemstones-10-gp)
-* [50 gp Gemstones](#gemstones-50-gp)
-* [10 pp Gemstones](#gemstones-10-pp)
-* [50 pp Gemstones](#gemstones-50-pp)
-* [100 pp Gemstones](#gemstones-100-pp)
-* [500 pp Gemstones](#gemstones-500-pp)
+- [10 gp Gemstones](#gemstones-10-gp)
+- [50 gp Gemstones](#gemstones-50-gp)
+- [100 gp Gemstones](#gemstones-100-gp)
+- [500 gp Gemstones](#gemstones-500-gp)
+- [1,000 gp Gemstones](#gemstones-1,000-gp)
+- [5,000 gp Gemstones](#gemstones-5,000-gp)
 
 [^ Back to Top](#rewards-and-treasure)
 
@@ -145,7 +134,7 @@ The following table lists total experience and total coinage awarded to the adve
 
 [^ Back to Gemstones](#gemstones)
 
-### Gemstones: 10 pp
+### Gemstones: 100 gp
 | d10   | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Amber | Transparent watery gold to rich gold |
@@ -161,7 +150,7 @@ The following table lists total experience and total coinage awarded to the adve
 
 [^ Back to Gemstones](#gemstones)
 
-### Gemstones: 50 pp
+### Gemstones: 500 gp
 | d6    | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Alexandrite | Transparent dark green |
@@ -173,7 +162,7 @@ The following table lists total experience and total coinage awarded to the adve
 
 [^ Back to Gemstones](#gemstones)
 
-### Gemstones: 100 pp
+### Gemstones: 1,000 gp
 | d8    | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Black opal | Translucent dark green with black mottling and golden flecks |
@@ -187,7 +176,7 @@ The following table lists total experience and total coinage awarded to the adve
 
 [^ Back to Gemstones](#gemstones)
 
-### Gemstones: 500 pp
+### Gemstones: 5,000 gp
 | d4    | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Black sapphire | Translucent lustrous black with glowing highlights |
@@ -198,11 +187,11 @@ The following table lists total experience and total coinage awarded to the adve
 [^ Back to Gemstones](#gemstones)
 
 ## Art Objects
-* [25 gp Art Objects](#art-objects-25-gp)
-* [25 pp Art Objects](#art-objects-25-pp)
-* [75 pp Art Objects](#art-objects-75-pp)
-* [250 pp Art Objects](#art-objects-250-pp)
-* [750 pp Art Objects](#art-objects-750-pp)
+- [25 gp Art Objects](#art-objects-25-gp)
+- [250 gp Art Objects](#art-objects-250-gp)
+- [750 gp Art Objects](#art-objects-750-gp)
+- [2,500 gp Art Objects](#art-objects-2,500-gp)
+- [7,500 gp Art Objects](#art-objects-7,500-gp)
 
 [^ Back to Top](#rewards-and-treasure)
 
@@ -222,7 +211,7 @@ The following table lists total experience and total coinage awarded to the adve
 
 [^ Back to Art Objects](#art-objects)
 
-## Art Objects: 25 pp
+## Art Objects: 250 gp
 | d10   | Art Object |
 | :---: | :--------- |
 | 1 | Gold ring set with bloodstones |
@@ -238,7 +227,7 @@ The following table lists total experience and total coinage awarded to the adve
 
 [^ Back to Art Objects](#art-objects)
 
-## Art Objects: 75 pp
+## Art Objects: 750 gp
 | d10   | Art Object |
 | :---: | :--------- |
 | 1 | Silver chalice set with moonstones |
@@ -254,7 +243,7 @@ The following table lists total experience and total coinage awarded to the adve
 
 [^ Back to Art Objects](#art-objects)
 
-## Art Objects: 250 pp
+## Art Objects: 2,500 gp
 | d10   | Art Object |
 | :---: | :--------- |
 | 1 | Fine gold chain set with a fire opal |
@@ -270,7 +259,7 @@ The following table lists total experience and total coinage awarded to the adve
 
 [^ Back to Art Objects](#art-objects)
 
-## Art Objects: 750 pp
+## Art Objects: 7,500 gp
 | d8    | Art Object |
 | :---: | :--------- |
 | 1 | Jeweled gold crown |
