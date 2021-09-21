@@ -1,33 +1,33 @@
 # Encounters
-* **[1 Player Character](#1-player-character):** [1 Encounter per Day](#1-player-character-1-encounter-per-day), [2 Encounters per Day](#1-player-character-2-encounters-per-day), [3 Encounters per Day](#1-player-character-3-encounters-per-day), [4 Encounters per Day](#1-player-character-4-encounters-per-day)
-* **[2 Player Characters](#2-player-characters):** [1 Encounter per Day](#2-player-characters-1-encounter-per-day), [2 Encounters per Day](#2-player-characters-2-encounters-per-day), [3 Encounters per Day](#2-player-characters-3-encounters-per-day), [4 Encounters per Day](#2-player-characters-4-encounters-per-day)
-* **[3 Player Characters](#3-player-characters):** [1 Encounter per Day](#3-player-characters-1-encounter-per-day), [2 Encounters per Day](#3-player-characters-2-encounters-per-day), [3 Encounters per Day](#3-player-characters-3-encounters-per-day), [4 Encounters per Day](#3-player-characters-4-encounters-per-day)
-* **[4 Player Characters](#4-player-characters):** [1 Encounter per Day](#4-player-characters-1-encounter-per-day), [2 Encounters per Day](#4-player-characters-2-encounters-per-day), [3 Encounters per Day](#4-player-characters-3-encounters-per-day), [4 Encounters per Day](#4-player-characters-4-encounters-per-day)
-* **[5 Player Characters](#5-player-characters):** [1 Encounter per Day](#5-player-characters-1-encounter-per-day), [2 Encounters per Day](#5-player-characters-2-encounters-per-day), [3 Encounters per Day](#5-player-characters-3-encounters-per-day), [4 Encounters per Day](#5-player-characters-4-encounters-per-day)
-* **[6 Player Characters](#6-player-characters):** [1 Encounter per Day](#6-player-characters-1-encounter-per-day), [2 Encounters per Day](#6-player-characters-2-encounters-per-day), [3 Encounters per Day](#6-player-characters-3-encounters-per-day), [4 Encounters per Day](#6-player-characters-4-encounters-per-day)
-* **[7 Player Characters](#7-player-characters):** [1 Encounter per Day](#7-player-characters-1-encounter-per-day), [2 Encounters per Day](#7-player-characters-2-encounters-per-day), [3 Encounters per Day](#7-player-characters-3-encounters-per-day), [4 Encounters per Day](#7-player-characters-4-encounters-per-day)
-* **[8 Player Characters](#8-player-characters):** [1 Encounter per Day](#8-player-characters-1-encounter-per-day), [2 Encounters per Day](#8-player-characters-2-encounters-per-day), [3 Encounters per Day](#8-player-characters-3-encounters-per-day), [4 Encounters per Day](#8-player-characters-4-encounters-per-day)
-* **[General](#general)**
+- **[1 Player Character](#1-player-character):** [1 Encounter per Day](#1-player-character-1-encounter-per-day), [2 Encounters per Day](#1-player-character-2-encounters-per-day), [3 Encounters per Day](#1-player-character-3-encounters-per-day), [4 Encounters per Day](#1-player-character-4-encounters-per-day)
+- **[2 Player Characters](#2-player-characters):** [1 Encounter per Day](#2-player-characters-1-encounter-per-day), [2 Encounters per Day](#2-player-characters-2-encounters-per-day), [3 Encounters per Day](#2-player-characters-3-encounters-per-day), [4 Encounters per Day](#2-player-characters-4-encounters-per-day)
+- **[3 Player Characters](#3-player-characters):** [1 Encounter per Day](#3-player-characters-1-encounter-per-day), [2 Encounters per Day](#3-player-characters-2-encounters-per-day), [3 Encounters per Day](#3-player-characters-3-encounters-per-day), [4 Encounters per Day](#3-player-characters-4-encounters-per-day)
+- **[4 Player Characters](#4-player-characters):** [1 Encounter per Day](#4-player-characters-1-encounter-per-day), [2 Encounters per Day](#4-player-characters-2-encounters-per-day), [3 Encounters per Day](#4-player-characters-3-encounters-per-day), [4 Encounters per Day](#4-player-characters-4-encounters-per-day)
+- **[5 Player Characters](#5-player-characters):** [1 Encounter per Day](#5-player-characters-1-encounter-per-day), [2 Encounters per Day](#5-player-characters-2-encounters-per-day), [3 Encounters per Day](#5-player-characters-3-encounters-per-day), [4 Encounters per Day](#5-player-characters-4-encounters-per-day)
+- **[6 Player Characters](#6-player-characters):** [1 Encounter per Day](#6-player-characters-1-encounter-per-day), [2 Encounters per Day](#6-player-characters-2-encounters-per-day), [3 Encounters per Day](#6-player-characters-3-encounters-per-day), [4 Encounters per Day](#6-player-characters-4-encounters-per-day)
+- **[7 Player Characters](#7-player-characters):** [1 Encounter per Day](#7-player-characters-1-encounter-per-day), [2 Encounters per Day](#7-player-characters-2-encounters-per-day), [3 Encounters per Day](#7-player-characters-3-encounters-per-day), [4 Encounters per Day](#7-player-characters-4-encounters-per-day)
+- **[8 Player Characters](#8-player-characters):** [1 Encounter per Day](#8-player-characters-1-encounter-per-day), [2 Encounters per Day](#8-player-characters-2-encounters-per-day), [3 Encounters per Day](#8-player-characters-3-encounters-per-day), [4 Encounters per Day](#8-player-characters-4-encounters-per-day)
+- **[General](#general)**
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
 The following tables are used to design combat encounters of appropriate difficulty.
 
 The tables make the following assumptions:
-* Player character builds are reasonably-well optimized (ability scores, race and class features, spells, and so on).
-* The party composition is reasonably-well optimized (damage-dealer, tank, controller, healer, utility, and so on).
-* Player characters are outfitted with level-appropriate equipment and magic items.
-* The terrain and circumstances neither advantage nor disadvantage the players nor the monsters.
+- Player character builds are reasonably-well optimized (ability scores, race and class features, spells, and so on).
+- The party composition is reasonably-well optimized (damage-dealer, tank, controller, healer, utility, and so on).
+- Player characters are outfitted with level-appropriate equipment and magic items.
+- The terrain and circumstances neither advantage nor disadvantage the players nor the monsters.
 
 Otherwise, use easier encounters. Be especially careful with small adventuring parties and with player characters of low level.
 
 As the tables show, it quickly becomes difficult to challenge large adventuring parties. In such cases, consider using many encounters per adventuring day along with the Gritty Realism variant rest rule from the *Dungeon Master's Guide*.
 
 ## 1 Player Character
-* [1 Encounter per Day](#1-player-character-1-encounter-per-day)
-* [2 Encounters per Day](#1-player-character-2-encounters-per-day)
-* [3 Encounters per Day](#1-player-character-3-encounters-per-day)
-* [4 Encounters per Day](#1-player-character-4-encounters-per-day)
+- [1 Encounter per Day](#1-player-character-1-encounter-per-day)
+- [2 Encounters per Day](#1-player-character-2-encounters-per-day)
+- [3 Encounters per Day](#1-player-character-3-encounters-per-day)
+- [4 Encounters per Day](#1-player-character-4-encounters-per-day)
 
 [^ Back to Top](#encounters)
 
@@ -148,10 +148,10 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [^ Back to 1 Player Character](#1-player-character)
 
 ## 2 Player Characters
-* [1 Encounter per Day](#2-player-characters-1-encounter-per-day)
-* [2 Encounters per Day](#2-player-characters-2-encounters-per-day)
-* [3 Encounters per Day](#2-player-characters-3-encounters-per-day)
-* [4 Encounters per Day](#2-player-characters-4-encounters-per-day)
+- [1 Encounter per Day](#2-player-characters-1-encounter-per-day)
+- [2 Encounters per Day](#2-player-characters-2-encounters-per-day)
+- [3 Encounters per Day](#2-player-characters-3-encounters-per-day)
+- [4 Encounters per Day](#2-player-characters-4-encounters-per-day)
 
 [^ Back to Top](#encounters)
 
@@ -272,10 +272,10 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [^ Back to 2 Player Characters](#2-player-characters)
 
 ## 3 Player Characters
-* [1 Encounter per Day](#3-player-characters-1-encounter-per-day)
-* [2 Encounters per Day](#3-player-characters-2-encounters-per-day)
-* [3 Encounters per Day](#3-player-characters-3-encounters-per-day)
-* [4 Encounters per Day](#3-player-characters-4-encounters-per-day)
+- [1 Encounter per Day](#3-player-characters-1-encounter-per-day)
+- [2 Encounters per Day](#3-player-characters-2-encounters-per-day)
+- [3 Encounters per Day](#3-player-characters-3-encounters-per-day)
+- [4 Encounters per Day](#3-player-characters-4-encounters-per-day)
 
 [^ Back to Top](#encounters)
 
@@ -396,10 +396,10 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [^ Back to 3 Player Characters](#3-player-characters)
 
 ## 4 Player Characters
-* [1 Encounter per Day](#4-player-characters-1-encounter-per-day)
-* [2 Encounters per Day](#4-player-characters-2-encounters-per-day)
-* [3 Encounters per Day](#4-player-characters-3-encounters-per-day)
-* [4 Encounters per Day](#4-player-characters-4-encounters-per-day)
+- [1 Encounter per Day](#4-player-characters-1-encounter-per-day)
+- [2 Encounters per Day](#4-player-characters-2-encounters-per-day)
+- [3 Encounters per Day](#4-player-characters-3-encounters-per-day)
+- [4 Encounters per Day](#4-player-characters-4-encounters-per-day)
 
 [^ Back to Top](#encounters)
 
@@ -520,10 +520,10 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [^ Back to 4 Player Characters](#4-player-characters)
 
 ## 5 Player Characters
-* [1 Encounter per Day](#5-player-characters-1-encounter-per-day)
-* [2 Encounters per Day](#5-player-characters-2-encounters-per-day)
-* [3 Encounters per Day](#5-player-characters-3-encounters-per-day)
-* [4 Encounters per Day](#5-player-characters-4-encounters-per-day)
+- [1 Encounter per Day](#5-player-characters-1-encounter-per-day)
+- [2 Encounters per Day](#5-player-characters-2-encounters-per-day)
+- [3 Encounters per Day](#5-player-characters-3-encounters-per-day)
+- [4 Encounters per Day](#5-player-characters-4-encounters-per-day)
 
 [^ Back to Top](#encounters)
 
@@ -644,10 +644,10 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [^ Back to 5 Player Characters](#5-player-characters)
 
 ## 6 Player Characters
-* [1 Encounter per Day](#6-player-characters-1-encounter-per-day)
-* [2 Encounters per Day](#6-player-characters-2-encounters-per-day)
-* [3 Encounters per Day](#6-player-characters-3-encounters-per-day)
-* [4 Encounters per Day](#6-player-characters-4-encounters-per-day)
+- [1 Encounter per Day](#6-player-characters-1-encounter-per-day)
+- [2 Encounters per Day](#6-player-characters-2-encounters-per-day)
+- [3 Encounters per Day](#6-player-characters-3-encounters-per-day)
+- [4 Encounters per Day](#6-player-characters-4-encounters-per-day)
 
 [^ Back to Top](#encounters)
 
@@ -768,10 +768,10 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [^ Back to 6 Player Characters](#6-player-characters)
 
 ## 7 Player Characters
-* [1 Encounter per Day](#7-player-characters-1-encounter-per-day)
-* [2 Encounters per Day](#7-player-characters-2-encounters-per-day)
-* [3 Encounters per Day](#7-player-characters-3-encounters-per-day)
-* [4 Encounters per Day](#7-player-characters-4-encounters-per-day)
+- [1 Encounter per Day](#7-player-characters-1-encounter-per-day)
+- [2 Encounters per Day](#7-player-characters-2-encounters-per-day)
+- [3 Encounters per Day](#7-player-characters-3-encounters-per-day)
+- [4 Encounters per Day](#7-player-characters-4-encounters-per-day)
 
 [^ Back to Top](#encounters)
 
@@ -892,10 +892,10 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [^ Back to 7 Player Characters](#7-player-characters)
 
 ## 8 Player Characters
-* [1 Encounter per Day](#8-player-characters-1-encounter-per-day)
-* [2 Encounters per Day](#8-player-characters-2-encounters-per-day)
-* [3 Encounters per Day](#8-player-characters-3-encounters-per-day)
-* [4 Encounters per Day](#8-player-characters-4-encounters-per-day)
+- [1 Encounter per Day](#8-player-characters-1-encounter-per-day)
+- [2 Encounters per Day](#8-player-characters-2-encounters-per-day)
+- [3 Encounters per Day](#8-player-characters-3-encounters-per-day)
+- [4 Encounters per Day](#8-player-characters-4-encounters-per-day)
 
 [^ Back to Top](#encounters)
 
@@ -1016,8 +1016,8 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [^ Back to 8 Player Characters](#8-player-characters)
 
 ## General
-* [Experience Adjustment Factor](#general-experience-adjustment-factor)
-* [Adjusted Experience per Player Character](#general-adjusted-experience-per-player-character)
+- [Experience Adjustment Factor](#general-experience-adjustment-factor)
+- [Adjusted Experience per Player Character](#general-adjusted-experience-per-player-character)
 
 The following tables are used to design combat encounters containing monsters with different challenge ratings.
 
