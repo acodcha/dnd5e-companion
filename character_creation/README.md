@@ -7,20 +7,20 @@
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
 ## Wealth
-When creating a character at 2nd level or higher, gain additional starting wealth as per the following table. All wealth values are listed in platinum pieces (pp). Gain this wealth in addition to your regular 1st level starting equipment and wealth.
+When creating a character at 2nd level or higher, gain additional starting wealth as per the following table. All wealth values are listed in gold pieces (gp). Gain this wealth in addition to your regular 1st level starting equipment and wealth.
 
-| Experience | Level |   Wealth |       | Experience | Level |     Wealth |
-| ---------: | :---: | -------: | :---: | ---------: | :---: | ---------: |
-|       0 XP |  1st  |        – |       |  85,000 XP | 11th  |   + 230 pp |
-|     300 XP |  2nd  |  +  5 pp |       | 100,000 XP | 12th  |   + 360 pp |
-|     900 XP |  3rd  |  +  7 pp |       | 120,000 XP | 13th  |   + 560 pp |
-|   2,700 XP |  4th  |  + 11 pp |       | 140,000 XP | 14th  |   + 850 pp |
-|   6,500 XP |  5th  |  + 17 pp |       | 165,000 XP | 15th  | + 1,300 pp |
-|  14,000 XP |  6th  |  + 26 pp |       | 195,000 XP | 16th  | + 1,700 pp |
-|  23,000 XP |  7th  |  + 40 pp |       | 225,000 XP | 17th  | + 2,200 pp |
-|  34,000 XP |  8th  |  + 62 pp |       | 265,000 XP | 18th  | + 2,600 pp |
-|  48,000 XP |  9th  |  + 97 pp |       | 305,000 XP | 19th  | + 3,000 pp |
-|  64,000 XP | 10th  | + 150 pp |       | 355,000 XP | 20th  | + 3,200 pp |
+|  Total XP | Level |     Wealth |       |   Total XP | Level |      Wealth |
+|  -------: | :---: |      ----: | :---: |   -------: | :---: |       ----: |
+|      0 XP |  1st  |          – |       |  85,000 XP | 11th  |  + 2,700 gp |
+|    300 XP |  2nd  |    + 50 gp |       | 100,000 XP | 12th  |  + 3,800 gp |
+|    900 XP |  3rd  |    + 95 gp |       | 120,000 XP | 13th  |  + 5,300 gp |
+|  2,700 XP |  4th  |   + 170 gp |       | 140,000 XP | 14th  |  + 7,400 gp |
+|  6,500 XP |  5th  |   + 290 gp |       | 165,000 XP | 15th  | + 10,000 gp |
+| 14,000 XP |  6th  |   + 470 gp |       | 195,000 XP | 16th  | + 14,000 gp |
+| 23,000 XP |  7th  |   + 700 gp |       | 225,000 XP | 17th  | + 20,000 gp |
+| 34,000 XP |  8th  |   + 980 gp |       | 265,000 XP | 18th  | + 28,000 gp |
+| 48,000 XP |  9th  | + 1,400 gp |       | 305,000 XP | 19th  | + 40,000 gp |
+| 64,000 XP | 10th  | + 1,900 gp |       | 355,000 XP | 20th  | + 55,000 gp |
 
 [^ Back to Top](#character-creation)
 
