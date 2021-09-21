@@ -11,6 +11,7 @@
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
 Abbreviations:
+- Eber: *Eberron: Rising from the Last War*
 - MM: *Monster Manual*
 - Mord: *Mordenkainen's Tome of Foes*
 - Volo: *Volo's Guide to Monsters*
