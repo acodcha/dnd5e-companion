@@ -33,7 +33,11 @@ Not all monsters carry coinage on their person, but those that do can be expecte
 [^ Back to Top](#rewards-and-treasure)
 
 ## Treasure Hoards
-The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gems, art objects, consumable magic items, and permanent magic items. Note that all content is **per player**. ½ × means 1 item per 2 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
+The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gems, art objects, consumable magic items, and permanent magic items. Note that all content is listed **per player**. ½ × means 1 item per 2 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
+
+For example, a party of four 1st-level player characters can expect to loot a treasure hoard containing 40 gp, 8 × 10 gp gems, 4 × 25 gp art objects, 4 × 20 gp consumable magic items, and 2 × 100 gp permanent magic items during 1st level.
+
+This table assumes that players are able to purchase magic items throughout the campaign using their accumulated wealth; if this is not the case, then treasure hoards should contain additional magic items.
 
 | Level  | Coinage per Player | Gems per Player | Art Objects per Player | Consumable Magic Items per Player | Permanent Magic Items per Player |
 | :---:  | :------: | :----------: | :----------: | :-----------: | :------------: |
