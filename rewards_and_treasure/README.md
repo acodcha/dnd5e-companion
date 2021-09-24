@@ -2,6 +2,7 @@
 - **[Individual Monster Treasure](#individual-monster-treasure)**
 - **[Treasure Hoards](#treasure-hoards)**
 - **[Quest Rewards](#quest-rewards)**
+- **[Minor Rewards](#minor-rewards)**
 - **[Gemstones](#gemstones):** [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [100 gp Gemstones](#gemstones-100-gp), [500 gp Gemstones](#gemstones-500-gp), [1,000 gp Gemstones](#gemstones-1000-gp), [5,000 gp Gemstones](#gemstones-5000-gp)
 - **[Art Objects](#art-objects):** [25 gp Art Objects](#art-objects-25-gp), [250 gp Art Objects](#art-objects-250-gp), [750 gp Art Objects](#art-objects-750-gp), [2,500 gp Art Objects](#art-objects-2500-gp), [7,500 gp Art Objects](#art-objects-7500-gp)
 
@@ -10,25 +11,25 @@
 ## Individual Monster Treasure
 Not all monsters carry coinage on their person, but those that do can be expected to carry the amounts shown in the following table.
 
-| Challenge | Experience | Coinage |       | Challenge | Experience | Coinage  |
+| Challenge | Experience | Coinage || Challenge | Experience | Coinage  |
 | :-------: | ---------: | ------: | :---: | :-------: | ---------: | -------: |
-|   CR 0    |      10 XP |    2 sp |       |   CR 14   |  11,500 XP |    94 pp |
-|   CR ⅛    |      25 XP |    5 sp |       |   CR 15   |  13,000 XP |   140 pp |
-|   CR ¼    |      50 XP |   10 sp |       |   CR 16   |  15,000 XP |   200 pp |
-|   CR ½    |     100 XP |   20 sp |       |   CR 17   |  18,000 XP |   280 pp |
-|   CR 1    |     200 XP |    4 gp |       |   CR 18   |  20,000 XP |   380 pp |
-|   CR 2    |     450 XP |    8 gp |       |   CR 19   |  22,000 XP |   490 pp |
-|   CR 3    |     700 XP |   12 gp |       |   CR 20   |  25,000 XP |   610 pp |
-|   CR 4    |   1,100 XP |   18 gp |       |   CR 21   |  33,000 XP |   730 pp |
-|   CR 5    |   1,800 XP |   27 gp |       |   CR 22   |  41,000 XP |   840 pp |
-|   CR 6    |   2,300 XP |    4 pp |       |   CR 23   |  50,000 XP |   930 pp |
-|   CR 7    |   2,900 XP |    6 pp |       |   CR 24   |  62,000 XP |   970 pp |
-|   CR 8    |   3,900 XP |    9 pp |       |   CR 25   |  75,000 XP | 1,000 pp |
-|   CR 9    |   5,000 XP |   14 pp |       |   CR 26   |  90,000 XP | 1,100 pp |
-|   CR 10   |   5,900 XP |   20 pp |       |   CR 27   | 105,000 XP | 1,100 pp |
-|   CR 11   |   7,200 XP |   30 pp |       |   CR 28   | 120,000 XP | 1,200 pp |
-|   CR 12   |   8,400 XP |   44 pp |       |   CR 29   | 135,000 XP | 1,200 pp |
-|   CR 13   |  10,000 XP |   64 pp |       |   CR 30   | 155,000 XP | 1,300 pp |
+|   CR 0    |      10 XP |    2 sp ||   CR 14   |  11,500 XP |    94 pp |
+|   CR ⅛    |      25 XP |    5 sp ||   CR 15   |  13,000 XP |   140 pp |
+|   CR ¼    |      50 XP |    1 gp ||   CR 16   |  15,000 XP |   200 pp |
+|   CR ½    |     100 XP |    2 gp ||   CR 17   |  18,000 XP |   280 pp |
+|   CR 1    |     200 XP |    4 gp ||   CR 18   |  20,000 XP |   380 pp |
+|   CR 2    |     450 XP |    8 gp ||   CR 19   |  22,000 XP |   490 pp |
+|   CR 3    |     700 XP |   12 gp ||   CR 20   |  25,000 XP |   610 pp |
+|   CR 4    |   1,100 XP |   18 gp ||   CR 21   |  33,000 XP |   730 pp |
+|   CR 5    |   1,800 XP |   27 gp ||   CR 22   |  41,000 XP |   840 pp |
+|   CR 6    |   2,300 XP |    4 pp ||   CR 23   |  50,000 XP |   930 pp |
+|   CR 7    |   2,900 XP |    6 pp ||   CR 24   |  62,000 XP |   970 pp |
+|   CR 8    |   3,900 XP |    9 pp ||   CR 25   |  75,000 XP | 1,000 pp |
+|   CR 9    |   5,000 XP |   14 pp ||   CR 26   |  90,000 XP | 1,100 pp |
+|   CR 10   |   5,900 XP |   20 pp ||   CR 27   | 105,000 XP | 1,100 pp |
+|   CR 11   |   7,200 XP |   30 pp ||   CR 28   | 120,000 XP | 1,200 pp |
+|   CR 12   |   8,400 XP |   44 pp ||   CR 29   | 135,000 XP | 1,200 pp |
+|   CR 13   |  10,000 XP |   64 pp ||   CR 30   | 155,000 XP | 1,300 pp |
 
 [^ Back to Top](#rewards-and-treasure)
 
@@ -68,27 +69,42 @@ This table assumes that players are able to purchase magic items throughout the 
 [^ Back to Top](#rewards-and-treasure)
 
 ## Quest Rewards
-The following table lists total experience and total coinage awarded to the adventuring party for completing a quest. The challenge rating of a quest is generally equal to the challenge rating of the strongest monster encountered during that quest.
+The following table lists experience points and coinage awarded by a patron for completing a quest. Over the course of a campaign, players are expected to receive one quest reward per level from 1st to 20th level.
 
-| Challenge | Experience | Coinage |       | Challenge | Experience |  Coinage |
-| :-------: | ---------: | ------: | :---: | :-------: | ---------: | -------: |
-|   CR 0    |      20 XP |   10 sp |       |   CR 14   |  23,000 XP |   470 pp |
-|   CR ⅛    |      50 XP |   25 sp |       |   CR 15   |  26,000 XP |   680 pp |
-|   CR ¼    |     100 XP |    5 gp |       |   CR 16   |  30,000 XP |   990 pp |
-|   CR ½    |     200 XP |   10 gp |       |   CR 17   |  36,000 XP | 1,400 pp |
-|   CR 1    |     400 XP |   20 gp |       |   CR 18   |  40,000 XP | 1,900 pp |
-|   CR 2    |     900 XP |   40 gp |       |   CR 19   |  44,000 XP | 2,400 pp |
-|   CR 3    |   1,400 XP |    6 pp |       |   CR 20   |  50,000 XP | 3,100 pp |
-|   CR 4    |   2,200 XP |    9 pp |       |   CR 21   |  66,000 XP | 3,700 pp |
-|   CR 5    |   3,600 XP |   14 pp |       |   CR 22   |  82,000 XP | 4,200 pp |
-|   CR 6    |   4,600 XP |   20 pp |       |   CR 23   | 100,000 XP | 4,600 pp |
-|   CR 7    |   5,800 XP |   30 pp |       |   CR 24   | 120,000 XP | 4,900 pp |
-|   CR 8    |   7,800 XP |   46 pp |       |   CR 25   | 150,000 XP | 5,100 pp |
-|   CR 9    |  10,000 XP |   68 pp |       |   CR 26   | 180,000 XP | 5,400 pp |
-|   CR 10   |  12,000 XP |  100 pp |       |   CR 27   | 210,000 XP | 5,600 pp |
-|   CR 11   |  14,000 XP |  150 pp |       |   CR 28   | 240,000 XP | 5,900 pp |
-|   CR 12   |  17,000 XP |  220 pp |       |   CR 29   | 270,000 XP | 6,200 pp |
-|   CR 13   |  20,000 XP |  320 pp |       |   CR 30   | 310,000 XP | 6,500 pp |
+| Level | Experience per Player | Coinage per Player |       | Level | Experience per Player | Coinage per Player |
+| :---: | :-------------------: | :----------------: | :---: | :---: | :-------------------: | :----------------: |
+|  1st  |   100 XP |  5 gp |  |  13th  |  3,700 XP |    80 pp |
+|  2nd  |   200 XP | 10 gp |  |  14th  |  4,500 XP |   120 pp |
+|  3rd  |   360 XP | 15 gp |  |  15th  |  5,400 XP |   170 pp |
+|  4th  |   580 XP | 23 gp |  |  16th  |  6,500 XP |   250 pp |
+|  5th  |   800 XP | 35 gp |  |  17th  |  7,800 XP |   350 pp |
+|  6th  | 1,000 XP |  5 pp |  |  18th  |  9,300 XP |   480 pp |
+|  7th  | 1,200 XP |  8 pp |  |  19th  | 11,000 XP |   600 pp |
+|  8th  | 1,500 XP | 12 pp |  |  20th  | 13,000 XP |   780 pp |
+|  9th  | 1,800 XP | 17 pp |  | 20th+1 | 16,000 XP |   930 pp |
+| 10th  | 2,200 XP | 25 pp |  | 20th+2 | 19,000 XP | 1,100 pp |
+| 11th  | 2,600 XP | 38 pp |  | 20th+3 | 23,000 XP | 1,200 pp |
+| 12th  | 3,100 XP | 55 pp |  |        |           |          |
+
+[^ Back to Top](#rewards-and-treasure)
+
+## Minor Rewards
+The following table lists experience points awarded for achieving progress objectives, accomplishing impressive exploits, gaining useful information, or performing useful deeds during adventures. Over the course of a campaign, players can receive any number of such rewards.
+
+| Level | Experience per Player |       | Level | Experience per Player |
+| :---: | :-------------------: | :---: | :---: | :-------------------: |
+|  1st  |  20 XP |  |  13th  |   750 XP |
+|  2nd  |  40 XP |  |  14th  |   900 XP |
+|  3rd  |  72 XP |  |  15th  | 1,100 XP |
+|  4th  | 110 XP |  |  16th  | 1,300 XP |
+|  5th  | 160 XP |  |  17th  | 1,600 XP |
+|  6th  | 210 XP |  |  18th  | 1,900 XP |
+|  7th  | 250 XP |  |  19th  | 2,200 XP |
+|  8th  | 300 XP |  |  20th  | 2,700 XP |
+|  9th  | 360 XP |  | 20th+1 | 3,000 XP |
+| 10th  | 430 XP |  | 20th+2 | 3,900 XP |
+| 11th  | 520 XP |  | 20th+3 | 4,600 XP |
+| 12th  | 630 XP |  |        |          |
 
 [^ Back to Top](#rewards-and-treasure)
 
