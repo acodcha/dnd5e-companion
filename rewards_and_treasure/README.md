@@ -75,8 +75,8 @@ The following table lists experience points and coinage awarded by a patron for 
 | :---: | :-------------------: | :----------------: | :---: | :---: | :-------------------: | :----------------: |
 |  1st  |   100 XP |  5 gp |  |  13th  |  3,700 XP |    80 pp |
 |  2nd  |   200 XP | 10 gp |  |  14th  |  4,500 XP |   120 pp |
-|  3rd  |   360 XP | 15 gp |  |  15th  |  5,400 XP |   170 pp |
-|  4th  |   580 XP | 23 gp |  |  16th  |  6,500 XP |   250 pp |
+|  3rd  |   400 XP | 15 gp |  |  15th  |  5,400 XP |   170 pp |
+|  4th  |   600 XP | 23 gp |  |  16th  |  6,500 XP |   250 pp |
 |  5th  |   800 XP | 35 gp |  |  17th  |  7,800 XP |   350 pp |
 |  6th  | 1,000 XP |  5 pp |  |  18th  |  9,300 XP |   480 pp |
 |  7th  | 1,200 XP |  8 pp |  |  19th  | 11,000 XP |   600 pp |
@@ -95,7 +95,7 @@ The following table lists experience points awarded for achieving progress objec
 | :---: | :-------------------: | :---: | :---: | :-------------------: |
 |  1st  |  20 XP |  |  13th  |   750 XP |
 |  2nd  |  40 XP |  |  14th  |   900 XP |
-|  3rd  |  72 XP |  |  15th  | 1,100 XP |
+|  3rd  |  70 XP |  |  15th  | 1,100 XP |
 |  4th  | 110 XP |  |  16th  | 1,300 XP |
 |  5th  | 160 XP |  |  17th  | 1,600 XP |
 |  6th  | 210 XP |  |  18th  | 1,900 XP |
