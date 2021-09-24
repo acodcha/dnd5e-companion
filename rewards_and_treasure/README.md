@@ -2,8 +2,8 @@
 - **[Individual Monster Treasure](#individual-monster-treasure)**
 - **[Treasure Hoards](#treasure-hoards)**
 - **[Quest Rewards](#quest-rewards)**
-- **[Gemstones](#gemstones):** [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [100 gp Gemstones](#gemstones-100-gp), [500 gp Gemstones](#gemstones-500-gp), [1,000 gp Gemstones](#gemstones-1,000-gp), [5,000 gp Gemstones](#gemstones-5,000-gp)
-- **[Art Objects](#art-objects):** [25 gp Art Objects](#art-objects-25-gp), [250 gp Art Objects](#art-objects-250-gp), [750 gp Art Objects](#art-objects-750-gp), [2,500 gp Art Objects](#art-objects-2,500-gp), [7,500 gp Art Objects](#art-objects-7,500-gp)
+- **[Gemstones](#gemstones):** [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [100 gp Gemstones](#gemstones-100-gp), [500 gp Gemstones](#gemstones-500-gp), [1,000 gp Gemstones](#gemstones-1000-gp), [5,000 gp Gemstones](#gemstones-5000-gp)
+- **[Art Objects](#art-objects):** [25 gp Art Objects](#art-objects-25-gp), [250 gp Art Objects](#art-objects-250-gp), [750 gp Art Objects](#art-objects-750-gp), [2,500 gp Art Objects](#art-objects-2500-gp), [7,500 gp Art Objects](#art-objects-7500-gp)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
 
@@ -12,18 +12,18 @@ Not all monsters carry coinage on their person, but those that do can be expecte
 
 | Challenge | Experience | Coinage |       | Challenge | Experience | Coinage  |
 | :-------: | ---------: | ------: | :---: | :-------: | ---------: | -------: |
-|   CR 0    |      10 XP |   20 cp |       |   CR 14   |  11,500 XP |    94 pp |
-|   CR ⅛    |      25 XP |   50 cp |       |   CR 15   |  13,000 XP |   140 pp |
+|   CR 0    |      10 XP |    2 sp |       |   CR 14   |  11,500 XP |    94 pp |
+|   CR ⅛    |      25 XP |    5 sp |       |   CR 15   |  13,000 XP |   140 pp |
 |   CR ¼    |      50 XP |   10 sp |       |   CR 16   |  15,000 XP |   200 pp |
 |   CR ½    |     100 XP |   20 sp |       |   CR 17   |  18,000 XP |   280 pp |
-|   CR 1    |     200 XP |   40 sp |       |   CR 18   |  20,000 XP |   380 pp |
-|   CR 2    |     450 XP |   80 sp |       |   CR 19   |  22,000 XP |   490 pp |
+|   CR 1    |     200 XP |    4 gp |       |   CR 18   |  20,000 XP |   380 pp |
+|   CR 2    |     450 XP |    8 gp |       |   CR 19   |  22,000 XP |   490 pp |
 |   CR 3    |     700 XP |   12 gp |       |   CR 20   |  25,000 XP |   610 pp |
 |   CR 4    |   1,100 XP |   18 gp |       |   CR 21   |  33,000 XP |   730 pp |
 |   CR 5    |   1,800 XP |   27 gp |       |   CR 22   |  41,000 XP |   840 pp |
-|   CR 6    |   2,300 XP |   41 gp |       |   CR 23   |  50,000 XP |   930 pp |
-|   CR 7    |   2,900 XP |   61 gp |       |   CR 24   |  62,000 XP |   970 pp |
-|   CR 8    |   3,900 XP |   91 gp |       |   CR 25   |  75,000 XP | 1,000 pp |
+|   CR 6    |   2,300 XP |    4 pp |       |   CR 23   |  50,000 XP |   930 pp |
+|   CR 7    |   2,900 XP |    6 pp |       |   CR 24   |  62,000 XP |   970 pp |
+|   CR 8    |   3,900 XP |    9 pp |       |   CR 25   |  75,000 XP | 1,000 pp |
 |   CR 9    |   5,000 XP |   14 pp |       |   CR 26   |  90,000 XP | 1,100 pp |
 |   CR 10   |   5,900 XP |   20 pp |       |   CR 27   | 105,000 XP | 1,100 pp |
 |   CR 11   |   7,200 XP |   30 pp |       |   CR 28   | 120,000 XP | 1,200 pp |
@@ -44,7 +44,7 @@ This table assumes that players are able to purchase magic items throughout the 
 |  1st   |    10 gp |    2 × 10 gp |    1 × 25 gp |     1 × 20 gp |     ½ × 100 gp |
 |  2nd   |    20 gp |    2 × 10 gp |    1 × 25 gp |     1 × 30 gp |     ½ × 140 gp |
 |  3rd   |    38 gp |    2 × 10 gp |    1 × 25 gp |     1 × 40 gp |     ½ × 200 gp |
-|  4th   |    68 gp |    2 × 50 gp |    1 × 25 gp |     1 × 60 gp |     ½ × 270 gp |
+|  4th   |     7 pp |    2 × 50 gp |    1 × 25 gp |     1 × 60 gp |     ½ × 270 gp |
 |  5th   |    12 pp |    2 × 50 gp |   1 × 250 gp |     1 × 80 gp |     ½ × 380 gp |
 |  6th   |    19 pp |    2 × 50 gp |   1 × 250 gp |    1 × 110 gp |     ½ × 540 gp |
 |  7th   |    28 pp |    2 × 50 gp |   1 × 250 gp |    1 × 150 gp |     ½ × 750 gp |
@@ -74,12 +74,12 @@ The following table lists total experience and total coinage awarded to the adve
 | :-------: | ---------: | ------: | :---: | :-------: | ---------: | -------: |
 |   CR 0    |      20 XP |   10 sp |       |   CR 14   |  23,000 XP |   470 pp |
 |   CR ⅛    |      50 XP |   25 sp |       |   CR 15   |  26,000 XP |   680 pp |
-|   CR ¼    |     100 XP |   50 sp |       |   CR 16   |  30,000 XP |   990 pp |
+|   CR ¼    |     100 XP |    5 gp |       |   CR 16   |  30,000 XP |   990 pp |
 |   CR ½    |     200 XP |   10 gp |       |   CR 17   |  36,000 XP | 1,400 pp |
 |   CR 1    |     400 XP |   20 gp |       |   CR 18   |  40,000 XP | 1,900 pp |
 |   CR 2    |     900 XP |   40 gp |       |   CR 19   |  44,000 XP | 2,400 pp |
-|   CR 3    |   1,400 XP |   60 gp |       |   CR 20   |  50,000 XP | 3,100 pp |
-|   CR 4    |   2,200 XP |   90 gp |       |   CR 21   |  66,000 XP | 3,700 pp |
+|   CR 3    |   1,400 XP |    6 pp |       |   CR 20   |  50,000 XP | 3,100 pp |
+|   CR 4    |   2,200 XP |    9 pp |       |   CR 21   |  66,000 XP | 3,700 pp |
 |   CR 5    |   3,600 XP |   14 pp |       |   CR 22   |  82,000 XP | 4,200 pp |
 |   CR 6    |   4,600 XP |   20 pp |       |   CR 23   | 100,000 XP | 4,600 pp |
 |   CR 7    |   5,800 XP |   30 pp |       |   CR 24   | 120,000 XP | 4,900 pp |
@@ -97,8 +97,8 @@ The following table lists total experience and total coinage awarded to the adve
 - [50 gp Gemstones](#gemstones-50-gp)
 - [100 gp Gemstones](#gemstones-100-gp)
 - [500 gp Gemstones](#gemstones-500-gp)
-- [1,000 gp Gemstones](#gemstones-1,000-gp)
-- [5,000 gp Gemstones](#gemstones-5,000-gp)
+- [1,000 gp Gemstones](#gemstones-1000-gp)
+- [5,000 gp Gemstones](#gemstones-5000-gp)
 
 [^ Back to Top](#rewards-and-treasure)
 
@@ -194,8 +194,8 @@ The following table lists total experience and total coinage awarded to the adve
 - [25 gp Art Objects](#art-objects-25-gp)
 - [250 gp Art Objects](#art-objects-250-gp)
 - [750 gp Art Objects](#art-objects-750-gp)
-- [2,500 gp Art Objects](#art-objects-2,500-gp)
-- [7,500 gp Art Objects](#art-objects-7,500-gp)
+- [2,500 gp Art Objects](#art-objects-2500-gp)
+- [7,500 gp Art Objects](#art-objects-7500-gp)
 
 [^ Back to Top](#rewards-and-treasure)
 
