@@ -122,7 +122,7 @@ Abbreviations:
 ## Clothes
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
-| Clothes of mending | 100 gp | 3 lb | XGtE 137 |
+| Clothes of mending | 100 gp | 4 lb | XGtE 137 |
 | Robe of useful items | 450 gp | 4 lb | DMG 195 |
 | Robe of scintillating colors (attunement) | 6,000 gp | 4 lb | DMG 194 |
 | Robe of eyes (attunement) | 30,000 gp | 4 lb | DMG 193 |
@@ -595,7 +595,7 @@ Abbreviations:
 | :--------- | ----: | -----: | -----: |
 | Candle of the deep | 100 gp | – | XGtE 136 |
 | Cloak of billowing | 100 gp | 1 lb | XGtE 136 |
-| Clothes of mending | 100 gp | 3 lb | XGtE 137 |
+| Clothes of mending | 100 gp | 4 lb | XGtE 137 |
 | Dread helm | 100 gp | 1 lb | XGtE 137 |
 | Pole of angling | 100 gp | 4 lb | XGtE 138 |
 | Pole of collapsing | 100 gp | 2 lb | XGtE 138 |
