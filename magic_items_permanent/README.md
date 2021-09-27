@@ -501,8 +501,8 @@ Abbreviations:
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Candle of the deep | 100 gp | – | XGtE 136 |
-| Pole of angling | 100 gp | 7 lb | XGtE 138 |
-| Pole of collapsing | 100 gp | 7 lb | XGtE 138 |
+| Pole of angling | 100 gp | 4 lb | XGtE 138 |
+| Pole of collapsing | 100 gp | 2 lb | XGtE 138 |
 | Ear horn of hearing | 200 gp | 1 lb | XGtE 137 |
 | Orb of time | 200 gp | 3 lb | XGtE 138 |
 | Pipe of smoke monsters | 200 gp | – | XGtE 138 |
@@ -597,8 +597,8 @@ Abbreviations:
 | Cloak of billowing | 100 gp | 1 lb | XGtE 136 |
 | Clothes of mending | 100 gp | 3 lb | XGtE 137 |
 | Dread helm | 100 gp | 1 lb | XGtE 137 |
-| Pole of angling | 100 gp | 7 lb | XGtE 138 |
-| Pole of collapsing | 100 gp | 7 lb | XGtE 138 |
+| Pole of angling | 100 gp | 4 lb | XGtE 138 |
+| Pole of collapsing | 100 gp | 2 lb | XGtE 138 |
 | Staff of adornment | 100 gp | 4 lb | XGtE 139 |
 | Cloak of many fashions | 200 gp | 1 lb | XGtE 136 |
 | Ear horn of hearing | 200 gp | 1 lb | XGtE 137 |
