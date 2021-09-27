@@ -123,11 +123,13 @@
 
 ### Ability: Intelligence (Arcana)
 * Recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
+* Identify or recall lore about aberrations, celestials, constructs, elementals, or fiends.
 
 [^ Back to Abilities](#abilities)
 
 ### Ability: Intelligence (History)
 * Recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
+* Identify or recall lore about dragons, giants, or humanoids.
 
 [^ Back to Abilities](#abilities)
 
@@ -143,11 +145,13 @@
 
 ### Ability: Intelligence (Nature)
 * Recall lore about terrain, plants and animals, the weather, and natural cycles.
+* Identify or recall lore about beasts, fey, plants, or monstrosities.
 
 [^ Back to Abilities](#abilities)
 
 ### Ability: Intelligence (Religion)
 * Recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
+* Identify or recall lore about oozes or undead.
 
 [^ Back to Abilities](#abilities)
 
