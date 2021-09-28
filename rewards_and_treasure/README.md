@@ -34,37 +34,37 @@ Not all monsters carry coinage on their person, but those that do can be expecte
 [^ Back to Top](#rewards-and-treasure)
 
 ## Treasure Hoards
-The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gems, art objects, consumable magic items, and permanent magic items. Note that all content is listed **per player**. ½ × means 1 item per 2 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
+The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gems, art objects, consumable magic items, and permanent magic items. Note that all content is listed **per player**. ½ × means 1 item per 2 players. ¼ × means 1 item per 4 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
 
-For example, a party of four 1st-level player characters can expect to loot a treasure hoard containing 40 gp, 8 × 10 gp gems, 4 × 25 gp art objects, 4 × 20 gp consumable magic items, and 2 × 100 gp permanent magic items during 1st level.
+For example, a party of four 1st-level player characters can expect to loot a treasure hoard containing a total of 40 gp, 4 × 10 gp gems, 2 × 25 gp art objects, 4 × 40 gp consumable magic items, and 1 × 200 gp permanent magic items during 1st level.
 
-This table assumes that players are able to purchase magic items throughout the campaign using their accumulated wealth; if this is not the case, then treasure hoards should contain additional magic items.
+This table assumes that players are able to purchase magic items throughout the campaign using their accumulated wealth; if this is not the case, then treasure hoards should contain twice as many magic items.
 
-| Level  | Coinage per Player | Gems per Player | Art Objects per Player | Consumable Magic Items per Player | Permanent Magic Items per Player |
-| :---:  | :------: | :----------: | :----------: | :-----------: | :------------: |
-|  1st   |    10 gp |    2 × 10 gp |    1 × 25 gp |     1 × 20 gp |     ½ × 100 gp |
-|  2nd   |    20 gp |    2 × 10 gp |    1 × 25 gp |     1 × 30 gp |     ½ × 140 gp |
-|  3rd   |    38 gp |    2 × 10 gp |    1 × 25 gp |     1 × 40 gp |     ½ × 200 gp |
-|  4th   |     7 pp |    2 × 50 gp |    1 × 25 gp |     1 × 60 gp |     ½ × 270 gp |
-|  5th   |    12 pp |    2 × 50 gp |   1 × 250 gp |     1 × 80 gp |     ½ × 380 gp |
-|  6th   |    19 pp |    2 × 50 gp |   1 × 250 gp |    1 × 110 gp |     ½ × 540 gp |
-|  7th   |    28 pp |    2 × 50 gp |   1 × 250 gp |    1 × 150 gp |     ½ × 750 gp |
-|  8th   |    39 pp |   2 × 100 gp |   1 × 250 gp |    1 × 210 gp |   ½ × 1,100 gp |
-|  9th   |    55 pp |   2 × 100 gp |   1 × 250 gp |    1 × 300 gp |   ½ × 1,500 gp |
-| 10th   |    77 pp |   2 × 100 gp |   1 × 750 gp |    1 × 410 gp |   ½ × 2,100 gp |
-| 11th   |   110 pp |   2 × 100 gp |   1 × 750 gp |    1 × 580 gp |   ½ × 2,900 gp |
-| 12th   |   150 pp |   2 × 100 gp |   1 × 750 gp |    1 × 810 gp |   ½ × 4,000 gp |
-| 13th   |   210 pp |   2 × 500 gp |   1 × 750 gp |  1 × 1,100 gp |   ½ × 5,700 gp |
-| 14th   |   290 pp |   2 × 500 gp |   1 × 750 gp |  1 × 1,600 gp |   ½ × 7,900 gp |
-| 15th   |   410 pp |   2 × 500 gp | 1 × 2,500 gp |  1 × 2,200 gp |  ½ × 11,000 gp |
-| 16th   |   580 pp | 2 × 1,000 gp | 1 × 2,500 gp |  1 × 3,100 gp |  ½ × 16,000 gp |
-| 17th   |   810 pp | 2 × 1,000 gp | 1 × 2,500 gp |  1 × 4,400 gp |  ½ × 22,000 gp |
-| 18th   | 1,100 pp | 2 × 1,000 gp | 1 × 2,500 gp |  1 × 6,100 gp |  ½ × 30,000 gp |
-| 19th   | 1,600 pp | 2 × 1,000 gp | 1 × 2,500 gp |  1 × 8,500 gp |  ½ × 43,000 gp |
-| 20th   | 2,200 pp | 2 × 5,000 gp | 1 × 7,500 gp | 1 × 12,000 gp |  ½ × 60,000 gp |
-| 20th+1 | 3,100 pp | 2 × 5,000 gp | 1 × 7,500 gp | 1 × 17,000 gp |  ½ × 84,000 gp |
-| 20th+2 | 4,300 pp | 2 × 5,000 gp | 1 × 7,500 gp | 1 × 23,000 gp | ½ × 120,000 gp |
-| 20th+3 | 6,100 pp | 2 × 5,000 gp | 1 × 7,500 gp | 1 × 33,000 gp | ½ × 160,000 gp |
+| Level | Coinage per Player | Gems per Player | Art Objects per Player | Consumable Magic Items per Player | Permanent Magic Items per Player |
+| :---: | :----------------: | :-------------: | :--------------------: | :-------------------------------: | :------------------------------: |
+| 1st | 10 gp | 1 × 10 gp | ½ × 25 gp | 1 × 40 gp | ¼ × 200 gp |
+| 2nd | 20 gp | 1 × 10 gp | ½ × 25 gp | 1 × 55 gp | ¼ × 270 gp |
+| 3rd | 40 gp | 1 × 10 gp | ½ × 25 gp | 1 × 75 gp | ¼ × 370 gp |
+| 4th | 70 gp | 1 × 50 gp | ½ × 25 gp | 1 × 100 gp | ¼ × 490 gp |
+| 5th | 12 pp | 1 × 50 gp | ½ × 250 gp | 1 × 130 gp | ¼ × 660 gp |
+| 6th | 19 pp | 1 × 50 gp | ½ × 250 gp | 1 × 180 gp | ¼ × 900 gp |
+| 7th | 28 pp | 1 × 50 gp | ½ × 250 gp | 1 × 240 gp | ¼ × 1,200 gp |
+| 8th | 39 pp | 1 × 100 gp | ½ × 250 gp | 1 × 330 gp | ¼ × 1,600 gp |
+| 9th | 55 pp | 1 × 100 gp | ½ × 250 gp | 1 × 440 gp | ¼ × 2,200 gp |
+| 10th | 77 pp | 1 × 100 gp | ½ × 750 gp | 1 × 600 gp | ¼ × 3,000 gp |
+| 11th | 110 pp | 1 × 100 gp | ½ × 750 gp | 1 × 800 gp | ¼ × 4,000 gp |
+| 12th | 150 pp | 1 × 100 gp | ½ × 750 gp | 1 × 1,100 gp | ¼ × 5,500 gp |
+| 13th | 210 pp | 1 × 500 gp | ½ × 750 gp | 1 × 1,500 gp | ¼ × 7,300 gp |
+| 14th | 290 pp | 1 × 500 gp | ½ × 750 gp | 1 × 2,000 gp | ¼ × 9,900 gp |
+| 15th | 410 pp | 1 × 500 gp | ½ × 2,500 gp | 1 × 2,700 gp | ¼ × 13,000 gp |
+| 16th | 580 pp | 1 × 1,000 gp | ½ × 2,500 gp | 1 × 3,600 gp | ¼ × 18,000 gp |
+| 17th | 810 pp | 1 × 1,000 gp | ½ × 2,500 gp | 1 × 4,900 gp | ¼ × 24,000 gp |
+| 18th | 1,100 pp | 1 × 1,000 gp | ½ × 2,500 gp | 1 × 6,600 gp | ¼ × 33,000 gp |
+| 19th | 1,600 pp | 1 × 1,000 gp | ½ × 2,500 gp | 1 × 8,900 gp | ¼ × 44,000 gp |
+| 20th | 2,200 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 12,000 gp | ¼ × 60,000 gp |
+| 20th+1 | 3,100 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 16,000 gp | ¼ × 81,000 gp |
+| 20th+2 | 4,300 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 22,000 gp | ¼ × 110,000 gp |
+| 20th+3 | 6,100 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 29,000 gp | ¼ × 150,000 gp |
 
 [^ Back to Top](#rewards-and-treasure)
 
