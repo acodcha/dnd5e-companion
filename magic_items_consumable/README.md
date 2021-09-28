@@ -20,7 +20,7 @@ Abbreviations:
 | :--------- | ----: | -----: | -----: |
 | Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
 | Walloping arrow | 20 gp | 1/20 lb | XGtE 139 |
-| Walloping blowgun dart | 20 gp | 1/20 lb | XGtE 139 |
+| Walloping blowgun needle | 20 gp | 1/20 lb | XGtE 139 |
 | Walloping crossbow bolt | 20 gp | 1½/20 lb | XGtE 139 |
 | Walloping sling bullet | 20 gp | 1½/20 lb | XGtE 139 |
 | Arrow, +1 (each) | 30 gp | 1/20 lb | DMG 150 |
@@ -155,7 +155,7 @@ Abbreviations:
 | Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
 | Bead of refreshment | 10 gp | – | XGtE 136 |
 | Walloping arrow | 20 gp | 1/20 lb | XGtE 139 |
-| Walloping blowgun dart | 20 gp | 1/20 lb | XGtE 139 |
+| Walloping blowgun needle | 20 gp | 1/20 lb | XGtE 139 |
 | Walloping crossbow bolt | 20 gp | 1½/20 lb | XGtE 139 |
 | Walloping sling bullet | 20 gp | 1½/20 lb | XGtE 139 |
 | Bead of nourishment | 20 gp | – | XGtE 136 |
