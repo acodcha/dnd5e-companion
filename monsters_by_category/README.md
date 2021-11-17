@@ -4,7 +4,7 @@
 - **[Oceans](#oceans):** [Monsters](#oceans-monsters), [Peoples](#oceans-peoples)
 - **[Coastal](#coastal):** [Monsters](#coastal-monsters), [Peoples](#coastal-peoples), [Bronze Dragons](#coastal-bronze-dragons)
 - **[Swamps](#swamps):** [Monsters](#swamps-monsters), [Yuan-ti](#swamps-yuan-ti), [Peoples](#swamps-peoples), [Black Dragons](#swamps-black-dragons)
-- **[Forests](#forests):** [Monsters](#forests-monsters), [Trolls](#forests-trolls), [Peoples](#forests-peoples), [Faerie Dragons](#forests-faerie-dragons), [Green Dragons](#forests-green-dragons)
+- **[Forests](#forests):** [Monsters](#forests-monsters), [Trolls](#forests-trolls), [Eladrin](#forests-eladrin), [Peoples](#forests-peoples), [Faerie Dragons](#forests-faerie-dragons), [Green Dragons](#forests-green-dragons)
 - **[Plains](#plains):** [Monsters](#plains-monsters), [Hobgoblins](#plains-hobgoblins), [Gnolls](#plains-gnolls), [Peoples](#plains-peoples), [Gold Dragons](#plains-gold-dragons)
 - **[Hills](#hills):** [Monsters](#hills-monsters), [Goblins](#hills-goblins), [Ogres](#hills-ogres), [Peoples](#hills-peoples), [Copper Dragons](#hills-copper-dragons)
 - **[Mountains](#mountains):** [Monsters](#mountains-monsters), [Kobolds](#mountains-kobolds), [Orcs](#mountains-orcs), [Peoples](#mountains-peoples), [Red Dragons](#mountains-red-dragons), [Silver Dragons](#mountains-silver-dragons)
@@ -328,6 +328,7 @@ Elves use the same stat blocks as humans, with the following changes:
 ## Forests
 - [Monsters](#forests-monsters)
 - [Trolls](#forests-trolls)
+- [Eladrin](#forests-eladrin)
 - [Peoples](#forests-peoples)
 - [Faerie Dragons](#forests-faerie-dragons)
 - [Green Dragons](#forests-green-dragons)
@@ -379,6 +380,16 @@ Elves use the same stat blocks as humans, with the following changes:
 
 [^ Back to Forests](#forests)
 
+### Forests: Eladrin
+|  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
+| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| CR 10 | Eladrin, autumn (spells) | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 195 |
+| CR 10 | Eladrin, spring (spells) | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 196 |
+| CR 10 | Eladrin, summer | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 196 |
+| CR 10 | Eladrin, winter (spells) | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 197 |
+
+[^ Back to Forests](#forests)
+
 ### Forests: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
@@ -399,10 +410,6 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 5 | Half-dragon, green, veteran | Med. | Hum. | - | 1,800 XP | 27 gp | MM 180 |
 | CR 5 | Wood woad (climb) | Med. | Plant | LN | 1,800 XP | – | Volo 198 |
 | CR 9 | Treant | Huge | Plant | CG | 5,000 XP | – | MM 289 |
-| CR 10 | Eladrin, autumn (spells) | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 195 |
-| CR 10 | Eladrin, spring (spells) | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 196 |
-| CR 10 | Eladrin, summer | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 196 |
-| CR 10 | Eladrin, winter (spells) | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 197 |
 
 [^ Back to Forests](#forests)
 
