@@ -4,7 +4,7 @@
 - **[Oceans](oceans#oceans-monster-tokens):** [Monsters](oceans/monsters), [Peoples](oceans/peoples)
 - **[Coastal](coastal#coastal-monster-tokens):** [Monsters](coastal/monsters), [Peoples](coastal/peoples), [Bronze Dragons](coastal/dragons_bronze)
 - **[Swamps](swamps#swamps-monster-tokens):** [Monsters](swamps/monsters), [Yuan-ti](swamps/yuan_ti), [Peoples](swamps/peoples), [Black Dragons](swamps/dragons_black)
-- **[Forests](forests#forests-monster-tokens):** [Monsters](forests/monsters), [Trolls](forests/trolls), [Peoples](forests/peoples), [Faerie Dragons](forests/dragons_faerie), [Green Dragons](forests/dragons_green)
+- **[Forests](forests#forests-monster-tokens):** [Monsters](forests/monsters), [Trolls](forests/trolls), [Eladrin](forests/eladrin), [Peoples](forests/peoples), [Faerie Dragons](forests/dragons_faerie), [Green Dragons](forests/dragons_green)
 - **[Plains](plains#plains-monster-tokens):** [Monsters](plains/monsters), [Hobgoblins](plains/hobgoblins), [Gnolls](plains/gnolls), [Peoples](plains/peoples), [Gold Dragons](plains/dragons_gold)
 - **[Hills](hills#hills-monster-tokens):** [Monsters](hills/monsters), [Goblins](hills/goblins), [Ogres](hills/ogres), [Peoples](hills/peoples), [Copper Dragons](hills/dragons_copper)
 - **[Mountains](mountains#mountains-monster-tokens):** [Monsters](mountains/monsters), [Kobolds](mountains/kobolds), [Orcs](mountains/orcs), [Peoples](mountains/peoples), [Red Dragons](mountains/dragons_red), [Silver Dragons](mountains/dragons_silver)
