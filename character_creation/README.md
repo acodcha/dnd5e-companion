@@ -1,6 +1,6 @@
 # Character Creation
 - [Advancement](#advancement)
-- [Wealth](#starting-wealth)
+- [Starting Wealth](#starting-wealth)
 - [Ability Scores](#ability-scores)
 - [Height and Weight](#height-and-weight)
 - [Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts)
