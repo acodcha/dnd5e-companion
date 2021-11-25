@@ -1,7 +1,8 @@
 # Character Creation
 - [Advancement](#advancement)
 - [Starting Wealth](#starting-wealth)
-- [Ability Scores](#ability-scores)
+- [Accumulated Wealth](#accumulated-wealth)
+- [Starting Ability Scores](#starting-ability-scores)
 - [Height and Weight](#height-and-weight)
 - [Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts)
 
@@ -26,7 +27,7 @@ The following table shows the total XP amounts at which a character gains a new 
 [^ Back to Top](#character-creation)
 
 ## Starting Wealth
-When creating a character at 2nd level or higher, gain additional starting wealth as per the following table. All wealth values are listed in gold pieces (gp). Gain this wealth in addition to your regular 1st level starting equipment and wealth.
+When creating a replacement character at 2nd level or higher (because a prior character died or was retired), gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and wealth from your class and background.
 
 | Level | Starting Wealth |       | Level | Starting Wealth |
 | :---: | --------------: | :---: | :---: | --------------: |
@@ -43,7 +44,25 @@ When creating a character at 2nd level or higher, gain additional starting wealt
 
 [^ Back to Top](#character-creation)
 
-## Ability Scores
+## Accumulated Wealth
+The following table lists the total accumulated wealth of a character at the start of each given level, in addition to regular 1st level starting equipment and wealth. This wealth is obtained through adventuring from quest rewards, individual monster coinage, and treasure hoards. For example, a character at the beginning of 5th level would have accumulated a total of 650 gp. This table may be used when creating characters for a campaign that begins at a level greater than 1st.
+
+| Level | Accumulated Wealth |       | Level | Accumulated Wealth |
+| :---: | -----------------: | :---: | :---: | -----------------: |
+|  1st  |                  – |       | 11th  |           7,500 gp |
+|  2nd  |              80 gp |       | 12th  |          11,000 gp |
+|  3rd  |             200 gp |       | 13th  |          15,000 gp |
+|  4th  |             370 gp |       | 14th  |          20,000 gp |
+|  5th  |             650 gp |       | 15th  |          28,000 gp |
+|  6th  |           1,100 gp |       | 16th  |          39,000 gp |
+|  7th  |           1,800 gp |       | 17th  |          55,000 gp |
+|  8th  |           2,600 gp |       | 18th  |          75,000 gp |
+|  9th  |           3,800 gp |       | 19th  |         100,000 gp |
+| 10th  |           5,300 gp |       | 20th  |         140,000 gp |
+
+[^ Back to Top](#character-creation)
+
+## Starting Ability Scores
 The following table lists all possible sets of ability scores using the point buy system.
 
 | d100  | Ability Scores         |       | d100  | Ability Scores         |
