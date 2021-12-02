@@ -2,9 +2,9 @@
 - **[Armor](#armor)** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor)
 - **[Poisons](#poisons):** [Contact Poisons](#contact-poisons), [Ingested Poisons](#ingested-poisons), [Inhaled Poisons](#inhaled-poisons), [Injury Poisons](#injury-poisons)
 
-Mundane (non-magical) equipment can be purchased in most settlements of sufficient size.
-
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
+
+Mundane (non-magical) equipment can be purchased in most settlements of sufficient size.
 
 ## Armor
 - [Light Armor](#light-armor)
@@ -12,9 +12,9 @@ Mundane (non-magical) equipment can be purchased in most settlements of sufficie
 - [Heavy Armor](#heavy-armor)
 - [Shield](#shield)
 
-Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
-
 [^ Back to Top](#equipment)
+
+Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
 
 ### Light Armor
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class. Light armor takes 1 minute to don or doff.
@@ -61,9 +61,9 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 - [Inhaled Poisons](#inhaled-poisons)
 - [Injury Poisons](#injury-poisons)
 
-Given their insidious and deadly Nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures. Poison is generally stored in a vial (1 gp, 0 lb).
-
 [^ Back to Top](#equipment)
+
+Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures. Poison is generally stored in a vial (1 gp, 0 lb).
 
 ### Contact Poisons
 Contact poison can be smeared on an object and remains potent until it is touched or washed off. Applying the poison takes an action. A creature that touches contact poison with exposed skin suffers its effects.
