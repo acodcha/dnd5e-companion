@@ -641,60 +641,60 @@
 ### Spellcasting Services: Wellness
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
-| Detect poison and disease | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
-| Goodberry | 1st-level spell slot | 1st-level spellcaster | 1 pp |
-| Lesser restoration | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
-| Create food and water | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
-| Dispel magic | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
-| Remove curse | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
-| Dispel evil and good | 5th-level spell slot | 9th-level spellcaster | 25 pp |
-| Greater restoration | 5th-level spell slot | 9th-level spellcaster | 45 pp |
+| Detect poison and disease | 1st-level spell slot or ritual | 1st-level spellcaster | 10 gp |
+| Goodberry | 1st-level spell slot | 1st-level spellcaster | 10 gp |
+| Lesser restoration | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Create food and water | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
+| Dispel magic | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
+| Remove curse | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
+| Dispel evil and good | 5th-level spell slot | 9th-level spellcaster | 250 gp |
+| Greater restoration | 5th-level spell slot | 9th-level spellcaster | 450 gp |
 
 [^ Back to Spellcasting Services](#spellcasting-services)
 
 ### Spellcasting Services: Healing
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
-| Cure wounds | 1st-level spell slot | 1st-level spellcaster | 1 pp |
-| Cure wounds | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
-| Prayer of healing | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
-| Cure wounds | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
-| Prayer of healing | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
-| Cure wounds | 4th-level spell slot | 7th-level spellcaster | 16 pp |
-| Prayer of healing | 4th-level spell slot | 7th-level spellcaster | 16 pp |
-| Cure wounds | 5th-level spell slot | 9th-level spellcaster | 25 pp |
-| Prayer of healing | 5th-level spell slot | 9th-level spellcaster | 25 pp |
-| Heal | 6th-level spell slot | 11th-level spellcaster | 36 pp |
-| Prayer of healing | 6th-level spell slot | 11th-level spellcaster | 36 pp |
-| Heal | 7th-level spell slot | 13th-level spellcaster | 49 pp |
-| Prayer of healing | 7th-level spell slot | 13th-level spellcaster | 49 pp |
-| Heal | 8th-level spell slot | 15th-level spellcaster | 64 pp |
-| Prayer of healing | 8th-level spell slot | 15th-level spellcaster | 64 pp |
-| Mass heal | 9th-level spell slot | 17th-level spellcaster | 81 pp |
+| Cure wounds | 1st-level spell slot | 1st-level spellcaster | 10 gp |
+| Cure wounds | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Prayer of healing | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Cure wounds | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
+| Prayer of healing | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
+| Cure wounds | 4th-level spell slot | 7th-level spellcaster | 160 gp |
+| Prayer of healing | 4th-level spell slot | 7th-level spellcaster | 160 gp |
+| Cure wounds | 5th-level spell slot | 9th-level spellcaster | 250 gp |
+| Prayer of healing | 5th-level spell slot | 9th-level spellcaster | 250 gp |
+| Heal | 6th-level spell slot | 11th-level spellcaster | 360 gp |
+| Prayer of healing | 6th-level spell slot | 11th-level spellcaster | 360 gp |
+| Heal | 7th-level spell slot | 13th-level spellcaster | 490 gp |
+| Prayer of healing | 7th-level spell slot | 13th-level spellcaster | 490 gp |
+| Heal | 8th-level spell slot | 15th-level spellcaster | 640 gp |
+| Prayer of healing | 8th-level spell slot | 15th-level spellcaster | 640 gp |
+| Mass heal | 9th-level spell slot | 17th-level spellcaster | 810 gp |
 
 [^ Back to Spellcasting Services](#spellcasting-services)
 
 ### Spellcasting Services: Resurrection
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
-| Revivify | 3rd-level spell slot | 5th-level spellcaster | 69 pp |
-| Raise dead | 5th-level spell slot | 9th-level spellcaster | 130 pp |
-| Reincarnate | 5th-level spell slot | 9th-level spellcaster | 230 pp |
-| Resurrection | 7th-level spell slot | 13th-level spellcaster | 250 pp |
-| Clone | 8th-level spell slot | 15th-level spellcaster | 280 pp |
-| True resurrection | 9th-level spell slot | 17th-level spellcaster | 5,100 pp |
+| Revivify | 3rd-level spell slot | 5th-level spellcaster | 690 gp |
+| Raise dead | 5th-level spell slot | 9th-level spellcaster | 1,300 gp |
+| Reincarnate | 5th-level spell slot | 9th-level spellcaster | 2,300 gp |
+| Resurrection | 7th-level spell slot | 13th-level spellcaster | 2,500 gp |
+| Clone | 8th-level spell slot | 15th-level spellcaster | 2,800 gp |
+| True resurrection | 9th-level spell slot | 17th-level spellcaster | 51,000 gp |
 
 [^ Back to Spellcasting Services](#spellcasting-services)
 
 ### Spellcasting Services: Security
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
-| Alarm | 1st-level spell slot or ritual | 1st-level spellcaster | 1 pp |
-| Arcane lock | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
-| Continual flame | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
-| Animate dead | 3rd-level spell slot | 5th-level spellcaster | 10 pp |
-| Guards and wards | 6th-level spell slot | 11th-level spellcaster | 36 pp |
-| Forbiddance | 6th-level spell slot or ritual | 11th-level spellcaster | 46 pp |
+| Alarm | 1st-level spell slot or ritual | 1st-level spellcaster | 10 gp |
+| Arcane lock | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Continual flame | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Animate dead | 3rd-level spell slot | 5th-level spellcaster | 100 gp |
+| Guards and wards | 6th-level spell slot | 11th-level spellcaster | 360 gp |
+| Forbiddance | 6th-level spell slot or ritual | 11th-level spellcaster | 460 gp |
 
 [^ Back to Spellcasting Services](#spellcasting-services)
 
@@ -702,36 +702,36 @@
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
 | Message | Cantrip | 1st-level spellcaster | 5 gp |
-| Detect thoughts | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
-| Zone of truth | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
-| Sending | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
-| Speak with dead | 3rd-level spell slot | 5th-level spellcaster | 9 pp |
-| Dream | 5th-level spell slot | 9th-level spellcaster | 26 pp |
+| Detect thoughts | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Zone of truth | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Sending | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
+| Speak with dead | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
+| Dream | 5th-level spell slot | 9th-level spellcaster | 260 gp |
 
 [^ Back to Spellcasting Services](#spellcasting-services)
 
 ### Spellcasting Services: Transportation
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
-| Teleportation circle | 5th-level spell slot | 9th-level spellcaster | 35 pp |
-| Transport via plants | 6th-level spell slot | 11th-level spellcaster | 36 pp |
-| Teleport | 7th-level spell slot | 13th-level spellcaster | 49 pp |
-| Plane shift | 7th-level spell slot | 13th-level spellcaster | 52 pp |
-| Gate | 9th-level spell slot | 17th-level spellcaster | 130 pp |
-| Permanent teleportation circle | 5th-level spell slot | 9th-level spellcaster | 13,000 pp |
+| Teleportation circle | 5th-level spell slot | 9th-level spellcaster | 350 gp |
+| Permanent teleportation circle | 5th-level spell slot | 9th-level spellcaster | 130,000 gp |
+| Transport via plants | 6th-level spell slot | 11th-level spellcaster | 360 gp |
+| Teleport | 7th-level spell slot | 13th-level spellcaster | 490 gp |
+| Plane shift | 7th-level spell slot | 13th-level spellcaster | 520 gp |
+| Gate | 9th-level spell slot | 17th-level spellcaster | 1,300 gp |
 
 [^ Back to Spellcasting Services](#spellcasting-services)
 
 ### Spellcasting Services: Surveillance
 | Spell | Spell Slot | Spellcaster | Price |
 | :---- | :--------- | :---------- | ----: |
-| Identify | 1st-level spell slot or ritual | 1st-level spellcaster | 2 pp |
-| Locate object | 2nd-level spell slot | 3rd-level spellcaster | 4 pp |
-| Clairvoyance | 3rd-level spell slot | 5th-level spellcaster | 10 pp |
-| Locate creature | 4th-level spell slot | 7th-level spellcaster | 17 pp |
-| Divination | 4th-level spell slot or ritual | 7th-level spellcaster | 21 pp |
-| Commune | 5th-level spell slot or ritual | 9th-level spellcaster | 26 pp |
-| Scrying | 5th-level spell slot | 9th-level spellcaster | 35 pp |
-| Contact other plane | 5th-level spell slot or ritual | 9th-level spellcaster | 50 pp |
+| Identify | 1st-level spell slot or ritual | 1st-level spellcaster | 20 gp |
+| Locate object | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Clairvoyance | 3rd-level spell slot | 5th-level spellcaster | 100 gp |
+| Locate creature | 4th-level spell slot | 7th-level spellcaster | 170 gp |
+| Divination | 4th-level spell slot or ritual | 7th-level spellcaster | 210 gp |
+| Commune | 5th-level spell slot or ritual | 9th-level spellcaster | 260 gp |
+| Scrying | 5th-level spell slot | 9th-level spellcaster | 350 gp |
+| Contact other plane | 5th-level spell slot or ritual | 9th-level spellcaster | 500 gp |
 
 [^ Back to Spellcasting Services](#spellcasting-services)
