@@ -18,20 +18,8 @@ Tables, lists, and tokens for Dungeons and Dragons 5th Edition.
 - **[Vehicle Tokens](tokens_vehicles)**
 - **[Weapon Tokens](tokens_weapons)**
 
-## License
-Much of this work is from the Dungeons and Dragons 5th Edition books by Wizards of the Coast and subject to their Open Game License. I simply list and tabulate their content for ease of use.
+This work is based on the Dungeons and Dragons 5th Edition books by Wizards of the Coast and subject to their Open Game License. I simply list and tabulate their content for ease of use. The contents, copyrights, and trademarks of everything involving Dungeons and Dragons 5th Edition are exclusively held by Wizards of the Coast; I make no claim to any of these in any way.
 
 I do not own any of the artwork used for tokens: all such artwork was available online for free. I simply cropped and adjusted the original artwork to fit each token.
 
-My own content is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
-## Maintainer
-Alexandre Coderre-Chabot (<https://github.com/acodcha>)
+My own content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
