@@ -16,5 +16,6 @@
 - **[Shadowfell](shadowfell#shadowfell-monster-tokens):** [Monsters](shadowfell/monsters), [Peoples](shadowfell/peoples), [Shadow Chromatic Dragons](shadowfell/dragons_shadow_chromatic), [Shadow Metallic Dragons](shadowfell/dragons_shadow_metallic)
 - **[Lower Planes](lower_planes#lower-planes-monster-tokens):** [Monsters](lower_planes/monsters), [Demons](lower_planes/demons), [Devils](lower_planes/devils), [Abishai](lower_planes/abishai), [Slaadi](lower_planes/slaadi), [Peoples](lower_planes/peoples)
 - **[Upper Planes](upper_planes#upper-planes-monster-tokens):** [Celestials](upper_planes/celestials), [Githyanki](upper_planes/githyanki), [Githzerai](upper_planes/githzerai)
+- **[Deities](deities)**
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
