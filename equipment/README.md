@@ -1,6 +1,7 @@
 # Equipment
 - **[Armor](#armor):** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor), [Shield](#shield)
 - **[Weapons](#weapons):** [Simple Melee Weapons](#simple-melee-weapons), [Martial Melee Weapons](#martial-melee-weapons), [Simple Ranged Weapons](#simple-ranged-weapons), [Martial Ranged Weapons](#martial-ranged-weapons)
+- **[Gear](#gear):** [Ammunition](#ammunition), [Spellcasting Gear](#spellcasting-gear), [Consumable Gear](#consumable-gear), [Permanent Gear](#permanent-gear)
 - **[Tools](#tools):** [Artisan's Tools](#artisans-tools), [Gaming Sets](#gaming-sets), [Musical Instruments](#musical-instruments), [Miscellaneous Tools](#miscellaneous-tools)
 - **[Poisons](#poisons):** [Contact Poisons](#contact-poisons), [Ingested Poisons](#ingested-poisons), [Inhaled Poisons](#inhaled-poisons), [Injury Poisons](#injury-poisons)
 
@@ -135,6 +136,144 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Net | 1 gp | 3 lb | – | Special (net), thrown (range 5/15 ft) |
 
 [^ Back to Weapons](#weapons)
+
+## Gear
+- [Ammunition](#ammunition)
+- [Spellcasting Gear](#spellcasting-gear)
+- [Consumable Gear](#consumable-gear)
+- [Permanent Gear](#permanent-gear)
+
+[^ Back to Top](#equipment)
+
+### Ammunition
+
+| Ammunition | Cost  | Weight |
+| :--------- | :---: | :----: |
+| Arrows (20) | 1 gp | 1 lb |
+| Blowgun needles (50) | 1 gp | 1 lb |
+| Crossbow bolt case | 1 gp | 1 lb |
+| Crossbow bolts (20) | 1 gp | 1½ lb |
+| Pouch (holds 50 blowgun needles or 20 sling bullets) | 5 sp | 1 lb |
+| Quiver (holds 20 arrows) | 1 gp | 1 lb |
+| Sling bullets (20) | 4 cp | 1½ lb |
+
+[^ Back to Gear](#gear)
+
+### Spellcasting Gear
+
+| Spellcasting Gear | Cost  | Weight |
+| :---------------- | :---: | :----: |
+| Amulet (holy symbol) | 5 gp | 1 lb |
+| Component pouch | 25 gp | 2 lb |
+| Crystal (arcane focus) | 10 gp | 1 lb |
+| Emblem (holy symbol) | 5 gp | – |
+| Orb (arcane focus) | 20 gp | 3 lb |
+| Reliquary (holy symbol) | 5 gp | 2 lb |
+| Rod (arcane focus) | 10 gp | 2 lb |
+| Spellbook | 50 gp | 3 lb |
+| Sprig of mistletoe (druidic focus) | 1 gp | – |
+| Staff (arcane focus) | 5 gp | 4 lb |
+| Totem (druidic focus) | 1 gp | – |
+| Wand (arcane focus) | 10 gp | 1 lb |
+| Wooden staff (druidic focus) | 5 gp | 4 lb |
+| Yew wand (druidic focus) | 10 gp | 1 lb |
+
+[^ Back to Gear](#gear)
+
+### Consumable Gear
+
+| Consumable Gear | Cost  | Weight |
+| :-------------- | :---: | :----: |
+| Acid (vial) | 25 gp | 1 lb |
+| Alchemist's fire (flask) | 50 gp | 1 lb |
+| Antitoxin (vial) | 50 gp | – |
+| Ball bearings (bag of 1,000) | 1 gp | 2 lb |
+| Basic poison (vial) | 100 gp | – |
+| Caltrops (bag of 20) | 1 gp | 2 lb |
+| Candle | 1 cp | – |
+| Holy water (flask) | 25 gp | 1 lb |
+| Oil (flask) | 1 sp | 1 lb |
+| Potion of healing | 50 gp | ½ lb |
+| Rations (1 day) | 5 sp | 2 lb |
+| Torch | 1 cp | 1 lb |
+
+[^ Back to Gear](#gear)
+
+### Permanent Gear
+
+| Permanent Gear | Cost  | Weight |
+| :------------- | :---: | :----: |
+| Abacus | 2 gp | 2 lb |
+| Backpack | 2 gp | 5 lb |
+| Barrel | 2 gp | 70 lb |
+| Basket | 4 sp | 2 lb |
+| Bedroll | 1 gp | 7 lb |
+| Bell | 1 gp | – |
+| Blanket 5 sp | 3 lb |
+| Block and tackle | 1 gp | 5 lb |
+| Book | 25 gp | 5 lb |
+| Bucket | 5 cp | 2 lb |
+| Bullseye lantern | 10 gp | 2 lb |
+| Case (holds a map or scroll) | 1 gp | 1 lb |
+| Chain (10 ft) | 5 gp | 10 lb |
+| Chalk (1 piece) | 1 cp | – |
+| Chest | 5 gp | 25 lb |
+| Climber's kit | 25 gp | 12 lb |
+| Common clothes | 5 sp | 3 lb |
+| Costume | 5 gp | 4 lb |
+| Crowbar | 2 gp | 5 lb |
+| Fine clothes | 15 gp | 6 lb |
+| Fishing tackle | 1 gp | 4 lb |
+| Flask | 2 cp | 1 lb |
+| Glass bottle | 2 gp | 2 lb |
+| Grappling hook | 2 gp | 4 lb |
+| Hammer | 1 gp | 3 lb |
+| Healer's kit | 5 gp | 3 lb |
+| Hempen rope (50 ft) | 1 gp | 10 lb |
+| Hooded lantern | 5 gp | 2 lb |
+| Hourglass | 25 gp | 1 lb |
+| Hunting trap | 5 gp | 25 lb |
+| Ink (1 ounce bottle) | 10 gp | – |
+| Ink pen | 2 cp | – |
+| Iron pot | 2 gp | 10 lb |
+| Iron spikes (10) | 1 gp | 5 lb |
+| Jug | 2 cp | 4 lb |
+| Ladder (10 ft) | 1 sp | 25 lb |
+| Lamp | 5 sp | 1 lb |
+| Lock | 10 gp | 1 lb |
+| Magnifying glass | 100 gp | – |
+| Manacles | 2 gp | 6 lb |
+| Merchant's scale | 5 gp | 3 lb |
+| Mess kit | 2 sp | 1 lb |
+| Miner's pick | 2 gp | 10 lb |
+| Paper (1 sheet) | 2 sp | – |
+| Parchment (1 sheet) | 1 sp | – |
+| Perfume (vial) | 5 gp | – |
+| Pitcher | 2 cp | 4 lb |
+| Piton | 5 cp | ¼ lb |
+| Pole (10 ft) | 5 cp | 7 lb |
+| Portable ram | 4 gp | 35 lb |
+| Pouch | 5 sp | 1 lb |
+| Robes | 1 gp | 4 lb |
+| Sack | 1 cp | ½ lb |
+| Sealing wax | 5 sp | – |
+| Shovel | 2 gp | 5 lb |
+| Signal whistle | 5 cp | – |
+| Signet ring | 5 gp | – |
+| Silk rope (50 ft) | 10 gp | 5 lb |
+| Sledgehammer | 2 gp | 10 lb |
+| Soap | 2 cp | – |
+| Spyglass | 1,000 gp | 1 lb |
+| Steel mirror | 5 gp | ½ lb |
+| Tankard | 2 cp | 1 lb |
+| Tent (2 persons) | 2 gp | 20 lb |
+| Tinderbox | 5 sp | 1 lb |
+| Traveler's clothes | 2 gp | 4 lb |
+| Vial | 1 gp | – |
+| Waterskin (full) | 2 sp | 5 lb |
+| Whetstone | 1 cp | 1 lb |
+
+[^ Back to Gear](#gear)
 
 ## Tools
 - [Artisan's Tools](#artisans-tools)
