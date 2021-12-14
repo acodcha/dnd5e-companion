@@ -76,7 +76,7 @@ Contact poison can be smeared on an object and remains potent until it is touche
 
 | Contact Poison | Cost  | Description |
 | :------------- | :---: | :---------- |
-| Crawler Mucus | 200 gp | This poison must be harvested from a dead or incapacitated crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
+| Carrion Crawler Mucus | 200 gp | This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
 | Oil of Taggit | 400 gp | A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage. |
 
 [^ Back to Poisons](#poisons)
