@@ -1,5 +1,5 @@
 # Equipment
-- **[Armor](#armor)** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor)
+- **[Armor](#armor)** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor), [Shield](#shield)
 - **[Poisons](#poisons):** [Contact Poisons](#contact-poisons), [Ingested Poisons](#ingested-poisons), [Inhaled Poisons](#inhaled-poisons), [Injury Poisons](#injury-poisons)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
