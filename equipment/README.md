@@ -209,7 +209,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Basket | 4 sp | 2 lb |
 | Bedroll | 1 gp | 7 lb |
 | Bell | 1 gp | – |
-| Blanket 5 sp | 3 lb |
+| Blanket | 5 sp | 3 lb |
 | Block and tackle | 1 gp | 5 lb |
 | Book | 25 gp | 5 lb |
 | Bucket | 5 cp | 2 lb |
