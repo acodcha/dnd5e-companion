@@ -68,6 +68,11 @@ Given their insidious and deadly nature, poisons are illegal in most societies b
 ### Contact Poisons
 Contact poison can be smeared on an object and remains potent until it is touched or washed off. Applying the poison takes an action. A creature that touches contact poison with exposed skin suffers its effects.
 
+| Poison | Cost | Weight | Description |
+| :----- | ---: | -----: | :---------- |
+| Crawler Mucus | 200 gp | 0 lb | This poison must be harvested from a dead or incapacitated crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
+| Oil of Taggit | 400 gp | 0 lb | A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage. |
+
 - **Crawler Mucus (200 gp):** This poison must be harvested from a dead or incapacitated crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Oil of Taggit (400 gp):** A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage.
 
