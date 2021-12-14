@@ -23,9 +23,9 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 | Light Armor | Cost  | Weight | Description |
 | :---------- | :---: | :----: | :---------- |
-| Padded armor | 5 gp | 8 lb | AC = 11 + Dexterity modifier. Disadvantage on Dexterity (Stealth) checks. Padded armor consists of quilted layers of cloth and batting. |
-| Leather armor | 10 gp | 10 lb | AC = 11 + Dexterity modifier. The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. |
-| Studded leather armor | 45 gp | 13 lb | AC = 12 + Dexterity modifier. Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes. |
+| Padded armor | 5 gp | 8 lb | Armor Class = 11 + Dexterity modifier. Disadvantage on Dexterity (Stealth) checks. Padded armor consists of quilted layers of cloth and batting. |
+| Leather armor | 10 gp | 10 lb | Armor Class = 11 + Dexterity modifier. The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. |
+| Studded leather armor | 45 gp | 13 lb | Armor Class = 12 + Dexterity modifier. Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes. |
 
 [^ Back to Armor](#armor)
 
@@ -34,11 +34,11 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 
 | Medium Armor | Cost  | Weight | Description |
 | :----------- | :---: | :----: | :---------- |
-| Hide armor | 10 gp | 12 lb | AC = 12 + Dex modifier (max 2). This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor. |
-| Chain shirt armor | 50 gp | 20 lb | AC = 13 + Dex modifier (max 2). Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers. |
-| Scale mail armor | 50 gp | 45 lb | AC = 14 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. |
-| Breastplate armor | 400 gp | 20 lb | AC = 14 + Dex modifier (max 2). This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered. |
-| Half plate armor | 750 gp | 40 lb | AC = 15 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. Half plate armor consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps. |
+| Hide armor | 10 gp | 12 lb | Armor Class = 12 + Dex modifier (max 2). This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor. |
+| Chain shirt armor | 50 gp | 20 lb | Armor Class = 13 + Dex modifier (max 2). Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers. |
+| Scale mail armor | 50 gp | 45 lb | Armor Class = 14 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. |
+| Breastplate armor | 400 gp | 20 lb | Armor Class = 14 + Dex modifier (max 2). This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered. |
+| Half plate armor | 750 gp | 40 lb | Armor Class = 15 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. Half plate armor consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps. |
 
 [^ Back to Armor](#armor)
 
@@ -47,10 +47,10 @@ Of all the armor categories, heavy armor offers the best protection. These suits
 
 | Heavy Armor | Cost  | Weight | Description |
 | :---------- | :---: | :----: | :---------- |
-| Ring mail armor | 30 gp | 40 lb | AC = 14. Disadvantage on Dexterity (Stealth) checks. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor. |
-| Chain mail armor | 75 gp | 55 lb | AC = 16. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 13. Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets. |
-| Splint armor | 200 gp | 60 lb | AC = 17. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints. |
-| Plate armor | 1,500 gp | 65 lb | AC = 18. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. Plate armor consists of shaped, interlocking metal plates to cover the entire body. A suit of plate armor includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body. |
+| Ring mail armor | 30 gp | 40 lb | Armor Class = 14. Disadvantage on Dexterity (Stealth) checks. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor. |
+| Chain mail armor | 75 gp | 55 lb | Armor Class = 16. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 13. Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets. |
+| Splint armor | 200 gp | 60 lb | Armor Class = 17. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints. |
+| Plate armor | 1,500 gp | 65 lb | Armor Class = 18. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. Plate armor consists of shaped, interlocking metal plates to cover the entire body. A suit of plate armor includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body. |
 
 [^ Back to Armor](#armor)
 
