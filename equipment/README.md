@@ -1,6 +1,7 @@
 # Equipment
 - **[Armor](#armor):** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor), [Shield](#shield)
 - **[Weapons](#weapons):** [Simple Melee Weapons](#simple-melee-weapons), [Martial Melee Weapons](#martial-melee-weapons), [Simple Ranged Weapons](#simple-ranged-weapons), [Martial Ranged Weapons](#martial-ranged-weapons)
+- **[Tools](#tools):** [Artisan's Tools](#artisans-tools), [Gaming Sets](#gaming-sets), [Musical Instruments](#musical-instruments), [Miscellaneous Tools](#miscellaneous-tools)
 - **[Poisons](#poisons):** [Contact Poisons](#contact-poisons), [Ingested Poisons](#ingested-poisons), [Inhaled Poisons](#inhaled-poisons), [Injury Poisons](#injury-poisons)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
@@ -72,8 +73,8 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 ### Simple Melee Weapons
 
-| Weapon | Cost  | Weight | Damage | Properties |
-| :----- | :---: | :----: | :----: | :--------- |
+| Simple Melee Weapon | Cost  | Weight | Damage | Properties |
+| :------------------ | :---: | :----: | :----: | :--------- |
 | Club | 1 sp | 2 lb | 1d4 bludgeoning | Light |
 | Dagger | 2 gp | 1 lb | 1d4 piercing | Finesse, light, thrown (range 20/60 ft) |
 | Greatclub | 2 sp | 10 lb | 1d8 bludgeoning | Two-handed |
@@ -89,8 +90,8 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 ### Martial Melee Weapons
 
-| Weapon | Cost  | Weight | Damage | Properties |
-| :----- | :---: | :----: | :----: | :--------- |
+| Martial Melee Weapon | Cost  | Weight | Damage | Properties |
+| :------------------- | :---: | :----: | :----: | :--------- |
 | Battleaxe | 10 gp | 4 lb | 1d8 slashing | Versatile (1d10) |
 | Flail | 10 gp | 2 lb | 1d8 bludgeoning | – |
 | Glaive | 20 gp | 6 lb | 1d10 slashing | Heavy, reach, two-handed |
@@ -114,8 +115,8 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 ### Simple Ranged Weapons
 
-| Weapon | Cost  | Weight | Damage | Properties |
-| :----- | :---: | :----: | :----: | :--------- |
+| Simple Ranged Weapon | Cost  | Weight | Damage | Properties |
+| :------------------- | :---: | :----: | :----: | :--------- |
 | Dart | 5 cp | ¼ lb | 1d4 piercing | Finesse, thrown (range 20/60 ft) |
 | Light crossbow | 25 gp | 5 lb | 1d8 piercing | Ammunition (range 80/320 ft), loading, two-handed |
 | Shortbow | 25 gp | 2 lb | 1d6 piercing | Ammunition (range 80/320 ft), two-handed |
@@ -125,8 +126,8 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 ### Martial Ranged Weapons
 
-| Weapon | Cost  | Weight | Damage | Properties |
-| :----- | :---: | :----: | :----: | :--------- |
+| Martial Ranged Weapon | Cost  | Weight | Damage | Properties |
+| :-------------------- | :---: | :----: | :----: | :--------- |
 | Blowgun | 10 gp | 1 lb | 1 piercing | Ammunition (range 25/100 ft), loading |
 | Hand crossbow | 75 gp | 3 lb | 1d6 piercing | Ammunition (range 30/120 ft), light, loading |
 | Heavy crossbow | 50 gp | 18 lb | 1d10 piercing | Ammunition (range 100/400 ft), heavy, loading, two-handed |
@@ -134,6 +135,81 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Net | 1 gp | 3 lb | – | Special (net), thrown (range 5/15 ft) |
 
 [^ Back to Weapons](#weapons)
+
+## Tools
+- [Artisan's Tools](#artisans-tools)
+- [Gaming Sets](#gaming-sets)
+- [Musical Instruments](#musical-instruments)
+- [Miscellaneous Tools](#miscellaneous-tools)
+
+[^ Back to Top](#equipment)
+
+### Artisan's Tools
+
+| Artisan's Tool | Cost  | Weight |
+| :------------- | :---: | :----: |
+| Alchemist's supplies | 50 gp | 8 lb |
+| Brewer's supplies | 20 gp | 9 lb |
+| Calligrapher's supplies | 10 gp | 5 lb |
+| Carpenter's tools | 8 gp | 6 lb |
+| Cartographer's tools | 15 gp | 6 lb |
+| Cobbler's tools | 5 gp | 5 lb |
+| Cook's utensils | 1 gp | 8 lb |
+| Glassblower's tools | 30 gp | 5 lb |
+| Jeweler's tools | 25 gp | 2 lb |
+| Leatherworker's tools | 5 gp | 5 lb |
+| Mason's tools | 10 gp | 8 lb |
+| Painter's supplies | 10 gp | 5 lb |
+| Potter's tools | 10 gp | 3 lb |
+| Smith's tools | 20 gp | 8 lb |
+| Tinker's tools | 50 gp | 10 lb |
+| Weaver's tools | 1 gp | 5 lb |
+| Woodcarver's tools | 1 gp | 5 lb |
+
+[^ Back to Tools](#tools)
+
+### Gaming Sets
+
+| Gaming Set | Cost  | Weight |
+| :--------- | :---: | :----: |
+| Dice set | 1 sp | – |
+| Dragonchess set | 1 gp | ½ lb |
+| Playing card set | 5 sp | – |
+| Three-Dragon Ante set | 1 gp | – |
+
+[^ Back to Tools](#tools)
+
+### Musical Instruments
+
+| Musical Instrument | Cost  | Weight |
+| :----------------- | :---: | :----: |
+| Bagpipes | 30 gp | 6 lb |
+| Drum | 6 gp | 3 lb |
+| Dulcimer | 25 gp | 10 lb |
+| Flute | 2 gp | 1 lb |
+| Lute | 35 gp | 2 lb |
+| Lyre | 30 gp | 2 lb |
+| Horn | 3 gp | 2 lb |
+| Pan flute | 12 gp | 2 lb |
+| Shawm | 2 gp | 1 lb |
+| Viol | 30 gp | 1 lb |
+
+[^ Back to Tools](#tools)
+
+### Miscellaneous Tools
+
+| Miscellaneous Tool | Cost  | Weight |
+| :----------------- | :---: | :----: |
+| Disguise kit | 25 gp | 3 lb |
+| Forgery kit | 15 gp | 5 lb |
+| Herbalism kit | 5 gp | 3 lb |
+| Land vehicles | – | – |
+| Navigator's tools | 25 gp | 2 lb |
+| Poisoner's kit | 50 gp | 2 lb |
+| Thieves' tools | 25 gp | 1 lb |
+| Water vehicles | – | – |
+
+[^ Back to Tools](#tools)
 
 ## Poisons
 - [Contact Poisons](#contact-poisons)
