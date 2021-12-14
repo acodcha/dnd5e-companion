@@ -1,5 +1,6 @@
 # Equipment
-- **[Armor](#armor)** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor), [Shield](#shield)
+- **[Armor](#armor):** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor), [Shield](#shield)
+- **[Weapons](#weapons):** [Simple Melee Weapons](#simple-melee-weapons), [Martial Melee Weapons](#martial-melee-weapons), [Simple Ranged Weapons](#simple-ranged-weapons), [Martial Ranged Weapons](#martial-ranged-weapons)
 - **[Poisons](#poisons):** [Contact Poisons](#contact-poisons), [Ingested Poisons](#ingested-poisons), [Inhaled Poisons](#inhaled-poisons), [Injury Poisons](#injury-poisons)
 
 [< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
@@ -21,9 +22,9 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 | Light Armor | Cost  | Weight | Description |
 | :---------- | :---: | :----: | :---------- |
-| Padded Armor | 5 gp | 8 lb | AC = 11 + Dexterity modifier. Disadvantage on Dexterity (Stealth) checks. Padded armor consists of quilted layers of cloth and batting. |
-| Leather Armor | 10 gp | 10 lb | AC = 11 + Dexterity modifier. The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. |
-| Studded Leather Armor | 45 gp | 13 lb | AC = 12 + Dexterity modifier. Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes. |
+| Padded armor | 5 gp | 8 lb | AC = 11 + Dexterity modifier. Disadvantage on Dexterity (Stealth) checks. Padded armor consists of quilted layers of cloth and batting. |
+| Leather armor | 10 gp | 10 lb | AC = 11 + Dexterity modifier. The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. |
+| Studded leather armor | 45 gp | 13 lb | AC = 12 + Dexterity modifier. Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes. |
 
 [^ Back to Armor](#armor)
 
@@ -32,11 +33,11 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 
 | Medium Armor | Cost  | Weight | Description |
 | :----------- | :---: | :----: | :---------- |
-| Hide Armor | 10 gp | 12 lb | AC = 12 + Dex modifier (max 2). This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor. |
-| Chain Shirt Armor | 50 gp | 20 lb | AC = 13 + Dex modifier (max 2). Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers. |
-| Scale Mail Armor | 50 gp | 45 lb | AC = 14 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. |
-| Breastplate Armor | 400 gp | 20 lb | AC = 14 + Dex modifier (max 2). This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered. |
-| Half Plate Armor | 750 gp | 40 lb | AC = 15 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. Half plate armor consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps. |
+| Hide armor | 10 gp | 12 lb | AC = 12 + Dex modifier (max 2). This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor. |
+| Chain shirt armor | 50 gp | 20 lb | AC = 13 + Dex modifier (max 2). Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers. |
+| Scale mail armor | 50 gp | 45 lb | AC = 14 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. |
+| Breastplate armor | 400 gp | 20 lb | AC = 14 + Dex modifier (max 2). This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered. |
+| Half plate armor | 750 gp | 40 lb | AC = 15 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. Half plate armor consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps. |
 
 [^ Back to Armor](#armor)
 
@@ -45,10 +46,10 @@ Of all the armor categories, heavy armor offers the best protection. These suits
 
 | Heavy Armor | Cost  | Weight | Description |
 | :---------- | :---: | :----: | :---------- |
-| Ring Mail Armor | 30 gp | 40 lb | AC = 14. Disadvantage on Dexterity (Stealth) checks. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor. |
-| Chain Mail Armor | 75 gp | 55 lb | AC = 16. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 13. Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets. |
-| Splint Armor | 200 gp | 60 lb | AC = 17. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints. |
-| Plate Armor | 1,500 gp | 65 lb | AC = 18. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. Plate armor consists of shaped, interlocking metal plates to cover the entire body. A suit of plate armor includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body. |
+| Ring mail armor | 30 gp | 40 lb | AC = 14. Disadvantage on Dexterity (Stealth) checks. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor. |
+| Chain mail armor | 75 gp | 55 lb | AC = 16. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 13. Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets. |
+| Splint armor | 200 gp | 60 lb | AC = 17. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints. |
+| Plate armor | 1,500 gp | 65 lb | AC = 18. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. Plate armor consists of shaped, interlocking metal plates to cover the entire body. A suit of plate armor includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body. |
 
 [^ Back to Armor](#armor)
 
@@ -60,6 +61,79 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Shield | 10 gp | 6 lb | Wielding a shield increases your Armor Class by 2. A shield is made from wood or metal and is carried in one hand. You can benefit from only one shield at a time. |
 
 [^ Back to Armor](#armor)
+
+## Weapons
+- [Simple Melee Weapons](#simple-melee-weapons)
+- [Martial Melee Weapons](#martial-melee-weapons)
+- [Simple Ranged Weapons](#simple-ranged-weapons)
+- [Martial Ranged Weapons](#martial-ranged-weapons)
+
+[^ Back to Top](#equipment)
+
+### Simple Melee Weapons
+
+| Weapon | Cost  | Weight | Damage | Properties |
+| :----- | :---: | :----: | :----: | :--------- |
+| Club | 1 sp | 2 lb | 1d4 bludgeoning | Light |
+| Dagger | 2 gp | 1 lb | 1d4 piercing | Finesse, light, thrown (range 20/60 ft) |
+| Greatclub | 2 sp | 10 lb | 1d8 bludgeoning | Two-handed |
+| Handaxe | 5 gp | 2 lb | 1d6 slashing | Light, thrown (range 20/60 ft) |
+| Javelin | 5 sp | 2 lb | 1d6 piercing | Thrown (range 30/120 ft) |
+| Light hammer | 2 gp | 2 lb | 1d4 bludgeoning | Light, thrown (range 20/60 ft) |
+| Mace | 5 gp | 4 lb | 1d6 bludgeoning | – |
+| Quarterstaff | 2 sp | 4 lb | 1d6 bludgeoning | Versatile (1d8) |
+| Sickle | 1 gp | 2 lb | 1d4 slashing | Light |
+| Spear | 1 gp | 3 lb | 1d6 piercing | Thrown (range 20/60 ft), versatile (1d8) |
+
+[^ Back to Weapons](#weapons)
+
+### Martial Melee Weapons
+
+| Weapon | Cost  | Weight | Damage | Properties |
+| :----- | :---: | :----: | :----: | :--------- |
+| Battleaxe | 10 gp | 4 lb | 1d8 slashing | Versatile (1d10) |
+| Flail | 10 gp | 2 lb | 1d8 bludgeoning | – |
+| Glaive | 20 gp | 6 lb | 1d10 slashing | Heavy, reach, two-handed |
+| Greataxe | 30 gp | 7 lb | 1d12 slashing | Heavy, two-handed |
+| Greatsword | 50 gp | 6 lb | 2d6 slashing | Heavy, two-handed |
+| Halberd | 20 gp | 6 lb | 1d10 slashing | Heavy, reach, two-handed |
+| Lance | 10 gp | 6 lb | 1d12 piercing | Reach, special (lance) |
+| Longsword | 15 gp | 3 lb | 1d8 slashing | Versatile (1d10) |
+| Maul | 10 gp | 10 lb | 2d6 bludgeoning | Heavy, two-handed |
+| Morningstar | 15 gp | 4 lb | 1d8 piercing | – |
+| Pike | 5 gp | 18 lb | 1d10 piercing | Heavy, reach, two-handed |
+| Rapier | 25 gp | 2 lb | 1d8 piercing | Finesse |
+| Scimitar | 25 gp | 3 lb | 1d6 slashing | Finesse, light |
+| Shortsword | 10 gp | 2 lb | 1d6 piercing | Finesse, light |
+| Trident | 5 gp | 4 lb | 1d6 piercing | Thrown (range 20/60 ft), versatile (1d8) |
+| War pick | 5 gp | 2 lb | 1d8 piercing | – |
+| Warhammer | 15 gp | 2 lb | 1d8 bludgeoning | Versatile (1d10) |
+| Whip | 2 gp | 3 lb | 1d4 slashing | Finesse, reach |
+
+[^ Back to Weapons](#weapons)
+
+### Simple Ranged Weapons
+
+| Weapon | Cost  | Weight | Damage | Properties |
+| :----- | :---: | :----: | :----: | :--------- |
+| Dart | 5 cp | ¼ lb | 1d4 piercing | Finesse, thrown (range 20/60 ft) |
+| Light crossbow | 25 gp | 5 lb | 1d8 piercing | Ammunition (range 80/320 ft), loading, two-handed |
+| Shortbow | 25 gp | 2 lb | 1d6 piercing | Ammunition (range 80/320 ft), two-handed |
+| Sling | 1 sp | – | 1d4 bludgeoning | Ammunition (range 30/120 ft) |
+
+[^ Back to Weapons](#weapons)
+
+### Martial Ranged Weapons
+
+| Weapon | Cost  | Weight | Damage | Properties |
+| :----- | :---: | :----: | :----: | :--------- |
+| Blowgun | 10 gp | 1 lb | 1 piercing | Ammunition (range 25/100 ft), loading |
+| Hand crossbow | 75 gp | 3 lb | 1d6 piercing | Ammunition (range 30/120 ft), light, loading |
+| Heavy crossbow | 50 gp | 18 lb | 1d10 piercing | Ammunition (range 100/400 ft), heavy, loading, two-handed |
+| Longbow | 50 gp | 2 lb | 1d8 piercing | Ammunition (range 150/600 ft), heavy, two-handed |
+| Net | 1 gp | 3 lb | – | Special (net), thrown (range 5/15 ft) |
+
+[^ Back to Weapons](#weapons)
 
 ## Poisons
 - [Contact Poisons](#contact-poisons)
@@ -76,7 +150,7 @@ Contact poison can be smeared on an object and remains potent until it is touche
 
 | Contact Poison | Cost  | Description |
 | :------------- | :---: | :---------- |
-| Carrion Crawler Mucus | 200 gp | This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
+| Carrion crawler mucus | 200 gp | This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
 | Oil of Taggit | 400 gp | A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage. |
 
 [^ Back to Poisons](#poisons)
@@ -86,11 +160,11 @@ A creature must swallow an entire dose of ingested poison to suffer its effects.
 
 | Ingested Poison | Cost  | Description |
 | :-------------- | :---: | :---------- |
-| Assassin’s Blood Poison | 150 gp | A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 1d12 poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t poisoned. |
-| Truth Serum | 150 gp | A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can’t knowingly speak a lie, as if under the effect of a Zone of Truth spell. |
-| Pale Tincture Poison | 250 gp | A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 1d6 poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 1d6 poison damage on a failed save. Until this poison ends, the damage the poison deals can’t be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally. |
-| Torpor Poison | 600 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated. |
-| Midnight Tears Poison | 1,500 gp | A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 9d6 poison damage on a failed save, or half as much damage on a successful one. |
+| Assassin’s blood poison | 150 gp | A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 1d12 poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t poisoned. |
+| Truth serum | 150 gp | A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can’t knowingly speak a lie, as if under the effect of a Zone of Truth spell. |
+| Pale tincture poison | 250 gp | A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 1d6 poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 1d6 poison damage on a failed save. Until this poison ends, the damage the poison deals can’t be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally. |
+| Torpor poison | 600 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated. |
+| Midnight tears poison | 1,500 gp | A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 9d6 poison damage on a failed save, or half as much damage on a successful one. |
 
 [^ Back to Poisons](#poisons)
 
@@ -99,9 +173,9 @@ These poisons are powders or gases that take effect when inhaled. Blowing the po
 
 | Inhaled Poison | Cost  | Description |
 | :------------- | :---: | :---------- |
-| Malice Poison | 250 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded. |
-| Essence of Ether | 300 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. |
-| Burnt Othur Fumes | 500 gp | A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 3d6 poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 1d6 poison damage. After three successful saves, the poison ends. |
+| Malice poison | 250 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded. |
+| Essence of ether | 300 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. |
+| Burnt othur fumes | 500 gp | A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 3d6 poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 1d6 poison damage. After three successful saves, the poison ends. |
 
 [^ Back to Poisons](#poisons)
 
@@ -110,10 +184,10 @@ Injury poison can be applied to weapons, ammunition, trap components, and other 
 
 | Injury Poison | Cost  | Description |
 | :------------ | :---: | :---------- |
-| Basic Poison | 100 gp | A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying. |
-| Serpent Venom | 200 gp | This poison must be harvested from a dead or incapacitated giant poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 3d6 poison damage on a failed save, or half as much damage on a successful one. |
-| Drow Poison | 200 gp | This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. |
-| Wyvern Poison | 1,200 gp | This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 7d6 poison damage on a failed save, or half as much damage on a successful one. |
-| Purple Worm Poison | 2,000 gp | This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 12d6 poison damage on a failed save, or half as much damage on a successful one. |
+| Basic poison | 100 gp | A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying. |
+| Serpent venom | 200 gp | This poison must be harvested from a dead or incapacitated giant poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 3d6 poison damage on a failed save, or half as much damage on a successful one. |
+| Drow poison | 200 gp | This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. |
+| Wyvern poison | 1,200 gp | This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 7d6 poison damage on a failed save, or half as much damage on a successful one. |
+| Purple worm poison | 2,000 gp | This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 12d6 poison damage on a failed save, or half as much damage on a successful one. |
 
 [^ Back to Poisons](#poisons)
