@@ -37,7 +37,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 [^ Back to Armor](#armor)
 
 ### Heavy Armor
-Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk. Hea⁠vy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative. Heavy armor takes 10 minutes to don and 5 minutes to doff.
+Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk. Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative. Heavy armor takes 10 minutes to don and 5 minutes to doff.
 
 Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If an armor has a Strength requirement, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
@@ -51,7 +51,7 @@ Heavier armor interferes with the wearer’s ability to move quickly, stealthily
 ### Shield
 Many warriors supplement their armor with a shield. A shield takes 1 action to don or doff.
 
-- **Shield:** 10 gp. 6 lb. Wielding a shie⁠ld increases your Armor Class by 2. A shield is made from wood or metal and is carried in one hand. You can benefit from only one shi⁠eld at a time.
+- **Shield:** 10 gp. 6 lb. Wielding a shield increases your Armor Class by 2. A shield is made from wood or metal and is carried in one hand. You can benefit from only one shield at a time.
 
 [^ Back to Armor](#armor)
 
