@@ -14,8 +14,8 @@
 - **[Monsters](tokens/monsters#monster-tokens):** [Common](tokens/monsters/common#common-monster-tokens), [Arctic](tokens/monsters/arctic#arctic-monster-tokens), [Oceans](tokens/monsters/oceans#oceans-monster-tokens), [Coastal](tokens/monsters/coastal#coastal-monster-tokens), [Swamps](tokens/monsters/swamps#swamps-monster-tokens), [Forests](tokens/monsters/forests#forests-monster-tokens), [Plains](tokens/monsters/plains#plains-monster-tokens), [Hills](tokens/monsters/hills#hills-monster-tokens), [Mountains](tokens/monsters/mountains#mountains-monster-tokens), [Deserts](tokens/monsters/deserts#deserts-monster-tokens), [Ruins](tokens/monsters/ruins#ruins-monster-tokens), [Underground](tokens/monsters/underground#underground-monster-tokens), [Constructs](tokens/monsters/constructs#constructs-monster-tokens), [Undead](tokens/monsters/undead#undead-monster-tokens), [Shadowfell](tokens/monsters/shadowfell#shadowfell-monster-tokens), [Lower Planes](tokens/monsters/lower_planes#lower-planes-monster-tokens), [Upper Planes](tokens/monsters/upper_planes#upper-planes-monster-tokens), [Deities](tokens/monsters/deities), [Famous Characters](tokens/monsters/famous_characters)
 - **[Vehicles](tokens/vehicles):** [Land Vehicles](tokens/vehicles/land), [Water Vehicles](tokens/vehicles/water), [Siege Vehicles](tokens/vehicles/siege)
 - **[Areas of Effect](tokens/areas_of_effect):** [Cones](tokens/areas_of_effect/cones), [Cubes](tokens/areas_of_effect/cubes), [Lines](tokens/areas_of_effect/lines), [Spheres](tokens/areas_of_effect/spheres)
-- **[Conditions](tokens/miscellaneous/conditions)**
-- **[Spells](tokens/miscellaneous/spells)**
+- **[Conditions](tokens/conditions)**
+- **[Spells](tokens/spells)**
 
 This work is based on the Dungeons and Dragons 5th Edition game by Wizards of the Coast; I simply list and tabulate their content for ease of use. The contents, copyrights, and trademarks of everything involving Dungeons and Dragons 5th Edition are exclusively held by Wizards of the Coast; I make no claim to any of these in any way.
 
