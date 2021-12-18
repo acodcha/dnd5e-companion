@@ -1,4 +1,4 @@
-# Rewards and Treasure
+# Treasure and Rewards
 - **[Individual Monster Treasure](#individual-monster-treasure)**
 - **[Treasure Hoards](#treasure-hoards)**
 - **[Quest Rewards](#quest-rewards)**
@@ -6,7 +6,7 @@
 - **[Gemstones](#gemstones):** [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [100 gp Gemstones](#gemstones-100-gp), [500 gp Gemstones](#gemstones-500-gp), [1,000 gp Gemstones](#gemstones-1000-gp), [5,000 gp Gemstones](#gemstones-5000-gp)
 - **[Art Objects](#art-objects):** [25 gp Art Objects](#art-objects-25-gp), [250 gp Art Objects](#art-objects-250-gp), [750 gp Art Objects](#art-objects-750-gp), [2,500 gp Art Objects](#art-objects-2500-gp), [7,500 gp Art Objects](#art-objects-7500-gp)
 
-[< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
+[< Back to Main Page](../../README.md#dungeons-and-dragons-5th-edition)
 
 ## Individual Monster Treasure
 Not all monsters carry coinage on their person, but those that do can be expected to carry the amounts shown in the following table.

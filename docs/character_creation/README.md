@@ -6,7 +6,7 @@
 - [Height and Weight](#height-and-weight)
 - [Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts)
 
-[< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
+[< Back to Main Page](../../README.md#dungeons-and-dragons-5th-edition)
 
 ## Advancement
 The following table shows the total XP amounts at which a character gains a new level.

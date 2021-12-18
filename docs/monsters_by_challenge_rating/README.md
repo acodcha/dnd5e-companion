@@ -8,7 +8,7 @@
 - [CR 21](#challenge-rating-21), [CR 22](#challenge-rating-22), [CR 23](#challenge-rating-23), [CR 24](#challenge-rating-24)
 - [CR 25](#challenge-rating-25), [CR 26](#challenge-rating-26), [CR 27+](#challenge-rating-27)
 
-[< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
+[< Back to Main Page](../../README.md#dungeons-and-dragons-5th-edition)
 
 Abbreviations:
 - Eber: *Eberron: Rising from the Last War*
