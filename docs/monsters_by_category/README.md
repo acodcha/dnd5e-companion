@@ -83,7 +83,7 @@ Abbreviations:
 | CR 12 | Human archmage (spells) | Med. | Hum. | - | 8,400 XP | 44 pp | MM 342 |
 | CR 12 | Human warlord (legend) | Med. | Hum. | - | 8,400 XP | 44 pp | Volo 220 |
 
-[^ Back to Common](#common)
+[(Back to Common)](#common)
 
 ### Common: Dwarves
 Dwarves use the same stat blocks as humans, with the following changes:
@@ -94,7 +94,7 @@ Dwarves use the same stat blocks as humans, with the following changes:
 - **Stonecunning:** Whenever dwarves make an Intelligence (History) check related to the origin of stonework, they are considered to have expertise in the skill, adding double their proficiency bonus to the check.
 - **Weapons:** Dwarves favor hammers (warhammer, maul, mace, light hammer), axes (battleaxe, greataxe, handaxe), and crossbows (light crossbow, heavy crossbow, hand crossbow) over other weapons.
 
-[^ Back to Common](#common)
+[(Back to Common)](#common)
 
 ### Common: Elves
 Elves use the same stat blocks as humans, with the following changes:
@@ -104,7 +104,7 @@ Elves use the same stat blocks as humans, with the following changes:
 - **Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
 - **Weapons:** Elves favor swords (longsword, rapier, scimitar, shortsword, greatsword) and bows (longbow, shortbow) over other weapons.
 
-[^ Back to Common](#common)
+[(Back to Common)](#common)
 
 ## Arctic
 - [Monsters](#arctic-monsters)
@@ -129,7 +129,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 9 | Salamander, frost (burrow) (climb) | Huge | Elem. | – | 5,000 XP | – | Mord 223 |
 | CR 11 | Remorhaz (burrow) | Huge | Monstr. | – | 7,200 XP | – | MM 258 |
 
-[^ Back to Arctic](#arctic)
+[(Back to Arctic)](#arctic)
 
 ### Arctic: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -141,7 +141,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 9 | Yeti, abominable (climb) | Huge | Monstr. | CE | 5,000 XP | – | MM 306 |
 | CR 12 | Giant, frost, everlasting one | Huge | Giant | CE | 8,400 XP | 44 pp | Volo 148 |
 
-[^ Back to Arctic](#arctic)
+[(Back to Arctic)](#arctic)
 
 ### Arctic: White Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -153,7 +153,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 20 | Dragon, white, ancient (climb) (swim) (fly) (legend) (lair) | Garg. | Dragon | CE | 25,000 XP | – | MM 100 |
 | CR 21 | Dracolich, white, ancient (climb) (swim) (fly) (legend) (lair) | Garg. | Undead | CE | 33,000 XP | – | MM 84, 100 |
 
-[^ Back to Arctic](#arctic)
+[(Back to Arctic)](#arctic)
 
 ## Oceans
 - [Monsters](#oceans-monsters)
@@ -182,7 +182,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 20 | Leviathan (swim) (legend) | Garg. | Elem. | N | 25,000 XP | – | Mord 198 |
 | CR 23 | Kraken (swim) (legend) (lair) | Garg. | Monstr. | CE | 50,000 XP | – | MM 197 |
 
-[^ Back to Oceans](#oceans)
+[(Back to Oceans)](#oceans)
 
 ### Oceans: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -195,7 +195,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 10 | Aboleth (swim) (legend) (lair) | Large | Aberr. | LE | 5,900 XP | – | MM 13 |
 | CR 11 | Genie, marid (swim) (fly) (spells) | Large | Elem. | CN | 7,200 XP | 30 pp | MM 146 |
 
-[^ Back to Oceans](#oceans)
+[(Back to Oceans)](#oceans)
 
 ## Coastal
 - [Monsters](#coastal-monsters)
@@ -219,7 +219,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 3 | Water weird (swim) | Large | Elem. | N | 700 XP | – | MM 299 |
 | CR 5 | Crocodile, giant (swim) | Huge | Beast | – | 1,800 XP | – | MM 324 |
 
-[^ Back to Coastal](#coastal)
+[(Back to Coastal)](#coastal)
 
 ### Coastal: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -236,7 +236,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 13 | Giant, storm (swim) (spells) | Huge | Giant | CG | 10,000 XP | 64 pp | MM 156 |
 | CR 16 | Giant, storm, quintessent (swim) (fly) (legend) (lair) | Huge | Giant | CG | 15,000 XP | 200 pp | Volo 151 |
 
-[^ Back to Coastal](#coastal)
+[(Back to Coastal)](#coastal)
 
 ### Coastal: Bronze Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -246,7 +246,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 15 | Dragon, bronze, adult (swim) (fly) (shapech) (legend) (lair) | Huge | Dragon | LG | 13,000 XP | – | MM 108 |
 | CR 22 | Dragon, bronze, ancient (swim) (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 41,000 XP | – | MM 107 |
 
-[^ Back to Coastal](#coastal)
+[(Back to Coastal)](#coastal)
 
 ## Swamps
 - [Monsters](#swamps-monsters)
@@ -284,7 +284,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 8 | Hydra (swim) | Huge | Monstr. | – | 3,900 XP | – | MM 190 |
 | CR 10 | Froghemoth (swim) | Huge | Monstr. | – | 5,900 XP | – | Volo 145 |
 
-[^ Back to Swamps](#swamps)
+[(Back to Swamps)](#swamps)
 
 ### Swamps: Yuan-ti
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -298,7 +298,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 7 | Yuan-ti abomination (spells) (shapech) | Large | Monstr. | NE | 2,900 XP | 61 gp | MM 308 |
 | CR 12 | Yuan-ti anathema (climb) (swim) (spells) (shapech) | Huge | Monstr. | NE | 8,400 XP | 44 pp | Volo 202 |
 
-[^ Back to Swamps](#swamps)
+[(Back to Swamps)](#swamps)
 
 ### Swamps: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -311,7 +311,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Lizardfolk king (swim) | Med. | Hum. | CE | 1,100 XP | 18 gp | MM 205 |
 | CR 5 | Half-dragon, black, veteran | Med. | Hum. | - | 1,800 XP | 27 gp | MM 180 |
 
-[^ Back to Swamps](#swamps)
+[(Back to Swamps)](#swamps)
 
 ### Swamps: Black Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -323,7 +323,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 21 | Dragon, black, ancient (swim) (fly) (legend) (lair) | Garg. | Dragon | CE | 33,000 XP | – | MM 87 |
 | CR 22 | Dracolich, black, ancient (swim) (fly) (legend) (lair) | Garg. | Undead | CE | 41,000 XP | – | MM 84, 87 |
 
-[^ Back to Swamps](#swamps)
+[(Back to Swamps)](#swamps)
 
 ## Forests
 - [Monsters](#forests-monsters)
@@ -367,7 +367,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Yeth hound (fly) | Large | Fey | NE | 1,100 XP | – | Volo 201 |
 | CR 7 | Ape, giant (climb) | Huge | Beast | – | 2,900 XP | – | MM 323 |
 
-[^ Back to Forests](#forests)
+[(Back to Forests)](#forests)
 
 ### Forests: Trolls
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -378,7 +378,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 11 | Troll, spirit | Large | Giant | CE | 7,200 XP | – | Mord 244 |
 | CR 13 | Troll, dire | Huge | Giant | CE | 10,000 XP | 64 pp | Mord 243 |
 
-[^ Back to Forests](#forests)
+[(Back to Forests)](#forests)
 
 ### Forests: Eladrin
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -388,7 +388,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 10 | Eladrin, summer | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 196 |
 | CR 10 | Eladrin, winter (spells) | Med. | Fey | CN | 5,900 XP | 20 pp | Mord 197 |
 
-[^ Back to Forests](#forests)
+[(Back to Forests)](#forests)
 
 ### Forests: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -411,7 +411,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 5 | Wood woad (climb) | Med. | Plant | LN | 1,800 XP | – | Volo 198 |
 | CR 9 | Treant | Huge | Plant | CG | 5,000 XP | – | MM 289 |
 
-[^ Back to Forests](#forests)
+[(Back to Forests)](#forests)
 
 ### Forests: Faerie Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -424,7 +424,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 2 | Dragon, faerie, indigo (fly) (spells) | Tiny | Dragon | CG | 450 XP | – | MM 133 |
 | CR 2 | Dragon, faerie, violet (fly) (spells) | Tiny | Dragon | CG | 450 XP | – | MM 133 |
 
-[^ Back to Forests](#forests)
+[(Back to Forests)](#forests)
 
 ### Forests: Green Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -436,7 +436,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 22 | Dragon, green, ancient (swim) (fly) (legend) (lair) | Garg. | Dragon | LE | 41,000 XP | – | MM 93 |
 | CR 23 | Dracolich, green, ancient (swim) (fly) (legend) (lair) | Garg. | Undead | LE | 50,000 XP | – | MM 84, 93 |
 
-[^ Back to Forests](#forests)
+[(Back to Forests)](#forests)
 
 ## Plains
 - [Monsters](#plains-monsters)
@@ -481,7 +481,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 6 | Chimera (fly) | Large | Monstr. | CE | 2,300 XP | – | MM 39 |
 | CR 30 | Tarrasque (legend) | Garg. | Monstr. | – | 155,000 XP | – | MM 286 |
 
-[^ Back to Plains](#plains)
+[(Back to Plains)](#plains)
 
 ### Plains: Hobgoblins
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -492,7 +492,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Hobgoblin devastator (spells) | Med. | Hum. | LE | 1,100 XP | 18 gp | Volo 161 |
 | CR 6 | Hobgoblin warlord | Med. | Hum. | LE | 2,300 XP | 41 gp | MM 187 |
 
-[^ Back to Plains](#plains)
+[(Back to Plains)](#plains)
 
 ### Plains: Gnolls
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -505,7 +505,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Gnoll fang of Yeenoghu | Med. | Fiend | CE | 1,100 XP | 18 gp | MM 163 |
 | CR 9 | Gnoll flind | Med. | Hum. | CE | 5,000 XP | 14 pp | Volo 153 |
 
-[^ Back to Plains](#plains)
+[(Back to Plains)](#plains)
 
 ### Plains: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -519,7 +519,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 6 | Hag, dusk (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | NE | 2,300 XP | 41 gp | Eber 292 |
 | CR 7 | Oni (fly) (spells) (shapech) | Large | Giant | LE | 2,900 XP | 61 gp | MM 239 |
 
-[^ Back to Plains](#plains)
+[(Back to Plains)](#plains)
 
 ### Plains: Gold Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -529,7 +529,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 17 | Dragon, gold, adult (swim) (fly) (shapech) (legend) (lair) | Huge | Dragon | LG | 18,000 XP | – | MM 114 |
 | CR 24 | Dragon, gold, ancient (swim) (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 62,000 XP | – | MM 113 |
 
-[^ Back to Plains](#plains)
+[(Back to Plains)](#plains)
 
 ## Hills
 - [Monsters](#hills-monsters)
@@ -574,7 +574,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 12 | Gray render | Large | Monstr. | CN | 8,400 XP | – | Mord 209 |
 | CR 22 | Zaratan (swim) (legend) | Garg. | Elem. | N | 41,000 XP | – | Mord 201 |
 
-[^ Back to Hills](#hills)
+[(Back to Hills)](#hills)
 
 ### Hills: Goblins
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -584,7 +584,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 1 | Goblin nilbog (spells) | Small | Hum. | CE | 200 XP | 40 sp | Volo 182 |
 | CR 4 | Goblin barghest (spells) (shapech) | Large | Fiend | NE | 1,100 XP | – | Volo 123 |
 
-[^ Back to Hills](#hills)
+[(Back to Hills)](#hills)
 
 ### Hills: Ogres
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -596,7 +596,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 3 | Ogre chain brute | Large | Giant | CE | 700 XP | 12 gp | Mord 221 |
 | CR 4 | Ogre battering ram | Large | Giant | CE | 1,100 XP | 18 gp | Mord 220 |
 
-[^ Back to Hills](#hills)
+[(Back to Hills)](#hills)
 
 ### Hills: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -609,7 +609,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 10 | Giant, stone, dreamwalker | Huge | Giant | CN | 5,900 XP | 20 pp | Volo 150 |
 | CR 11 | Genie, dao (burrow) (fly) (spells) | Large | Elem. | NE | 7,200 XP | 30 pp | MM 143 |
 
-[^ Back to Hills](#hills)
+[(Back to Hills)](#hills)
 
 ### Hills: Copper Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -619,7 +619,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 14 | Dragon, copper, adult (climb) (fly) (legend) (lair) | Huge | Dragon | CG | 11,500 XP | – | MM 111 |
 | CR 21 | Dragon, copper, ancient (climb) (fly) (shapech) (legend) (lair) | Garg. | Dragon | CG | 33,000 XP | – | MM 110 |
 
-[^ Back to Hills](#hills)
+[(Back to Hills)](#hills)
 
 ## Mountains
 - [Monsters](#mountains-monsters)
@@ -656,7 +656,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 11 | Roc (fly) | Garg. | Monstr. | – | 7,200 XP | – | MM 260 |
 | CR 23 | Elder tempest (fly) (legend) | Garg. | Elem. | N | 50,000 XP | – | Mord 200 |
 
-[^ Back to Mountains](#mountains)
+[(Back to Mountains)](#mountains)
 
 ### Mountains: Kobolds
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -667,7 +667,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 1 | Kobold dragonshield | Small | Hum. | LE | 200 XP | 40 sp | Volo 165 |
 | CR 1 | Kobold scale sorcerer (spells) | Small | Hum. | LE | 200 XP | 40 sp | Volo 167 |
 
-[^ Back to Mountains](#mountains)
+[(Back to Mountains)](#mountains)
 
 ### Mountains: Orcs
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -683,7 +683,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Orc war chief | Med. | Hum. | CE | 1,100 XP | 18 gp | MM 246 |
 | CR 5 | Orc tanarukk | Med. | Fiend | CE | 1,800 XP | 27 gp | Volo 186 |
 
-[^ Back to Mountains](#mountains)
+[(Back to Mountains)](#mountains)
 
 ### Mountains: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -699,7 +699,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 11 | Genie, djinni (fly) (spells) | Large | Elem. | CG | 7,200 XP | 30 pp | MM 144 |
 | CR 11 | Giant, cloud, smiling one (spells) (shapech) | Huge | Giant | CN | 7,200 XP | 30 pp | Volo 146 |
 
-[^ Back to Mountains](#mountains)
+[(Back to Mountains)](#mountains)
 
 ### Mountains: Red Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -711,7 +711,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 24 | Dragon, red, ancient (climb) (fly) (legend) (lair) | Garg. | Dragon | CE | 62,000 XP | – | MM 97 |
 | CR 25 | Dracolich, red, ancient (climb) (fly) (legend) (lair) | Garg. | Undead | CE | 75,000 XP | – | MM 84, 97 |
 
-[^ Back to Mountains](#mountains)
+[(Back to Mountains)](#mountains)
 
 ### Mountains: Silver Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -721,7 +721,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 16 | Dragon, silver, adult (fly) (shapech) (legend) (lair) | Huge | Dragon | LG | 15,000 XP | – | MM 117 |
 | CR 23 | Dragon, silver, ancient (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 50,000 XP | – | MM 116 |
 
-[^ Back to Mountains](#mountains)
+[(Back to Mountains)](#mountains)
 
 ## Deserts
 - [Monsters](#deserts-monsters)
@@ -751,7 +751,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 15 | Purple worm (burrow) | Garg. | Monstr. | – | 13,000 XP | – | MM 255 |
 | CR 16 | Phoenix (fly) (legend) | Garg. | Elem. | N | 15,000 XP | – | Mord 199 |
 
-[^ Back to Deserts](#deserts)
+[(Back to Deserts)](#deserts)
 
 ### Deserts: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -769,7 +769,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 11 | Genie, efreeti (fly) (spells) | Large | Elem. | LE | 7,200 XP | 30 pp | MM 145 |
 | CR 14 | Giant, fire, dreadnought | Huge | Giant | LE | 11,500 XP | 94 pp | Volo 147 |
 
-[^ Back to Deserts](#deserts)
+[(Back to Deserts)](#deserts)
 
 ### Deserts: Blue Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -781,7 +781,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 23 | Dragon, blue, ancient (burrow) (fly) (legend) (lair) | Garg. | Dragon | LE | 50,000 XP | – | MM 90 |
 | CR 24 | Dracolich, blue, ancient (burrow) (fly) (legend) (lair) | Garg. | Undead | LE | 62,000 XP | – | MM 84, 90 |
 
-[^ Back to Deserts](#deserts)
+[(Back to Deserts)](#deserts)
 
 ### Deserts: Brass Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -791,7 +791,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 13 | Dragon, brass, adult (burrow) (fly) (legend) (lair) | Huge | Dragon | CG | 10,000 XP | – | MM 105 |
 | CR 20 | Dragon, brass, ancient (burrow) (fly) (shapech) (legend) (lair) | Garg. | Dragon | CG | 25,000 XP | – | MM 104 |
 
-[^ Back to Deserts](#deserts)
+[(Back to Deserts)](#deserts)
 
 ## Ruins
 - [Monsters](#ruins-monsters)
@@ -821,7 +821,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 5 | Rat, cranium, swarm (spells) | Med. | Beast | LE | 1,800 XP | – | Volo 133 |
 | CR 10 | Oblex, elder (spells) | Huge | Ooze | LE | 5,900 XP | – | Mord 219 |
 
-[^ Back to Ruins](#ruins)
+[(Back to Ruins)](#ruins)
 
 ### Ruins: Lycanthropes
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -832,7 +832,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Lycanthrope weretiger (shapech) | Med. | Hum. | N | 1,100 XP | 18 gp | MM 210 |
 | CR 5 | Lycanthrope werebear (climb) (shapech) | Med. | Hum. | NG | 1,800 XP | 27 gp | MM 208 |
 
-[^ Back to Ruins](#ruins)
+[(Back to Ruins)](#ruins)
 
 ### Ruins: Star Spawn
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -843,7 +843,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 13 | Star spawn seer | Med. | Aberr. | NE | 10,000 XP | 64 pp | Mord 236 |
 | CR 16 | Star spawn larva mage (spells) (legend) | Med. | Aberr. | CE | 15,000 XP | 200 pp | Mord 235 |
 
-[^ Back to Ruins](#ruins)
+[(Back to Ruins)](#ruins)
 
 ### Ruins: Quori
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -855,7 +855,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 9 | Quori hashalaq (spells) | Med. | Aberr. | LE | 5,000 XP | – | Eber 305 |
 | CR 19 | Quori kalaraq (fly) (spells) | Med. | Aberr. | LE | 22,000 XP | – | Eber 306 |
 
-[^ Back to Ruins](#ruins)
+[(Back to Ruins)](#ruins)
 
 ### Ruins: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -883,7 +883,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 22 | Daelkyr, lord, Belashyrra (fly) (legend) (lair) | Med. | Aberr. | CE | 41,000 XP | 840 pp | Eber 286 |
 | CR 24 | Daelkyr, lord, Dyrrn (fly) (legend) (lair) | Med. | Aberr. | CE | 62,000 XP | 970 pp | Eber 288 |
 
-[^ Back to Ruins](#ruins)
+[(Back to Ruins)](#ruins)
 
 ## Underground
 - [Monsters](#underground-monsters)
@@ -921,7 +921,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 8 | Cloaker (fly) | Large | Aberr. | CN | 3,900 XP | – | MM 41 |
 | CR 13 | Neothelid (spells) | Garg. | Aberr. | CE | 10,000 XP | – | Volo 181 |
 
-[^ Back to Underground](#underground)
+[(Back to Underground)](#underground)
 
 ### Underground: Duergar
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -937,7 +937,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 6 | Duergar warlord | Med. | Hum. | LE | 2,300 XP | 41 gp | Mord 192 |
 | CR 12 | Duergar despot (spells) | Med. | Hum. | LE | 8,400 XP | 44 pp | Mord 188 |
 
-[^ Back to Underground](#underground)
+[(Back to Underground)](#underground)
 
 ### Underground: Drow
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -955,7 +955,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 18 | Drow favored consort (spells) | Med. | Hum. | NE | 20,000 XP | 380 pp | Mord 183 |
 | CR 20 | Drow matron mother (spells) (legend) | Med. | Hum. | NE | 25,000 XP | 610 pp | Mord 186 |
 
-[^ Back to Underground](#underground)
+[(Back to Underground)](#underground)
 
 ### Underground: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -980,7 +980,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 6 | Kuo-toa archpriest (swim) (spells) | Med. | Hum. | NE | 2,300 XP | 41 gp | MM 200 |
 | CR 8 | Fomorian | Huge | Giant | CE | 3,900 XP | 91 gp | MM 136 |
 
-[^ Back to Underground](#underground)
+[(Back to Underground)](#underground)
 
 ### Underground: Beholders
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -992,7 +992,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 13 | Beholder (fly) (legend) (lair +1 CR) | Large | Aberr. | LE | 10,000 XP | – | MM 28 |
 | CR 14 | Beholder death tyrant (fly) (legend) (lair +1 CR) | Large | Undead | LE | 11,500 XP | – | MM 29 |
 
-[^ Back to Underground](#underground)
+[(Back to Underground)](#underground)
 
 ### Underground: Illithids
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1006,7 +1006,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 14 | Elder brain (swim) (spells) (legend) (lair) | Large | Aberr. | LE | 11,500 XP | – | Volo 174 |
 | CR 22 | Illithid lich (spells) (legend) | Med. | Undead | E | 41,000 XP | 840 pp | Volo 172 |
 
-[^ Back to Underground](#underground)
+[(Back to Underground)](#underground)
 
 ## Constructs
 - [Instinctive](#constructs-instinctive)
@@ -1039,7 +1039,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 16 | Golem, iron | Large | Constr. | – | 15,000 XP | – | MM 170 |
 | CR 16 | Steel predator (spells) | Large | Constr. | LE | 15,000 XP | – | Mord 239 |
 
-[^ Back to Constructs](#constructs)
+[(Back to Constructs)](#constructs)
 
 ### Constructs: Sentient
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1054,7 +1054,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 18 | Warforged, Lord of Blades (spells) (legend) | Med. | Hum. | LE | 20,000 XP | 380 pp | Eber 300 |
 | CR 25 | Warforged colossus | Garg. | Constr. | – | 75,000 XP | – | Eber 314 |
 
-[^ Back to Constructs](#constructs)
+[(Back to Constructs)](#constructs)
 
 ### Constructs: Mechanus
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1066,7 +1066,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 2 | Modron pentadrone | Large | Constr. | LN | 450 XP | – | MM 226 |
 | CR 25 | Inevitable, marut (fly) (spells) (legend) | Large | Constr. | LN | 75,000 XP | – | Mord 213 |
 
-[^ Back to Constructs](#constructs)
+[(Back to Constructs)](#constructs)
 
 ## Undead
 - [Instinctive](#undead-instinctive)
@@ -1093,7 +1093,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 8 | Corpse flower (climb) | Large | Plant | CE | 3,900 XP | – | Mord 127 |
 | CR 12 | Boneclaw | Large | Undead | CE | 8,400 XP | – | Mord 121 |
 
-[^ Back to Undead](#undead)
+[(Back to Undead)](#undead)
 
 ### Undead: Ethereal
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1109,7 +1109,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 5 | Wraith (fly) | Med. | Undead | NE | 1,800 XP | – | MM 302 |
 | CR 8 | Wraith, sword commander | Med. | Undead | LE | 3,900 XP | – | Mord 241 |
 
-[^ Back to Undead](#undead)
+[(Back to Undead)](#undead)
 
 ### Undead: Sentient
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1129,7 +1129,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 21 | Lich (spells) (legend) (lair +1 CR) | Med. | Undead | E | 33,000 XP | 730 pp | MM 202 |
 | CR 22 | Lich, Lady Illmarrow (fly) (spells) (legend) | Med. | Undead | NE | 41,000 XP | 840 pp | Eber 297 |
 
-[^ Back to Undead](#undead)
+[(Back to Undead)](#undead)
 
 ## Shadowfell
 - [Monsters](#shadowfell-monsters)
@@ -1158,7 +1158,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 13 | Sorrowsworn, angry | Med. | Monstr. | NE | 10,000 XP | – | Mord 231 |
 | CR 20 | Nightwalker (fly) | Huge | Undead | CE | 25,000 XP | – | Mord 216 |
 
-[^ Back to Shadowfell](#shadowfell)
+[(Back to Shadowfell)](#shadowfell)
 
 ### Shadowfell: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1173,7 +1173,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 15 | Vampire lord spellcaster (fly) (spells) (shapech) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | MM 297 |
 | CR 15 | Vampire lord warrior (fly) (shapech) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | MM 297 |
 
-[^ Back to Shadowfell](#shadowfell)
+[(Back to Shadowfell)](#shadowfell)
 
 ### Shadowfell: Shadow Chromatic Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1199,7 +1199,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 26 | Dragon, shadow, blue, ancient (burrow) (fly) (legend) (lair) | Garg. | Dragon | LE | 90,000 XP | – | MM 85, 90 |
 | CR 27 | Dragon, shadow, red, ancient (climb) (fly) (legend) (lair) | Garg. | Dragon | CE | 105,000 XP | – | MM 85, 97 |
 
-[^ Back to Shadowfell](#shadowfell)
+[(Back to Shadowfell)](#shadowfell)
 
 ### Shadowfell: Shadow Metallic Dragons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1225,7 +1225,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 26 | Dragon, shadow, silver, ancient (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 90,000 XP | – | MM 85, 116 |
 | CR 27 | Dragon, shadow, gold, ancient (swim) (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 105,000 XP | – | MM 85, 113 |
 
-[^ Back to Shadowfell](#shadowfell)
+[(Back to Shadowfell)](#shadowfell)
 
 ## Lower Planes
 - [Monsters](#lower-planes-monsters)
@@ -1249,7 +1249,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 13 | Devourer | Large | Fiend | CE | 10,000 XP | – | Volo 138 |
 | CR 14 | Cadaver collector | Large | Constr. | LE | 11,500 XP | – | Mord 122 |
 
-[^ Back to Lower Planes](#lower-planes)
+[(Back to Lower Planes)](#lower-planes)
 
 ### Lower Planes: Demons
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1290,7 +1290,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 26 | Demon, lord, Demogorgon (swim) (spells) (legend) (lair) | Huge | Fiend | CE | 90,000 XP | 1,100 pp | Mord 144 |
 | CR 26 | Demon, lord, Orcus (fly) (spells) (legend) (lair) | Huge | Fiend | CE | 90,000 XP | 1,100 pp | Mord 153 |
 
-[^ Back to Lower Planes](#lower-planes)
+[(Back to Lower Planes)](#lower-planes)
 
 ### Lower Planes: Devils
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1319,7 +1319,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 22 | Devil, archdevil, Geryon (fly) (spells) (legend) | Huge | Fiend | LE | 41,000 XP | 840 pp | Mord 173 |
 | CR 26 | Devil, archdevil, Zariel (fly) (spells) (legend) (lair) | Large | Fiend | LE | 90,000 XP | 1,100 pp | Mord 180 |
 
-[^ Back to Lower Planes](#lower-planes)
+[(Back to Lower Planes)](#lower-planes)
 
 ### Lower Planes: Abishai
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1330,7 +1330,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 17 | Devil, abishai, blue (fly) (spells) | Med. | Fiend | LE | 18,000 XP | 280 pp | Mord 161 |
 | CR 19 | Devil, abishai, red (fly) | Med. | Fiend | LE | 22,000 XP | 490 pp | Mord 162 |
 
-[^ Back to Lower Planes](#lower-planes)
+[(Back to Lower Planes)](#lower-planes)
 
 ### Lower Planes: Slaadi
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1342,7 +1342,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 9 | Slaad, gray (spells) (shapech) | Med. | Aberr. | CN | 5,000 XP | 14 pp | MM 277 |
 | CR 10 | Slaad, death (spells) (shapech) | Med. | Aberr. | CE | 5,900 XP | 20 pp | MM 278 |
 
-[^ Back to Lower Planes](#lower-planes)
+[(Back to Lower Planes)](#lower-planes)
 
 ### Lower Planes: Peoples
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1365,7 +1365,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 28 | Overlord, Rak Tulkhesh (climb) (fly) (spells) (shapech) (legend) | Huge | Fiend | NE | 120,000 XP | 1,200 pp | Eber 303 |
 | CR 28 | Overlord, Sul Khatesh (fly) (spells) (shapech) (legend) | Large | Fiend | LE | 120,000 XP | 1,200 pp | Eber 304 |
 
-[^ Back to Lower Planes](#lower-planes)
+[(Back to Lower Planes)](#lower-planes)
 
 ## Upper Planes
 - [Celestials](#upper-planes-celestials)
@@ -1388,7 +1388,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 21 | Astral dreadnought (fly) (legend) | Garg. | Monstr. | – | 33,000 XP | – | Mord 117 |
 | CR 23 | Empyrean (swim) (fly) (spells) (legend) | Huge | Celest. | CG/NE | 50,000 XP | 930 pp | MM 130 |
 
-[^ Back to Upper Planes](#upper-planes)
+[(Back to Upper Planes)](#upper-planes)
 
 ### Upper Planes: Githyanki
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1399,7 +1399,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 12 | Githyanki kith'rak (spells) | Med. | Hum. | LE | 8,400 XP | 44 pp | Mord 205 |
 | CR 14 | Githyanki supreme commander (spells) (legend) | Med. | Hum. | LE | 11,500 XP | 94 pp | Mord 206 |
 
-[^ Back to Upper Planes](#upper-planes)
+[(Back to Upper Planes)](#upper-planes)
 
 ### Upper Planes: Githzerai
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1409,4 +1409,4 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 10 | Githzerai enlightened (spells) | Med. | Hum. | LN | 5,900 XP | 20 pp | Mord 208 |
 | CR 16 | Githzerai anarch (fly) (spells) (legend) (lair) | Med. | Hum. | LN | 15,000 XP | 200 pp | Mord 207 |
 
-[^ Back to Upper Planes](#upper-planes)
+[(Back to Upper Planes)](#upper-planes)

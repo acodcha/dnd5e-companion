@@ -28,7 +28,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 | Leather armor | 10 gp | 10 lb | Armor Class = 11 + Dexterity modifier. The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. |
 | Studded leather armor | 45 gp | 13 lb | Armor Class = 12 + Dexterity modifier. Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes. |
 
-[^ Back to Armor](#armor)
+[(Back to Armor)](#armor)
 
 ### Medium Armor
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class. Medium armor takes 5 minutes to don and 1 minute to doff.
@@ -41,7 +41,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 | Breastplate armor | 400 gp | 20 lb | Armor Class = 14 + Dex modifier (max 2). This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered. |
 | Half plate armor | 750 gp | 40 lb | Armor Class = 15 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. Half plate armor consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps. |
 
-[^ Back to Armor](#armor)
+[(Back to Armor)](#armor)
 
 ### Heavy Armor
 Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk. Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative. Heavy armor takes 10 minutes to don and 5 minutes to doff. Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If an armor has a Strength requirement, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
@@ -53,7 +53,7 @@ Of all the armor categories, heavy armor offers the best protection. These suits
 | Splint armor | 200 gp | 60 lb | Armor Class = 17. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints. |
 | Plate armor | 1,500 gp | 65 lb | Armor Class = 18. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. Plate armor consists of shaped, interlocking metal plates to cover the entire body. A suit of plate armor includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body. |
 
-[^ Back to Armor](#armor)
+[(Back to Armor)](#armor)
 
 ### Shield
 Many warriors supplement their armor with a shield. A shield takes 1 action to don or doff.
@@ -62,7 +62,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | :----- | :---: | :----: | :---------- |
 | Shield | 10 gp | 6 lb | Wielding a shield increases your Armor Class by 2. A shield is made from wood or metal and is carried in one hand. You can benefit from only one shield at a time. |
 
-[^ Back to Armor](#armor)
+[(Back to Armor)](#armor)
 
 ## Weapons
 - [Simple Melee Weapons](#simple-melee-weapons)
@@ -87,7 +87,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Sickle | 1 gp | 2 lb | 1d4 slashing | Light |
 | Spear | 1 gp | 3 lb | 1d6 piercing | Thrown (range 20/60 ft), versatile (1d8) |
 
-[^ Back to Weapons](#weapons)
+[(Back to Weapons)](#weapons)
 
 ### Martial Melee Weapons
 
@@ -112,7 +112,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Warhammer | 15 gp | 2 lb | 1d8 bludgeoning | Versatile (1d10) |
 | Whip | 2 gp | 3 lb | 1d4 slashing | Finesse, reach |
 
-[^ Back to Weapons](#weapons)
+[(Back to Weapons)](#weapons)
 
 ### Simple Ranged Weapons
 
@@ -123,7 +123,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Shortbow | 25 gp | 2 lb | 1d6 piercing | Ammunition (range 80/320 ft), two-handed |
 | Sling | 1 sp | – | 1d4 bludgeoning | Ammunition (range 30/120 ft) |
 
-[^ Back to Weapons](#weapons)
+[(Back to Weapons)](#weapons)
 
 ### Martial Ranged Weapons
 
@@ -135,7 +135,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Longbow | 50 gp | 2 lb | 1d8 piercing | Ammunition (range 150/600 ft), heavy, two-handed |
 | Net | 1 gp | 3 lb | – | Special (net), thrown (range 5/15 ft) |
 
-[^ Back to Weapons](#weapons)
+[(Back to Weapons)](#weapons)
 
 ## Gear
 - [Ammunition](#ammunition)
@@ -157,7 +157,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Quiver (holds 20 arrows) | 1 gp | 1 lb |
 | Sling bullets (20) | 4 cp | 1½ lb |
 
-[^ Back to Gear](#gear)
+[(Back to Gear)](#gear)
 
 ### Spellcasting Gear
 
@@ -178,7 +178,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Wooden staff (druidic focus) | 5 gp | 4 lb |
 | Yew wand (druidic focus) | 10 gp | 1 lb |
 
-[^ Back to Gear](#gear)
+[(Back to Gear)](#gear)
 
 ### Consumable Gear
 
@@ -197,7 +197,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Rations (1 day) | 5 sp | 2 lb |
 | Torch | 1 cp | 1 lb |
 
-[^ Back to Gear](#gear)
+[(Back to Gear)](#gear)
 
 ### Permanent Gear
 
@@ -273,7 +273,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Waterskin (full) | 2 sp | 5 lb |
 | Whetstone | 1 cp | 1 lb |
 
-[^ Back to Gear](#gear)
+[(Back to Gear)](#gear)
 
 ## Tools
 - [Artisan's Tools](#artisans-tools)
@@ -305,7 +305,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Weaver's tools | 1 gp | 5 lb |
 | Woodcarver's tools | 1 gp | 5 lb |
 
-[^ Back to Tools](#tools)
+[(Back to Tools)](#tools)
 
 ### Gaming Sets
 
@@ -316,7 +316,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Playing card set | 5 sp | – |
 | Three-Dragon Ante set | 1 gp | – |
 
-[^ Back to Tools](#tools)
+[(Back to Tools)](#tools)
 
 ### Musical Instruments
 
@@ -333,7 +333,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Shawm | 2 gp | 1 lb |
 | Viol | 30 gp | 1 lb |
 
-[^ Back to Tools](#tools)
+[(Back to Tools)](#tools)
 
 ### Miscellaneous Tools
 
@@ -348,7 +348,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Thieves' tools | 25 gp | 1 lb |
 | Water vehicles | – | – |
 
-[^ Back to Tools](#tools)
+[(Back to Tools)](#tools)
 
 ## Poisons
 - [Contact Poisons](#contact-poisons)
@@ -368,7 +368,7 @@ Contact poison can be smeared on an object and remains potent until it is touche
 | Carrion crawler mucus | 200 gp | This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
 | Oil of Taggit | 400 gp | A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage. |
 
-[^ Back to Poisons](#poisons)
+[(Back to Poisons)](#poisons)
 
 ### Ingested Poisons
 A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. Applying the poison to food or a liquid takes an action. The Dungeon Master may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.
@@ -381,7 +381,7 @@ A creature must swallow an entire dose of ingested poison to suffer its effects.
 | Torpor poison | 600 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated. |
 | Midnight tears poison | 1,500 gp | A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 9d6 poison damage on a failed save, or half as much damage on a successful one. |
 
-[^ Back to Poisons](#poisons)
+[(Back to Poisons)](#poisons)
 
 ### Inhaled Poisons
 These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Releasing the poison takes an action. Holding one’s breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
@@ -392,7 +392,7 @@ These poisons are powders or gases that take effect when inhaled. Blowing the po
 | Essence of ether | 300 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. |
 | Burnt othur fumes | 500 gp | A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 3d6 poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 1d6 poison damage. After three successful saves, the poison ends. |
 
-[^ Back to Poisons](#poisons)
+[(Back to Poisons)](#poisons)
 
 ### Injury Poisons
 Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. Applying the poison takes an action. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects. One vial of injury poison can be used to coat one slashing or piercing weapon or up to three pieces of ammunition.
@@ -405,4 +405,4 @@ Injury poison can be applied to weapons, ammunition, trap components, and other 
 | Wyvern poison | 1,200 gp | This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 7d6 poison damage on a failed save, or half as much damage on a successful one. |
 | Purple worm poison | 2,000 gp | This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 12d6 poison damage on a failed save, or half as much damage on a successful one. |
 
-[^ Back to Poisons](#poisons)
+[(Back to Poisons)](#poisons)

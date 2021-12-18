@@ -134,7 +134,7 @@ The following table lists experience points awarded for achieving progress objec
 | 11 | Tiger eye | Translucent brown with golden center |
 | 12 | Turquoise | Opaque light blue-green |
 
-[^ Back to Gemstones](#gemstones)
+[(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 50 gp
 | d12   | Gemstone | Appearance |
@@ -152,7 +152,7 @@ The following table lists experience points awarded for achieving progress objec
 | 11 | Star rose quartz | Translucent rosy stone with white star-shaped center |
 | 12 | Zircon | Transparent pale blue-green |
 
-[^ Back to Gemstones](#gemstones)
+[(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 100 gp
 | d10   | Gemstone | Appearance |
@@ -168,7 +168,7 @@ The following table lists experience points awarded for achieving progress objec
 | 9 | Spinel | Transparent red, red-brown, or deep green |
 | 10 | Tourmaline | Transparent pale green, blue, brown, or red |
 
-[^ Back to Gemstones](#gemstones)
+[(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 500 gp
 | d6    | Gemstone | Appearance |
@@ -180,7 +180,7 @@ The following table lists experience points awarded for achieving progress objec
 | 5 | Peridot | Transparent rich olive green |
 | 6 | Topaz | Transparent golden yellow |
 
-[^ Back to Gemstones](#gemstones)
+[(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 1,000 gp
 | d8    | Gemstone | Appearance |
@@ -194,7 +194,7 @@ The following table lists experience points awarded for achieving progress objec
 | 7 | Star sapphire | Translucent blue sapphire with white star-shaped center |
 | 8 | Yellow sapphire | Transparent fiery yellow or yellow­ green |
 
-[^ Back to Gemstones](#gemstones)
+[(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 5,000 gp
 | d4    | Gemstone | Appearance |
@@ -204,7 +204,7 @@ The following table lists experience points awarded for achieving progress objec
 | 3 | Jacinth | Transparent fiery orange |
 | 4 | Ruby | Transparent clear red to deep crimson |
 
-[^ Back to Gemstones](#gemstones)
+[(Back to Gemstones)](#gemstones)
 
 ## Art Objects
 - [25 gp Art Objects](#art-objects-25-gp)
@@ -229,7 +229,7 @@ The following table lists experience points awarded for achieving progress objec
 | 9 | Embroidered silk handkerchief |
 | 10 | Gold locket with a painted portrait inside |
 
-[^ Back to Art Objects](#art-objects)
+[(Back to Art Objects)](#art-objects)
 
 ## Art Objects: 250 gp
 | d10   | Art Object |
@@ -245,7 +245,7 @@ The following table lists experience points awarded for achieving progress objec
 | 9 | Box of turquoise animal figurines |
 | 10 | Gold bird cage with electrum filigree |
 
-[^ Back to Art Objects](#art-objects)
+[(Back to Art Objects)](#art-objects)
 
 ## Art Objects: 750 gp
 | d10   | Art Object |
@@ -261,7 +261,7 @@ The following table lists experience points awarded for achieving progress objec
 | 9 | Obsidian statuette with gold fittings and inlay |
 | 10 | Painted gold war mask |
 
-[^ Back to Art Objects](#art-objects)
+[(Back to Art Objects)](#art-objects)
 
 ## Art Objects: 2,500 gp
 | d10   | Art Object |
@@ -277,7 +277,7 @@ The following table lists experience points awarded for achieving progress objec
 | 9 | Eye patch with a mock eye set in blue sapphire and moonstone |
 | 10 | A necklace string of small pink pearls |
 
-[^ Back to Art Objects](#art-objects)
+[(Back to Art Objects)](#art-objects)
 
 ## Art Objects: 7,500 gp
 | d8    | Art Object |
@@ -291,4 +291,4 @@ The following table lists experience points awarded for achieving progress objec
 | 7 | Jade game board with solid gold playing pieces |
 | 8 | Bejeweled ivory drinking horn with gold filigree |
 
-[^ Back to Art Objects](#art-objects)
+[(Back to Art Objects)](#art-objects)

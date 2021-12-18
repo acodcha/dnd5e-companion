@@ -58,7 +58,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 20 × 1 , CR 13 × 2 , CR 9 × 3 , CR 8 × 4 , CR 7 × 5 , CR 6 × 6 , CR 5 × 7 , CR 4 × 10 , CR 3 × 15 |
 | 20th+3 | CR 20 × 1 , CR 13 × 2 , CR 10 × 3 , CR 8 × 4 , CR 7 × 5 , CR 6 × 6 , CR 5 × 8 , CR 4 × 12 , CR 3 × 17 |
 
-[^ Back to 1 Player Character](#1-player-character)
+[(Back to 1 Player Character)](#1-player-character)
 
 ### 1 Player Character: 2 Encounters per Day
 | Level | Monsters |
@@ -87,7 +87,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 18 × 1 , CR 11 × 2 , CR 9 × 3 , CR 7 × 4 , CR 6 × 5 , CR 5 × 6 , CR 4 × 9 , CR 3 × 13 , CR 2 × 19 |
 | 20th+3 | CR 19 × 1 , CR 12 × 2 , CR 9 × 3 , CR 8 × 4 , CR 7 × 5 , CR 6 × 6 , CR 5 × 7 , CR 4 × 10 , CR 3 × 14 , CR 2 × 20 |
 
-[^ Back to 1 Player Character](#1-player-character)
+[(Back to 1 Player Character)](#1-player-character)
 
 ### 1 Player Character: 3 Encounters per Day
 | Level | Monsters |
@@ -116,7 +116,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 17 × 1 , CR 10 × 2 , CR 8 × 3 , CR 6 × 4 , CR 5 × 5 , CR 4 × 8 , CR 3 × 11 , CR 2 × 16 |
 | 20th+3 | CR 17 × 1 , CR 11 × 2 , CR 8 × 3 , CR 7 × 4 , CR 6 × 5 , CR 5 × 6 , CR 4 × 8 , CR 3 × 12 , CR 2 × 17 |
 
-[^ Back to 1 Player Character](#1-player-character)
+[(Back to 1 Player Character)](#1-player-character)
 
 ### 1 Player Character: 4 Encounters per Day
 | Level | Monsters |
@@ -145,7 +145,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 15 × 1 , CR 9 × 2 , CR 7 × 3 , CR 5 × 4 , CR 4 × 6 , CR 3 × 9 , CR 2 × 12 |
 | 20th+3 | CR 16 × 1 , CR 9 × 2 , CR 7 × 3 , CR 6 × 4 , CR 5 × 5 , CR 4 × 7 , CR 3 × 9 , CR 2 × 14 |
 
-[^ Back to 1 Player Character](#1-player-character)
+[(Back to 1 Player Character)](#1-player-character)
 
 ## 2 Player Characters
 - [1 Encounter per Day](#2-player-characters-1-encounter-per-day)
@@ -182,7 +182,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 25 × 1 , CR 20 × 2 , CR 16 × 3 , CR 13 × 4 , CR 11 × 5 , CR 10 × 6 , CR 9 × 7 , CR 8 × 8 , CR 7 × 10 , CR 6 × 12 , CR 5 × 15 |
 | 20th+3 | CR 25 × 1 , CR 20 × 2 , CR 16 × 3 , CR 13 × 4 , CR 12 × 5 , CR 10 × 6 , CR 9 × 7 , CR 8 × 9 , CR 7 × 11 , CR 6 × 13 , CR 5 × 16 |
 
-[^ Back to 2 Player Characters](#2-player-characters)
+[(Back to 2 Player Characters)](#2-player-characters)
 
 ### 2 Player Characters: 2 Encounters per Day
 | Level | Monsters |
@@ -211,7 +211,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 24 × 1 , CR 18 × 2 , CR 14 × 3 , CR 12 × 4 , CR 10 × 5 , CR 9 × 6 , CR 8 × 7 , CR 7 × 9 , CR 6 × 10 , CR 5 × 13 , CR 4 × 19 |
 | 20th+3 | CR 24 × 1 , CR 19 × 2 , CR 15 × 3 , CR 12 × 4 , CR 11 × 5 , CR 9 × 6 , CR 8 × 7 , CR 7 × 9 , CR 6 × 11 , CR 5 × 14 , CR 4 × 20 |
 
-[^ Back to 2 Player Characters](#2-player-characters)
+[(Back to 2 Player Characters)](#2-player-characters)
 
 ### 2 Player Characters: 3 Encounters per Day
 | Level | Monsters |
@@ -240,7 +240,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 23 × 1 , CR 17 × 2 , CR 13 × 3 , CR 10 × 4 , CR 9 × 5 , CR 8 × 6 , CR 7 × 7 , CR 6 × 9 , CR 5 × 10 , CR 4 × 16 |
 | 20th+3 | CR 23 × 1 , CR 17 × 2 , CR 13 × 3 , CR 11 × 4 , CR 9 × 5 , CR 8 × 6 , CR 7 × 8 , CR 6 × 10 , CR 5 × 12 , CR 4 × 17 |
 
-[^ Back to 2 Player Characters](#2-player-characters)
+[(Back to 2 Player Characters)](#2-player-characters)
 
 ### 2 Player Characters: 4 Encounters per Day
 | Level | Monsters |
@@ -269,7 +269,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 21 × 1 , CR 15 × 2 , CR 11 × 3 , CR 9 × 4 , CR 8 × 5 , CR 7 × 6 , CR 6 × 7 , CR 5 × 8 , CR 4 × 12 , CR 3 × 18 |
 | 20th+3 | CR 22 × 1 , CR 15 × 2 , CR 12 × 3 , CR 9 × 4 , CR 8 × 5 , CR 7 × 6 , CR 6 × 8 , CR 5 × 9 , CR 4 × 14 , CR 3 × 20 |
 
-[^ Back to 2 Player Characters](#2-player-characters)
+[(Back to 2 Player Characters)](#2-player-characters)
 
 ## 3 Player Characters
 - [1 Encounter per Day](#3-player-characters-1-encounter-per-day)
@@ -306,7 +306,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 29 × 1 , CR 22 × 2 , CR 20 × 3 , CR 17 × 4 , CR 15 × 5 , CR 13 × 6 , CR 12 × 7 , CR 11 × 8 , CR 10 × 9 , CR 9 × 10 , CR 8 × 12 |
 | 20th+3 | CR 30 × 1 , CR 23 × 2 , CR 20 × 3 , CR 17 × 4 , CR 16 × 5 , CR 14 × 6 , CR 12 × 7 , CR 11 × 8 , CR 10 × 10 , CR 9 × 11 , CR 8 × 13 |
 
-[^ Back to 3 Player Characters](#3-player-characters)
+[(Back to 3 Player Characters)](#3-player-characters)
 
 ### 3 Player Characters: 2 Encounters per Day
 | Level | Monsters |
@@ -335,7 +335,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 28 × 1 , CR 22 × 2 , CR 18 × 3 , CR 16 × 4 , CR 13 × 5 , CR 12 × 6 , CR 11 × 7 , CR 10 × 8 , CR 9 × 9 , CR 8 × 11 , CR 7 × 13 |
 | 20th+3 | CR 29 × 1 , CR 22 × 2 , CR 20 × 3 , CR 16 × 4 , CR 14 × 5 , CR 12 × 6 , CR 11 × 7 , CR 10 × 8 , CR 9 × 10 , CR 8 × 12 , CR 7 × 15 |
 
-[^ Back to 3 Player Characters](#3-player-characters)
+[(Back to 3 Player Characters)](#3-player-characters)
 
 ### 3 Player Characters: 3 Encounters per Day
 | Level | Monsters |
@@ -364,7 +364,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 26 × 1 , CR 21 × 2 , CR 17 × 3 , CR 14 × 4 , CR 12 × 5 , CR 10 × 6 , CR 9 × 7 , CR 8 × 9 , CR 7 × 11 , CR 6 × 13 , CR 5 × 16 |
 | 20th+3 | CR 27 × 1 , CR 21 × 2 , CR 17 × 3 , CR 15 × 4 , CR 13 × 5 , CR 11 × 6 , CR 10 × 7 , CR 9 × 8 , CR 8 × 10 , CR 7 × 12 , CR 6 × 15 |
 
-[^ Back to 3 Player Characters](#3-player-characters)
+[(Back to 3 Player Characters)](#3-player-characters)
 
 ### 3 Player Characters: 4 Encounters per Day
 | Level | Monsters |
@@ -393,7 +393,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 25 × 1 , CR 19 × 2 , CR 15 × 3 , CR 12 × 4 , CR 10 × 5 , CR 9 × 6 , CR 8 × 7 , CR 7 × 9 , CR 6 × 11 , CR 5 × 13 , CR 4 × 19 |
 | 20th+3 | CR 25 × 1 , CR 20 × 2 , CR 16 × 3 , CR 13 × 4 , CR 11 × 5 , CR 9 × 6 , CR 8 × 8 , CR 7 × 10 , CR 6 × 12 , CR 5 × 14 , CR 4 × 20 |
 
-[^ Back to 3 Player Characters](#3-player-characters)
+[(Back to 3 Player Characters)](#3-player-characters)
 
 ## 4 Player Characters
 - [1 Encounter per Day](#4-player-characters-1-encounter-per-day)
@@ -430,7 +430,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 25 × 2 , CR 22 × 3 , CR 20 × 4 , CR 17 × 5 , CR 16 × 6 , CR 14 × 7 , CR 13 × 8 , CR 12 × 9 , CR 11 × 10 , CR 10 × 12 , CR 9 × 14 |
 | 20th+3 | CR 25 × 2 , CR 22 × 3 , CR 20 × 4 , CR 19 × 5 , CR 17 × 6 , CR 15 × 7 , CR 14 × 8 , CR 13 × 9 , CR 12 × 10 , CR 11 × 11 , CR 10 × 13 |
 
-[^ Back to 4 Player Characters](#4-player-characters)
+[(Back to 4 Player Characters)](#4-player-characters)
 
 ### 4 Player Characters: 2 Encounters per Day
 | Level | Monsters |
@@ -459,7 +459,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 24 × 2 , CR 21 × 3 , CR 19 × 4 , CR 16 × 5 , CR 15 × 6 , CR 13 × 7 , CR 12 × 8 , CR 11 × 9 , CR 10 × 11 , CR 9 × 12 , CR 8 × 15 |
 | 20th+3 | CR 24 × 2 , CR 21 × 3 , CR 20 × 4 , CR 17 × 5 , CR 15 × 6 , CR 14 × 7 , CR 13 × 8 , CR 12 × 9 , CR 11 × 10 , CR 10 × 12 , CR 9 × 13 |
 
-[^ Back to 4 Player Characters](#4-player-characters)
+[(Back to 4 Player Characters)](#4-player-characters)
 
 ### 4 Player Characters: 3 Encounters per Day
 | Level | Monsters |
@@ -488,7 +488,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 30 × 1 , CR 23 × 2 , CR 20 × 3 , CR 17 × 4 , CR 15 × 5 , CR 13 × 6 , CR 12 × 7 , CR 11 × 8 , CR 10 × 9 , CR 9 × 10 , CR 8 × 12 |
 | 20th+3 | CR 30 × 1 , CR 23 × 2 , CR 20 × 3 , CR 18 × 4 , CR 16 × 5 , CR 14 × 6 , CR 12 × 7 , CR 11 × 8 , CR 10 × 10 , CR 9 × 11 , CR 8 × 13 |
 
-[^ Back to 4 Player Characters](#4-player-characters)
+[(Back to 4 Player Characters)](#4-player-characters)
 
 ### 4 Player Characters: 4 Encounters per Day
 | Level | Monsters |
@@ -517,7 +517,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 27 × 1 , CR 21 × 2 , CR 18 × 3 , CR 15 × 4 , CR 13 × 5 , CR 11 × 6 , CR 10 × 7 , CR 9 × 8 , CR 8 × 10 , CR 7 × 12 , CR 6 × 15 |
 | 20th+3 | CR 28 × 1 , CR 22 × 2 , CR 19 × 3 , CR 16 × 4 , CR 13 × 5 , CR 12 × 6 , CR 11 × 7 , CR 10 × 8 , CR 9 × 9 , CR 8 × 11 , CR 7 × 13 |
 
-[^ Back to 4 Player Characters](#4-player-characters)
+[(Back to 4 Player Characters)](#4-player-characters)
 
 ## 5 Player Characters
 - [1 Encounter per Day](#5-player-characters-1-encounter-per-day)
@@ -554,7 +554,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 27 × 2 , CR 24 × 3 , CR 22 × 4 , CR 20 × 5 , CR 19 × 6 , CR 17 × 7 , CR 16 × 8 , CR 15 × 9 , CR 13 × 10 , CR 12 × 12 , CR 11 × 13 |
 | 20th+3 | CR 28 × 2 , CR 24 × 3 , CR 22 × 4 , CR 21 × 5 , CR 20 × 6 , CR 18 × 7 , CR 16 × 8 , CR 15 × 9 , CR 14 × 10 , CR 13 × 11 , CR 12 × 13 |
 
-[^ Back to 5 Player Characters](#5-player-characters)
+[(Back to 5 Player Characters)](#5-player-characters)
 
 ### 5 Player Characters: 2 Encounters per Day
 | Level | Monsters |
@@ -583,7 +583,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 26 × 2 , CR 23 × 3 , CR 21 × 4 , CR 19 × 5 , CR 17 × 6 , CR 16 × 7 , CR 14 × 8 , CR 13 × 9 , CR 12 × 10 , CR 11 × 12 , CR 10 × 14 |
 | 20th+3 | CR 27 × 2 , CR 23 × 3 , CR 21 × 4 , CR 20 × 5 , CR 18 × 6 , CR 16 × 7 , CR 15 × 8 , CR 14 × 9 , CR 13 × 10 , CR 12 × 11 , CR 11 × 13 |
 
-[^ Back to 5 Player Characters](#5-player-characters)
+[(Back to 5 Player Characters)](#5-player-characters)
 
 ### 5 Player Characters: 3 Encounters per Day
 | Level | Monsters |
@@ -612,7 +612,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 25 × 2 , CR 22 × 3 , CR 20 × 4 , CR 17 × 5 , CR 15 × 6 , CR 14 × 7 , CR 13 × 8 , CR 12 × 9 , CR 11 × 10 , CR 10 × 11 , CR 9 × 13 |
 | 20th+3 | CR 25 × 2 , CR 22 × 3 , CR 20 × 4 , CR 18 × 5 , CR 16 × 6 , CR 15 × 7 , CR 14 × 8 , CR 13 × 8 , CR 12 × 10 , CR 11 × 11 , CR 10 × 12 |
 
-[^ Back to 5 Player Characters](#5-player-characters)
+[(Back to 5 Player Characters)](#5-player-characters)
 
 ### 5 Player Characters: 4 Encounters per Day
 | Level | Monsters |
@@ -641,7 +641,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 23 × 2 , CR 20 × 3 , CR 17 × 4 , CR 15 × 5 , CR 13 × 6 , CR 12 × 7 , CR 11 × 8 , CR 10 × 9 , CR 9 × 10 , CR 8 × 13 , CR 7 × 16 |
 | 20th+3 | CR 24 × 2 , CR 21 × 3 , CR 18 × 4 , CR 16 × 5 , CR 14 × 6 , CR 13 × 7 , CR 12 × 8 , CR 11 × 9 , CR 10 × 10 , CR 9 × 11 , CR 8 × 14 |
 
-[^ Back to 5 Player Characters](#5-player-characters)
+[(Back to 5 Player Characters)](#5-player-characters)
 
 ## 6 Player Characters
 - [1 Encounter per Day](#6-player-characters-1-encounter-per-day)
@@ -678,7 +678,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 30 × 2 , CR 25 × 3 , CR 23 × 4 , CR 21 × 5 , CR 20 × 6 , CR 19 × 7 , CR 17 × 8 , CR 16 × 9 , CR 15 × 11 , CR 14 × 12 , CR 13 × 13 |
 | 20th+3 | CR 26 × 3 , CR 24 × 4 , CR 22 × 5 , CR 21 × 6 , CR 20 × 7 , CR 19 × 8 , CR 17 × 9 , CR 16 × 10 , CR 15 × 12 , CR 14 × 13 , CR 13 × 14 |
 
-[^ Back to 6 Player Characters](#6-player-characters)
+[(Back to 6 Player Characters)](#6-player-characters)
 
 ### 6 Player Characters: 2 Encounters per Day
 | Level | Monsters |
@@ -707,7 +707,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 29 × 2 , CR 24 × 3 , CR 22 × 4 , CR 21 × 5 , CR 20 × 6 , CR 17 × 7 , CR 16 × 8 , CR 15 × 9 , CR 14 × 10 , CR 13 × 11 , CR 12 × 13 |
 | 20th+3 | CR 30 × 2 , CR 25 × 3 , CR 23 × 4 , CR 21 × 5 , CR 20 × 6 , CR 19 × 7 , CR 17 × 8 , CR 16 × 9 , CR 15 × 10 , CR 14 × 11 , CR 13 × 12 |
 
-[^ Back to 6 Player Characters](#6-player-characters)
+[(Back to 6 Player Characters)](#6-player-characters)
 
 ### 6 Player Characters: 3 Encounters per Day
 | Level | Monsters |
@@ -736,7 +736,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 27 × 2 , CR 23 × 3 , CR 21 × 4 , CR 20 × 5 , CR 17 × 6 , CR 16 × 7 , CR 15 × 8 , CR 14 × 9 , CR 13 × 9 , CR 12 × 11 , CR 11 × 12 |
 | 20th+3 | CR 28 × 2 , CR 24 × 3 , CR 22 × 4 , CR 20 × 5 , CR 19 × 6 , CR 17 × 7 , CR 16 × 8 , CR 14 × 9 , CR 13 × 10 , CR 12 × 12 , CR 11 × 13 |
 
-[^ Back to 6 Player Characters](#6-player-characters)
+[(Back to 6 Player Characters)](#6-player-characters)
 
 ### 6 Player Characters: 4 Encounters per Day
 | Level | Monsters |
@@ -765,7 +765,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 25 × 2 , CR 22 × 3 , CR 20 × 4 , CR 17 × 5 , CR 16 × 6 , CR 14 × 7 , CR 13 × 8 , CR 12 × 9 , CR 11 × 10 , CR 10 × 11 , CR 9 × 13 |
 | 20th+3 | CR 26 × 2 , CR 22 × 3 , CR 20 × 4 , CR 18 × 5 , CR 16 × 6 , CR 15 × 7 , CR 14 × 8 , CR 13 × 8 , CR 12 × 9 , CR 11 × 11 , CR 10 × 12 |
 
-[^ Back to 6 Player Characters](#6-player-characters)
+[(Back to 6 Player Characters)](#6-player-characters)
 
 ## 7 Player Characters
 - [1 Encounter per Day](#7-player-characters-1-encounter-per-day)
@@ -802,7 +802,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 27 × 3 , CR 24 × 4 , CR 23 × 5 , CR 21 × 6 , CR 21 × 7 , CR 20 × 8 , CR 18 × 9 , CR 17 × 10 , CR 16 × 11 , CR 15 × 13 , CR 14 × 14 |
 | 20th+3 | CR 28 × 3 , CR 25 × 4 , CR 23 × 5 , CR 22 × 6 , CR 21 × 7 , CR 20 × 8 , CR 19 × 9 , CR 18 × 10 , CR 17 × 11 , CR 16 × 12 , CR 15 × 14 |
 
-[^ Back to 7 Player Characters](#7-player-characters)
+[(Back to 7 Player Characters)](#7-player-characters)
 
 ### 7 Player Characters: 2 Encounters per Day
 | Level | Monsters |
@@ -831,7 +831,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 30 × 2 , CR 26 × 3 , CR 23 × 4 , CR 22 × 5 , CR 21 × 6 , CR 20 × 7 , CR 18 × 8 , CR 17 × 9 , CR 16 × 10 , CR 15 × 11 , CR 14 × 12 |
 | 20th+3 | CR 26 × 3 , CR 24 × 4 , CR 22 × 5 , CR 21 × 6 , CR 20 × 7 , CR 19 × 8 , CR 18 × 9 , CR 17 × 10 , CR 16 × 11 , CR 15 × 12 , CR 14 × 13 |
 
-[^ Back to 7 Player Characters](#7-player-characters)
+[(Back to 7 Player Characters)](#7-player-characters)
 
 ### 7 Player Characters: 3 Encounters per Day
 | Level | Monsters |
@@ -860,7 +860,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 29 × 2 , CR 25 × 3 , CR 22 × 4 , CR 21 × 5 , CR 20 × 6 , CR 18 × 7 , CR 16 × 8 , CR 15 × 9 , CR 14 × 10 , CR 13 × 11 , CR 12 × 13 |
 | 20th+3 | CR 30 × 2 , CR 25 × 3 , CR 23 × 4 , CR 21 × 5 , CR 20 × 6 , CR 19 × 7 , CR 17 × 8 , CR 16 × 9 , CR 15 × 10 , CR 14 × 11 , CR 13 × 12 |
 
-[^ Back to 7 Player Characters](#7-player-characters)
+[(Back to 7 Player Characters)](#7-player-characters)
 
 ### 7 Player Characters: 4 Encounters per Day
 | Level | Monsters |
@@ -889,7 +889,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 27 × 2 , CR 23 × 3 , CR 21 × 4 , CR 19 × 5 , CR 17 × 6 , CR 16 × 7 , CR 15 × 8 , CR 13 × 9 , CR 12 × 10 , CR 11 × 12 , CR 10 × 13 |
 | 20th+3 | CR 28 × 2 , CR 24 × 3 , CR 22 × 4 , CR 20 × 5 , CR 18 × 6 , CR 16 × 7 , CR 15 × 8 , CR 14 × 9 , CR 13 × 10 , CR 12 × 11 , CR 11 × 13 |
 
-[^ Back to 7 Player Characters](#7-player-characters)
+[(Back to 7 Player Characters)](#7-player-characters)
 
 ## 8 Player Characters
 - [1 Encounter per Day](#8-player-characters-1-encounter-per-day)
@@ -926,7 +926,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 29 × 3 , CR 26 × 4 , CR 24 × 5 , CR 23 × 6 , CR 21 × 7 , CR 21 × 8 , CR 20 × 9 , CR 19 × 10 , CR 18 × 11 , CR 17 × 12 , CR 16 × 13 |
 | 20th+3 | CR 30 × 3 , CR 26 × 4 , CR 24 × 5 , CR 23 × 6 , CR 22 × 7 , CR 21 × 8 , CR 20 × 10 , CR 19 × 11 , CR 18 × 12 , CR 17 × 13 , CR 16 × 15 |
 
-[^ Back to 8 Player Characters](#8-player-characters)
+[(Back to 8 Player Characters)](#8-player-characters)
 
 ### 8 Player Characters: 2 Encounters per Day
 | Level | Monsters |
@@ -955,7 +955,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 27 × 3 , CR 25 × 4 , CR 23 × 5 , CR 22 × 6 , CR 21 × 7 , CR 20 × 8 , CR 19 × 9 , CR 17 × 10 , CR 16 × 12 , CR 15 × 13 , CR 14 × 14 |
 | 20th+3 | CR 28 × 3 , CR 25 × 4 , CR 24 × 5 , CR 22 × 6 , CR 21 × 7 , CR 20 × 9 , CR 18 × 10 , CR 17 × 11 , CR 16 × 13 , CR 15 × 14 , CR 14 × 15 |
 
-[^ Back to 8 Player Characters](#8-player-characters)
+[(Back to 8 Player Characters)](#8-player-characters)
 
 ### 8 Player Characters: 3 Encounters per Day
 | Level | Monsters |
@@ -984,7 +984,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 26 × 3 , CR 24 × 4 , CR 22 × 5 , CR 21 × 6 , CR 20 × 7 , CR 18 × 8 , CR 17 × 9 , CR 16 × 10 , CR 15 × 11 , CR 14 × 12 , CR 13 × 13 |
 | 20th+3 | CR 27 × 3 , CR 24 × 4 , CR 22 × 5 , CR 21 × 6 , CR 20 × 7 , CR 19 × 8 , CR 18 × 9 , CR 17 × 10 , CR 16 × 11 , CR 15 × 12 , CR 14 × 13 |
 
-[^ Back to 8 Player Characters](#8-player-characters)
+[(Back to 8 Player Characters)](#8-player-characters)
 
 ### 8 Player Characters: 4 Encounters per Day
 | Level | Monsters |
@@ -1013,7 +1013,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 | 20th+2 | CR 29 × 2 , CR 24 × 3 , CR 22 × 4 , CR 21 × 5 , CR 19 × 6 , CR 17 × 7 , CR 16 × 8 , CR 15 × 9 , CR 14 × 10 , CR 13 × 11 , CR 12 × 12 |
 | 20th+3 | CR 30 × 2 , CR 25 × 3 , CR 23 × 4 , CR 21 × 5 , CR 20 × 6 , CR 18 × 7 , CR 17 × 8 , CR 16 × 9 , CR 15 × 10 , CR 14 × 11 , CR 13 × 12 |
 
-[^ Back to 8 Player Characters](#8-player-characters)
+[(Back to 8 Player Characters)](#8-player-characters)
 
 ## General
 - [Experience Adjustment Factor](#general-experience-adjustment-factor)
@@ -1051,7 +1051,7 @@ A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR
 | × 19 | 5.21 | 4.28 | 3.72 | 3.31 | 3.02 | 2.77 | 2.56 | 2.38 |
 | × 20 | 5.27 | 4.32 | 3.77 | 3.35 | 3.06 | 2.81 | 2.60 | 2.41 |
 
-[^ Back to General](#general)
+[(Back to General)](#general)
 
 ### General: Adjusted Experience per Player Character
 | Level | 1 Enc./Day | 2 Enc./Day | 3 Enc./Day | 4 Enc./Day |
@@ -1080,4 +1080,4 @@ A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR
 | 20th+2 | 52,650 XP | 43,875 XP | 35,100 XP | 26,325 XP |
 | 20th+3 | 59,400 XP | 49,500 XP | 39,600 XP | 29,700 XP |
 
-[^ Back to General](#general)
+[(Back to General)](#general)
