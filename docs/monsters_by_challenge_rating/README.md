@@ -53,7 +53,7 @@ Abbreviations:
 | CR 0 | Vulture (fly) | Med. | Beast | – | 10 XP | – | MM 339 |
 | CR 0 | Weasel | Tiny | Beast | – | 10 XP | – | MM 340 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating ⅛
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -89,7 +89,7 @@ Abbreviations:
 | CR ⅛ | Weasel, giant | Med. | Beast | – | 25 XP | – | MM 329 |
 | CR ⅛ | Xvart | Small | Hum. | CE | 25 XP | 50 cp | Volo 200 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating ¼
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -161,7 +161,7 @@ Abbreviations:
 | CR ¼ | Wolf | Med. | Beast | – | 50 XP | – | MM 341 |
 | CR ¼ | Zombie | Med. | Undead | NE | 50 XP | 10 sp | MM 316 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating ½
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -219,7 +219,7 @@ Abbreviations:
 | CR ½ | Wasp, giant (fly) | Med. | Beast | – | 100 XP | – | MM 329 |
 | CR ½ | Worg | Large | Monstr. | NE | 100 XP | – | MM 341 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 1
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -288,7 +288,7 @@ Abbreviations:
 | CR 1 | Xvart warlock of Raxivort (spells) | Small | Hum. | CE | 200 XP | 40 sp | Volo 200 |
 | CR 1 | Yuan-ti pureblood (spells) | Med. | Hum. | NE | 200 XP | 40 sp | MM 310 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 2
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -389,7 +389,7 @@ Abbreviations:
 | CR 2 | Yuan-ti broodguard | Med. | Hum. | NE | 450 XP | – | Volo 203 |
 | CR 2 | Zombie, ogre | Large | Undead | NE | 450 XP | 80 sp | MM 316 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 3
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -454,7 +454,7 @@ Abbreviations:
 | CR 3 | Yuan-ti malison (spells) (shapech) | Med. | Monstr. | NE | 700 XP | 12 gp | MM 309 |
 | CR 3 | Yugoloth merrenoloth (swim) (spells) | Med. | Fiend | NE | 700 XP | 12 gp | Mord 250 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 4
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -498,7 +498,7 @@ Abbreviations:
 | CR 4 | Yuan-ti mind whisperer (spells) (shapech) | Med. | Monstr. | NE | 1,100 XP | 18 gp | Volo 204 |
 | CR 4 | Yuan-ti nightmare speaker (spells) (shapech) | Med. | Monstr. | NE | 1,100 XP | 18 gp | Volo 205 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 5
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -570,7 +570,7 @@ Abbreviations:
 | CR 5 | Yugoloth mezzoloth (spells) | Med. | Fiend | NE | 1,800 XP | 27 gp | MM 313 |
 | CR 5 | Zombie, beholder (fly) | Large | Undead | NE | 1,800 XP | – | MM 316 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 6
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -603,7 +603,7 @@ Abbreviations:
 | CR 6 | Medusa | Med. | Monstr. | LE | 2,300 XP | 41 gp | MM 214 |
 | CR 6 | Wyvern (fly) | Large | Dragon | – | 2,300 XP | – | MM 303 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 7
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -638,7 +638,7 @@ Abbreviations:
 | CR 7 | Yuan-ti abomination (spells) (shapech) | Large | Monstr. | NE | 2,900 XP | 61 gp | MM 308 |
 | CR 7 | Yugoloth dhergoloth (spells) | Med. | Fiend | NE | 2,900 XP | 61 gp | Mord 248 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 8
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -668,7 +668,7 @@ Abbreviations:
 | CR 8 | Wraith, sword commander | Med. | Undead | LE | 3,900 XP | – | Mord 241 |
 | CR 8 | Yugoloth canoloth | Med. | Fiend | NE | 3,900 XP | – | Mord 247 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 9
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -701,7 +701,7 @@ Abbreviations:
 | CR 9 | Yugoloth hydroloth (swim) (spells) | Med. | Fiend | NE | 5,000 XP | 14 pp | Mord 249 |
 | CR 9 | Yugoloth nycaloth (fly) (spells) | Large | Fiend | NE | 5,000 XP | 14 pp | MM 314 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 10
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -731,7 +731,7 @@ Abbreviations:
 | CR 10 | Star spawn hulk | Large | Aberr. | CE | 5,900 XP | – | Mord 234 |
 | CR 10 | Undying councilor (spells) (legend) | Med. | Undead | NG | 5,900 XP | 20 pp | Eber 311 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 11
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -758,7 +758,7 @@ Abbreviations:
 | CR 11 | Troll, spirit | Large | Giant | CE | 7,200 XP | – | Mord 244 |
 | CR 11 | Yugoloth yagnoloth (spells) | Large | Fiend | NE | 7,200 XP | 30 pp | Mord 252 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 12
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -781,7 +781,7 @@ Abbreviations:
 | CR 12 | Yugoloth arcanaloth (fly) (spells) | Med. | Fiend | NE | 8,400 XP | 44 pp | MM 313 |
 | CR 12 | Yugoloth oinoloth (spells) | Med. | Fiend | NE | 8,400 XP | 44 pp | Mord 251 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 13
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -805,7 +805,7 @@ Abbreviations:
 | CR 13 | Vampire lord (fly) (shapech) (legend) | Med. | Undead | LE | 10,000 XP | 64 pp | MM 297 |
 | CR 13 | Yugoloth ultroloth (fly) (spells) | Med. | Fiend | NE | 10,000 XP | 64 pp | MM 314 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 14
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -822,7 +822,7 @@ Abbreviations:
 | CR 14 | Githyanki supreme commander (spells) (legend) | Med. | Hum. | LE | 11,500 XP | 94 pp | Mord 206 |
 | CR 14 | Retriever (climb) (spells) | Large | Constr. | LE | 11,500 XP | – | Mord 222 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 15
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -839,7 +839,7 @@ Abbreviations:
 | CR 15 | Vampire lord spellcaster (fly) (spells) (shapech) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | MM 297 |
 | CR 15 | Vampire lord warrior (fly) (shapech) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | MM 297 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 16
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -860,7 +860,7 @@ Abbreviations:
 | CR 16 | Star spawn larva mage (spells) (legend) | Med. | Aberr. | CE | 15,000 XP | 200 pp | Mord 235 |
 | CR 16 | Steel predator (spells) | Large | Constr. | LE | 15,000 XP | – | Mord 239 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 17
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -877,7 +877,7 @@ Abbreviations:
 | CR 17 | Sphinx, androsphinx (fly) (spells) (legend) (lair) | Large | Monstr. | LN | 18,000 XP | 280 pp | MM 281 |
 | CR 17 | Turtle, dragon (swim) | Garg. | Dragon | N | 18,000 XP | – | MM 119 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 18
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -891,7 +891,7 @@ Abbreviations:
 | CR 18 | Drow favored consort (spells) | Med. | Hum. | NE | 20,000 XP | 380 pp | Mord 183 |
 | CR 18 | Warforged, Lord of Blades (spells) (legend) | Med. | Hum. | LE | 20,000 XP | 380 pp | Eber 300 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 19
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -903,7 +903,7 @@ Abbreviations:
 | CR 19 | Dragon, shadow, silver, adult (fly) (shapech) (legend) (lair) | Huge | Dragon | LG | 22,000 XP | – | MM 85, 117 |
 | CR 19 | Quori kalaraq (fly) (spells) | Med. | Aberr. | LE | 22,000 XP | – | Eber 306 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 20
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -917,7 +917,7 @@ Abbreviations:
 | CR 20 | Leviathan (swim) (legend) | Garg. | Elem. | N | 25,000 XP | – | Mord 198 |
 | CR 20 | Nightwalker (fly) | Huge | Undead | CE | 25,000 XP | – | Mord 216 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 21
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -932,7 +932,7 @@ Abbreviations:
 | CR 21 | Dragon, copper, ancient (climb) (fly) (shapech) (legend) (lair) | Garg. | Dragon | CG | 33,000 XP | – | MM 110 |
 | CR 21 | Lich (spells) (legend) (lair +1 CR) | Med. | Undead | E | 33,000 XP | 730 pp | MM 202 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 22
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -946,7 +946,7 @@ Abbreviations:
 | CR 22 | Lich, Lady Illmarrow (fly) (spells) (legend) | Med. | Undead | NE | 41,000 XP | 840 pp | Eber 297 |
 | CR 22 | Zaratan (swim) (legend) | Garg. | Elem. | N | 41,000 XP | – | Mord 201 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 23
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -964,7 +964,7 @@ Abbreviations:
 | CR 23 | Empyrean (swim) (fly) (spells) (legend) | Huge | Celest. | CG/NE | 50,000 XP | 930 pp | MM 130 |
 | CR 23 | Kraken (swim) (legend) (lair) | Garg. | Monstr. | CE | 50,000 XP | – | MM 197 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 24
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -978,7 +978,7 @@ Abbreviations:
 | CR 24 | Dragon, shadow, black, ancient (swim) (fly) (legend) (lair) | Garg. | Dragon | CE | 62,000 XP | – | MM 85, 87 |
 | CR 24 | Dragon, shadow, copper, ancient (climb) (fly) (shapech) (legend) (lair) | Garg. | Dragon | CG | 62,000 XP | – | MM 85, 110 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 25
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -989,7 +989,7 @@ Abbreviations:
 | CR 25 | Inevitable, marut (fly) (spells) (legend) | Large | Constr. | LN | 75,000 XP | – | Mord 213 |
 | CR 25 | Warforged colossus | Garg. | Constr. | – | 75,000 XP | – | Eber 314 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 26
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1000,7 +1000,7 @@ Abbreviations:
 | CR 26 | Dragon, shadow, blue, ancient (burrow) (fly) (legend) (lair) | Garg. | Dragon | LE | 90,000 XP | – | MM 85, 90 |
 | CR 26 | Dragon, shadow, silver, ancient (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 90,000 XP | – | MM 85, 116 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)
 
 ## Challenge Rating 27+
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
@@ -1011,4 +1011,4 @@ Abbreviations:
 | CR 28 | Overlord, Sul Khatesh (fly) (spells) (shapech) (legend) | Large | Fiend | LE | 120,000 XP | 1,200 pp | Eber 304 |
 | CR 30 | Tarrasque (legend) | Garg. | Monstr. | – | 155,000 XP | – | MM 286 |
 
-[^ Back to Top](#monsters-by-challenge-rating)
+[(Back to Top)](#)

@@ -31,7 +31,7 @@ Not all monsters carry coinage on their person, but those that do can be expecte
 |   CR 12   |   8,400 XP |   44 pp ||   CR 29   | 135,000 XP | 1,200 pp |
 |   CR 13   |  10,000 XP |   64 pp ||   CR 30   | 155,000 XP | 1,300 pp |
 
-[^ Back to Top](#rewards-and-treasure)
+[(Back to Top)](#)
 
 ## Treasure Hoards
 The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gems, art objects, consumable magic items, and permanent magic items. Note that all content is listed **per player**. ½ × means 1 item per 2 players. ¼ × means 1 item per 4 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
@@ -66,7 +66,7 @@ This table assumes that players are able to purchase magic items throughout the 
 | 20th+2 | 4,300 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 22,000 gp | ¼ × 110,000 gp |
 | 20th+3 | 6,100 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 29,000 gp | ¼ × 150,000 gp |
 
-[^ Back to Top](#rewards-and-treasure)
+[(Back to Top)](#)
 
 ## Quest Rewards
 The following table lists experience points and coinage awarded by a patron for completing a quest. Over the course of a campaign, players are expected to receive one quest reward per level from 1st to 20th level.
@@ -86,7 +86,7 @@ The following table lists experience points and coinage awarded by a patron for 
 | 11th  | 2,600 XP | 38 pp |  | 20th+3 | 23,000 XP | 1,200 pp |
 | 12th  | 3,100 XP | 55 pp |  |        |           |          |
 
-[^ Back to Top](#rewards-and-treasure)
+[(Back to Top)](#)
 
 ## Minor Rewards
 The following table lists experience points awarded for achieving progress objectives, accomplishing impressive exploits, gaining useful information, or performing useful deeds during adventures. Over the course of a campaign, players can receive any number of such rewards.
@@ -106,7 +106,7 @@ The following table lists experience points awarded for achieving progress objec
 | 11th  | 520 XP |  | 20th+3 | 4,600 XP |
 | 12th  | 630 XP |  |        |          |
 
-[^ Back to Top](#rewards-and-treasure)
+[(Back to Top)](#)
 
 ## Gemstones
 - [10 gp Gemstones](#gemstones-10-gp)
@@ -116,7 +116,7 @@ The following table lists experience points awarded for achieving progress objec
 - [1,000 gp Gemstones](#gemstones-1000-gp)
 - [5,000 gp Gemstones](#gemstones-5000-gp)
 
-[^ Back to Top](#rewards-and-treasure)
+[(Back to Top)](#)
 
 ### Gemstones: 10 gp
 | d12   | Gemstone | Appearance |
@@ -213,7 +213,7 @@ The following table lists experience points awarded for achieving progress objec
 - [2,500 gp Art Objects](#art-objects-2500-gp)
 - [7,500 gp Art Objects](#art-objects-7500-gp)
 
-[^ Back to Top](#rewards-and-treasure)
+[(Back to Top)](#)
 
 ## Art Objects: 25 gp
 | d10   | Art Object |

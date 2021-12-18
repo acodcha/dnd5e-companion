@@ -5,7 +5,7 @@
 - **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
 - **[Spellcasting Services](#spellcasting-services):** [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
 
-[< Back to Main Page](../../README.md#dungeons-and-dragons-5th-edition)
+[(Back to Main Page)](../../#)
 
 ## Abilities
 - [Strength](#ability-strength)
@@ -33,7 +33,7 @@
 - [Charisma (Performance)](#ability-charisma-performance)
 - [Charisma (Persuasion)](#ability-charisma-persuasion)
 
-[^ Back to Top](#adventuring)
+[(Back to Top)](#)
 
 ### Ability: Strength
 * Apply brute force to a situation.
@@ -46,7 +46,7 @@
 * Tip over a statue.
 * Keep a boulder from rolling.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Strength (Athletics)
 * Succeed while climbing, jumping, or swimming.
@@ -58,7 +58,7 @@
 * Swim or stay afloat in treacherous cur­rents, storm-tossed waves, or areas of thick seaweed.
 * Withstand another creature trying to push or pull you underwa­ter or otherwise interfere with your swimming.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Dexterity
 * Control a heavily laden cart on a steep descent.
@@ -69,7 +69,7 @@
 * Play a stringed instrument.
 * Craft a small or detailed object.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Dexterity (Acrobatics)
 * Move nimbly or quickly.
@@ -80,7 +80,7 @@
 * Stay upright on a rocking ship's deck.
 * Perform acrobatic stunts, including dives, rolls, somersaults, and flips.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Dexterity (Sleight of Hand)
 * Steer a chariot around a tight turn.
@@ -90,7 +90,7 @@
 * Lift a coin purse off another person.
 * Slip something out of another person's pocket.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Dexterity (Stealth)
 * Move quietly.
@@ -99,7 +99,7 @@
 * Slip away without being noticed.
 * Sneak up on someone without being seen or heard.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Constitution
 * Push beyond normal limits.
@@ -109,7 +109,7 @@
 * Survive without food or water.
 * Quaff an entire stein of ale in one go.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Intelligence
 * Communicate with a creature without using words.
@@ -119,19 +119,19 @@
 * Recall lore about a craft or trade.
 * Win a game of skill.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Intelligence (Arcana)
 * Recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
 * Identify or recall lore about aberrations, celestials, constructs, elementals, or fiends.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Intelligence (History)
 * Recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
 * Identify or recall lore about dragons, giants, or humanoids.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Intelligence (Investigation)
 * Draw on deductive reasoning.
@@ -141,25 +141,25 @@
 * Determine the weakest point in a tunnel that could cause it to collapse.
 * Pore through ancient scrolls in search of a hidden fragment of knowledge.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Intelligence (Nature)
 * Recall lore about terrain, plants and animals, the weather, and natural cycles.
 * Identify or recall lore about beasts, fey, plants, or monstrosities.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Intelligence (Religion)
 * Recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
 * Identify or recall lore about oozes or undead.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Wisdom
 * Get a gut feeling about what course of action to follow.
 * Discern whether a seemingly dead or living creature is undead.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Wisdom (Animal-Handling)
 * Calm down a domesticated animal.
@@ -167,7 +167,7 @@
 * Intuit an animal's intentions.
 * Control your mount when you attempt a risky maneuver.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Wisdom (Insight)
 * Read body language.
@@ -177,14 +177,14 @@
 * Predict someone's next move.
 * Glean clues from body language, speech habits, and changes in mannerisms.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Wisdom (Medicine)
 * Care for an injured person.
 * Stabilize a dying companion.
 * Diagnose an illness.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Wisdom (Perception)
 * Notice things about the circumstance.
@@ -194,7 +194,7 @@
 * Hear monsters moving stealthily in the forest.
 * Spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Wisdom (Survival)
 * Follow tracks.
@@ -204,7 +204,7 @@
 * Predict the weather.
 * Avoid quicksand and other natural hazards.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Charisma
 * Make an impression.
@@ -212,7 +212,7 @@
 * Find the best person to talk to for news, rumors, and gossip.
 * Blend into a crowd to get the sense of key topics of conversation.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Charisma (Deception)
 * Convincingly hide the truth, either verbally or through your actions.
@@ -224,7 +224,7 @@
 * Dull someone's suspicions with false assurances.
 * Maintain a straight face while telling a blatant lie.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Charisma (Intimidation)
 * Influence someone through overt threats, hostile actions, and physical violence.
@@ -232,12 +232,12 @@
 * Convince street thugs to back down from a confrontation.
 * Use the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Charisma (Performance)
 * Delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ### Ability: Charisma (Persuasion)
 * Influence someone or a group of people with tact, social graces, or good nature.
@@ -246,7 +246,7 @@
 * Negotiate peace between warring tribes.
 * Inspire a crowd of townsfolk.
 
-[^ Back to Abilities](#abilities)
+[(Back to Abilities)](#abilities)
 
 ## Actions
 - [Attack](#action-attack)
@@ -270,7 +270,7 @@
 - [Two-Weapon Fighting](#action-two-weapon-fighting)
 - [Use an Object](#action-use-an-object)
 
-[^ Back to Top](#adventuring)
+[(Back to Top)](#)
 
 ### Action: Attack
 * The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
@@ -280,12 +280,12 @@
 * If the target isn't in the location you targeted, you automatically miss, but the DM typically just says that the attack missed, not whether you guessed the target's location correctly.
 * When a creature can't see you, you have advantage on attack rolls against it. If you are hidden (both unseen and unheard) when you make an attack, you give away your location when the attack hits or misses.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Cast a Spell
 * Spellcasters have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Climb onto a Bigger Creature
 * A suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb.
@@ -294,36 +294,36 @@
 * The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to the DM's discretion.
 * The larger creature can dislodge the smaller creature as an action by knocking it off, scraping it against a wall, or grabbing and throwing it by making a Strength (Athletics) check contested by the smaller creature's Strength (Athletics) or Dexterity (Acrobatics) check. The smaller creature chooses which ability to use.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Dash
 * When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
 * Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Disarm
 * A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
 * The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands.
 * The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Disengage
 * If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Dodge
 * When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage.
 * You lose this benefit if you are incapacitated or if your speed drops to 0.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Escape a Grapple
 * A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the grappling creature's Strength (Athletics) check.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Grapple
 * When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple.
@@ -335,13 +335,13 @@
 * You can release the target whenever you like (no action required).
 * When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Help
 * You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
 * Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Hide
 * The DM decides when circumstances are appropriate for hid­ing.
@@ -352,14 +352,14 @@
 * In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
 * When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Identify a Spell
 * A character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
 * If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence (Arcana) check with the reaction or action. The DC equals 15 + the spell's level.
 * If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Opportunity Attack
 * In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack.
@@ -368,7 +368,7 @@
 * You can avoid provoking an opportunity attack by taking the Disengage action.
 * You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Overrun
 * When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature.
@@ -376,7 +376,7 @@
 * The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller.
 * If the mover wins the contest, it can move through the hostile creature's space once this turn.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Ready
 * Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
@@ -384,12 +384,12 @@
 * When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger.
 * When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Search
 * When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Shove a Creature
 * Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you.
@@ -400,27 +400,27 @@
 * If you succeed, you either knock the target prone or push it 5 feet away from you.
 * You can attempt to shove the target aside rather than away. You have disadvantage on your Strength (Athletics) check when you do so. If you succeed, you move the target 5 feet to a different space within your reach.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Tumble
 * You can try to tumble through a hostile creature's space, ducking and weaving past the opponent.
 * As an action or a bonus action, you can make a Dexterity (Acrobatics) check contested by the hostile creature's Dexterity (Acrobatics) check.
 * If you win the contest, you can move through the hostile creature's space once this turn.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Two-Weapon Fighting
 * When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand.
 * You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 * If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ### Action: Use an Object
 * You can interact with one object or feature of the environment for free, during either your move or your action. For example, you can open a door during your move as you stride toward a foe, or you can draw your weapon as part of the same action you use to attack.
 * If you want to interact with a second object, you need to use your action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
 
-[^ Back to Actions](#actions)
+[(Back to Actions)](#actions)
 
 ## Conditions
 - [Blinded](#condition-blinded)
@@ -440,24 +440,24 @@
 - [Suffocating](#condition-suffocating)
 - [Unconscious](#condition-unconscious)
 
-[^ Back to Top](#adventuring)
+[(Back to Top)](#)
 
 ### Condition: Blinded
 * A blinded creature can't see and automatically fails any ability check that requires sight.
 * Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Charmed
 * A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
 * The charmer has advantage on any ability check to interact socially with the creature.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Deafened
 * A deafened creature can't hear and automatically fails any ability check that requires hearing.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Exhaustion
 * Some special abilities and circumstanceal hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
@@ -474,31 +474,31 @@
 * Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
 * Also, being raised from the dead reduces a crea­ture's exhaustion level by 1.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Frightened
 * A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
 * The creature can't willingly move closer to the source of its fear.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Grappled
 * A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 * The condition ends if the grappler is incapacitated.
 * The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Incapacitated
 * An incapacitated creature can't take actions or reactions.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Invisible
 * An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The crea­ture's location can be detected by any noise it makes or any tracks it leaves.
 * Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Paralyzed
 * A paralyzed creature is incapacitated  and can't move or speak.
@@ -506,7 +506,7 @@
 * Attack rolls against the creature have advantage.
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Petrified
 * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
@@ -516,39 +516,39 @@
 * The creature has resistance to all damage.
 * The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Poisoned
 * A poisoned creature has disadvantage on attack rolls and ability checks.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Prone
 * A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
 * The creature has disadvantage on attack rolls.
 * An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Restrained
 * A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 * Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 * The creature has disadvantage on Dexterity saving throws.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Stunned
 * A stunned creature is incapacitated, can't move, and can speak only falteringly.
 * The creature automatically fails Strength and Dexterity saving throws.
 * Attack rolls against the creature have advantage.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Suffocating
 * A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
 * When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Consti­tution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can't regain hit points or be stabilized until it can breathe again.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ### Condition: Unconscious
 * An unconscious creature is incapacitated, can't move or speak, and is unaware of its surroundings
@@ -557,7 +557,7 @@
 * Attack rolls against the creature have advantage.
 * Any attack that hits the creature is a criti­cal hit if the attacker is within 5 feet of the creature.
 
-[^ Back to Conditions](#conditions)
+[(Back to Conditions)](#conditions)
 
 ## Circumstances
 - [Jumping](#circumstance-jumping)
@@ -567,7 +567,7 @@
 - [Mounted Combat](#circumstance-mounted-combat)
 - [Underwater Combat](#circumstance-underwater-combat)
 
-[^ Back to Top](#adventuring)
+[(Back to Top)](#)
 
 ### Circumstance: Jumping
 * Each foot you clear while jumping costs a foot of movement.
@@ -577,7 +577,7 @@
 * When you make a high jump, you can extend your arms half your height above yourself during a high jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 * In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher or further than you normally can.
 
-[^ Back to Circumstances](#circumstances)
+[(Back to Circumstances)](#circumstances)
 
 ### Circumstance: Cover
 * A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
@@ -586,20 +586,20 @@
 * A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three­-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
 * A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
-[^ Back to Circumstances](#circumstances)
+[(Back to Circumstances)](#circumstances)
 
 ### Circumstance: Concealment
 * In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 * A heavily obscured area such as darkness, opaque fog, or dense foliage blocks vision entirely. A creature effectively suffers from the blinded condition when trying to see something in that area.
 
-[^ Back to Circumstances](#circumstances)
+[(Back to Circumstances)](#circumstances)
 
 ### Circumstance: Light
 * Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lan­terns, fires, and other sources of illumination within a specific radius.
 * Dim light, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
 * Darkness creates a heavily obscured area. Charac­ters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a sub­terranean vault, or in an area of magical darkness.
 
-[^ Back to Circumstances](#circumstances)
+[(Back to Circumstances)](#circumstances)
 
 ### Circumstance: Mounted Combat
 * A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount
@@ -618,14 +618,14 @@
   * An independent mount retains its place in the initiative order.
   * Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
 
-[^ Back to Circumstances](#circumstances)
+[(Back to Circumstances)](#circumstances)
 
 ### Circumstance: Underwater Combat
 * When making a melee weapon attack, a creature that doesn't have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident.
 * A ranged weapon attack automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a thrown javelin, spear, trident, or dart.
 * Creatures and objects that are fully immersed in water have resistance to fire damage.
 
-[^ Back to Circumstances](#circumstances)
+[(Back to Circumstances)](#circumstances)
 
 ## Spellcasting Services
 - [Wellness](#spellcasting-services-wellness)
@@ -636,7 +636,7 @@
 - [Transportation](#spellcasting-services-transportation)
 - [Surveillance](#spellcasting-services-surveillance)
 
-[^ Back to Top](#adventuring)
+[(Back to Top)](#)
 
 ### Spellcasting Services: Wellness
 | Spell | Spell Slot | Spellcaster | Price |
@@ -650,7 +650,7 @@
 | Dispel evil and good | 5th-level spell slot | 9th-level spellcaster | 250 gp |
 | Greater restoration | 5th-level spell slot | 9th-level spellcaster | 450 gp |
 
-[^ Back to Spellcasting Services](#spellcasting-services)
+[(Back to Spellcasting Services)](#spellcasting-services)
 
 ### Spellcasting Services: Healing
 | Spell | Spell Slot | Spellcaster | Price |
@@ -672,7 +672,7 @@
 | Prayer of healing | 8th-level spell slot | 15th-level spellcaster | 640 gp |
 | Mass heal | 9th-level spell slot | 17th-level spellcaster | 810 gp |
 
-[^ Back to Spellcasting Services](#spellcasting-services)
+[(Back to Spellcasting Services)](#spellcasting-services)
 
 ### Spellcasting Services: Resurrection
 | Spell | Spell Slot | Spellcaster | Price |
@@ -684,7 +684,7 @@
 | Clone | 8th-level spell slot | 15th-level spellcaster | 2,800 gp |
 | True resurrection | 9th-level spell slot | 17th-level spellcaster | 51,000 gp |
 
-[^ Back to Spellcasting Services](#spellcasting-services)
+[(Back to Spellcasting Services)](#spellcasting-services)
 
 ### Spellcasting Services: Security
 | Spell | Spell Slot | Spellcaster | Price |
@@ -696,7 +696,7 @@
 | Guards and wards | 6th-level spell slot | 11th-level spellcaster | 360 gp |
 | Forbiddance | 6th-level spell slot or ritual | 11th-level spellcaster | 460 gp |
 
-[^ Back to Spellcasting Services](#spellcasting-services)
+[(Back to Spellcasting Services)](#spellcasting-services)
 
 ### Spellcasting Services: Communication
 | Spell | Spell Slot | Spellcaster | Price |
@@ -708,7 +708,7 @@
 | Speak with dead | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
 | Dream | 5th-level spell slot | 9th-level spellcaster | 260 gp |
 
-[^ Back to Spellcasting Services](#spellcasting-services)
+[(Back to Spellcasting Services)](#spellcasting-services)
 
 ### Spellcasting Services: Transportation
 | Spell | Spell Slot | Spellcaster | Price |
@@ -720,7 +720,7 @@
 | Plane shift | 7th-level spell slot | 13th-level spellcaster | 520 gp |
 | Gate | 9th-level spell slot | 17th-level spellcaster | 1,300 gp |
 
-[^ Back to Spellcasting Services](#spellcasting-services)
+[(Back to Spellcasting Services)](#spellcasting-services)
 
 ### Spellcasting Services: Surveillance
 | Spell | Spell Slot | Spellcaster | Price |
@@ -734,4 +734,4 @@
 | Scrying | 5th-level spell slot | 9th-level spellcaster | 350 gp |
 | Contact other plane | 5th-level spell slot or ritual | 9th-level spellcaster | 500 gp |
 
-[^ Back to Spellcasting Services](#spellcasting-services)
+[(Back to Spellcasting Services)](#spellcasting-services)

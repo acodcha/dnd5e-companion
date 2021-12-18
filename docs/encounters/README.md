@@ -29,7 +29,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 - [3 Encounters per Day](#1-player-character-3-encounters-per-day)
 - [4 Encounters per Day](#1-player-character-4-encounters-per-day)
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### 1 Player Character: 1 Encounter per Day
 | Level | Monsters |
@@ -153,7 +153,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 - [3 Encounters per Day](#2-player-characters-3-encounters-per-day)
 - [4 Encounters per Day](#2-player-characters-4-encounters-per-day)
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### 2 Player Characters: 1 Encounter per Day
 | Level | Monsters |
@@ -277,7 +277,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 - [3 Encounters per Day](#3-player-characters-3-encounters-per-day)
 - [4 Encounters per Day](#3-player-characters-4-encounters-per-day)
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### 3 Player Characters: 1 Encounter per Day
 | Level | Monsters |
@@ -401,7 +401,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 - [3 Encounters per Day](#4-player-characters-3-encounters-per-day)
 - [4 Encounters per Day](#4-player-characters-4-encounters-per-day)
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### 4 Player Characters: 1 Encounter per Day
 | Level | Monsters |
@@ -525,7 +525,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 - [3 Encounters per Day](#5-player-characters-3-encounters-per-day)
 - [4 Encounters per Day](#5-player-characters-4-encounters-per-day)
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### 5 Player Characters: 1 Encounter per Day
 | Level | Monsters |
@@ -649,7 +649,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 - [3 Encounters per Day](#6-player-characters-3-encounters-per-day)
 - [4 Encounters per Day](#6-player-characters-4-encounters-per-day)
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### 6 Player Characters: 1 Encounter per Day
 | Level | Monsters |
@@ -773,7 +773,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 - [3 Encounters per Day](#7-player-characters-3-encounters-per-day)
 - [4 Encounters per Day](#7-player-characters-4-encounters-per-day)
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### 7 Player Characters: 1 Encounter per Day
 | Level | Monsters |
@@ -897,7 +897,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 - [3 Encounters per Day](#8-player-characters-3-encounters-per-day)
 - [4 Encounters per Day](#8-player-characters-4-encounters-per-day)
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### 8 Player Characters: 1 Encounter per Day
 | Level | Monsters |
@@ -1025,7 +1025,7 @@ Example using these tables:
 
 A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR 1 monsters. Each CR 3 monster is worth 700 XP and each CR 1 monster is worth 200 XP, so the total base experience of the encounter is 2 × 700 XP + 4 × 200 XP = 2,200 XP. There are 4 player characters fighting 6 monsters, so the experience adjustment factor is 2.39 from the table. The total adjusted experience of the encounter is therefore 2,200 XP × 2.39 = 5,258 XP, which is 5,258 XP / 4 = 1,315 XP per player character. From the table, this corresponds to 2 encounters per day. The party can therefore be expected to expend half its resources during this encounter.
 
-[^ Back to Top](#encounters)
+[(Back to Top)](#)
 
 ### General: Experience Adjustment Factor
 | Monsters | 1 P.C. | 2 P.C. | 3 P.C. | 4 P.C. | 5 P.C. | 6 P.C. | 7 P.C. | 8 P.C. |

@@ -61,7 +61,7 @@
 | Valkur, the Captain of the Waves | Human god of sailors | Chaotic good | Tempest, War | Cloud with three lightning bolts |
 | Waukeen, Liberty's Maiden | Human goddess of trade | True neutral | Knowledge, Trickery | Upright coin with Waukeen's profile facing left |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## The Seldarine (Elven Pantheon)
 | Deity | Description | Alignment | Domain | Emblem |
@@ -96,7 +96,7 @@
 | Ye'Cind | Elven god of music and enchantment | Chaotic good | Life, Trickery | Recorder |
 | Zandilar, the Dancer | Elven goddess of romance, lust, and dance | Chaotic neutral | Life | Lips |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## The Dark Seldarine (Drow Pantheon)
 | Deity | Description | Alignment | Domain | Emblem |
@@ -110,7 +110,7 @@
 | Vhaeraun, the Masked Lord | Drow god of arrogance and thieves | Chaotic evil | Trickery, War | Black mask with blue glass lenses inset over eyes |
 | Zinzerena, the Hunted | Drow goddess of assassination, illusion, and lies | Chaotic neutral | Trickery | Cloth-draped shortsword |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## The Morndinsamman (Dwarven Pantheon)
 | Deity | Description | Alignment | Domain | Emblem |
@@ -136,7 +136,7 @@
 | Valkauna | Dwarven goddess of oaths, birth, aging, and death | Lawful neutral | Grave, Life | Silver ewer |
 | Vergadain, the Laughing Dwarf | Dwarven god of luck and wealth | True neutral | Trickery | Gold coin bearing a dwarf's face |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## Duergar Pantheon
 | Deity | Description | Alignment | Domain | Emblem |
@@ -144,7 +144,7 @@
 | Laduguer, the Exile | Duergar god of magic and slavery | Lawful evil | Death, Forge | Broken arrow |
 | Deep Duerra, the Queen of the Invisible Art | Duergar goddess of conquest and psionics | Lawful evil | Knowledge, War | Mind flayer skull |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## Yondalla's Children (Halfling Pantheon)
 | Deity | Description | Alignment | Domain | Emblem |
@@ -157,7 +157,7 @@
 | Sheela Peryroyl, the Green Sister | Halfling goddess of agriculture and weather | Neutral good | Nature, Tempest | Flower |
 | Urogalan, He Who Must Be | Halfling god of earth and death | Lawful neutral | Death, Grave, Knowledge | Dog's head silhouette |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## Lords of the Golden Hills (Gnomish Pantheon)
 | Deity | Description | Alignment | Domain | Emblem |
@@ -176,7 +176,7 @@
 | Sheyanna Flaxenstrand | Gnome goddess of love, beauty, and passion | Chaotic good | Light | Two silver goblets |
 | Urdlen, the Glutton | Gnome god of greed and murder | Chaotic evil | Death, War | White-clawed mole emerging from the ground |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## The Godsworn (Orcish Pantheon)
 | Deity | Description | Alignment | Domain | Emblem |
@@ -188,7 +188,7 @@
 | Shargaas, the Night Lord | Orc god of stealth and darkness | Neutral evil | Trickery | Red crescent moon with skull |
 | Yurtrus, the White Hand | Orc god of death and disease | Neutral evil | Death | Palm-outward white hand |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## The Ordning (Giant Pantheon)
 | Deity | Description | Alignment | Domain | Emblem |
@@ -201,7 +201,7 @@
 | Surtur, the Lord of the Fire Giants | Fire giant god of craft | Lawful evil | Knowledge, War | Flaming sword |
 | Thrym, the Lord of the Frost Giants | Frost giant god of strength | Chaotic evil | War | White double-bladed axe |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## Draconic Pantheon
 | Deity | Description | Alignment | Domain | Emblem |
@@ -209,7 +209,7 @@
 |	Bahamut, the Platinum Dragon	|	Dragon god of good	|	Lawful good	|	Life, War	|	Dragon's head in profile	|
 |	Tiamat, the Chromatic Dragon	|	Dragon goddess of evil	|	Lawful evil	|	Trickery, War	|	Dragon head with five claw marks	|
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## Primordial Pantheon
 | Deity | Description | Alignment | Domain | Emblem |
@@ -219,7 +219,7 @@
 | Grumbar, the Earthlord | Primordial god of earth | True neutral | Knowledge | Mountain |
 | Kossuth, the Firelord | Primordial god of fire | True neutral | Light | Flame |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)
 
 ## Miscellaneous Deities
 | Deity | Description | Alignment | Domain | Emblem |
@@ -236,4 +236,4 @@
 | Semuanya | Lizardfolk god of survival | True neutral | Life | Egg |
 | Skerrit, the Forest Walker | Centaur and satyr god of nature | True neutral | Nature | Oak growing from acorn |
 
-[^ Back to Top](#deities)
+[(Back to Top)](#)

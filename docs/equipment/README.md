@@ -15,7 +15,7 @@ Mundane (non-magical) equipment can be purchased in most settlements of sufficie
 - [Heavy Armor](#heavy-armor)
 - [Shield](#shield)
 
-[^ Back to Top](#equipment)
+[(Back to Top)](#)
 
 Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
 
@@ -70,7 +70,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 - [Simple Ranged Weapons](#simple-ranged-weapons)
 - [Martial Ranged Weapons](#martial-ranged-weapons)
 
-[^ Back to Top](#equipment)
+[(Back to Top)](#)
 
 ### Simple Melee Weapons
 
@@ -143,7 +143,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 - [Consumable Gear](#consumable-gear)
 - [Permanent Gear](#permanent-gear)
 
-[^ Back to Top](#equipment)
+[(Back to Top)](#)
 
 ### Ammunition
 
@@ -281,7 +281,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 - [Musical Instruments](#musical-instruments)
 - [Miscellaneous Tools](#miscellaneous-tools)
 
-[^ Back to Top](#equipment)
+[(Back to Top)](#)
 
 ### Artisan's Tools
 
@@ -356,7 +356,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 - [Inhaled Poisons](#inhaled-poisons)
 - [Injury Poisons](#injury-poisons)
 
-[^ Back to Top](#equipment)
+[(Back to Top)](#)
 
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures. Poison is generally stored in a vial (1 gp, 0 lb) such that each vial contains one dose of the poison.
 

@@ -38,7 +38,7 @@ Abbreviations:
 | Arrow of slaying (each) | 600 gp | 1/20 lb | DMG 152 |
 | Crossbow bolt of slaying (each) | 600 gp | 1½/20 lb | DMG 152 |
 
-[^ Back to Top](#consumable-magic-items)
+[(Back to Top)](#)
 
 ## Potions
 | Magic Item | Price | Weight | Source |
@@ -77,7 +77,7 @@ Abbreviations:
 | Potion of cloud giant strength | 32,000 gp | ½ lb | DMG 187 |
 | Potion of storm giant strength | 64,000 gp | ½ lb | DMG 187 |
 
-[^ Back to Top](#consumable-magic-items)
+[(Back to Top)](#)
 
 ## Spell Scrolls
 | Magic Item | Price | Weight | Source |
@@ -93,7 +93,7 @@ Abbreviations:
 | Spell scroll, 8th level | 100,000 gp | 1 lb | DMG 200 |
 | Spell scroll, 9th level | 500,000 gp | 1 lb | DMG 200 |
 
-[^ Back to Top](#consumable-magic-items)
+[(Back to Top)](#)
 
 ## Tattoos
 | Magic Item | Price | Weight | Source |
@@ -105,7 +105,7 @@ Abbreviations:
 | Spellwrought tattoo, 4th level | 7,500 gp | – | TCoE 135 |
 | Spellwrought tattoo, 5th level | 15,000 gp | – | TCoE 135 |
 
-[^ Back to Top](#consumable-magic-items)
+[(Back to Top)](#)
 
 ## Miscellaneous
 | Magic Item | Price | Weight | Source |
@@ -147,7 +147,7 @@ Abbreviations:
 | Candle of invocation (attunement) | 300,000 gp | – | DMG 157 |
 | Deck of many things | 700,000 gp | 1 lb | DMG 162 |
 
-[^ Back to Top](#consumable-magic-items)
+[(Back to Top)](#)
 
 ## All Consumable Magic Items by Price
 | Magic Item | Price | Weight | Source |
@@ -257,4 +257,4 @@ Abbreviations:
 | Spell scroll, 9th level | 500,000 gp | 1 lb | DMG 200 |
 | Deck of many things | 700,000 gp | 1 lb | DMG 162 |
 
-[^ Back to Top](#consumable-magic-items)
+[(Back to Top)](#)
