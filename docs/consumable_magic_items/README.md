@@ -1,4 +1,5 @@
 # Consumable Magic Items
+
 - [Ammunition](#ammunition)
 - [Potions](#potions)
 - [Spell Scrolls](#spell-scrolls)
@@ -11,11 +12,13 @@
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold. All prices are listed in gold pieces (gp). Always check with your Game Master before buying or selling magic items.
 
 Abbreviations:
+
 - DMG: *Dungeon Master's Guide*
 - TCoE: *Tasha's Cauldron of Everything*
 - XGtE: *Xanathar's Guide to Everything*
 
 ## Ammunition
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
@@ -41,6 +44,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Potions
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Potion of healing | 50 gp | ½ lb | DMG 187 |
@@ -80,6 +84,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Spell Scrolls
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Spell scroll, cantrip | 30 gp | 1 lb | DMG 200 |
@@ -96,6 +101,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Tattoos
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Spellwrought tattoo, cantrip | 50 gp | – | TCoE 135 |
@@ -108,6 +114,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Miscellaneous
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Bead of refreshment | 10 gp | – | XGtE 136 |
@@ -150,6 +157,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## All Consumable Magic Items by Price
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |

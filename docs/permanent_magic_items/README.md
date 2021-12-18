@@ -1,4 +1,5 @@
 # Permanent Magic Items
+
 - [Light Armor](#light-armor)
 - [Medium Armor](#medium-armor)
 - [Heavy Armor](#heavy-armor)
@@ -28,11 +29,13 @@
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold. All prices are listed in gold pieces (gp). Always check with your Game Master before buying or selling magic items.
 
 Abbreviations:
+
 - DMG: *Dungeon Master's Guide*
 - TCoE: *Tasha's Cauldron of Everything*
 - XGtE: *Xanathar's Guide to Everything*
 
 ## Light Armor
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Smoldering studded leather armor | 250 gp | 13 lb | XGtE 139 |
@@ -47,6 +50,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Medium Armor
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Hide armor of gleaming | 210 gp | 12 lb | XGtE 136 |
@@ -83,6 +87,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Heavy Armor
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Plate armor of gleaming | 1,700 gp | 65 lb | XGtE 136 |
@@ -105,6 +110,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Shields
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Shield of expression | 200 gp | 6 lb | XGtE 139 |
@@ -120,6 +126,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Clothes
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Clothes of mending | 100 gp | 4 lb | XGtE 137 |
@@ -132,6 +139,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Coats
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Cloak of billowing | 100 gp | 1 lb | XGtE 136 |
@@ -151,6 +159,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Belts
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Belt of dwarvenkind (attunement) | 6,000 gp | 1 lb | DMG 155 |
@@ -164,6 +173,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Footwear
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Boots of false tracks | 500 gp | 1 lb | XGtE 136 |
@@ -178,6 +188,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Bracers
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Bracers of archery (attunement) | 1,500 gp | 1 lb | DMG 156 |
@@ -186,6 +197,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Gloves
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Gloves of swimming and climbing (attunement) | 2,000 gp | – | DMG 172 |
@@ -196,6 +208,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Headwear
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Dread helm | 100 gp | 1 lb | XGtE 137 |
@@ -213,6 +226,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Eyewear
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Goggles of night | 1,500 gp | – | DMG 172 |
@@ -223,6 +237,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Jewelry
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Necklace of prayer beads, base necklace (attunement cleric/druid/paladin) | 500 gp | – | DMG 182 |
@@ -273,6 +288,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Tattoos
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Illuminator's tattoo (attunement) | 1,000 gp | – | TCoE 129 |
@@ -291,6 +307,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Weapons
+
 - Swords include the greatsword, longsword, rapier, scimitar, and shortsword. The glaive is not a sword.
 - Axes include the battleaxe, greataxe, and handaxe. The halberd is not an axe.
 
@@ -336,6 +353,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Arcane Foci
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Staff of adornment | 100 gp | 4 lb | XGtE 139 |
@@ -418,6 +436,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Druidic Foci
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Bell branch (attunement druid/warlock) | 500 gp | 1 lb | TCoE 122 |
@@ -429,6 +448,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Holy Symbols
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Guardian emblem (attunement cleric/paladin) | 500 gp | – | TCoE 128 |
@@ -439,6 +459,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Musical Instruments
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Instrument of illusions (any musical instrument) (attunement) | 200 gp | (varies) | XGtE 137 |
@@ -461,6 +482,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Artisan's Tools
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | All-purpose tool, +1 (attunement artificer) | 3,000 gp | 1 lb | TCoE 119 |
@@ -470,6 +492,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Summoning Items
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Figurine of wondrous power, ivory goat of travail | 400 gp | 1 lb | DMG 169 |
@@ -498,6 +521,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## Miscellaneous
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Candle of the deep | 100 gp | – | XGtE 136 |
@@ -591,6 +615,7 @@ Abbreviations:
 [(Back to Top)](#)
 
 ## All Permanent Magic Items by Price
+
 | Magic Item | Price | Weight | Source |
 | :--------- | ----: | -----: | -----: |
 | Candle of the deep | 100 gp | – | XGtE 136 |

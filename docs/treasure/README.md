@@ -1,4 +1,5 @@
 # Treasure
+
 - **[Individual Monster Treasure](#individual-monster-treasure)**
 - **[Treasure Hoards](#treasure-hoards)**
 - **[Quest Rewards](#quest-rewards)**
@@ -9,6 +10,7 @@
 [(Back to Main Page)](../../#)
 
 ## Individual Monster Treasure
+
 Not all monsters carry coinage on their person, but those that do can be expected to carry the amounts shown in the following table.
 
 | Challenge | Experience | Coinage || Challenge | Experience | Coinage  |
@@ -34,6 +36,7 @@ Not all monsters carry coinage on their person, but those that do can be expecte
 [(Back to Top)](#)
 
 ## Treasure Hoards
+
 The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gems, art objects, consumable magic items, and permanent magic items. Note that all content is listed **per player**. ½ × means 1 item per 2 players. ¼ × means 1 item per 4 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
 
 For example, a party of four 1st-level player characters can expect to loot a treasure hoard containing a total of 40 gp, 4 × 10 gp gems, 2 × 25 gp art objects, 4 × 40 gp consumable magic items, and 1 × 200 gp permanent magic items during 1st level.
@@ -69,6 +72,7 @@ This table assumes that players are able to purchase magic items throughout the 
 [(Back to Top)](#)
 
 ## Quest Rewards
+
 The following table lists experience points and coinage awarded by a patron for completing a quest. Over the course of a campaign, players are expected to receive one quest reward per level from 1st to 20th level.
 
 | Level | Experience per Player | Coinage per Player |       | Level | Experience per Player | Coinage per Player |
@@ -89,6 +93,7 @@ The following table lists experience points and coinage awarded by a patron for 
 [(Back to Top)](#)
 
 ## Minor Rewards
+
 The following table lists experience points awarded for achieving progress objectives, accomplishing impressive exploits, gaining useful information, or performing useful deeds during adventures. Over the course of a campaign, players can receive any number of such rewards.
 
 | Level | Experience per Player |       | Level | Experience per Player |
@@ -109,6 +114,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Top)](#)
 
 ## Gemstones
+
 - [10 gp Gemstones](#gemstones-10-gp)
 - [50 gp Gemstones](#gemstones-50-gp)
 - [100 gp Gemstones](#gemstones-100-gp)
@@ -119,6 +125,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Top)](#)
 
 ### Gemstones: 10 gp
+
 | d12   | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Azurite | Opaque mottled deep blue |
@@ -137,6 +144,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 50 gp
+
 | d12   | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Bloodstone | Opaque dark gray with red flecks |
@@ -155,6 +163,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 100 gp
+
 | d10   | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Amber | Transparent watery gold to rich gold |
@@ -171,6 +180,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 500 gp
+
 | d6    | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Alexandrite | Transparent dark green |
@@ -183,6 +193,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 1,000 gp
+
 | d8    | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Black opal | Translucent dark green with black mottling and golden flecks |
@@ -197,6 +208,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Gemstones)](#gemstones)
 
 ### Gemstones: 5,000 gp
+
 | d4    | Gemstone | Appearance |
 | :---: | :------- | :--------- |
 | 1 | Black sapphire | Translucent lustrous black with glowing highlights |
@@ -207,6 +219,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Gemstones)](#gemstones)
 
 ## Art Objects
+
 - [25 gp Art Objects](#art-objects-25-gp)
 - [250 gp Art Objects](#art-objects-250-gp)
 - [750 gp Art Objects](#art-objects-750-gp)
@@ -216,6 +229,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Top)](#)
 
 ## Art Objects: 25 gp
+
 | d10   | Art Object |
 | :---: | :--------- |
 | 1 | Silver ewer |
@@ -232,6 +246,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Art Objects)](#art-objects)
 
 ## Art Objects: 250 gp
+
 | d10   | Art Object |
 | :---: | :--------- |
 | 1 | Gold ring set with bloodstones |
@@ -248,6 +263,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Art Objects)](#art-objects)
 
 ## Art Objects: 750 gp
+
 | d10   | Art Object |
 | :---: | :--------- |
 | 1 | Silver chalice set with moonstones |
@@ -264,6 +280,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Art Objects)](#art-objects)
 
 ## Art Objects: 2,500 gp
+
 | d10   | Art Object |
 | :---: | :--------- |
 | 1 | Fine gold chain set with a fire opal |
@@ -280,6 +297,7 @@ The following table lists experience points awarded for achieving progress objec
 [(Back to Art Objects)](#art-objects)
 
 ## Art Objects: 7,500 gp
+
 | d8    | Art Object |
 | :---: | :--------- |
 | 1 | Jeweled gold crown |

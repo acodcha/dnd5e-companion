@@ -1,4 +1,5 @@
 # Character Creation
+
 - [Advancement](#advancement)
 - [Starting Wealth](#starting-wealth)
 - [Accumulated Wealth](#accumulated-wealth)
@@ -9,6 +10,7 @@
 [(Back to Main Page)](../../#)
 
 ## Advancement
+
 The following table shows the total XP amounts at which a character gains a new level.
 
 |  Total XP | Level |       |   Total XP | Level |
@@ -27,6 +29,7 @@ The following table shows the total XP amounts at which a character gains a new 
 [(Back to Top)](#)
 
 ## Starting Wealth
+
 When creating a replacement character at 2nd level or higher (because a prior character died or was retired), gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and wealth from your class and background.
 
 | Level | Starting Wealth |       | Level | Starting Wealth |
@@ -45,6 +48,7 @@ When creating a replacement character at 2nd level or higher (because a prior ch
 [(Back to Top)](#)
 
 ## Accumulated Wealth
+
 The following table lists the total accumulated wealth of a character at the start of each given level, in addition to regular 1st level starting equipment and wealth. This wealth is obtained through adventuring from quest rewards, individual monster coinage, and treasure hoards. For example, a character at the beginning of 5th level would have accumulated a total of 650 gp. This table may be used when creating characters for a campaign that begins at a level greater than 1st.
 
 | Level | Accumulated Wealth |       | Level | Accumulated Wealth |
@@ -63,6 +67,7 @@ The following table lists the total accumulated wealth of a character at the sta
 [(Back to Top)](#)
 
 ## Starting Ability Scores
+
 The following table lists all possible sets of ability scores using the point buy system.
 
 | d100  | Ability Scores         |       | d100  | Ability Scores         |
@@ -104,6 +109,7 @@ The following table lists all possible sets of ability scores using the point bu
 [(Back to Top)](#)
 
 ## Height and Weight
+
 The following table lists the range of possible heights and weights for each race. To generate a random height and weight, do the following:
 - Obtain your height modifier by rolling the appropriate dice.
 - Your height is your base height plus your height modifier in inches.
@@ -167,9 +173,11 @@ The following table lists the range of possible heights and weights for each rac
 [(Back to Top)](#)
 
 ## Wild Shape and Polymorph Beasts
+
 The following table lists all beasts. The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
 
 Abbreviations:
+
 - Eber: *Eberron: Rising from the Last War*
 - MM: *Monster Manual*
 - Volo: *Volo's Guide to Monsters*

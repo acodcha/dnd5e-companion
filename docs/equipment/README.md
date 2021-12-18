@@ -1,4 +1,5 @@
 # Equipment
+
 - **[Armor](#armor):** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor), [Shield](#shield)
 - **[Weapons](#weapons):** [Simple Melee Weapons](#simple-melee-weapons), [Martial Melee Weapons](#martial-melee-weapons), [Simple Ranged Weapons](#simple-ranged-weapons), [Martial Ranged Weapons](#martial-ranged-weapons)
 - **[Gear](#gear):** [Ammunition](#ammunition), [Spellcasting Gear](#spellcasting-gear), [Consumable Gear](#consumable-gear), [Permanent Gear](#permanent-gear)
@@ -10,6 +11,7 @@
 Mundane (non-magical) equipment can be purchased in most settlements of sufficient size.
 
 ## Armor
+
 - [Light Armor](#light-armor)
 - [Medium Armor](#medium-armor)
 - [Heavy Armor](#heavy-armor)
@@ -20,6 +22,7 @@ Mundane (non-magical) equipment can be purchased in most settlements of sufficie
 Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
 
 ### Light Armor
+
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class. Light armor takes 1 minute to don or doff.
 
 | Light Armor | Cost  | Weight | Description |
@@ -31,6 +34,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 [(Back to Armor)](#armor)
 
 ### Medium Armor
+
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class. Medium armor takes 5 minutes to don and 1 minute to doff.
 
 | Medium Armor | Cost  | Weight | Description |
@@ -44,6 +48,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 [(Back to Armor)](#armor)
 
 ### Heavy Armor
+
 Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk. Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative. Heavy armor takes 10 minutes to don and 5 minutes to doff. Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If an armor has a Strength requirement, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
 | Heavy Armor | Cost  | Weight | Description |
@@ -56,6 +61,7 @@ Of all the armor categories, heavy armor offers the best protection. These suits
 [(Back to Armor)](#armor)
 
 ### Shield
+
 Many warriors supplement their armor with a shield. A shield takes 1 action to don or doff.
 
 | Shield | Cost  | Weight | Description |
@@ -65,6 +71,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 [(Back to Armor)](#armor)
 
 ## Weapons
+
 - [Simple Melee Weapons](#simple-melee-weapons)
 - [Martial Melee Weapons](#martial-melee-weapons)
 - [Simple Ranged Weapons](#simple-ranged-weapons)
@@ -138,6 +145,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 [(Back to Weapons)](#weapons)
 
 ## Gear
+
 - [Ammunition](#ammunition)
 - [Spellcasting Gear](#spellcasting-gear)
 - [Consumable Gear](#consumable-gear)
@@ -276,6 +284,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 [(Back to Gear)](#gear)
 
 ## Tools
+
 - [Artisan's Tools](#artisans-tools)
 - [Gaming Sets](#gaming-sets)
 - [Musical Instruments](#musical-instruments)
@@ -351,6 +360,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 [(Back to Tools)](#tools)
 
 ## Poisons
+
 - [Contact Poisons](#contact-poisons)
 - [Ingested Poisons](#ingested-poisons)
 - [Inhaled Poisons](#inhaled-poisons)
@@ -361,6 +371,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures. Poison is generally stored in a vial (1 gp, 0 lb) such that each vial contains one dose of the poison.
 
 ### Contact Poisons
+
 Contact poison can be smeared on an object and remains potent until it is touched or washed off. Applying the poison takes an action. A creature that touches contact poison with exposed skin suffers its effects.
 
 | Contact Poison | Cost  | Description |
@@ -371,6 +382,7 @@ Contact poison can be smeared on an object and remains potent until it is touche
 [(Back to Poisons)](#poisons)
 
 ### Ingested Poisons
+
 A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. Applying the poison to food or a liquid takes an action. The Dungeon Master may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.
 
 | Ingested Poison | Cost  | Description |
@@ -384,6 +396,7 @@ A creature must swallow an entire dose of ingested poison to suffer its effects.
 [(Back to Poisons)](#poisons)
 
 ### Inhaled Poisons
+
 These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Releasing the poison takes an action. Holding one’s breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
 | Inhaled Poison | Cost  | Description |
@@ -395,6 +408,7 @@ These poisons are powders or gases that take effect when inhaled. Blowing the po
 [(Back to Poisons)](#poisons)
 
 ### Injury Poisons
+
 Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. Applying the poison takes an action. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects. One vial of injury poison can be used to coat one slashing or piercing weapon or up to three pieces of ammunition.
 
 | Injury Poison | Cost  | Description |

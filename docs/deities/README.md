@@ -1,4 +1,5 @@
 # Deities
+
 - [Faerûnian Human Pantheon](#faerûnian-human-pantheon)
 - [The Seldarine (Elven Pantheon)](#the-seldarine-elven-pantheon)
 - [The Dark Seldarine (Drow Pantheon)](#the-dark-seldarine-drow-pantheon)
@@ -15,6 +16,7 @@
 [(Back to Main Page)](../../#)
 
 ## Faerûnian Human Pantheon
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Asmodeus, the Lord of the Nine Hells | Human god of indulgence | Lawful evil | Knowledge, Order, Trickery | Three inverted triangles arranged in a long triangle |
@@ -64,6 +66,7 @@
 [(Back to Top)](#)
 
 ## The Seldarine (Elven Pantheon)
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Corellon Larethian, the Creator of the Elves | Primary elven god of art and magic | Chaotic good | Arcana, Life, Light, War | Starburst |
@@ -99,6 +102,7 @@
 [(Back to Top)](#)
 
 ## The Dark Seldarine (Drow Pantheon)
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Lolth, the Spider Queen | Primary drow goddess of spiders | Chaotic evil | Trickery, War | Spider |
@@ -113,6 +117,7 @@
 [(Back to Top)](#)
 
 ## The Morndinsamman (Dwarven Pantheon)
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Moradin, the All-Father | Primary dwarven god of creation | Lawful good | Forge, Knowledge | Hammer and anvil |
@@ -139,6 +144,7 @@
 [(Back to Top)](#)
 
 ## Duergar Pantheon
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Laduguer, the Exile | Duergar god of magic and slavery | Lawful evil | Death, Forge | Broken arrow |
@@ -147,6 +153,7 @@
 [(Back to Top)](#)
 
 ## Yondalla's Children (Halfling Pantheon)
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Yondalla, the Protector and Provider | Primary halfling goddess of fertility and protection | Lawful good | Life, Twilight | Cornucopia |
@@ -160,6 +167,7 @@
 [(Back to Top)](#)
 
 ## Lords of the Golden Hills (Gnomish Pantheon)
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Garl Glittergold, the Joker | Primary gnome god of trickery | Lawful good | Trickery | Gold nugget |
@@ -179,6 +187,7 @@
 [(Back to Top)](#)
 
 ## The Godsworn (Orcish Pantheon)
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Gruumsh, He Who Watches | Primary orc god of storms and war | Chaotic evil | Tempest, War | Unblinking eye |
@@ -191,6 +200,7 @@
 [(Back to Top)](#)
 
 ## The Ordning (Giant Pantheon)
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Annam All-Father, the Prime | Primary giant god of creation and learning | True neutral | Arcana, Knowledge, Light | Two hands pointing down with joined wrists |
@@ -204,6 +214,7 @@
 [(Back to Top)](#)
 
 ## Draconic Pantheon
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 |	Bahamut, the Platinum Dragon	|	Dragon god of good	|	Lawful good	|	Life, War	|	Dragon's head in profile	|
@@ -212,6 +223,7 @@
 [(Back to Top)](#)
 
 ## Primordial Pantheon
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Akadi, the Queen of Air | Primordial goddess of air | True neutral | Tempest | Cloud |
@@ -222,6 +234,7 @@
 [(Back to Top)](#)
 
 ## Miscellaneous Deities
+
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
 | Amaunator, the Keeper of the Eternal Sun | Netherese god of the sun | Lawful neutral | Life, Light | Golden sun |

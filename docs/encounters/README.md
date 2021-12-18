@@ -1,4 +1,5 @@
 # Encounters
+
 - **[1 Player Character](#1-player-character):** [1 Encounter per Day](#1-player-character-1-encounter-per-day), [2 Encounters per Day](#1-player-character-2-encounters-per-day), [3 Encounters per Day](#1-player-character-3-encounters-per-day), [4 Encounters per Day](#1-player-character-4-encounters-per-day)
 - **[2 Player Characters](#2-player-characters):** [1 Encounter per Day](#2-player-characters-1-encounter-per-day), [2 Encounters per Day](#2-player-characters-2-encounters-per-day), [3 Encounters per Day](#2-player-characters-3-encounters-per-day), [4 Encounters per Day](#2-player-characters-4-encounters-per-day)
 - **[3 Player Characters](#3-player-characters):** [1 Encounter per Day](#3-player-characters-1-encounter-per-day), [2 Encounters per Day](#3-player-characters-2-encounters-per-day), [3 Encounters per Day](#3-player-characters-3-encounters-per-day), [4 Encounters per Day](#3-player-characters-4-encounters-per-day)
@@ -14,6 +15,7 @@
 The following tables are used to design combat encounters of appropriate difficulty.
 
 The tables make the following assumptions:
+
 - Player character builds are reasonably-well optimized (ability scores, race and class features, spells, and so on).
 - The party composition is reasonably-well optimized (damage-dealer, tank, controller, healer, utility, and so on).
 - Player characters are outfitted with level-appropriate equipment and magic items.
@@ -24,6 +26,7 @@ Otherwise, use easier encounters. Be especially careful with small adventuring p
 As the tables show, it quickly becomes difficult to challenge large adventuring parties. In such cases, consider using many encounters per adventuring day along with the Gritty Realism variant rest rule from the *Dungeon Master's Guide*.
 
 ## 1 Player Character
+
 - [1 Encounter per Day](#1-player-character-1-encounter-per-day)
 - [2 Encounters per Day](#1-player-character-2-encounters-per-day)
 - [3 Encounters per Day](#1-player-character-3-encounters-per-day)
@@ -32,6 +35,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to Top)](#)
 
 ### 1 Player Character: 1 Encounter per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR ¼ × 1 , CR ⅛ × 2 , CR 0 × 4 |
@@ -61,6 +65,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 1 Player Character)](#1-player-character)
 
 ### 1 Player Character: 2 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR ¼ × 1 , CR ⅛ × 2 , CR 0 × 4 |
@@ -90,6 +95,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 1 Player Character)](#1-player-character)
 
 ### 1 Player Character: 3 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR ¼ × 1 , CR ⅛ × 2 , CR 0 × 3 |
@@ -119,6 +125,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 1 Player Character)](#1-player-character)
 
 ### 1 Player Character: 4 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR ⅛ × 1 , CR 0 × 2 |
@@ -148,6 +155,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 1 Player Character)](#1-player-character)
 
 ## 2 Player Characters
+
 - [1 Encounter per Day](#2-player-characters-1-encounter-per-day)
 - [2 Encounters per Day](#2-player-characters-2-encounters-per-day)
 - [3 Encounters per Day](#2-player-characters-3-encounters-per-day)
@@ -156,6 +164,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to Top)](#)
 
 ### 2 Player Characters: 1 Encounter per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 1 × 1 , CR ¼ × 3 , CR ⅛ × 4 , CR 0 × 9 |
@@ -185,6 +194,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 2 Player Characters)](#2-player-characters)
 
 ### 2 Player Characters: 2 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 1 × 1 , CR ¼ × 2 , CR ⅛ × 4 , CR 0 × 7 |
@@ -214,6 +224,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 2 Player Characters)](#2-player-characters)
 
 ### 2 Player Characters: 3 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR ½ × 1 , CR ¼ × 2 , CR ⅛ × 3 , CR 0 × 6 |
@@ -243,6 +254,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 2 Player Characters)](#2-player-characters)
 
 ### 2 Player Characters: 4 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR ½ × 1 , CR ⅛ × 2 , CR 0 × 5 |
@@ -272,6 +284,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 2 Player Characters)](#2-player-characters)
 
 ## 3 Player Characters
+
 - [1 Encounter per Day](#3-player-characters-1-encounter-per-day)
 - [2 Encounters per Day](#3-player-characters-2-encounters-per-day)
 - [3 Encounters per Day](#3-player-characters-3-encounters-per-day)
@@ -280,6 +293,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to Top)](#)
 
 ### 3 Player Characters: 1 Encounter per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 2 × 1 , CR ½ × 2 , CR ¼ × 4 , CR ⅛ × 6 , CR 0 × 13 |
@@ -309,6 +323,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 3 Player Characters)](#3-player-characters)
 
 ### 3 Player Characters: 2 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 2 × 1 , CR ½ × 2 , CR ¼ × 3 , CR ⅛ × 6 , CR 0 × 11 |
@@ -338,6 +353,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 3 Player Characters)](#3-player-characters)
 
 ### 3 Player Characters: 3 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 1 × 1 , CR ½ × 2 , CR ¼ × 3 , CR ⅛ × 5 , CR 0 × 10 |
@@ -367,6 +383,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 3 Player Characters)](#3-player-characters)
 
 ### 3 Player Characters: 4 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 1 × 1 , CR ¼ × 2 , CR ⅛ × 4 , CR 0 × 8 |
@@ -396,6 +413,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 3 Player Characters)](#3-player-characters)
 
 ## 4 Player Characters
+
 - [1 Encounter per Day](#4-player-characters-1-encounter-per-day)
 - [2 Encounters per Day](#4-player-characters-2-encounters-per-day)
 - [3 Encounters per Day](#4-player-characters-3-encounters-per-day)
@@ -404,6 +422,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to Top)](#)
 
 ### 4 Player Characters: 1 Encounter per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 3 × 1 , CR 1 × 2 , CR ½ × 3 , CR ¼ × 5 , CR ⅛ × 9 , CR 0 × 18 |
@@ -433,6 +452,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 4 Player Characters)](#4-player-characters)
 
 ### 4 Player Characters: 2 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 2 × 1 , CR 1 × 2 , CR ½ × 3 , CR ¼ × 5 , CR ⅛ × 8 , CR 0 × 16 |
@@ -462,6 +482,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 4 Player Characters)](#4-player-characters)
 
 ### 4 Player Characters: 3 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 2 × 1 , CR ½ × 2 , CR ¼ × 4 , CR ⅛ × 6 , CR 0 × 13 |
@@ -491,6 +512,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 4 Player Characters)](#4-player-characters)
 
 ### 4 Player Characters: 4 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 1 × 1 , CR ½ × 2 , CR ¼ × 3 , CR ⅛ × 5 , CR 0 × 11 |
@@ -520,6 +542,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 4 Player Characters)](#4-player-characters)
 
 ## 5 Player Characters
+
 - [1 Encounter per Day](#5-player-characters-1-encounter-per-day)
 - [2 Encounters per Day](#5-player-characters-2-encounters-per-day)
 - [3 Encounters per Day](#5-player-characters-3-encounters-per-day)
@@ -528,6 +551,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to Top)](#)
 
 ### 5 Player Characters: 1 Encounter per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 4 × 1 , CR 1 × 2 , CR ½ × 4 , CR ¼ × 7 , CR ⅛ × 11 , CR 0 × 20 |
@@ -557,6 +581,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 5 Player Characters)](#5-player-characters)
 
 ### 5 Player Characters: 2 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 4 × 1 , CR 1 × 2 , CR ½ × 4 , CR ¼ × 6 , CR ⅛ × 10 , CR 0 × 20 |
@@ -586,6 +611,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 5 Player Characters)](#5-player-characters)
 
 ### 5 Player Characters: 3 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 3 × 1 , CR 1 × 2 , CR ½ × 3 , CR ¼ × 5 , CR ⅛ × 8 , CR 0 × 17 |
@@ -615,6 +641,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 5 Player Characters)](#5-player-characters)
 
 ### 5 Player Characters: 4 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 2 × 1 , CR 1 × 2 , CR ½ × 3 , CR ¼ × 4 , CR ⅛ × 7 , CR 0 × 14 |
@@ -644,6 +671,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 5 Player Characters)](#5-player-characters)
 
 ## 6 Player Characters
+
 - [1 Encounter per Day](#6-player-characters-1-encounter-per-day)
 - [2 Encounters per Day](#6-player-characters-2-encounters-per-day)
 - [3 Encounters per Day](#6-player-characters-3-encounters-per-day)
@@ -652,6 +680,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to Top)](#)
 
 ### 6 Player Characters: 1 Encounter per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 5 × 1 , CR 2 × 2 , CR 1 × 3 , CR ½ × 5 , CR ¼ × 8 , CR ⅛ × 14 |
@@ -681,6 +710,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 6 Player Characters)](#6-player-characters)
 
 ### 6 Player Characters: 2 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 5 × 1 , CR 2 × 2 , CR 1 × 3 , CR ½ × 5 , CR ¼ × 7 , CR ⅛ × 12 |
@@ -710,6 +740,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 6 Player Characters)](#6-player-characters)
 
 ### 6 Player Characters: 3 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 4 × 1 , CR 1 × 2 , CR ½ × 4 , CR ¼ × 6 , CR ⅛ × 10 |
@@ -739,6 +770,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 6 Player Characters)](#6-player-characters)
 
 ### 6 Player Characters: 4 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 4 × 1 , CR 1 × 2 , CR ½ × 3 , CR ¼ × 5 , CR ⅛ × 8 , CR 0 × 17 |
@@ -768,6 +800,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 6 Player Characters)](#6-player-characters)
 
 ## 7 Player Characters
+
 - [1 Encounter per Day](#7-player-characters-1-encounter-per-day)
 - [2 Encounters per Day](#7-player-characters-2-encounters-per-day)
 - [3 Encounters per Day](#7-player-characters-3-encounters-per-day)
@@ -776,6 +809,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to Top)](#)
 
 ### 7 Player Characters: 1 Encounter per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 7 × 1 , CR 3 × 2 , CR 1 × 4 , CR ½ × 6 , CR ¼ × 10 , CR ⅛ × 17 |
@@ -805,6 +839,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 7 Player Characters)](#7-player-characters)
 
 ### 7 Player Characters: 2 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 6 × 1 , CR 2 × 2 , CR 1 × 3 , CR ½ × 5 , CR ¼ × 9 , CR ⅛ × 15 |
@@ -834,6 +869,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 7 Player Characters)](#7-player-characters)
 
 ### 7 Player Characters: 3 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 5 × 1 , CR 2 × 2 , CR 1 × 3 , CR ½ × 5 , CR ¼ × 7 , CR ⅛ × 12 |
@@ -863,6 +899,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 7 Player Characters)](#7-player-characters)
 
 ### 7 Player Characters: 4 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 4 × 1 , CR 1 × 2 , CR ½ × 4 , CR ¼ × 6 , CR ⅛ × 10 , CR 0 × 20 |
@@ -892,6 +929,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 7 Player Characters)](#7-player-characters)
 
 ## 8 Player Characters
+
 - [1 Encounter per Day](#8-player-characters-1-encounter-per-day)
 - [2 Encounters per Day](#8-player-characters-2-encounters-per-day)
 - [3 Encounters per Day](#8-player-characters-3-encounters-per-day)
@@ -900,6 +938,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to Top)](#)
 
 ### 8 Player Characters: 1 Encounter per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 9 × 1 , CR 3 × 2 , CR 2 × 3 , CR 1 × 4 , CR ½ × 7 , CR ¼ × 12 , CR ⅛ × 20 |
@@ -929,6 +968,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 8 Player Characters)](#8-player-characters)
 
 ### 8 Player Characters: 2 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 8 × 1 , CR 3 × 2 , CR 1 × 4 , CR ½ × 6 , CR ¼ × 10 , CR ⅛ × 17 |
@@ -958,6 +998,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 8 Player Characters)](#8-player-characters)
 
 ### 8 Player Characters: 3 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 7 × 1 , CR 2 × 2 , CR 1 × 3 , CR ½ × 5 , CR ¼ × 9 , CR ⅛ × 15 |
@@ -987,6 +1028,7 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 8 Player Characters)](#8-player-characters)
 
 ### 8 Player Characters: 4 Encounters per Day
+
 | Level | Monsters |
 | :---: | :------- |
 | 1st | CR 6 × 1 , CR 2 × 2 , CR 1 × 3 , CR ½ × 4 , CR ¼ × 7 , CR ⅛ × 12 |
@@ -1016,18 +1058,18 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 [(Back to 8 Player Characters)](#8-player-characters)
 
 ## General
+
 - [Experience Adjustment Factor](#general-experience-adjustment-factor)
 - [Adjusted Experience per Player Character](#general-adjusted-experience-per-player-character)
 
 The following tables are used to design combat encounters containing monsters with different challenge ratings.
 
-Example using these tables:
-
-A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR 1 monsters. Each CR 3 monster is worth 700 XP and each CR 1 monster is worth 200 XP, so the total base experience of the encounter is 2 × 700 XP + 4 × 200 XP = 2,200 XP. There are 4 player characters fighting 6 monsters, so the experience adjustment factor is 2.39 from the table. The total adjusted experience of the encounter is therefore 2,200 XP × 2.39 = 5,258 XP, which is 5,258 XP / 4 = 1,315 XP per player character. From the table, this corresponds to 2 encounters per day. The party can therefore be expected to expend half its resources during this encounter.
+Example using these tables: A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR 1 monsters. Each CR 3 monster is worth 700 XP and each CR 1 monster is worth 200 XP, so the total base experience of the encounter is 2 × 700 XP + 4 × 200 XP = 2,200 XP. There are 4 player characters fighting 6 monsters, so the experience adjustment factor is 2.39 from the table. The total adjusted experience of the encounter is therefore 2,200 XP × 2.39 = 5,258 XP, which is 5,258 XP / 4 = 1,315 XP per player character. From the table, this corresponds to 2 encounters per day. The party can therefore be expected to expend half its resources during this encounter.
 
 [(Back to Top)](#)
 
 ### General: Experience Adjustment Factor
+
 | Monsters | 1 P.C. | 2 P.C. | 3 P.C. | 4 P.C. | 5 P.C. | 6 P.C. | 7 P.C. | 8 P.C. |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | × 1 | 2.12 | 1.47 | 1.14 | 1.00 | 0.68 | 0.47 | 0.38 | 0.26 |
@@ -1054,6 +1096,7 @@ A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR
 [(Back to General)](#general)
 
 ### General: Adjusted Experience per Player Character
+
 | Level | 1 Enc./Day | 2 Enc./Day | 3 Enc./Day | 4 Enc./Day |
 | :---: | ---------: | ---------: | ---------: | ---------: |
 | 1st | 150 XP | 125 XP | 100 XP | 75 XP |
