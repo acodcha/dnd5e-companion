@@ -22,11 +22,11 @@
 - [Artisan's Tools](#artisans-tools)
 - [Summoning Items](#summoning-items)
 - [Miscellaneous](#miscellaneous)
-- [All Permanent Magic Items by Price](#all-permanent-magic-items-by-price)
+- [All Permanent Magic Items by Cost](#all-permanent-magic-items-by-cost)
 
 [(Back to Main Page)](../../#)
 
-Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold. All prices are listed in gold pieces (gp). Always check with your Game Master before buying or selling magic items.
+Magic items with a listed cost can be purchased at that cost and sold at half that cost. Magic items without a listed cost cannot be purchased or sold. All costs are listed in gold pieces (gp). Always check with your Game Master before buying or selling magic items.
 
 Abbreviations:
 
@@ -36,8 +36,8 @@ Abbreviations:
 
 ## Light Armor
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Smoldering studded leather armor | 250 gp | 13 lb | XGtE 139 |
 | Cast-off studded leather armor | 350 gp | 13 lb | XGtE 136 |
 | Mariner's studded leather armor | 1,500 gp | 13 lb | DMG 181 |
@@ -51,8 +51,8 @@ Abbreviations:
 
 ## Medium Armor
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Hide armor of gleaming | 210 gp | 12 lb | XGtE 136 |
 | Smoldering hide armor | 210 gp | 12 lb | XGtE 139 |
 | Cast-off hide armor | 310 gp | 12 lb | XGtE 136 |
@@ -88,8 +88,8 @@ Abbreviations:
 
 ## Heavy Armor
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Plate armor of gleaming | 1,700 gp | 65 lb | XGtE 136 |
 | Smoldering plate armor | 1,700 gp | 65 lb | XGtE 139 |
 | Cast-off plate armor | 1,800 gp | 65 lb | XGtE 136 |
@@ -111,8 +111,8 @@ Abbreviations:
 
 ## Shields
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Shield of expression | 200 gp | 6 lb | XGtE 139 |
 | Shield, +1 | 1,500 gp | 6 lb | DMG 200 |
 | Animated shield (attunement) | 6,000 gp | 6 lb | DMG 151 |
@@ -127,8 +127,8 @@ Abbreviations:
 
 ## Clothes
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Clothes of mending | 100 gp | 4 lb | XGtE 137 |
 | Robe of useful items | 450 gp | 4 lb | DMG 195 |
 | Robe of scintillating colors (attunement) | 6,000 gp | 4 lb | DMG 194 |
@@ -140,66 +140,66 @@ Abbreviations:
 
 ## Coats
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
-| Cloak of billowing | 100 gp | 1 lb | XGtE 136 |
-| Cloak of many fashions | 200 gp | 1 lb | XGtE 136 |
-| Nature's mantle (attunement druid/ranger) | 1,000 gp | 1 lb | TCoE 133 |
-| Cloak of protection (attunement) | 3,500 gp | 1 lb | DMG 159 |
-| Cloak of arachnida (attunement) | 5,000 gp | 1 lb | DMG 158 |
-| Cloak of elvenkind (attunement) | 5,000 gp | 1 lb | DMG 158 |
-| Cloak of the bat (attunement) | 6,000 gp | 1 lb | DMG 159 |
-| Cloak of the manta ray | 6,000 gp | 1 lb | DMG 159 |
-| Cape of the mountebank | 8,000 gp | 1 lb | DMG 157 |
-| Mantle of spell resistance (attunement) | 30,000 gp | 1 lb | DMG 180 |
-| Cloak of displacement (attunement) | 60,000 gp | 1 lb | DMG 158 |
-| Wings of flying (attunement) | 140,000 gp | 1 lb | DMG 214 |
-| Cloak of invisibility (attunement) | – | 1 lb | DMG 158 |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
+| Cloak of billowing | 100 gp | – | XGtE 136 |
+| Cloak of many fashions | 200 gp | – | XGtE 136 |
+| Nature's mantle (attunement druid/ranger) | 1,000 gp | – | TCoE 133 |
+| Cloak of protection (attunement) | 3,500 gp | – | DMG 159 |
+| Cloak of arachnida (attunement) | 5,000 gp | – | DMG 158 |
+| Cloak of elvenkind (attunement) | 5,000 gp | – | DMG 158 |
+| Cloak of the bat (attunement) | 6,000 gp | – | DMG 159 |
+| Cloak of the manta ray | 6,000 gp | – | DMG 159 |
+| Cape of the mountebank | 8,000 gp | – | DMG 157 |
+| Mantle of spell resistance (attunement) | 30,000 gp | – | DMG 180 |
+| Cloak of displacement (attunement) | 60,000 gp | – | DMG 158 |
+| Wings of flying (attunement) | 140,000 gp | – | DMG 214 |
+| Cloak of invisibility (attunement) | – | – | DMG 158 |
 
 [(Back to Top)](#)
 
 ## Belts
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
-| Belt of dwarvenkind (attunement) | 6,000 gp | 1 lb | DMG 155 |
-| Belt of cloud giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of fire giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of frost giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of hill giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of stone giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of storm giant strength (attunement) | – | 1 lb | DMG 155 |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
+| Belt of dwarvenkind (attunement) | 6,000 gp | – | DMG 155 |
+| Belt of cloud giant strength (attunement) | – | – | DMG 155 |
+| Belt of fire giant strength (attunement) | – | – | DMG 155 |
+| Belt of frost giant strength (attunement) | – | – | DMG 155 |
+| Belt of hill giant strength (attunement) | – | – | DMG 155 |
+| Belt of stone giant strength (attunement) | – | – | DMG 155 |
+| Belt of storm giant strength (attunement) | – | – | DMG 155 |
 
 [(Back to Top)](#)
 
 ## Footwear
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
-| Boots of false tracks | 500 gp | 1 lb | XGtE 136 |
-| Boots of elvenkind | 2,500 gp | 1 lb | DMG 155 |
-| Boots of levitation (attunement) | 4,000 gp | 1 lb | DMG 155 |
-| Boots of speed (attunement) | 4,000 gp | 1 lb | DMG 155 |
-| Boots of striding and springing (attunement) | 5,000 gp | 1 lb | DMG 156 |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
+| Boots of false tracks | 500 gp | – | XGtE 136 |
+| Boots of elvenkind | 2,500 gp | – | DMG 155 |
+| Boots of levitation (attunement) | 4,000 gp | – | DMG 155 |
+| Boots of speed (attunement) | 4,000 gp | – | DMG 155 |
+| Boots of striding and springing (attunement) | 5,000 gp | – | DMG 156 |
 | Slippers of spider climbing (attunement) | 5,000 gp | – | DMG 200 |
-| Boots of the winterlands (attunement) | 10,000 gp | 1 lb | DMG 156 |
-| Winged boots (attunement) | 160,000 gp | 1 lb | DMG 214 |
+| Boots of the winterlands (attunement) | 10,000 gp | – | DMG 156 |
+| Winged boots (attunement) | 160,000 gp | – | DMG 214 |
 
 [(Back to Top)](#)
 
 ## Bracers
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
-| Bracers of archery (attunement) | 1,500 gp | 1 lb | DMG 156 |
-| Bracers of defense (attunement) | 6,000 gp | 1 lb | DMG 156 |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
+| Bracers of archery (attunement) | 1,500 gp | – | DMG 156 |
+| Bracers of defense (attunement) | 6,000 gp | – | DMG 156 |
 
 [(Back to Top)](#)
 
 ## Gloves
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Gloves of swimming and climbing (attunement) | 2,000 gp | – | DMG 172 |
 | Gloves of missile snaring (attunement) | 3,000 gp | – | DMG 172 |
 | Gloves of thievery | 5,000 gp | – | DMG 172 |
@@ -209,26 +209,26 @@ Abbreviations:
 
 ## Headwear
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
-| Dread helm | 100 gp | 1 lb | XGtE 137 |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
+| Dread helm | 100 gp | – | XGtE 137 |
 | Hat of vermin | 200 gp | – | XGtE 137 |
 | Hat of wizardry (attunement wizard) | 500 gp | – | XGtE 137 |
-| Helm of comprehend languages | 500 gp | 1 lb | DMG 173 |
+| Helm of comprehend languages | 500 gp | – | DMG 173 |
 | Cap of water breathing | 1,000 gp | – | DMG 157 |
 | Circlet of blasting | 1,500 gp | – | DMG 158 |
 | Hat of disguise (attunement) | 5,000 gp | – | DMG 173 |
-| Helm of telepathy (attunement) | 12,000 gp | 1 lb | DMG 174 |
-| Helm of teleportation (attunement) | 64,000 gp | 1 lb | DMG 174 |
-| Helm of brilliance (attunement) | 350,000 gp | 1 lb | DMG 173 |
+| Helm of telepathy (attunement) | 12,000 gp | – | DMG 174 |
+| Helm of teleportation (attunement) | 64,000 gp | – | DMG 174 |
+| Helm of brilliance (attunement) | 350,000 gp | – | DMG 173 |
 | Headband of intellect (attunement) | – | – | DMG 173 |
 
 [(Back to Top)](#)
 
 ## Eyewear
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Goggles of night | 1,500 gp | – | DMG 172 |
 | Eyes of minute seeing | 2,500 gp | – | DMG 168 |
 | Eyes of the eagle (attunement) | 2,500 gp | – | DMG 168 |
@@ -238,8 +238,8 @@ Abbreviations:
 
 ## Jewelry
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Necklace of prayer beads, base necklace (attunement cleric/druid/paladin) | 500 gp | – | DMG 182 |
 | Clockwork amulet | 1,000 gp | – | XGtE 137 |
 | Ring of warmth (attunement) | 1,000 gp | – | DMG 193 |
@@ -289,8 +289,8 @@ Abbreviations:
 
 ## Tattoos
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Illuminator's tattoo (attunement) | 1,000 gp | – | TCoE 129 |
 | Coiling grasp tattoo (attunement) | 2,000 gp | – | TCoE 123 |
 | Eldritch claw tattoo (attunement) | 3,000 gp | – | TCoE 126 |
@@ -311,8 +311,8 @@ Abbreviations:
 - Swords include the greatsword, longsword, rapier, scimitar, and shortsword. The glaive is not a sword.
 - Axes include the battleaxe, greataxe, and handaxe. The halberd is not an axe.
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Vicious weapon (any weapon) | 350 gp | (varies) | DMG 209 |
 | Moon-touched sword (any sword) | 500 gp | (varies) | XGtE 138 |
 | Trident of fish command (attunement) | 800 gp | 4 lb | DMG 209 |
@@ -354,8 +354,8 @@ Abbreviations:
 
 ## Arcane Foci
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Staff of adornment | 100 gp | 4 lb | XGtE 139 |
 | Staff of birdcalls | 200 gp | 4 lb | XGtE 139 |
 | Staff of flowers | 200 gp | 4 lb | XGtE 139 |
@@ -437,8 +437,8 @@ Abbreviations:
 
 ## Druidic Foci
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Bell branch (attunement druid/warlock) | 500 gp | 1 lb | TCoE 122 |
 | Cauldron of rebirth (attunement druid/warlock) | 2,000 gp | 10 lb | TCoE 122 |
 | Moon sickle, +1 (attunement druid/ranger) | 2,000 gp | 2 lb | TCoE 133 |
@@ -449,8 +449,8 @@ Abbreviations:
 
 ## Holy Symbols
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Guardian emblem (attunement cleric/paladin) | 500 gp | – | TCoE 128 |
 | Amulet of the devout, +1 (attunement cleric/paladin) | 3,000 gp | 1 lb | TCoE 119 |
 | Amulet of the devout, +2 (attunement cleric/paladin) | 12,000 gp | 1 lb | TCoE 119 |
@@ -460,8 +460,8 @@ Abbreviations:
 
 ## Musical Instruments
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Instrument of illusions (any musical instrument) (attunement) | 200 gp | (varies) | XGtE 137 |
 | Instrument of scribing (any musical instrument) (attunement) | 500 gp | (varies) | XGtE 138 |
 | Pipes of the sewers (attunement) | 2,000 gp | 2 lb | DMG 185 |
@@ -483,25 +483,25 @@ Abbreviations:
 
 ## Artisan's Tools
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
-| All-purpose tool, +1 (attunement artificer) | 3,000 gp | 1 lb | TCoE 119 |
-| All-purpose tool, +2 (attunement artificer) | 12,000 gp | 1 lb | TCoE 119 |
-| All-purpose tool, +3 (attunement artificer) | 36,000 gp | 1 lb | TCoE 119 |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
+| All-purpose tool, +1 (attunement artificer) | 3,000 gp | – | TCoE 119 |
+| All-purpose tool, +2 (attunement artificer) | 12,000 gp | – | TCoE 119 |
+| All-purpose tool, +3 (attunement artificer) | 36,000 gp | – | TCoE 119 |
 
 [(Back to Top)](#)
 
 ## Summoning Items
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
-| Figurine of wondrous power, ivory goat of travail | 400 gp | 1 lb | DMG 169 |
-| Figurine of wondrous power, ivory goat of traveling | 1,000 gp | 1 lb | DMG 169 |
-| Figurine of wondrous power, golden lions (pair) | 1,200 gp | 1 lb | DMG 169 |
-| Figurine of wondrous power, onyx dog | 3,000 gp | 1 lb | DMG 170 |
-| Figurine of wondrous power, silver raven | 5,000 gp | 1 lb | DMG 170 |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
+| Figurine of wondrous power, ivory goat of travail | 400 gp | – | DMG 169 |
+| Figurine of wondrous power, ivory goat of traveling | 1,000 gp | – | DMG 169 |
+| Figurine of wondrous power, golden lions (pair) | 1,200 gp | – | DMG 169 |
+| Figurine of wondrous power, onyx dog | 3,000 gp | – | DMG 170 |
+| Figurine of wondrous power, silver raven | 5,000 gp | – | DMG 170 |
 | Horn of Valhalla, silver | 5,600 gp | 2 lb | DMG 175 |
-| Figurine of wondrous power, marble elephant | 6,000 gp | 1 lb | DMG 170 |
+| Figurine of wondrous power, marble elephant | 6,000 gp | – | DMG 170 |
 | Bowl of commanding water elementals | 8,000 gp | 3 lb | DMG 156 |
 | Brazier of commanding fire elementals | 8,000 gp | 5 lb | DMG 156 |
 | Censer of controlling air elementals | 8,000 gp | 1 lb | DMG 158 |
@@ -512,18 +512,18 @@ Abbreviations:
 | Tan bag of tricks | 16,000 gp | ½ lb | DMG 154 |
 | Gray bag of tricks | 17,000 gp | ½ lb | DMG 154 |
 | Rust bag of tricks | 18,000 gp | ½ lb | DMG 154 |
-| Figurine of wondrous power, ivory goat of terror | 20,000 gp | 1 lb | DMG 169 |
-| Figurine of wondrous power, ebony fly | 48,000 gp | 1 lb | DMG 169 |
-| Figurine of wondrous power, serpentine owl | 70,000 gp | 1 lb | DMG 170 |
-| Figurine of wondrous power, bronze griffon | 100,000 gp | 1 lb | DMG 169 |
-| Figurine of wondrous power, obsidian steed | 130,000 gp | 1 lb | DMG 170 |
+| Figurine of wondrous power, ivory goat of terror | 20,000 gp | – | DMG 169 |
+| Figurine of wondrous power, ebony fly | 48,000 gp | – | DMG 169 |
+| Figurine of wondrous power, serpentine owl | 70,000 gp | – | DMG 170 |
+| Figurine of wondrous power, bronze griffon | 100,000 gp | – | DMG 169 |
+| Figurine of wondrous power, obsidian steed | 130,000 gp | – | DMG 170 |
 
 [(Back to Top)](#)
 
 ## Miscellaneous
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Candle of the deep | 100 gp | – | XGtE 136 |
 | Pole of angling | 100 gp | 4 lb | XGtE 138 |
 | Pole of collapsing | 100 gp | 2 lb | XGtE 138 |
@@ -614,18 +614,18 @@ Abbreviations:
 
 [(Back to Top)](#)
 
-## All Permanent Magic Items by Price
+## All Permanent Magic Items by Cost
 
-| Magic Item | Price | Weight | Source |
-| :--------- | ----: | -----: | -----: |
+| Magic Item | Cost | Weight | Source |
+| :--------- | ---: | -----: | -----: |
 | Candle of the deep | 100 gp | – | XGtE 136 |
-| Cloak of billowing | 100 gp | 1 lb | XGtE 136 |
+| Cloak of billowing | 100 gp | – | XGtE 136 |
 | Clothes of mending | 100 gp | 4 lb | XGtE 137 |
-| Dread helm | 100 gp | 1 lb | XGtE 137 |
+| Dread helm | 100 gp | – | XGtE 137 |
 | Pole of angling | 100 gp | 4 lb | XGtE 138 |
 | Pole of collapsing | 100 gp | 2 lb | XGtE 138 |
 | Staff of adornment | 100 gp | 4 lb | XGtE 139 |
-| Cloak of many fashions | 200 gp | 1 lb | XGtE 136 |
+| Cloak of many fashions | 200 gp | – | XGtE 136 |
 | Ear horn of hearing | 200 gp | 1 lb | XGtE 137 |
 | Hat of vermin | 200 gp | – | XGtE 137 |
 | Instrument of illusions (any musical instrument) (attunement) | 200 gp | (varies) | XGtE 137 |
@@ -645,18 +645,18 @@ Abbreviations:
 | Cast-off hide armor | 310 gp | 12 lb | XGtE 136 |
 | Cast-off studded leather armor | 350 gp | 13 lb | XGtE 136 |
 | Vicious weapon (any weapon) | 350 gp | (varies) | DMG 209 |
-| Figurine of wondrous power, ivory goat of travail | 400 gp | 1 lb | DMG 169 |
+| Figurine of wondrous power, ivory goat of travail | 400 gp | – | DMG 169 |
 | Rope of mending | 400 gp | 10 lb | XGtE 138 |
 | Robe of useful items | 450 gp | 4 lb | DMG 195 |
 | Bell branch (attunement druid/warlock) | 500 gp | 1 lb | TCoE 122 |
-| Boots of false tracks | 500 gp | 1 lb | XGtE 136 |
+| Boots of false tracks | 500 gp | – | XGtE 136 |
 | Dark shard amulet (attunement warlock) | 500 gp | 1 lb | XGtE 137 |
 | Enduring spellbook | 500 gp | 3 lb | XGtE 137 |
 | Ersatz eye (attunement) | 500 gp | – | XGtE 137 |
 | Feywild shard (attunement sorcerer) | 500 gp | 1 lb | TCoE 127 |
 | Guardian emblem (attunement cleric/paladin) | 500 gp | – | TCoE 128 |
 | Hat of wizardry (attunement wizard) | 500 gp | – | XGtE 137 |
-| Helm of comprehend languages | 500 gp | 1 lb | DMG 173 |
+| Helm of comprehend languages | 500 gp | – | DMG 173 |
 | Horn of silent alarm | 500 gp | 2 lb | XGtE 137 |
 | Instrument of scribing (any musical instrument) (attunement) | 500 gp | (varies) | XGtE 138 |
 | Lock of trickery | 500 gp | 1 lb | XGtE 138 |
@@ -679,11 +679,11 @@ Abbreviations:
 | Clockwork amulet | 1,000 gp | – | XGtE 137 |
 | Elemental essence shard of fire (attunement sorcerer) | 1,000 gp | 1 lb | TCoE 127 |
 | Eversmoking bottle | 1,000 gp | 1 lb | DMG 168 |
-| Figurine of wondrous power, ivory goat of traveling | 1,000 gp | 1 lb | DMG 169 |
+| Figurine of wondrous power, ivory goat of traveling | 1,000 gp | – | DMG 169 |
 | Illuminator's tattoo (attunement) | 1,000 gp | – | TCoE 129 |
 | Ioun stone of sustenance (attunement) | 1,000 gp | – | DMG 176 |
 | Mystery key | 1,000 gp | – | XGtE 138 |
-| Nature's mantle (attunement druid/ranger) | 1,000 gp | 1 lb | TCoE 133 |
+| Nature's mantle (attunement druid/ranger) | 1,000 gp | – | TCoE 133 |
 | Outer essence shard of evil (attunement sorcerer) | 1,000 gp | 1 lb | TCoE 133 |
 | Prosthetic limb | 1,000 gp | (varies) | TCoE 134 |
 | Quiver of Ehlonna | 1,000 gp | 2 lb | DMG 189 |
@@ -691,12 +691,12 @@ Abbreviations:
 | Sword of life stealing (any sword) (attunement) | 1,000 gp | (varies) | DMG 206 |
 | Weapon, +1 (any weapon) | 1,000 gp | (varies) | DMG 213 |
 | Cast-off half plate armor | 1,100 gp | 40 lb | XGtE 136 |
-| Figurine of wondrous power, golden lions (pair) | 1,200 gp | 1 lb | DMG 169 |
+| Figurine of wondrous power, golden lions (pair) | 1,200 gp | – | DMG 169 |
 | Ioun stone of protection (attunement) | 1,200 gp | – | DMG 176 |
 | Mithral breastplate armor | 1,200 gp | 20 lb | DMG 182 |
 | Wand of the war mage, +1 (attunement spellcaster) | 1,200 gp | 1 lb | DMG 212 |
 | Adamantine half plate armor | 1,300 gp | 40 lb | DMG 150 |
-| Bracers of archery (attunement) | 1,500 gp | 1 lb | DMG 156 |
+| Bracers of archery (attunement) | 1,500 gp | – | DMG 156 |
 | Circlet of blasting | 1,500 gp | – | DMG 158 |
 | Goggles of night | 1,500 gp | – | DMG 172 |
 | Hide armor, +1 | 1,500 gp | 12 lb | DMG 152 |
@@ -748,20 +748,20 @@ Abbreviations:
 | Mariner's half plate armor | 2,300 gp | 40 lb | DMG 181 |
 | Mithral plate armor | 2,300 gp | 65 lb | DMG 182 |
 | Ioun stone of absorption (attunement) | 2,400 gp | – | DMG 176 |
-| Boots of elvenkind | 2,500 gp | 1 lb | DMG 155 |
+| Boots of elvenkind | 2,500 gp | – | DMG 155 |
 | Dagger of venom | 2,500 gp | 1 lb | DMG 161 |
 | Eyes of minute seeing | 2,500 gp | – | DMG 168 |
 | Eyes of the eagle (attunement) | 2,500 gp | – | DMG 168 |
 | Outer essence shard of chaos (attunement sorcerer) | 2,500 gp | 1 lb | TCoE 133 |
 | Ring of jumping (attunement) | 2,500 gp | – | DMG 191 |
-| All-purpose tool, +1 (attunement artificer) | 3,000 gp | 1 lb | TCoE 119 |
+| All-purpose tool, +1 (attunement artificer) | 3,000 gp | – | TCoE 119 |
 | Amulet of the devout, +1 (attunement cleric/paladin) | 3,000 gp | 1 lb | TCoE 119 |
 | Bloodwell vial, +1 (attunement sorcerer) | 3,000 gp | – | TCoE 122 |
 | Dimensional shackles | 3,000 gp | 6 lb | DMG 165 |
 | Eldritch claw tattoo (attunement) | 3,000 gp | – | TCoE 126 |
 | Elemental essence shard of earth (attunement sorcerer) | 3,000 gp | 1 lb | TCoE 127 |
 | Eyes of charming (attunement) | 3,000 gp | – | DMG 168 |
-| Figurine of wondrous power, onyx dog | 3,000 gp | 1 lb | DMG 170 |
+| Figurine of wondrous power, onyx dog | 3,000 gp | – | DMG 170 |
 | Gloves of missile snaring (attunement) | 3,000 gp | – | DMG 172 |
 | Ioun stone of agility (attunement) | 3,000 gp | – | DMG 176 |
 | Ioun stone of fortitude (attunement) | 3,000 gp | – | DMG 176 |
@@ -774,13 +774,13 @@ Abbreviations:
 | Plate armor, +1 | 3,000 gp | 65 lb | DMG 152 |
 | Ring of swimming | 3,000 gp | – | DMG 193 |
 | Staff of withering (attunement cleric/druid/warlock) | 3,000 gp | 4 lb | DMG 205 |
-| Cloak of protection (attunement) | 3,500 gp | 1 lb | DMG 159 |
+| Cloak of protection (attunement) | 3,500 gp | – | DMG 159 |
 | Far Realm shard (attunement sorcerer) | 3,500 gp | 1 lb | TCoE 127 |
 | Oathbow (longbow) (attunement) | 3,500 gp | 2 lb | DMG 183 |
 | Ring of protection (attunement) | 3,500 gp | – | DMG 191 |
 | Bag of holding | 4,000 gp | 15 lb | DMG 153 |
-| Boots of levitation (attunement) | 4,000 gp | 1 lb | DMG 155 |
-| Boots of speed (attunement) | 4,000 gp | 1 lb | DMG 155 |
+| Boots of levitation (attunement) | 4,000 gp | – | DMG 155 |
+| Boots of speed (attunement) | 4,000 gp | – | DMG 155 |
 | Dragon scale mail armor (attunement) | 4,000 gp | 45 lb | DMG 165 |
 | Elemental essence shard of water (attunement sorcerer) | 4,000 gp | 1 lb | TCoE 127 |
 | Ghost step tattoo (attunement) | 4,000 gp | – | TCoE 128 |
@@ -793,10 +793,10 @@ Abbreviations:
 | Elven chain shirt armor | 4,100 gp | 20 lb | DMG 168 |
 | Stone of good luck (attunement) | 4,200 gp | – | DMG 205 |
 | Wand of the war mage, +2 (attunement spellcaster) | 4,800 gp | 1 lb | DMG 212 |
-| Boots of striding and springing (attunement) | 5,000 gp | 1 lb | DMG 156 |
-| Cloak of arachnida (attunement) | 5,000 gp | 1 lb | DMG 158 |
-| Cloak of elvenkind (attunement) | 5,000 gp | 1 lb | DMG 158 |
-| Figurine of wondrous power, silver raven | 5,000 gp | 1 lb | DMG 170 |
+| Boots of striding and springing (attunement) | 5,000 gp | – | DMG 156 |
+| Cloak of arachnida (attunement) | 5,000 gp | – | DMG 158 |
+| Cloak of elvenkind (attunement) | 5,000 gp | – | DMG 158 |
+| Figurine of wondrous power, silver raven | 5,000 gp | – | DMG 170 |
 | Flame tongue (any sword) (attunement) | 5,000 gp | (varies) | DMG 170 |
 | Gloves of thievery | 5,000 gp | – | DMG 172 |
 | Hat of disguise (attunement) | 5,000 gp | – | DMG 173 |
@@ -815,11 +815,11 @@ Abbreviations:
 | Alchemy jug | 6,000 gp | 12 lb | DMG 150 |
 | Animated shield (attunement) | 6,000 gp | 6 lb | DMG 151 |
 | Arrow-catching shield (attunement) | 6,000 gp | 6 lb | DMG 152 |
-| Belt of dwarvenkind (attunement) | 6,000 gp | 1 lb | DMG 155 |
-| Bracers of defense (attunement) | 6,000 gp | 1 lb | DMG 156 |
-| Cloak of the bat (attunement) | 6,000 gp | 1 lb | DMG 159 |
-| Cloak of the manta ray | 6,000 gp | 1 lb | DMG 159 |
-| Figurine of wondrous power, marble elephant | 6,000 gp | 1 lb | DMG 170 |
+| Belt of dwarvenkind (attunement) | 6,000 gp | – | DMG 155 |
+| Bracers of defense (attunement) | 6,000 gp | – | DMG 156 |
+| Cloak of the bat (attunement) | 6,000 gp | – | DMG 159 |
+| Cloak of the manta ray | 6,000 gp | – | DMG 159 |
+| Figurine of wondrous power, marble elephant | 6,000 gp | – | DMG 170 |
 | Hide armor of resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
 | Hide armor, +2 | 6,000 gp | 12 lb | DMG 152 |
 | Ioun stone of reserve (attunement) | 6,000 gp | – | DMG 176 |
@@ -845,7 +845,7 @@ Abbreviations:
 | Arcane grimoire, +2 (attunement wizard) | 8,000 gp | 3 lb | TCoE 120 |
 | Bowl of commanding water elementals | 8,000 gp | 3 lb | DMG 156 |
 | Brazier of commanding fire elementals | 8,000 gp | 5 lb | DMG 156 |
-| Cape of the mountebank | 8,000 gp | 1 lb | DMG 157 |
+| Cape of the mountebank | 8,000 gp | – | DMG 157 |
 | Censer of controlling air elementals | 8,000 gp | 1 lb | DMG 158 |
 | Dragon slayer (any sword) | 8,000 gp | (varies) | DMG 166 |
 | Mace of disruption (attunement) | 8,000 gp | 4 lb | DMG 179 |
@@ -865,7 +865,7 @@ Abbreviations:
 | Lifewell tattoo (attunement) | 9,000 gp | – | TCoE 129 |
 | Apparatus of Kwalish | 10,000 gp | 500 lb | DMG 151 |
 | Blood fury tattoo (attunement) | 10,000 gp | – | TCoE 122 |
-| Boots of the winterlands (attunement) | 10,000 gp | 1 lb | DMG 156 |
+| Boots of the winterlands (attunement) | 10,000 gp | – | DMG 156 |
 | Folding boat | 10,000 gp | 4 lb | DMG 170 |
 | Ring of invisibility (attunement) | 10,000 gp | – | DMG 191 |
 | Staff of thunder and lightning (attunement) | 10,000 gp | 4 lb | DMG 204 |
@@ -873,10 +873,10 @@ Abbreviations:
 | Wand of fear (attunement) | 10,000 gp | 1 lb | DMG 210 |
 | Dwarven plate armor | 11,000 gp | 65 lb | DMG 167 |
 | Horn of Valhalla, bronze | 11,000 gp | 2 lb | DMG 175 |
-| All-purpose tool, +2 (attunement artificer) | 12,000 gp | 1 lb | TCoE 119 |
+| All-purpose tool, +2 (attunement artificer) | 12,000 gp | – | TCoE 119 |
 | Amulet of the devout, +2 (attunement cleric/paladin) | 12,000 gp | 1 lb | TCoE 119 |
 | Bloodwell vial, +2 (attunement sorcerer) | 12,000 gp | – | TCoE 122 |
-| Helm of telepathy (attunement) | 12,000 gp | 1 lb | DMG 174 |
+| Helm of telepathy (attunement) | 12,000 gp | – | DMG 174 |
 | Ioun stone of awareness (attunement) | 12,000 gp | – | DMG 176 |
 | Staff of charming (attunement bard/cleric/druid/sorcerer/warlock/wizard) | 12,000 gp | 4 lb | DMG 201 |
 | Sun blade (longsword) (attunement) | 12,000 gp | 3 lb | DMG 205 |
@@ -902,7 +902,7 @@ Abbreviations:
 | Wand of the war mage, +3 (attunement spellcaster) | 19,000 gp | 1 lb | DMG 212 |
 | Amulet of proof against detection and location (attunement) | 20,000 gp | – | DMG 150 |
 | Efreeti chain mail armor (attunement) | 20,000 gp | 55 lb | DMG 167 |
-| Figurine of wondrous power, ivory goat of terror | 20,000 gp | 1 lb | DMG 169 |
+| Figurine of wondrous power, ivory goat of terror | 20,000 gp | – | DMG 169 |
 | Plate armor of invulnerability (attunement) | 20,000 gp | 65 lb | DMG 152 |
 | Ring of free action (attunement) | 20,000 gp | – | DMG 191 |
 | Sentinel shield | 20,000 gp | 6 lb | DMG 199 |
@@ -927,7 +927,7 @@ Abbreviations:
 | Rod of lordly might (attunement) | 28,000 gp | 2 lb | DMG 196 |
 | Fulminating treatise (attunement wizard) | 29,000 gp | 3 lb | TCoE 128 |
 | Instrument of the bards, doss lute (attunement bard) | 29,000 gp | 2 lb | DMG 176 |
-| Mantle of spell resistance (attunement) | 30,000 gp | 1 lb | DMG 180 |
+| Mantle of spell resistance (attunement) | 30,000 gp | – | DMG 180 |
 | Ring of spell turning (attunement) | 30,000 gp | – | DMG 193 |
 | Robe of eyes (attunement) | 30,000 gp | 4 lb | DMG 193 |
 | Instrument of the bards, canaith mandolin (attunement bard) | 31,000 gp | 2 lb | DMG 176 |
@@ -943,46 +943,46 @@ Abbreviations:
 | Wand of lightning bolts (attunement spellcaster) | 32,000 gp | 1 lb | DMG 211 |
 | Wand of polymorph (attunement spellcaster) | 32,000 gp | 1 lb | DMG 211 |
 | Instrument of the bards, cli lyre (attunement bard) | 33,000 gp | 2 lb | DMG 176 |
-| All-purpose tool, +3 (attunement artificer) | 36,000 gp | 1 lb | TCoE 119 |
+| All-purpose tool, +3 (attunement artificer) | 36,000 gp | – | TCoE 119 |
 | Amulet of the devout, +3 (attunement cleric/paladin) | 36,000 gp | 1 lb | TCoE 119 |
 | Bloodwell vial, +3 (attunement sorcerer) | 36,000 gp | – | TCoE 122 |
 | Scarab of protection (attunement) | 36,000 gp | – | DMG 199 |
 | Sword of answering (longsword) (attunement) | 36,000 gp | 3 lb | DMG 206 |
 | Rod of resurrection (attunement cleric/druid/paladin) | 40,000 gp | 2 lb | DMG 197 |
 | Staff of the woodlands (attunement druid) | 44,000 gp | 4 lb | DMG 204 |
-| Figurine of wondrous power, ebony fly | 48,000 gp | 1 lb | DMG 169 |
+| Figurine of wondrous power, ebony fly | 48,000 gp | – | DMG 169 |
 | Alchemical compendium (attunement wizard) | 49,000 gp | 3 lb | TCoE 119 |
 | Plate armor of etherealness (attunement) | 50,000 gp | 65 lb | DMG 185 |
 | Rod of absorption (attunement) | 50,000 gp | 2 lb | DMG 195 |
 | Spellguard shield (attunement) | 50,000 gp | 6 lb | DMG 201 |
 | Protective verses (attunement wizard) | 57,000 gp | 3 lb | TCoE 134 |
 | Libram of souls and flesh (attunement wizard) | 59,000 gp | 3 lb | TCoE 129 |
-| Cloak of displacement (attunement) | 60,000 gp | 1 lb | DMG 158 |
+| Cloak of displacement (attunement) | 60,000 gp | – | DMG 158 |
 | Robe of stars (attunement) | 60,000 gp | 4 lb | DMG 194 |
 | Weapon of warning (any weapon) (attunement) | 60,000 gp | (varies) | DMG 213 |
-| Helm of teleportation (attunement) | 64,000 gp | 1 lb | DMG 174 |
-| Figurine of wondrous power, serpentine owl | 70,000 gp | 1 lb | DMG 170 |
+| Helm of teleportation (attunement) | 64,000 gp | – | DMG 174 |
+| Figurine of wondrous power, serpentine owl | 70,000 gp | – | DMG 170 |
 | Daern's instant fortress | 75,000 gp | – | DMG 160 |
 | Astral shard (attunement sorcerer) | 80,000 gp | 1 lb | TCoE 120 |
 | Necklace of prayer beads, bead of wind walking (each) | 96,000 gp | – | DMG 182 |
-| Figurine of wondrous power, bronze griffon | 100,000 gp | 1 lb | DMG 169 |
+| Figurine of wondrous power, bronze griffon | 100,000 gp | – | DMG 169 |
 | Heart weaver's primer (attunement wizard) | 110,000 gp | 3 lb | TCoE 128 |
 | Instrument of the bards, anstruth harp (attunement bard) | 110,000 gp | 2 lb | DMG 176 |
-| Figurine of wondrous power, obsidian steed | 130,000 gp | 1 lb | DMG 170 |
+| Figurine of wondrous power, obsidian steed | 130,000 gp | – | DMG 170 |
 | Instrument of the bards, ollamh harp (attunement bard) | 130,000 gp | 2 lb | DMG 176 |
 | Necklace of prayer beads, bead of summons (each) | 130,000 gp | – | DMG 182 |
 | Decanter of endless water | 140,000 gp | 2 lb | DMG 161 |
-| Wings of flying (attunement) | 140,000 gp | 1 lb | DMG 214 |
+| Wings of flying (attunement) | 140,000 gp | – | DMG 214 |
 | Elemental essence shard of air (attunement sorcerer) | 150,000 gp | 1 lb | TCoE 127 |
 | Amulet of the planes (attunement) | 160,000 gp | – | DMG 150 |
-| Winged boots (attunement) | 160,000 gp | 1 lb | DMG 214 |
+| Winged boots (attunement) | 160,000 gp | – | DMG 214 |
 | Holy avenger (any sword) (attunement paladin) | 170,000 gp | (varies) | DMG 174 |
 | Broom of flying | 220,000 gp | 3 lb | DMG 156 |
 | Carpet of flying | 250,000 gp | 20 lb | DMG 157 |
 | Planecaller's codex (attunement wizard) | 280,000 gp | 3 lb | TCoE 134 |
 | Astromancy archive (attunement wizard) | 290,000 gp | 3 lb | TCoE 120 |
 | Atlas of endless horizons (attunement wizard) | 330,000 gp | 3 lb | TCoE 120 |
-| Helm of brilliance (attunement) | 350,000 gp | 1 lb | DMG 173 |
+| Helm of brilliance (attunement) | 350,000 gp | – | DMG 173 |
 | Luck blade (any sword) (attunement) | 600,000 gp | (varies) | DMG 179 |
 | Ring of three wishes | 900,000 gp | – | DMG 193 |
 | Amulet of health (attunement) | – | – | DMG 150 |
@@ -991,16 +991,16 @@ Abbreviations:
 | Bag of devouring (cursed) | – | 15 lb | DMG 153 |
 | Barrier tattoo, rare (attunement) | – | – | TCoE 122 |
 | Barrier tattoo, very rare (attunement) | – | – | TCoE 122 |
-| Belt of cloud giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of fire giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of frost giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of hill giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of stone giant strength (attunement) | – | 1 lb | DMG 155 |
-| Belt of storm giant strength (attunement) | – | 1 lb | DMG 155 |
+| Belt of cloud giant strength (attunement) | – | – | DMG 155 |
+| Belt of fire giant strength (attunement) | – | – | DMG 155 |
+| Belt of frost giant strength (attunement) | – | – | DMG 155 |
+| Belt of hill giant strength (attunement) | – | – | DMG 155 |
+| Belt of stone giant strength (attunement) | – | – | DMG 155 |
+| Belt of storm giant strength (attunement) | – | – | DMG 155 |
 | Berserker axe (any axe) (cursed) (attunement) | – | (varies) | DMG 155 |
 | Book of exalted deeds (artifact) (attunement good-aligned) | – | 5 lb | DMG 222 |
 | Book of vile darkness (artifact) (attunement) | – | 5 lb | DMG 222 |
-| Cloak of invisibility (attunement) | – | 1 lb | DMG 158 |
+| Cloak of invisibility (attunement) | – | – | DMG 158 |
 | Crook of Rao (artifact) (attunement) | – | 2 lb | TCoE 123 |
 | Crystal ball (attunement) | – | 3 lb | DMG 159 |
 | Crystal ball of mind reading (attunement) | – | 3 lb | DMG 159 |
