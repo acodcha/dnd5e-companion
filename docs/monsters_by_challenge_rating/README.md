@@ -18,7 +18,7 @@ Abbreviations:
 
 ## Challenge Rating 0
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 0 | Awakened plant, shrub | Small | Plant | – | 10 XP | – | MM 317 |
 | CR 0 | Baboon (climb) | Small | Beast | – | 10 XP | – | MM 318 |
 | CR 0 | Badger (burrow) | Tiny | Beast | – | 10 XP | – | MM 318 |
@@ -57,7 +57,7 @@ Abbreviations:
 
 ## Challenge Rating ⅛
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR ⅛ | Blight, twig | Small | Plant | NE | 25 XP | – | MM 32 |
 | CR ⅛ | Boggle (climb) | Small | Fey | CN | 25 XP | – | Volo 128 |
 | CR ⅛ | Camel | Large | Beast | – | 25 XP | – | MM 320 |
@@ -93,7 +93,7 @@ Abbreviations:
 
 ## Challenge Rating ¼
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR ¼ | Aarakocra (fly) | Med. | Hum. | NG | 50 XP | 10 sp | MM 12 |
 | CR ¼ | Animated sword, flying (fly) | Small | Constr. | – | 50 XP | – | MM 20 |
 | CR ¼ | Axe beak | Large | Beast | – | 50 XP | – | MM 317 |
@@ -165,7 +165,7 @@ Abbreviations:
 
 ## Challenge Rating ½
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR ½ | Ape (climb) | Med. | Beast | – | 100 XP | – | MM 317 |
 | CR ½ | Bear, black (climb) | Med. | Beast | – | 100 XP | – | MM 318 |
 | CR ½ | Beetle swarm (climb) (burrow) | Med. | Beast | – | 100 XP | – | MM 338 |
@@ -223,7 +223,7 @@ Abbreviations:
 
 ## Challenge Rating 1
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 1 | Animated armor | Med. | Constr. | – | 200 XP | – | MM 19 |
 | CR 1 | Bear, brown (climb) | Large | Beast | – | 200 XP | – | MM 319 |
 | CR 1 | Bugbear | Med. | Hum. | CE | 200 XP | 40 sp | MM 33 |
@@ -292,7 +292,7 @@ Abbreviations:
 
 ## Challenge Rating 2
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 2 | Animated rug of smothering | Large | Constr. | – | 450 XP | – | MM 20 |
 | CR 2 | Ankheg (burrow) | Large | Monstr. | – | 450 XP | – | MM 21 |
 | CR 2 | Aurochs | Large | Beast | – | 450 XP | – | Volo 207 |
@@ -393,7 +393,7 @@ Abbreviations:
 
 ## Challenge Rating 3
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 3 | Basilisk | Med. | Monstr. | – | 700 XP | – | MM 24 |
 | CR 3 | Beholder spectator (fly) | Med. | Aberr. | LN | 700 XP | – | MM 30 |
 | CR 3 | Bugbear chief | Med. | Hum. | CE | 700 XP | 12 gp | MM 33 |
@@ -458,7 +458,7 @@ Abbreviations:
 
 ## Challenge Rating 4
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 4 | Banshee (fly) | Med. | Undead | CE | 1,100 XP | – | MM 23 |
 | CR 4 | Black pudding (climb) | Large | Ooze | – | 1,100 XP | – | MM 241 |
 | CR 4 | Chuul (swim) | Large | Aberr. | CE | 1,100 XP | – | MM 40 |
@@ -502,7 +502,7 @@ Abbreviations:
 
 ## Challenge Rating 5
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 5 | Allip (fly) | Med. | Undead | NE | 1,800 XP | – | Mord 116 |
 | CR 5 | Banderhobb | Large | Monstr. | NE | 1,800 XP | – | Volo 122 |
 | CR 5 | Beholder mindwitness (fly) | Large | Aberr. | LE | 1,800 XP | – | Volo 176 |
@@ -574,7 +574,7 @@ Abbreviations:
 
 ## Challenge Rating 6
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 6 | Beholder gauth (fly) | Med. | Aberr. | LE | 2,300 XP | – | Volo 125 |
 | CR 6 | Bodak | Med. | Undead | CE | 2,300 XP | – | Volo 127 |
 | CR 6 | Chimera (fly) | Large | Monstr. | CE | 2,300 XP | – | MM 39 |
@@ -607,7 +607,7 @@ Abbreviations:
 
 ## Challenge Rating 7
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 7 | Ape, giant (climb) | Huge | Beast | – | 2,900 XP | – | MM 323 |
 | CR 7 | Demon, armanite | Large | Fiend | CE | 2,900 XP | 61 gp | Mord 131 |
 | CR 7 | Demon, maurezhi | Med. | Fiend | CE | 2,900 XP | 61 gp | Mord 133 |
@@ -642,7 +642,7 @@ Abbreviations:
 
 ## Challenge Rating 8
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 8 | Cloaker (fly) | Large | Aberr. | CN | 3,900 XP | – | MM 41 |
 | CR 8 | Corpse flower (climb) | Large | Plant | CE | 3,900 XP | – | Mord 127 |
 | CR 8 | Deathlock mastermind (spells) | Med. | Undead | NE | 3,900 XP | 91 gp | Mord 129 |
@@ -672,7 +672,7 @@ Abbreviations:
 
 ## Challenge Rating 9
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 9 | Demon, glabrezu (spells) | Large | Fiend | CE | 5,000 XP | 14 pp | MM 58 |
 | CR 9 | Devil, osyluth (fly) | Large | Fiend | LE | 5,000 XP | 14 pp | MM 71 |
 | CR 9 | Dragon, blue, young (burrow) (fly) (lair) | Large | Dragon | LE | 5,000 XP | – | MM 91 |
@@ -705,7 +705,7 @@ Abbreviations:
 
 ## Challenge Rating 10
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 10 | Aboleth (swim) (legend) (lair) | Large | Aberr. | LE | 5,900 XP | – | MM 13 |
 | CR 10 | Angel, deva (fly) (spells) (shapech) | Med. | Celest. | LG | 5,900 XP | 20 pp | MM 16 |
 | CR 10 | Beholder death kiss (fly) | Large | Aberr. | NE | 5,900 XP | – | Volo 124 |
@@ -735,7 +735,7 @@ Abbreviations:
 
 ## Challenge Rating 11
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 11 | Angel, radiant idol (spells) | Large | Celest. | LE | 7,200 XP | 30 pp | Eber 308 |
 | CR 11 | Balhannoth (climb) (legend) (lair) | Large | Aberr. | CE | 7,200 XP | – | Mord 118 |
 | CR 11 | Behir (climb) | Huge | Monstr. | NE | 7,200 XP | – | MM 25 |
@@ -762,7 +762,7 @@ Abbreviations:
 
 ## Challenge Rating 12
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 12 | Boneclaw | Large | Undead | CE | 8,400 XP | – | Mord 121 |
 | CR 12 | Devil, erinyes (fly) | Med. | Fiend | LE | 8,400 XP | 44 pp | MM 73 |
 | CR 12 | Dragon, shadow, blue, young (burrow) (fly) (lair) | Large | Dragon | LE | 8,400 XP | – | MM 85, 91 |
@@ -785,7 +785,7 @@ Abbreviations:
 
 ## Challenge Rating 13
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 13 | Beholder (fly) (legend) (lair +1 CR) | Large | Aberr. | LE | 10,000 XP | – | MM 28 |
 | CR 13 | Demon, nalfeshnee (fly) | Large | Fiend | CE | 10,000 XP | 64 pp | MM 62 |
 | CR 13 | Demon, wastrilith (swim) | Large | Fiend | CE | 10,000 XP | 64 pp | Mord 139 |
@@ -809,7 +809,7 @@ Abbreviations:
 
 ## Challenge Rating 14
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 14 | Beholder death tyrant (fly) (legend) (lair +1 CR) | Large | Undead | LE | 11,500 XP | – | MM 29 |
 | CR 14 | Cadaver collector | Large | Constr. | LE | 11,500 XP | – | Mord 122 |
 | CR 14 | Devil, gelugon | Large | Fiend | LE | 11,500 XP | 94 pp | MM 75 |
@@ -826,7 +826,7 @@ Abbreviations:
 
 ## Challenge Rating 15
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 15 | Demon, nabassu (fly) | Med. | Fiend | CE | 13,000 XP | 140 pp | Mord 135 |
 | CR 15 | Devil, abishai, green (fly) (spells) | Med. | Fiend | LE | 13,000 XP | 140 pp | Mord 162 |
 | CR 15 | Dracolich, black, adult (swim) (fly) (legend) (lair) | Huge | Undead | CE | 13,000 XP | – | MM 84, 88 |
@@ -843,7 +843,7 @@ Abbreviations:
 
 ## Challenge Rating 16
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 16 | Angel, planetar (fly) (spells) | Large | Celest. | LG | 15,000 XP | 200 pp | MM 17 |
 | CR 16 | Demon, marilith | Large | Fiend | CE | 15,000 XP | 200 pp | MM 61 |
 | CR 16 | Devil, archdevil, Titivilus (fly) (spells) (legend) | Med. | Fiend | LE | 15,000 XP | 200 pp | Mord 179 |
@@ -864,7 +864,7 @@ Abbreviations:
 
 ## Challenge Rating 17
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 17 | Death knight (spells) | Med. | Undead | CE | 18,000 XP | 280 pp | MM 47 |
 | CR 17 | Demon, goristro | Huge | Fiend | CE | 18,000 XP | 280 pp | MM 59 |
 | CR 17 | Devil, abishai, blue (fly) (spells) | Med. | Fiend | LE | 18,000 XP | 280 pp | Mord 161 |
@@ -881,7 +881,7 @@ Abbreviations:
 
 ## Challenge Rating 18
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 18 | Demilich (fly) (legend) (lair +2 CR) | Tiny | Undead | NE | 20,000 XP | – | MM 48 |
 | CR 18 | Demon, sibriex (fly) (spells) (legend) | Huge | Fiend | CE | 20,000 XP | 380 pp | Mord 137 |
 | CR 18 | Devil, amnizu (fly) (spells) | Med. | Fiend | LE | 20,000 XP | 380 pp | Mord 164 |
@@ -895,7 +895,7 @@ Abbreviations:
 
 ## Challenge Rating 19
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 19 | Demon, balor (fly) | Huge | Fiend | CE | 22,000 XP | 490 pp | MM 55 |
 | CR 19 | Devil, abishai, red (fly) | Med. | Fiend | LE | 22,000 XP | 490 pp | Mord 162 |
 | CR 19 | Devil, archdevil, Bael (spells) (legend) | Large | Fiend | LE | 22,000 XP | 490 pp | Mord 170 |
@@ -907,7 +907,7 @@ Abbreviations:
 
 ## Challenge Rating 20
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 20 | Devil, pit fiend (fly) (spells) | Large | Fiend | LE | 25,000 XP | 610 pp | MM 77 |
 | CR 20 | Dragon, brass, ancient (burrow) (fly) (shapech) (legend) (lair) | Garg. | Dragon | CG | 25,000 XP | – | MM 104 |
 | CR 20 | Dragon, shadow, gold, adult (swim) (fly) (shapech) (legend) (lair) | Huge | Dragon | LG | 25,000 XP | – | MM 85, 114 |
@@ -921,7 +921,7 @@ Abbreviations:
 
 ## Challenge Rating 21
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 21 | Angel, solar (fly) (spells) (legend) | Large | Celest. | LG | 33,000 XP | 730 pp | MM 18 |
 | CR 21 | Astral dreadnought (fly) (legend) | Garg. | Monstr. | – | 33,000 XP | – | Mord 117 |
 | CR 21 | Demon, molydeus (spells) (legend) | Huge | Fiend | CE | 33,000 XP | 730 pp | Mord 134 |
@@ -936,7 +936,7 @@ Abbreviations:
 
 ## Challenge Rating 22
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 22 | Daelkyr, lord, Belashyrra (fly) (legend) (lair) | Med. | Aberr. | CE | 41,000 XP | 840 pp | Eber 286 |
 | CR 22 | Devil, archdevil, Geryon (fly) (spells) (legend) | Huge | Fiend | LE | 41,000 XP | 840 pp | Mord 173 |
 | CR 22 | Dracolich, black, ancient (swim) (fly) (legend) (lair) | Garg. | Undead | CE | 41,000 XP | – | MM 84, 87 |
@@ -950,7 +950,7 @@ Abbreviations:
 
 ## Challenge Rating 23
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 23 | Demon, lord, Baphomet (spells) (legend) (lair) | Huge | Fiend | CE | 50,000 XP | 930 pp | Mord 143 |
 | CR 23 | Demon, lord, Fraz-urb'luu (fly) (spells) (legend) (lair) | Large | Fiend | CE | 50,000 XP | 930 pp | Mord 146 |
 | CR 23 | Demon, lord, Juiblex (spells) (legend) (lair) | Huge | Fiend | CE | 50,000 XP | – | Mord 151 |
@@ -968,7 +968,7 @@ Abbreviations:
 
 ## Challenge Rating 24
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 24 | Daelkyr, lord, Dyrrn (fly) (legend) (lair) | Med. | Aberr. | CE | 62,000 XP | 970 pp | Eber 288 |
 | CR 24 | Demon, lord, Graz'zt (spells) (legend) (lair) | Large | Fiend | CE | 62,000 XP | 970 pp | Mord 149 |
 | CR 24 | Demon, lord, Yeenoghu (spells) (legend) (lair) | Huge | Fiend | CE | 62,000 XP | 970 pp | Mord 155 |
@@ -982,7 +982,7 @@ Abbreviations:
 
 ## Challenge Rating 25
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 25 | Dracolich, red, ancient (climb) (fly) (legend) (lair) | Garg. | Undead | CE | 75,000 XP | – | MM 84, 97 |
 | CR 25 | Dragon, shadow, bronze, ancient (swim) (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 75,000 XP | – | MM 85, 107 |
 | CR 25 | Dragon, shadow, green, ancient (swim) (fly) (legend) (lair) | Garg. | Dragon | LE | 75,000 XP | – | MM 85, 93 |
@@ -993,7 +993,7 @@ Abbreviations:
 
 ## Challenge Rating 26
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 26 | Demon, lord, Demogorgon (swim) (spells) (legend) (lair) | Huge | Fiend | CE | 90,000 XP | 1,100 pp | Mord 144 |
 | CR 26 | Demon, lord, Orcus (fly) (spells) (legend) (lair) | Huge | Fiend | CE | 90,000 XP | 1,100 pp | Mord 153 |
 | CR 26 | Devil, archdevil, Zariel (fly) (spells) (legend) (lair) | Large | Fiend | LE | 90,000 XP | 1,100 pp | Mord 180 |
@@ -1004,7 +1004,7 @@ Abbreviations:
 
 ## Challenge Rating 27+
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
-| :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
+| :---: | :--- | :--- | :--- | :---: | ---: |  ---: |   ---: |
 | CR 27 | Dragon, shadow, gold, ancient (swim) (fly) (shapech) (legend) (lair) | Garg. | Dragon | LG | 105,000 XP | – | MM 85, 113 |
 | CR 27 | Dragon, shadow, red, ancient (climb) (fly) (legend) (lair) | Garg. | Dragon | CE | 105,000 XP | – | MM 85, 97 |
 | CR 28 | Overlord, Rak Tulkhesh (climb) (fly) (spells) (shapech) (legend) | Huge | Fiend | NE | 120,000 XP | 1,200 pp | Eber 303 |
