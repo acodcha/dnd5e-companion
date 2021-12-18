@@ -5,7 +5,7 @@
 - **[Tools](#tools):** [Artisan's Tools](#artisans-tools), [Gaming Sets](#gaming-sets), [Musical Instruments](#musical-instruments), [Miscellaneous Tools](#miscellaneous-tools)
 - **[Poisons](#poisons):** [Contact Poisons](#contact-poisons), [Ingested Poisons](#ingested-poisons), [Inhaled Poisons](#inhaled-poisons), [Injury Poisons](#injury-poisons)
 
-[< Back to Main Page](../../README.md#dungeons-and-dragons-5th-edition)
+[(Back to Main Page)](../../README.md#)
 
 Mundane (non-magical) equipment can be purchased in most settlements of sufficient size.
 

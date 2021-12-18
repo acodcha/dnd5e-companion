@@ -17,7 +17,7 @@
 - **[Lower Planes](#lower-planes):** [Monsters](#lower-planes-monsters), [Demons](#lower-planes-demons), [Devils](#lower-planes-devils), [Abishai](#lower-planes-abishai), [Slaadi](#lower-planes-slaadi), [Peoples](#lower-planes-peoples)
 - **[Upper Planes](#upper-planes):** [Celestials](#upper-planes-celestials), [Githyanki](#upper-planes-githyanki), [Githzerai](#upper-planes-githzerai)
 
-[< Back to Main Page](../../README.md#dungeons-and-dragons-5th-edition)
+[(Back to Main Page)](../../README.md#)
 
 Abbreviations:
 - Eber: *Eberron: Rising from the Last War*
