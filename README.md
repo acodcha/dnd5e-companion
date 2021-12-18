@@ -36,5 +36,3 @@ This work is based on the Dungeons and Dragons 5th Edition game by Wizards of th
 I do not own any of the artwork used for tokens: all such artwork was available online for free. I simply cropped and adjusted the original artwork to fit each token.
 
 My own content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
-
-[(Back to Top)](#)
