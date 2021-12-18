@@ -712,8 +712,8 @@
 
 ### Spellcasting Services: Wellness
 
-| Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------- | ----: |
+| Spell | Spell Slot | Spellcaster | Cost |
+| :---- | :--------- | :---------- | ---: |
 | Detect poison and disease | 1st-level spell slot or ritual | 1st-level spellcaster | 10 gp |
 | Goodberry | 1st-level spell slot | 1st-level spellcaster | 10 gp |
 | Lesser restoration | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
@@ -727,8 +727,8 @@
 
 ### Spellcasting Services: Healing
 
-| Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------- | ----: |
+| Spell | Spell Slot | Spellcaster | Cost |
+| :---- | :--------- | :---------- | ---: |
 | Cure wounds | 1st-level spell slot | 1st-level spellcaster | 10 gp |
 | Cure wounds | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
 | Prayer of healing | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
@@ -750,8 +750,8 @@
 
 ### Spellcasting Services: Resurrection
 
-| Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------- | ----: |
+| Spell | Spell Slot | Spellcaster | Cost |
+| :---- | :--------- | :---------- | ---: |
 | Revivify | 3rd-level spell slot | 5th-level spellcaster | 690 gp |
 | Raise dead | 5th-level spell slot | 9th-level spellcaster | 1,300 gp |
 | Reincarnate | 5th-level spell slot | 9th-level spellcaster | 2,300 gp |
@@ -763,8 +763,8 @@
 
 ### Spellcasting Services: Security
 
-| Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------- | ----: |
+| Spell | Spell Slot | Spellcaster | Cost |
+| :---- | :--------- | :---------- | ---: |
 | Alarm | 1st-level spell slot or ritual | 1st-level spellcaster | 10 gp |
 | Arcane lock | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
 | Continual flame | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
@@ -776,8 +776,8 @@
 
 ### Spellcasting Services: Communication
 
-| Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------- | ----: |
+| Spell | Spell Slot | Spellcaster | Cost |
+| :---- | :--------- | :---------- | ---: |
 | Message | Cantrip | 1st-level spellcaster | 5 gp |
 | Detect thoughts | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
 | Zone of truth | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
@@ -789,8 +789,8 @@
 
 ### Spellcasting Services: Transportation
 
-| Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------- | ----: |
+| Spell | Spell Slot | Spellcaster | Cost |
+| :---- | :--------- | :---------- | ---: |
 | Teleportation circle | 5th-level spell slot | 9th-level spellcaster | 350 gp |
 | Permanent teleportation circle | 5th-level spell slot | 9th-level spellcaster | 130,000 gp |
 | Transport via plants | 6th-level spell slot | 11th-level spellcaster | 360 gp |
@@ -802,8 +802,8 @@
 
 ### Spellcasting Services: Surveillance
 
-| Spell | Spell Slot | Spellcaster | Price |
-| :---- | :--------- | :---------- | ----: |
+| Spell | Spell Slot | Spellcaster | Cost |
+| :---- | :--------- | :---------- | ---: |
 | Identify | 1st-level spell slot or ritual | 1st-level spellcaster | 20 gp |
 | Locate object | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
 | Clairvoyance | 3rd-level spell slot | 5th-level spellcaster | 100 gp |
