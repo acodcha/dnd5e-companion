@@ -1,7 +1,7 @@
 # Swamps Monster Tokens
-- **[Monsters](monsters)**
-- **[Yuan-ti](yuan_ti)**
-- **[Peoples](peoples)**
-- **[Black Dragons](dragons_black)**
+- **[Monsters](https://github.com/acodcha/DnD5e/tree/main/tokens/monsters/swamps/monsters)**
+- **[Yuan-ti](https://github.com/acodcha/DnD5e/tree/main/tokens/monsters/swamps/yuan_ti)**
+- **[Peoples](https://github.com/acodcha/DnD5e/tree/main/tokens/monsters/swamps/peoples)**
+- **[Black Dragons](https://github.com/acodcha/DnD5e/tree/main/tokens/monsters/swamps/dragons_black)**
 
 [< Back to Monster Tokens](../README.md#monster-tokens)
