@@ -19,4 +19,4 @@
 - **[Deities](deities)**
 - **[Famous Characters](famous_characters)**
 
-[< Back to Main Page](../README.md#dungeons-and-dragons-5th-edition)
+[< Back to Main Page](../../#dungeons-and-dragons-5th-edition)
