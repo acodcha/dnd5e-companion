@@ -37,7 +37,7 @@ Abbreviations:
 ## Light Armor
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Smoldering studded leather armor | 250 gp | 13 lb | XGtE 139 |
 | Cast-off studded leather armor | 350 gp | 13 lb | XGtE 136 |
 | Mariner's studded leather armor | 1,500 gp | 13 lb | DMG 181 |
@@ -52,7 +52,7 @@ Abbreviations:
 ## Medium Armor
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Hide armor of gleaming | 210 gp | 12 lb | XGtE 136 |
 | Smoldering hide armor | 210 gp | 12 lb | XGtE 139 |
 | Cast-off hide armor | 310 gp | 12 lb | XGtE 136 |
@@ -89,7 +89,7 @@ Abbreviations:
 ## Heavy Armor
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Plate armor of gleaming | 1,700 gp | 65 lb | XGtE 136 |
 | Smoldering plate armor | 1,700 gp | 65 lb | XGtE 139 |
 | Cast-off plate armor | 1,800 gp | 65 lb | XGtE 136 |
@@ -112,7 +112,7 @@ Abbreviations:
 ## Shields
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Shield of expression | 200 gp | 6 lb | XGtE 139 |
 | Shield, +1 | 1,500 gp | 6 lb | DMG 200 |
 | Animated shield (attunement) | 6,000 gp | 6 lb | DMG 151 |
@@ -128,7 +128,7 @@ Abbreviations:
 ## Clothes
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Clothes of mending | 100 gp | 4 lb | XGtE 137 |
 | Robe of useful items | 450 gp | 4 lb | DMG 195 |
 | Robe of scintillating colors (attunement) | 6,000 gp | 4 lb | DMG 194 |
@@ -141,7 +141,7 @@ Abbreviations:
 ## Coats
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Cloak of billowing | 100 gp | – | XGtE 136 |
 | Cloak of many fashions | 200 gp | – | XGtE 136 |
 | Nature's mantle (attunement druid/ranger) | 1,000 gp | – | TCoE 133 |
@@ -161,7 +161,7 @@ Abbreviations:
 ## Belts
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Belt of dwarvenkind (attunement) | 6,000 gp | – | DMG 155 |
 | Belt of cloud giant strength (attunement) | – | – | DMG 155 |
 | Belt of fire giant strength (attunement) | – | – | DMG 155 |
@@ -175,7 +175,7 @@ Abbreviations:
 ## Footwear
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Boots of false tracks | 500 gp | – | XGtE 136 |
 | Boots of elvenkind | 2,500 gp | – | DMG 155 |
 | Boots of levitation (attunement) | 4,000 gp | – | DMG 155 |
@@ -190,7 +190,7 @@ Abbreviations:
 ## Bracers
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Bracers of archery (attunement) | 1,500 gp | – | DMG 156 |
 | Bracers of defense (attunement) | 6,000 gp | – | DMG 156 |
 
@@ -199,7 +199,7 @@ Abbreviations:
 ## Gloves
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Gloves of swimming and climbing (attunement) | 2,000 gp | – | DMG 172 |
 | Gloves of missile snaring (attunement) | 3,000 gp | – | DMG 172 |
 | Gloves of thievery | 5,000 gp | – | DMG 172 |
@@ -210,7 +210,7 @@ Abbreviations:
 ## Headwear
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Dread helm | 100 gp | – | XGtE 137 |
 | Hat of vermin | 200 gp | – | XGtE 137 |
 | Hat of wizardry (attunement wizard) | 500 gp | – | XGtE 137 |
@@ -228,7 +228,7 @@ Abbreviations:
 ## Eyewear
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Goggles of night | 1,500 gp | – | DMG 172 |
 | Eyes of minute seeing | 2,500 gp | – | DMG 168 |
 | Eyes of the eagle (attunement) | 2,500 gp | – | DMG 168 |
@@ -239,7 +239,7 @@ Abbreviations:
 ## Jewelry
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Necklace of prayer beads, base necklace (attunement cleric/druid/paladin) | 500 gp | – | DMG 182 |
 | Clockwork amulet | 1,000 gp | – | XGtE 137 |
 | Ring of warmth (attunement) | 1,000 gp | – | DMG 193 |
@@ -290,7 +290,7 @@ Abbreviations:
 ## Tattoos
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Illuminator's tattoo (attunement) | 1,000 gp | – | TCoE 129 |
 | Coiling grasp tattoo (attunement) | 2,000 gp | – | TCoE 123 |
 | Eldritch claw tattoo (attunement) | 3,000 gp | – | TCoE 126 |
@@ -312,7 +312,7 @@ Abbreviations:
 - Axes include the battleaxe, greataxe, and handaxe. The halberd is not an axe.
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Vicious weapon (any weapon) | 350 gp | (varies) | DMG 209 |
 | Moon-touched sword (any sword) | 500 gp | (varies) | XGtE 138 |
 | Trident of fish command (attunement) | 800 gp | 4 lb | DMG 209 |
@@ -355,7 +355,7 @@ Abbreviations:
 ## Arcane Foci
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Staff of adornment | 100 gp | 4 lb | XGtE 139 |
 | Staff of birdcalls | 200 gp | 4 lb | XGtE 139 |
 | Staff of flowers | 200 gp | 4 lb | XGtE 139 |
@@ -438,7 +438,7 @@ Abbreviations:
 ## Druidic Foci
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Bell branch (attunement druid/warlock) | 500 gp | 1 lb | TCoE 122 |
 | Cauldron of rebirth (attunement druid/warlock) | 2,000 gp | 10 lb | TCoE 122 |
 | Moon sickle, +1 (attunement druid/ranger) | 2,000 gp | 2 lb | TCoE 133 |
@@ -450,7 +450,7 @@ Abbreviations:
 ## Holy Symbols
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Guardian emblem (attunement cleric/paladin) | 500 gp | – | TCoE 128 |
 | Amulet of the devout, +1 (attunement cleric/paladin) | 3,000 gp | 1 lb | TCoE 119 |
 | Amulet of the devout, +2 (attunement cleric/paladin) | 12,000 gp | 1 lb | TCoE 119 |
@@ -461,7 +461,7 @@ Abbreviations:
 ## Musical Instruments
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Instrument of illusions (any musical instrument) (attunement) | 200 gp | (varies) | XGtE 137 |
 | Instrument of scribing (any musical instrument) (attunement) | 500 gp | (varies) | XGtE 138 |
 | Pipes of the sewers (attunement) | 2,000 gp | 2 lb | DMG 185 |
@@ -484,7 +484,7 @@ Abbreviations:
 ## Artisan's Tools
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | All-purpose tool, +1 (attunement artificer) | 3,000 gp | – | TCoE 119 |
 | All-purpose tool, +2 (attunement artificer) | 12,000 gp | – | TCoE 119 |
 | All-purpose tool, +3 (attunement artificer) | 36,000 gp | – | TCoE 119 |
@@ -494,7 +494,7 @@ Abbreviations:
 ## Summoning Items
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Figurine of wondrous power, ivory goat of travail | 400 gp | – | DMG 169 |
 | Figurine of wondrous power, ivory goat of traveling | 1,000 gp | – | DMG 169 |
 | Figurine of wondrous power, golden lions (pair) | 1,200 gp | – | DMG 169 |
@@ -523,7 +523,7 @@ Abbreviations:
 ## Miscellaneous
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Candle of the deep | 100 gp | – | XGtE 136 |
 | Pole of angling | 100 gp | 4 lb | XGtE 138 |
 | Pole of collapsing | 100 gp | 2 lb | XGtE 138 |
@@ -617,7 +617,7 @@ Abbreviations:
 ## All Permanent Magic Items by Cost
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Candle of the deep | 100 gp | – | XGtE 136 |
 | Cloak of billowing | 100 gp | – | XGtE 136 |
 | Clothes of mending | 100 gp | 4 lb | XGtE 137 |

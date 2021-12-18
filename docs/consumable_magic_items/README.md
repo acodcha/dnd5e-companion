@@ -20,7 +20,7 @@ Abbreviations:
 ## Ammunition
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
 | Walloping arrow | 20 gp | 1/20 lb | XGtE 139 |
 | Walloping blowgun needle | 20 gp | 1/20 lb | XGtE 139 |
@@ -46,7 +46,7 @@ Abbreviations:
 ## Potions
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Potion of healing | 50 gp | ½ lb | DMG 187 |
 | Philter of love | 90 gp | ½ lb | DMG 184 |
 | Potion of poison | 100 gp | ½ lb | DMG 188 |
@@ -86,7 +86,7 @@ Abbreviations:
 ## Spell Scrolls
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Spell scroll, cantrip | 30 gp | – | DMG 200 |
 | Spell scroll, 1st level | 50 gp | – | DMG 200 |
 | Spell scroll, 2nd level | 500 gp | – | DMG 200 |
@@ -103,7 +103,7 @@ Abbreviations:
 ## Tattoos
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Spellwrought tattoo, cantrip | 50 gp | – | TCoE 135 |
 | Spellwrought tattoo, 1st level | 80 gp | – | TCoE 135 |
 | Spellwrought tattoo, 2nd level | 750 gp | – | TCoE 135 |
@@ -116,7 +116,7 @@ Abbreviations:
 ## Miscellaneous
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Bead of refreshment | 10 gp | – | XGtE 136 |
 | Bead of nourishment | 20 gp | – | XGtE 136 |
 | Veteran's cane | 100 gp | 2 lb | XGtE 139 |
@@ -159,7 +159,7 @@ Abbreviations:
 ## All Consumable Magic Items by Cost
 
 | Magic Item | Cost | Weight | Source |
-| :--------- | ---: | -----: | -----: |
+| :--------- | ---: | :----: | -----: |
 | Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
 | Bead of refreshment | 10 gp | – | XGtE 136 |
 | Walloping arrow | 20 gp | 1/20 lb | XGtE 139 |
