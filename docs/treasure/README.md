@@ -1,4 +1,4 @@
-# Treasure and Rewards
+# Treasure
 - **[Individual Monster Treasure](#individual-monster-treasure)**
 - **[Treasure Hoards](#treasure-hoards)**
 - **[Quest Rewards](#quest-rewards)**
