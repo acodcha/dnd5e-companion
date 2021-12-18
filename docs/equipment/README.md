@@ -5,7 +5,7 @@
 - **[Tools](#tools):** [Artisan's Tools](#artisans-tools), [Gaming Sets](#gaming-sets), [Musical Instruments](#musical-instruments), [Miscellaneous Tools](#miscellaneous-tools)
 - **[Poisons](#poisons):** [Contact Poisons](#contact-poisons), [Ingested Poisons](#ingested-poisons), [Inhaled Poisons](#inhaled-poisons), [Injury Poisons](#injury-poisons)
 
-[(Back to Main Page)](../../README.md#)
+[(Back to Main Page)](../../#)
 
 Mundane (non-magical) equipment can be purchased in most settlements of sufficient size.
 

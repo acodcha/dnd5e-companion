@@ -12,7 +12,7 @@
 - [Primordial Pantheon](#primordial-pantheon)
 - [Miscellaneous Deities](#miscellaneous-deities)
 
-[(Back to Main Page)](../../README.md#)
+[(Back to Main Page)](../../#)
 
 ## Faerûnian Human Pantheon
 | Deity | Description | Alignment | Domain | Emblem |

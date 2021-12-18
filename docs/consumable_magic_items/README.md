@@ -6,7 +6,7 @@
 - [Miscellaneous](#miscellaneous)
 - [All Consumable Magic Items by Price](#all-consumable-magic-items-by-price)
 
-[(Back to Main Page)](../../README.md#)
+[(Back to Main Page)](../../#)
 
 Magic items with a listed price can be purchased at price and sold at half price. Magic items without a listed price cannot be purchased or sold. All prices are listed in gold pieces (gp). Always check with your Game Master before buying or selling magic items.
 

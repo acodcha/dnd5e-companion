@@ -19,4 +19,4 @@
 - **[Deities](deities)**
 - **[Famous Characters](famous_characters)**
 
-[(Back to Main Page)](../../README.md#)
+[(Back to Main Page)](../../#)

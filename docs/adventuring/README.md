@@ -5,7 +5,7 @@
 - **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
 - **[Spellcasting Services](#spellcasting-services):** [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
 
-[(Back to Main Page)](../../README.md#)
+[(Back to Main Page)](../../#)
 
 ## Abilities
 - [Strength](#ability-strength)

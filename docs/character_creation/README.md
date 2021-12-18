@@ -6,7 +6,7 @@
 - [Height and Weight](#height-and-weight)
 - [Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts)
 
-[(Back to Main Page)](../../README.md#)
+[(Back to Main Page)](../../#)
 
 ## Advancement
 The following table shows the total XP amounts at which a character gains a new level.

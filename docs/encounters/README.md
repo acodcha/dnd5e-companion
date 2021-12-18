@@ -9,7 +9,7 @@
 - **[8 Player Characters](#8-player-characters):** [1 Encounter per Day](#8-player-characters-1-encounter-per-day), [2 Encounters per Day](#8-player-characters-2-encounters-per-day), [3 Encounters per Day](#8-player-characters-3-encounters-per-day), [4 Encounters per Day](#8-player-characters-4-encounters-per-day)
 - **[General](#general)**
 
-[(Back to Main Page)](../../README.md#)
+[(Back to Main Page)](../../#)
 
 The following tables are used to design combat encounters of appropriate difficulty.
 
