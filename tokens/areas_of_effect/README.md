@@ -4,4 +4,4 @@
 - **[Lines](lines)**
 - **[Spheres](spheres)**
 
-[< Back to Main Page](../../README.md#dungeons-and-dragons-5th-edition)
+[(Back to Main Page)](../../README.md#)
