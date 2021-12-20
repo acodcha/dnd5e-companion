@@ -116,7 +116,7 @@ The following table lists the range of possible heights and weights for each rac
 - Obtain your weight modifier by rolling the appropriate dice and multiplying by your height modifier.
 - Your weight is your base weight plus your weight modifier in pounds.
 
-| Race | Size | Smallest | Average | Biggest | Base Height | Base Weight | Height Mod. (in) | Weight Mod. (lb) |
+| Race | Size | Smallest | Average | Largest | Base Height | Base Weight | Height Mod. (in) | Weight Mod. (lb) |
 | :--- | :--- | :------- | :------ | :------ | :---------: | :---------: | :--------------: | :--------------: |
 | Aarakocra | Med. | 4 ft 5 in , 72 lb | 5 ft 0 in , 93 lb | 5 ft 7 in , 134 lb | 4 ft 3 in | 70 lb | 2d8 | H.M. × 1d4 |
 | Aasimar | Med. | 4 ft 10 in , 114 lb | 5 ft 7 in , 165 lb | 6 ft 4 in , 270 lb | 4 ft 8 in | 110 lb | 2d10 | H.M. × 2d4 |
