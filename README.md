@@ -35,7 +35,7 @@
 
 [(Back to Top)](#)
 
-This work is based on the Dungeons and Dragons 5th Edition game by Wizards of the Coast; I simply list and tabulate their content for ease of use. The contents, copyrights, and trademarks of everything involving Dungeons and Dragons 5th Edition are exclusively held by Wizards of the Coast; I make no claim to any of these in any way.
+This work is maintained by Alexandre Coderre-Chabot (<https://github.com/acodcha>) and based on the Dungeons and Dragons 5th Edition game by Wizards of the Coast; I simply list and tabulate their content for ease of use. The contents, copyrights, and trademarks of everything involving Dungeons and Dragons 5th Edition are exclusively held by Wizards of the Coast; I make no claim to any of these in any way.
 
 I do not own any of the artwork used for tokens: all such artwork was available online for free. I simply cropped and adjusted the original artwork to fit each token.
 
