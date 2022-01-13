@@ -228,7 +228,7 @@ The following table lists experience points awarded for achieving progress objec
 
 [(Back to Top)](#)
 
-## Art Objects: 25 gp
+### Art Objects: 25 gp
 
 | d10   | Art Object |
 | :---: | :--------- |
@@ -245,7 +245,7 @@ The following table lists experience points awarded for achieving progress objec
 
 [(Back to Art Objects)](#art-objects)
 
-## Art Objects: 250 gp
+### Art Objects: 250 gp
 
 | d10   | Art Object |
 | :---: | :--------- |
@@ -262,7 +262,7 @@ The following table lists experience points awarded for achieving progress objec
 
 [(Back to Art Objects)](#art-objects)
 
-## Art Objects: 750 gp
+### Art Objects: 750 gp
 
 | d10   | Art Object |
 | :---: | :--------- |
@@ -279,7 +279,7 @@ The following table lists experience points awarded for achieving progress objec
 
 [(Back to Art Objects)](#art-objects)
 
-## Art Objects: 2,500 gp
+### Art Objects: 2,500 gp
 
 | d10   | Art Object |
 | :---: | :--------- |
@@ -296,7 +296,7 @@ The following table lists experience points awarded for achieving progress objec
 
 [(Back to Art Objects)](#art-objects)
 
-## Art Objects: 7,500 gp
+### Art Objects: 7,500 gp
 
 | d8    | Art Object |
 | :---: | :--------- |
