@@ -2,7 +2,7 @@
 
 - **[Abilities](#abilities):** [Strength](#ability-strength), [Strength (Athletics)](#ability-strength-athletics), [Dexterity](#ability-dexterity), [Dexterity (Acrobatics)](#ability-dexterity-acrobatics), [Dexterity (Sleight of Hand)](#ability-dexterity-sleight-of-hand), [Dexterity (Stealth)](#ability-dexterity-stealth), [Constitution](#ability-constitution), [Intelligence](#ability-intelligence), [Intelligence (Arcana)](#ability-intelligence-arcana), [Intelligence (History)](#ability-intelligence-history), [Intelligence (Investigation)](#ability-intelligence-investigation), [Intelligence (Nature)](#ability-intelligence-nature), [Intelligence (Religion)](#ability-intelligence-religion), [Wisdom](#ability-wisdom), [Wisdom (Animal-Handling)](#ability-wisdom-animal-handling), [Wisdom (Insight)](#ability-wisdom-insight), [Wisdom (Medicine)](#ability-wisdom-medicine), [Wisdom (Perception)](#ability-wisdom-perception), [Wisdom (Survival)](#ability-wisdom-survival), [Charisma](#ability-charisma), [Charisma (Deception)](#ability-charisma-deception), [Charisma (Intimidation)](#ability-charisma-intimidation), [Charisma (Performance)](#ability-charisma-performance), [Charisma (Persuasion)](#ability-charisma-persuasion)
 - **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
-- **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
+- **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Squeezing](#condition-squeezing), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
 - **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
 - **[Spellcasting Services](#spellcasting-services):** [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
 
@@ -484,6 +484,7 @@
 - [Poisoned](#condition-poisoned)
 - [Prone](#condition-prone)
 - [Restrained](#condition-restrained)
+- [Squeezing](#condition-squeezing)
 - [Stunned](#condition-stunned)
 - [Suffocating](#condition-suffocating)
 - [Unconscious](#condition-unconscious)
@@ -595,6 +596,14 @@
 - A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 - The creature has disadvantage on Dexterity saving throws.
+
+[(Back to Conditions)](#conditions)
+
+### Condition: Squeezing
+
+- A creature can squeeze through a space that is large enough for a creature one size smaller than it.
+- While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws.
+- Attack rolls against the creature have advantage while it's in the smaller space.
 
 [(Back to Conditions)](#conditions)
 
