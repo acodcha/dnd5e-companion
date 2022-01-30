@@ -1,4 +1,4 @@
-[Rules and Lore](#rules-and-lore) · [Equipment and Magic Items](#equipment-and-magic-items) · [Treasure, Encounters, and Monsters](#treasure-encounters-and-monsters) · [Tokens](tokens)
+[Rules and Lore](#rules-and-lore) · [Equipment and Magic Items](#equipment-and-magic-items) · [Treasure, Encounters, and Monsters](#treasure-encounters-and-monsters) · [Tokens](#tokens)
 
 # Rules and Lore
 
