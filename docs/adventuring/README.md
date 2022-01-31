@@ -523,9 +523,10 @@
     - Level 6: Death.
 - A creature suffers the effect of its current level of exhaus­tion as well as all lower levels.
 - If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
-- An effect that removes exhaustion reduces its level as spec­ified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
+- An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
 - Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
-- Also, being raised from the dead reduces a crea­ture's exhaustion level by 1.
+- Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion. It becomes harder to fight off exhaustion if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
+- Also, being raised from the dead reduces a creature's exhaustion level by 1.
 
 [(Back to Conditions)](#conditions)
 
