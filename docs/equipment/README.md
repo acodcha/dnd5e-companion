@@ -409,11 +409,11 @@ These poisons are powders or gases that take effect when inhaled. Blowing the po
 
 ### Injury Poisons
 
-Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. Applying the poison takes an action. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects. One vial of injury poison can be used to coat one slashing or piercing weapon or up to three pieces of ammunition.
+Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. Applying the poison takes an action. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects. One vial of injury poison can be used to coat one slashing or piercing weapon, one trap component, or one piece of ammunition.
 
 | Injury Poison | Cost  | Description |
 | :------------ | :---: | :---------- |
-| Basic poison | 100 gp | A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying. |
+| Basic poison | 100 gp | You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying. |
 | Serpent venom | 200 gp | This poison must be harvested from a dead or incapacitated giant poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 3d6 poison damage on a failed save, or half as much damage on a successful one. |
 | Drow poison | 200 gp | This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. |
 | Wyvern poison | 1,200 gp | This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 7d6 poison damage on a failed save, or half as much damage on a successful one. |
