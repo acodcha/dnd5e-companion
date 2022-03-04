@@ -30,7 +30,25 @@ The following table shows the total XP amounts at which a character gains a new 
 
 ## Starting Wealth
 
-When creating a replacement character at 2nd level or higher (because a prior character died or was retired), gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and wealth from your class and background.
+When you create your character, instead of receiving starting equipment and wealth from your 1st-level class and background, you can instead opt to receive coinage based solely on your 1st-level class and spend this coinage on equipment.
+
+| Class     |      Starting Wealth |
+| :-------  | -------------------: |
+| Artificer | 125 gp (5d4 × 10 gp) |
+| Barbarian |  50 gp (2d4 × 10 gp) |
+| Bard      | 125 gp (5d4 × 10 gp) |
+| Cleric    | 125 gp (5d4 × 10 gp) |
+| Druid     |  50 gp (2d4 × 10 gp) |
+| Fighter   | 125 gp (5d4 × 10 gp) |
+| Monk      |  25 gp (1d4 × 10 gp) |
+| Paladin   | 125 gp (5d4 × 10 gp) |
+| Ranger    | 125 gp (5d4 × 10 gp) |
+| Rogue     | 100 gp (4d4 × 10 gp) |
+| Sorcerer  |  75 gp (3d4 × 10 gp) |
+| Warlock   | 100 gp (4d4 × 10 gp) |
+| Wizard    | 100 gp (4d4 × 10 gp) |
+
+In addition, when creating a replacement character at 2nd level or higher (because a prior character died or was retired), gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and wealth from your class and background.
 
 | Level | Starting Wealth |       | Level | Starting Wealth |
 | :---: | --------------: | :---: | :---: | --------------: |
