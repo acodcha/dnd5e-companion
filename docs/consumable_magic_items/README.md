@@ -151,11 +151,11 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Quaal's feather token, whip | 250 gp | – | DMG 188 |
 | Dust of disappearance | 300 gp | – | DMG 166 |
 | Universal solvent | 300 gp | – | DMG 209 |
-| Sovereign glue | 400 gp | – | DMG 200 |
+| Sovereign glue | 400 gp | 1 lb | DMG 200 |
 | Keoghtom's ointment | 420 gp | ½ lb | DMG 179 |
 | Horn of blasting | 450 gp | 2 lb | DMG 174 |
 | Dust of sneezing and choking | 480 gp | – | DMG 166 |
-| Dust of dryness | 900 gp | – | DMG 166 |
+| Dust of dryness | 900 gp | 1 lb | DMG 166 |
 | Bead of force | 960 gp | – | DMG 154 |
 | Elemental gem | 960 gp | – | DMG 167 |
 | Perfume of bewitching | 1,000 gp | – | XGtE 138 |
@@ -228,7 +228,7 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Dust of disappearance | 300 gp | – | DMG 166 |
 | Universal solvent | 300 gp | – | DMG 209 |
 | Potion of speed | 400 gp | ½ lb | DMG 188 |
-| Sovereign glue | 400 gp | – | DMG 200 |
+| Sovereign glue | 400 gp | 1 lb | DMG 200 |
 | Keoghtom's ointment | 420 gp | ½ lb | DMG 179 |
 | Horn of blasting | 450 gp | 2 lb | DMG 174 |
 | Arrow, +3 (each) | 480 gp | 1/20 lb | DMG 150 |
@@ -242,7 +242,7 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Arrow of slaying (each) | 600 gp | 1/20 lb | DMG 152 |
 | Crossbow bolt of slaying (each) | 600 gp | 1½/20 lb | DMG 152 |
 | Spellwrought tattoo, 2nd level | 750 gp | – | TCoE 135 |
-| Dust of dryness | 900 gp | – | DMG 166 |
+| Dust of dryness | 900 gp | 1 lb | DMG 166 |
 | Potion of clairvoyance | 960 gp | ½ lb | DMG 187 |
 | Potion of vitality | 960 gp | ½ lb | DMG 188 |
 | Bead of force | 960 gp | – | DMG 154 |
