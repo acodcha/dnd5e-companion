@@ -19,6 +19,8 @@ Abbreviations:
 
 ## Ammunition
 
+Once magical ammunition hits a target, it becomes nonmagical.
+
 | Magic Item | Cost | Weight | Source |
 | :--------- | ---: | :----: | -----: |
 | Unbreakable arrow | 10 gp | 1/20 lb | XGtE 139 |
@@ -85,31 +87,51 @@ Abbreviations:
 
 ## Spell Scrolls
 
-| Magic Item | Cost | Weight | Source |
-| :--------- | ---: | :----: | -----: |
-| Spell scroll, cantrip | 30 gp | – | DMG 200 |
-| Spell scroll, 1st level | 50 gp | – | DMG 200 |
-| Spell scroll, 2nd level | 500 gp | – | DMG 200 |
-| Spell scroll, 3rd level | 1,000 gp | – | DMG 200 |
-| Spell scroll, 4th level | 5,000 gp | – | DMG 200 |
-| Spell scroll, 5th level | 10,000 gp | – | DMG 200 |
-| Spell scroll, 6th level | 30,000 gp | – | DMG 200 |
-| Spell scroll, 7th level | 50,000 gp | – | DMG 200 |
-| Spell scroll, 8th level | 100,000 gp | – | DMG 200 |
-| Spell scroll, 9th level | 500,000 gp | – | DMG 200 |
+A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class’s spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.
+
+If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell’s level. On a failed check, the spell disappears from the scroll with no other effect.
+
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+
+The level of the spell on the scroll determines the spell’s saving throw DC and attack bonus.
+
+| Magic Item              |       Cost | Weight | Saving Throw DC | Attack Bonus |  Source |
+| :---------------------- | ---------: | :----: | :-------------: | :----------: | ------: |
+| Spell scroll, cantrip   |      30 gp |   –    |       13        |      +5      | DMG 200 |
+| Spell scroll, 1st level |      50 gp |   –    |       13        |      +5      | DMG 200 |
+| Spell scroll, 2nd level |     500 gp |   –    |       13        |      +5      | DMG 200 |
+| Spell scroll, 3rd level |   1,000 gp |   –    |       15        |      +7      | DMG 200 |
+| Spell scroll, 4th level |   5,000 gp |   –    |       15        |      +7      | DMG 200 |
+| Spell scroll, 5th level |  10,000 gp |   –    |       17        |      +9      | DMG 200 |
+| Spell scroll, 6th level |  30,000 gp |   –    |       17        |      +9      | DMG 200 |
+| Spell scroll, 7th level |  50,000 gp |   –    |       18        |     +10      | DMG 200 |
+| Spell scroll, 8th level | 100,000 gp |   –    |       18        |     +10      | DMG 200 |
+| Spell scroll, 9th level | 500,000 gp |   –    |       19        |     +11      | DMG 200 |
 
 [(Back to Top)](#)
 
 ## Tattoos
 
-| Magic Item | Cost | Weight | Source |
-| :--------- | ---: | :----: | -----: |
-| Spellwrought tattoo, cantrip | 50 gp | – | TCoE 135 |
-| Spellwrought tattoo, 1st level | 80 gp | – | TCoE 135 |
-| Spellwrought tattoo, 2nd level | 750 gp | – | TCoE 135 |
-| Spellwrought tattoo, 3rd level | 1,500 gp | – | TCoE 135 |
-| Spellwrought tattoo, 4th level | 7,500 gp | – | TCoE 135 |
-| Spellwrought tattoo, 5th level | 15,000 gp | – | TCoE 135 |
+Blending magic and artistry with ink and needles, magic tattoos imbue their bearers with wondrous abilities. Magic tattoos are initially bound to magic needles, which transfer their magic to a creature.
+
+Once inscribed on a creature's body, damage or injury doesn't impair the tattoo's function, even if the tattoo is defaced. When applying a magic tattoo, a creature can customize the tattoo's appearance. A magic tattoo can look like a brand, scarification, a birthmark, patterns of scale, or any other cosmetic alteration.
+
+The rarer a magic tattoo is, the more space it typically occupies on a creature's skin:
+
+- Spellwrought tattoo, cantrip or 1st level: One hand or foot or a quarter of a limb.
+- Spellwrought tattoo, 2nd level or 3rd level: Half a limb or the scalp.
+- Spellwrought tattoo, 4th level or 5th level: One limb.
+
+Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+
+| Magic Item                     |      Cost | Weight | Saving Throw DC | Attack Bonus |   Source |
+| :----------------------------- | --------: | :----: | :-------------: | :----------: | -------: |
+| Spellwrought tattoo, cantrip   |     50 gp |   –    |       13        |      +5      | TCoE 135 |
+| Spellwrought tattoo, 1st level |     80 gp |   –    |       13        |      +5      | TCoE 135 |
+| Spellwrought tattoo, 2nd level |    750 gp |   –    |       13        |      +5      | TCoE 135 |
+| Spellwrought tattoo, 3rd level |  1,500 gp |   –    |       15        |      +7      | TCoE 135 |
+| Spellwrought tattoo, 4th level |  7,500 gp |   –    |       15        |      +7      | TCoE 135 |
+| Spellwrought tattoo, 5th level | 15,000 gp |   –    |       17        |      +9      | TCoE 135 |
 
 [(Back to Top)](#)
 
