@@ -95,18 +95,18 @@ A wizard spell on a spell scroll can be copied just as spells in spellbooks can 
 
 The level of the spell on the scroll determines the spell’s saving throw DC and attack bonus.
 
-| Magic Item              |       Cost | Weight | Saving Throw DC | Attack Bonus |  Source |
-| :---------------------- | ---------: | :----: | :-------------: | :----------: | ------: |
-| Spell scroll, cantrip   |      30 gp |   –    |       13        |      +5      | DMG 200 |
-| Spell scroll, 1st level |      50 gp |   –    |       13        |      +5      | DMG 200 |
-| Spell scroll, 2nd level |     500 gp |   –    |       13        |      +5      | DMG 200 |
-| Spell scroll, 3rd level |   1,000 gp |   –    |       15        |      +7      | DMG 200 |
-| Spell scroll, 4th level |   5,000 gp |   –    |       15        |      +7      | DMG 200 |
-| Spell scroll, 5th level |  10,000 gp |   –    |       17        |      +9      | DMG 200 |
-| Spell scroll, 6th level |  30,000 gp |   –    |       17        |      +9      | DMG 200 |
-| Spell scroll, 7th level |  50,000 gp |   –    |       18        |     +10      | DMG 200 |
-| Spell scroll, 8th level | 100,000 gp |   –    |       18        |     +10      | DMG 200 |
-| Spell scroll, 9th level | 500,000 gp |   –    |       19        |     +11      | DMG 200 |
+| Magic Item              |       Cost | Weight | Save DC | Attack Bonus |  Source |
+| :---------------------- | ---------: | :----: | :-----: | :----------: | ------: |
+| Spell scroll, cantrip   |      30 gp |   –    |   13    |      +5      | DMG 200 |
+| Spell scroll, 1st level |      50 gp |   –    |   13    |      +5      | DMG 200 |
+| Spell scroll, 2nd level |     500 gp |   –    |   13    |      +5      | DMG 200 |
+| Spell scroll, 3rd level |   1,000 gp |   –    |   15    |      +7      | DMG 200 |
+| Spell scroll, 4th level |   5,000 gp |   –    |   15    |      +7      | DMG 200 |
+| Spell scroll, 5th level |  10,000 gp |   –    |   17    |      +9      | DMG 200 |
+| Spell scroll, 6th level |  30,000 gp |   –    |   17    |      +9      | DMG 200 |
+| Spell scroll, 7th level |  50,000 gp |   –    |   18    |     +10      | DMG 200 |
+| Spell scroll, 8th level | 100,000 gp |   –    |   18    |     +10      | DMG 200 |
+| Spell scroll, 9th level | 500,000 gp |   –    |   19    |     +11      | DMG 200 |
 
 [(Back to Top)](#)
 
@@ -124,14 +124,14 @@ The rarer a magic tattoo is, the more space it typically occupies on a creature'
 
 Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
 
-| Magic Item                     |      Cost | Weight | Saving Throw DC | Attack Bonus |   Source |
-| :----------------------------- | --------: | :----: | :-------------: | :----------: | -------: |
-| Spellwrought tattoo, cantrip   |     50 gp |   –    |       13        |      +5      | TCoE 135 |
-| Spellwrought tattoo, 1st level |     80 gp |   –    |       13        |      +5      | TCoE 135 |
-| Spellwrought tattoo, 2nd level |    750 gp |   –    |       13        |      +5      | TCoE 135 |
-| Spellwrought tattoo, 3rd level |  1,500 gp |   –    |       15        |      +7      | TCoE 135 |
-| Spellwrought tattoo, 4th level |  7,500 gp |   –    |       15        |      +7      | TCoE 135 |
-| Spellwrought tattoo, 5th level | 15,000 gp |   –    |       17        |      +9      | TCoE 135 |
+| Magic Item                     |      Cost | Weight | Save DC | Attack Bonus |   Source |
+| :----------------------------- | --------: | :----: | :-----: | :----------: | -------: |
+| Spellwrought tattoo, cantrip   |     50 gp |   –    |   13    |      +5      | TCoE 135 |
+| Spellwrought tattoo, 1st level |     80 gp |   –    |   13    |      +5      | TCoE 135 |
+| Spellwrought tattoo, 2nd level |    750 gp |   –    |   13    |      +5      | TCoE 135 |
+| Spellwrought tattoo, 3rd level |  1,500 gp |   –    |   15    |      +7      | TCoE 135 |
+| Spellwrought tattoo, 4th level |  7,500 gp |   –    |   15    |      +7      | TCoE 135 |
+| Spellwrought tattoo, 5th level | 15,000 gp |   –    |   17    |      +9      | TCoE 135 |
 
 [(Back to Top)](#)
 
