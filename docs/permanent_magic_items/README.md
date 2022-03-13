@@ -530,7 +530,7 @@ Abbreviations:
 | Ear horn of hearing | 200 gp | 1 lb | XGtE 137 |
 | Orb of time | 200 gp | 3 lb | XGtE 138 |
 | Pipe of smoke monsters | 200 gp | – | XGtE 138 |
-| Heward's handy spice pouch | 300 gp | – | XGtE 137 |
+| Heward's handy spice pouch | 300 gp | 1 lb | XGtE 137 |
 | Rope of mending | 400 gp | 10 lb | XGtE 138 |
 | Enduring spellbook | 500 gp | 3 lb | XGtE 137 |
 | Ersatz eye (attunement) | 500 gp | – | XGtE 137 |
@@ -639,7 +639,7 @@ Abbreviations:
 | Hide armor of gleaming | 210 gp | 12 lb | XGtE 136 |
 | Smoldering hide armor | 210 gp | 12 lb | XGtE 139 |
 | Smoldering studded leather armor | 250 gp | 13 lb | XGtE 139 |
-| Heward's handy spice pouch | 300 gp | – | XGtE 137 |
+| Heward's handy spice pouch | 300 gp | 1 lb | XGtE 137 |
 | Wand of scowls | 300 gp | 1 lb | XGtE 140 |
 | Wand of smiles | 300 gp | 1 lb | XGtE 140 |
 | Cast-off hide armor | 310 gp | 12 lb | XGtE 136 |
