@@ -41,11 +41,20 @@ Abbreviations:
 | Smoldering studded leather armor | 250 gp | 13 lb | XGtE 139 |
 | Cast-off studded leather armor | 350 gp | 13 lb | XGtE 136 |
 | Mariner's studded leather armor | 1,500 gp | 13 lb | DMG 181 |
-| Studded leather armor, +1 | 1,500 gp | 13 lb | DMG 152 |
+| Studded leather armor +1 | 1,500 gp | 13 lb | DMG 152 |
 | Glamoured studded leather armor | 2,000 gp | 13 lb | DMG 172 |
-| Studded leather armor of resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
-| Studded leather armor, +2 | 6,000 gp | 13 lb | DMG 152 |
-| Studded leather armor, +3 | 24,000 gp | 13 lb | DMG 152 |
+| Studded leather armor +2 | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of acid resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of cold resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of fire resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of force resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of lightning resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of necrotic resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of poison resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of psychic resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of radiant resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of thunder resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor +3 | 24,000 gp | 13 lb | DMG 152 |
 
 [(Back to Top)](#)
 
@@ -65,24 +74,51 @@ Abbreviations:
 | Cast-off half plate armor | 1,100 gp | 40 lb | XGtE 136 |
 | Mithral breastplate armor | 1,200 gp | 20 lb | DMG 182 |
 | Adamantine half plate armor | 1,300 gp | 40 lb | DMG 150 |
-| Hide armor, +1 | 1,500 gp | 12 lb | DMG 152 |
+| Hide armor +1 | 1,500 gp | 12 lb | DMG 152 |
 | Mariner's hide armor | 1,500 gp | 12 lb | DMG 181 |
 | Mithral half plate armor | 1,600 gp | 40 lb | DMG 182 |
-| Breastplate armor, +1 | 1,900 gp | 20 lb | DMG 152 |
+| Breastplate armor +1 | 1,900 gp | 20 lb | DMG 152 |
 | Mariner's breastplate armor | 1,900 gp | 20 lb | DMG 181 |
-| Half plate armor, +1 | 2,300 gp | 40 lb | DMG 152 |
+| Half plate armor +1 | 2,300 gp | 40 lb | DMG 152 |
 | Mariner's half plate armor | 2,300 gp | 40 lb | DMG 181 |
 | Dragon scale mail armor (attunement) | 4,000 gp | 45 lb | DMG 165 |
 | Elven chain shirt armor | 4,100 gp | 20 lb | DMG 168 |
-| Hide armor of resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
-| Hide armor, +2 | 6,000 gp | 12 lb | DMG 152 |
-| Breastplate armor of resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
-| Breastplate armor, +2 | 6,400 gp | 20 lb | DMG 152 |
-| Half plate armor of resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
-| Half plate armor, +2 | 6,800 gp | 40 lb | DMG 152 |
-| Breastplate armor, +3 | 24,000 gp | 20 lb | DMG 152 |
-| Hide armor, +3 | 24,000 gp | 12 lb | DMG 152 |
-| Half plate armor, +3 | 25,000 gp | 40 lb | DMG 152 |
+| Hide armor +2 | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of acid resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of cold resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of fire resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of force resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of lightning resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of necrotic resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of poison resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of psychic resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of radiant resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of thunder resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Breastplate armor +2 | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of acid resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of cold resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of fire resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of force resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of lightning resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of necrotic resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of poison resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of psychic resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of radiant resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of thunder resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Half plate armor +2 | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of acid resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of cold resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of fire resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of force resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of lightning resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of necrotic resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of poison resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of psychic resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of radiant resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of thunder resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Breastplate armor +3 | 24,000 gp | 20 lb | DMG 152 |
+| Hide armor +3 | 24,000 gp | 12 lb | DMG 152 |
+| Half plate armor +3 | 25,000 gp | 40 lb | DMG 152 |
 
 [(Back to Top)](#)
 
@@ -96,13 +132,22 @@ Abbreviations:
 | Adamantine plate armor | 2,000 gp | 65 lb | DMG 150 |
 | Mithral plate armor | 2,300 gp | 65 lb | DMG 182 |
 | Mariner's plate armor | 3,000 gp | 65 lb | DMG 181 |
-| Plate armor, +1 | 3,000 gp | 65 lb | DMG 152 |
-| Plate armor of resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
-| Plate armor, +2 | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor +1 | 3,000 gp | 65 lb | DMG 152 |
+| Plate armor +2 | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of acid resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of cold resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of fire resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of force resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of lightning resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of necrotic resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of poison resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of psychic resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of radiant resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of thunder resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
 | Dwarven plate armor | 11,000 gp | 65 lb | DMG 167 |
 | Efreeti chain mail armor (attunement) | 20,000 gp | 55 lb | DMG 167 |
 | Plate armor of invulnerability (attunement) | 20,000 gp | 65 lb | DMG 152 |
-| Plate armor, +3 | 26,000 gp | 65 lb | DMG 152 |
+| Plate armor +3 | 26,000 gp | 65 lb | DMG 152 |
 | Plate armor of etherealness (attunement) | 50,000 gp | 65 lb | DMG 185 |
 | Demon plate armor (cursed) (attunement) | – | 65 lb | DMG 165 |
 | Plate armor of vulnerability (cursed) (attunement) | – | 65 lb | DMG 152 |
@@ -114,12 +159,12 @@ Abbreviations:
 | Magic Item | Cost | Weight | Source |
 | :--------- | ---: | :----: | -----: |
 | Shield of expression | 200 gp | 6 lb | XGtE 139 |
-| Shield, +1 | 1,500 gp | 6 lb | DMG 200 |
+| Shield +1 | 1,500 gp | 6 lb | DMG 200 |
 | Animated shield (attunement) | 6,000 gp | 6 lb | DMG 151 |
 | Arrow-catching shield (attunement) | 6,000 gp | 6 lb | DMG 152 |
-| Shield, +2 | 6,000 gp | 6 lb | DMG 200 |
+| Shield +2 | 6,000 gp | 6 lb | DMG 200 |
 | Sentinel shield | 20,000 gp | 6 lb | DMG 199 |
-| Shield, +3 | 24,000 gp | 6 lb | DMG 200 |
+| Shield +3 | 24,000 gp | 6 lb | DMG 200 |
 | Spellguard shield (attunement) | 50,000 gp | 6 lb | DMG 201 |
 | Shield of missile attraction (cursed) (attunement) | – | 6 lb | DMG 200 |
 
@@ -261,7 +306,16 @@ Abbreviations:
 | Ring of evasion (attunement) | 5,000 gp | – | DMG 191 |
 | Ring of the ram (attunement) | 5,000 gp | – | DMG 193 |
 | Pearl of power (attunement spellcaster) | 6,000 gp | – | DMG 184 |
-| Ring of resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of acid resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of cold resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of fire resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of force resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of lightning resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of necrotic resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of poison resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of psychic resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of radiant resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of thunder resistance (attunement) | 6,000 gp | – | DMG 192 |
 | Ring of x-ray vision (attunement) | 6,000 gp | – | DMG 193 |
 | Brooch of shielding (attunement) | 7,500 gp | – | DMG 156 |
 | Ring of invisibility (attunement) | 10,000 gp | – | DMG 191 |
@@ -298,11 +352,11 @@ Abbreviations:
 | Masquerade tattoo (attunement) | 6,000 gp | – | TCoE 131 |
 | Shadowfell brand tattoo (attunement) | 8,000 gp | – | TCoE 134 |
 | Absorbing tattoo (attunement) | 9,000 gp | – | TCoE 119 |
-| Barrier tattoo, uncommon (attunement) | 9,000 gp | – | TCoE 122 |
+| Barrier tattoo uncommon (attunement) | 9,000 gp | – | TCoE 122 |
 | Lifewell tattoo (attunement) | 9,000 gp | – | TCoE 129 |
 | Blood fury tattoo (attunement) | 10,000 gp | – | TCoE 122 |
-| Barrier tattoo, rare (attunement) | – | – | TCoE 122 |
-| Barrier tattoo, very rare (attunement) | – | – | TCoE 122 |
+| Barrier tattoo rare (attunement) | – | – | TCoE 122 |
+| Barrier tattoo very rare (attunement) | – | – | TCoE 122 |
 
 [(Back to Top)](#)
 
@@ -317,7 +371,7 @@ Abbreviations:
 | Moon-touched sword (any sword) | 500 gp | (varies) | XGtE 138 |
 | Trident of fish command (attunement) | 800 gp | 4 lb | DMG 209 |
 | Sword of life stealing (any sword) (attunement) | 1,000 gp | (varies) | DMG 206 |
-| Weapon, +1 (any weapon) | 1,000 gp | (varies) | DMG 213 |
+| Weapon +1 (any weapon) | 1,000 gp | (varies) | DMG 213 |
 | Javelin of lightning | 1,500 gp | 2 lb | DMG 178 |
 | Sword of sharpness (greatsword/longsword/scimitar) (attunement) | 1,700 gp | (varies) | DMG 206 |
 | Dancing sword (any sword) (attunement) | 2,000 gp | (varies) | DMG 161 |
@@ -326,7 +380,7 @@ Abbreviations:
 | Frost brand (any sword) (attunement) | 2,200 gp | (varies) | DMG 171 |
 | Dagger of venom | 2,500 gp | 1 lb | DMG 161 |
 | Oathbow (longbow) (attunement) | 3,500 gp | 2 lb | DMG 183 |
-| Weapon, +2 (any weapon) | 4,000 gp | (varies) | DMG 213 |
+| Weapon +2 (any weapon) | 4,000 gp | (varies) | DMG 213 |
 | Flame tongue (any sword) (attunement) | 5,000 gp | (varies) | DMG 170 |
 | Scimitar of speed (attunement) | 6,000 gp | 3 lb | DMG 199 |
 | Giant slayer (any axe or sword) | 7,000 gp | (varies) | DMG 172 |
@@ -337,7 +391,7 @@ Abbreviations:
 | Nine lives stealer (any sword) (attunement) | 8,000 gp | (varies) | DMG 183 |
 | Sun blade (longsword) (attunement) | 12,000 gp | 3 lb | DMG 205 |
 | Hammer of thunderbolts (maul) | 16,000 gp | 10 lb | DMG 173 |
-| Weapon, +3 (any weapon) | 16,000 gp | (varies) | DMG 213 |
+| Weapon +3 (any weapon) | 16,000 gp | (varies) | DMG 213 |
 | Dwarven thrower (warhammer) (attunement dwarf) | 18,000 gp | 2 lb | DMG 167 |
 | Defender (any sword) (attunement) | 24,000 gp | (varies) | DMG 164 |
 | Vorpal sword (greatsword/longsword/scimitar) (attunement) | 24,000 gp | (varies) | DMG 209 |
@@ -367,42 +421,42 @@ Abbreviations:
 | Feywild shard (attunement sorcerer) | 500 gp | 1 lb | TCoE 127 |
 | Elemental essence shard of fire (attunement sorcerer) | 1,000 gp | 1 lb | TCoE 127 |
 | Outer essence shard of evil (attunement sorcerer) | 1,000 gp | 1 lb | TCoE 133 |
-| Wand of the war mage, +1 (attunement spellcaster) | 1,200 gp | 1 lb | DMG 212 |
+| Wand of the war mage +1 (attunement spellcaster) | 1,200 gp | 1 lb | DMG 212 |
 | Outer essence shard of good (attunement sorcerer) | 1,500 gp | 1 lb | TCoE 133 |
 | Outer essence shard of law (attunement sorcerer) | 1,500 gp | 1 lb | TCoE 133 |
 | Wand of magic detection | 1,500 gp | 1 lb | DMG 211 |
 | Wand of secrets | 1,500 gp | 1 lb | DMG 211 |
 | Staff of the adder (attunement cleric/druid/warlock) | 1,800 gp | 4 lb | DMG 203 |
-| Arcane grimoire, +1 (attunement wizard) | 2,000 gp | 3 lb | TCoE 120 |
-| Rod of the pact keeper, +1 (attunement warlock) | 2,000 gp | 2 lb | DMG 197 |
+| Arcane grimoire +1 (attunement wizard) | 2,000 gp | 3 lb | TCoE 120 |
+| Rod of the pact keeper +1 (attunement warlock) | 2,000 gp | 2 lb | DMG 197 |
 | Shadowfell shard (attunement sorcerer) | 2,000 gp | 1 lb | TCoE 135 |
 | Staff of the python (attunement cleric/druid/warlock) | 2,000 gp | 4 lb | DMG 204 |
 | Outer essence shard of chaos (attunement sorcerer) | 2,500 gp | 1 lb | TCoE 133 |
-| Bloodwell vial, +1 (attunement sorcerer) | 3,000 gp | – | TCoE 122 |
+| Bloodwell vial +1 (attunement sorcerer) | 3,000 gp | – | TCoE 122 |
 | Elemental essence shard of earth (attunement sorcerer) | 3,000 gp | 1 lb | TCoE 127 |
 | Staff of withering (attunement cleric/druid/warlock) | 3,000 gp | 4 lb | DMG 205 |
 | Far Realm shard (attunement sorcerer) | 3,500 gp | 1 lb | TCoE 127 |
 | Elemental essence shard of water (attunement sorcerer) | 4,000 gp | 1 lb | TCoE 127 |
 | Wand of enemy detection (attunement) | 4,000 gp | 1 lb | DMG 210 |
-| Wand of the war mage, +2 (attunement spellcaster) | 4,800 gp | 1 lb | DMG 212 |
+| Wand of the war mage +2 (attunement spellcaster) | 4,800 gp | 1 lb | DMG 212 |
 | Immovable rod | 5,000 gp | 2 lb | DMG 175 |
 | Tentacle rod (attunement) | 5,000 gp | 2 lb | DMG 208 |
-| Arcane grimoire, +2 (attunement wizard) | 8,000 gp | 3 lb | TCoE 120 |
-| Rod of the pact keeper, +2 (attunement warlock) | 8,000 gp | 2 lb | DMG 197 |
+| Arcane grimoire +2 (attunement wizard) | 8,000 gp | 3 lb | TCoE 120 |
+| Rod of the pact keeper +2 (attunement warlock) | 8,000 gp | 2 lb | DMG 197 |
 | Wand of magic missiles | 8,000 gp | 1 lb | DMG 211 |
 | Wand of web (attunement spellcaster) | 8,000 gp | 1 lb | DMG 212 |
 | Staff of thunder and lightning (attunement) | 10,000 gp | 4 lb | DMG 204 |
 | Wand of binding (attunement spellcaster) | 10,000 gp | 1 lb | DMG 209 |
 | Wand of fear (attunement) | 10,000 gp | 1 lb | DMG 210 |
-| Bloodwell vial, +2 (attunement sorcerer) | 12,000 gp | – | TCoE 122 |
+| Bloodwell vial +2 (attunement sorcerer) | 12,000 gp | – | TCoE 122 |
 | Staff of charming (attunement bard/cleric/druid/sorcerer/warlock/wizard) | 12,000 gp | 4 lb | DMG 201 |
-| Staff of healing (attunement bard, cleric, druid) | 13,000 gp | 4 lb | DMG 202 |
+| Staff of healing (attunement bard/cleric/druid) | 13,000 gp | 4 lb | DMG 202 |
 | Rod of rulership (attunement) | 16,000 gp | 2 lb | DMG 197 |
 | Staff of fire (attunement druid/sorcerer/warlock/wizard) | 16,000 gp | 4 lb | DMG 201 |
 | Staff of swarming insects (attunement bard/cleric/druid/sorcerer/warlock/wizard) | 16,000 gp | 4 lb | DMG 203 |
 | Wand of paralysis (attunement spellcaster) | 16,000 gp | 1 lb | DMG 211 |
 | Wand of wonder (attunement spellcaster) | 18,000 gp | 1 lb | DMG 212 |
-| Wand of the war mage, +3 (attunement spellcaster) | 19,000 gp | 1 lb | DMG 212 |
+| Wand of the war mage +3 (attunement spellcaster) | 19,000 gp | 1 lb | DMG 212 |
 | Staff of striking (attunement) | 21,000 gp | 4 lb | DMG 203 |
 | Duplicitous manuscript (attunement wizard) | 24,000 gp | 3 lb | TCoE 126 |
 | Crystalline chronicle (attunement wizard) | 25,000 gp | 3 lb | TCoE 124 |
@@ -410,12 +464,12 @@ Abbreviations:
 | Staff of frost (attunement druid/sorcerer/warlock/wizard) | 26,000 gp | 4 lb | DMG 202 |
 | Rod of lordly might (attunement) | 28,000 gp | 2 lb | DMG 196 |
 | Fulminating treatise (attunement wizard) | 29,000 gp | 3 lb | TCoE 128 |
-| Arcane grimoire, +3 (attunement wizard) | 32,000 gp | 3 lb | TCoE 120 |
-| Rod of the pact keeper, +3 (attunement warlock) | 32,000 gp | 2 lb | DMG 197 |
+| Arcane grimoire +3 (attunement wizard) | 32,000 gp | 3 lb | TCoE 120 |
+| Rod of the pact keeper +3 (attunement warlock) | 32,000 gp | 2 lb | DMG 197 |
 | Wand of fireballs (attunement spellcaster) | 32,000 gp | 1 lb | DMG 210 |
 | Wand of lightning bolts (attunement spellcaster) | 32,000 gp | 1 lb | DMG 211 |
 | Wand of polymorph (attunement spellcaster) | 32,000 gp | 1 lb | DMG 211 |
-| Bloodwell vial, +3 (attunement sorcerer) | 36,000 gp | – | TCoE 122 |
+| Bloodwell vial +3 (attunement sorcerer) | 36,000 gp | – | TCoE 122 |
 | Rod of resurrection (attunement cleric/druid/paladin) | 40,000 gp | 2 lb | DMG 197 |
 | Staff of the woodlands (attunement druid) | 44,000 gp | 4 lb | DMG 204 |
 | Alchemical compendium (attunement wizard) | 49,000 gp | 3 lb | TCoE 119 |
@@ -441,9 +495,9 @@ Abbreviations:
 | :--------- | ---: | :----: | -----: |
 | Bell branch (attunement druid/warlock) | 500 gp | 1 lb | TCoE 122 |
 | Cauldron of rebirth (attunement druid/warlock) | 2,000 gp | 10 lb | TCoE 122 |
-| Moon sickle, +1 (attunement druid/ranger) | 2,000 gp | 2 lb | TCoE 133 |
-| Moon sickle, +2 (attunement druid/ranger) | 8,000 gp | 2 lb | TCoE 133 |
-| Moon sickle, +3 (attunement druid/ranger) | 32,000 gp | 2 lb | TCoE 133 |
+| Moon sickle +1 (attunement druid/ranger) | 2,000 gp | 2 lb | TCoE 133 |
+| Moon sickle +2 (attunement druid/ranger) | 8,000 gp | 2 lb | TCoE 133 |
+| Moon sickle +3 (attunement druid/ranger) | 32,000 gp | 2 lb | TCoE 133 |
 
 [(Back to Top)](#)
 
@@ -452,9 +506,9 @@ Abbreviations:
 | Magic Item | Cost | Weight | Source |
 | :--------- | ---: | :----: | -----: |
 | Guardian emblem (attunement cleric/paladin) | 500 gp | – | TCoE 128 |
-| Amulet of the devout, +1 (attunement cleric/paladin) | 3,000 gp | 1 lb | TCoE 119 |
-| Amulet of the devout, +2 (attunement cleric/paladin) | 12,000 gp | 1 lb | TCoE 119 |
-| Amulet of the devout, +3 (attunement cleric/paladin) | 36,000 gp | 1 lb | TCoE 119 |
+| Amulet of the devout +1 (attunement cleric/paladin) | 3,000 gp | 1 lb | TCoE 119 |
+| Amulet of the devout +2 (attunement cleric/paladin) | 12,000 gp | 1 lb | TCoE 119 |
+| Amulet of the devout +3 (attunement cleric/paladin) | 36,000 gp | 1 lb | TCoE 119 |
 
 [(Back to Top)](#)
 
@@ -465,16 +519,16 @@ Abbreviations:
 | Instrument of illusions (any musical instrument) (attunement) | 200 gp | (varies) | XGtE 137 |
 | Instrument of scribing (any musical instrument) (attunement) | 500 gp | (varies) | XGtE 138 |
 | Pipes of the sewers (attunement) | 2,000 gp | 2 lb | DMG 185 |
-| Rhythm-maker's drum, +1 (attunement bard) | 2,000 gp | 3 lb | TCoE 134 |
+| Rhythm-maker's drum +1 (attunement bard) | 2,000 gp | 3 lb | TCoE 134 |
 | Reveler's concertina (attunement bard) | 5,000 gp | 1 lb | TCoE 134 |
 | Pipes of haunting | 6,000 gp | 2 lb | DMG 185 |
-| Rhythm-maker's drum, +2 (attunement bard) | 8,000 gp | 3 lb | TCoE 134 |
+| Rhythm-maker's drum +2 (attunement bard) | 8,000 gp | 3 lb | TCoE 134 |
 | Instrument of the bards, fochlucan bandore (attunement bard) | 27,000 gp | 2 lb | DMG 176 |
 | Instrument of the bards, mac-fuirmidh cittern (attunement bard) | 27,000 gp | 2 lb | DMG 176 |
 | Instrument of the bards, doss lute (attunement bard) | 29,000 gp | 2 lb | DMG 176 |
 | Instrument of the bards, canaith mandolin (attunement bard) | 31,000 gp | 2 lb | DMG 176 |
 | Lyre of building (attunement bard) | 31,000 gp | 2 lb | TCoE 131 |
-| Rhythm-maker's drum, +3 (attunement bard) | 32,000 gp | 3 lb | TCoE 134 |
+| Rhythm-maker's drum +3 (attunement bard) | 32,000 gp | 3 lb | TCoE 134 |
 | Instrument of the bards, cli lyre (attunement bard) | 33,000 gp | 2 lb | DMG 176 |
 | Instrument of the bards, anstruth harp (attunement bard) | 110,000 gp | 2 lb | DMG 176 |
 | Instrument of the bards, ollamh harp (attunement bard) | 130,000 gp | 2 lb | DMG 176 |
@@ -485,9 +539,9 @@ Abbreviations:
 
 | Magic Item | Cost | Weight | Source |
 | :--------- | ---: | :----: | -----: |
-| All-purpose tool, +1 (attunement artificer) | 3,000 gp | – | TCoE 119 |
-| All-purpose tool, +2 (attunement artificer) | 12,000 gp | – | TCoE 119 |
-| All-purpose tool, +3 (attunement artificer) | 36,000 gp | – | TCoE 119 |
+| All-purpose tool +1 (attunement artificer) | 3,000 gp | – | TCoE 119 |
+| All-purpose tool +2 (attunement artificer) | 12,000 gp | – | TCoE 119 |
+| All-purpose tool +3 (attunement artificer) | 36,000 gp | – | TCoE 119 |
 
 [(Back to Top)](#)
 
@@ -689,17 +743,17 @@ Abbreviations:
 | Quiver of Ehlonna | 1,000 gp | 2 lb | DMG 189 |
 | Ring of warmth (attunement) | 1,000 gp | – | DMG 193 |
 | Sword of life stealing (any sword) (attunement) | 1,000 gp | (varies) | DMG 206 |
-| Weapon, +1 (any weapon) | 1,000 gp | (varies) | DMG 213 |
+| Weapon +1 (any weapon) | 1,000 gp | (varies) | DMG 213 |
 | Cast-off half plate armor | 1,100 gp | 40 lb | XGtE 136 |
 | Figurine of wondrous power, golden lions (pair) | 1,200 gp | – | DMG 169 |
 | Ioun stone of protection (attunement) | 1,200 gp | – | DMG 176 |
 | Mithral breastplate armor | 1,200 gp | 20 lb | DMG 182 |
-| Wand of the war mage, +1 (attunement spellcaster) | 1,200 gp | 1 lb | DMG 212 |
+| Wand of the war mage +1 (attunement spellcaster) | 1,200 gp | 1 lb | DMG 212 |
 | Adamantine half plate armor | 1,300 gp | 40 lb | DMG 150 |
 | Bracers of archery (attunement) | 1,500 gp | – | DMG 156 |
 | Circlet of blasting | 1,500 gp | – | DMG 158 |
 | Goggles of night | 1,500 gp | – | DMG 172 |
-| Hide armor, +1 | 1,500 gp | 12 lb | DMG 152 |
+| Hide armor +1 | 1,500 gp | 12 lb | DMG 152 |
 | Horseshoes of a zephyr (set of four) | 1,500 gp | 4 lb | DMG 175 |
 | Javelin of lightning | 1,500 gp | 2 lb | DMG 178 |
 | Mariner's hide armor | 1,500 gp | 12 lb | DMG 181 |
@@ -709,8 +763,8 @@ Abbreviations:
 | Outer essence shard of good (attunement sorcerer) | 1,500 gp | 1 lb | TCoE 133 |
 | Outer essence shard of law (attunement sorcerer) | 1,500 gp | 1 lb | TCoE 133 |
 | Ring of water walking | 1,500 gp | – | DMG 193 |
-| Shield, +1 | 1,500 gp | 6 lb | DMG 200 |
-| Studded leather armor, +1 | 1,500 gp | 13 lb | DMG 152 |
+| Shield +1 | 1,500 gp | 6 lb | DMG 200 |
+| Studded leather armor +1 | 1,500 gp | 13 lb | DMG 152 |
 | Wand of magic detection | 1,500 gp | 1 lb | DMG 211 |
 | Wand of secrets | 1,500 gp | 1 lb | DMG 211 |
 | Wind fan | 1,500 gp | 1 lb | DMG 213 |
@@ -720,10 +774,10 @@ Abbreviations:
 | Sword of sharpness (greatsword/longsword/scimitar) (attunement) | 1,700 gp | (varies) | DMG 206 |
 | Cast-off plate armor | 1,800 gp | 65 lb | XGtE 136 |
 | Staff of the adder (attunement cleric/druid/warlock) | 1,800 gp | 4 lb | DMG 203 |
-| Breastplate armor, +1 | 1,900 gp | 20 lb | DMG 152 |
+| Breastplate armor +1 | 1,900 gp | 20 lb | DMG 152 |
 | Mariner's breastplate armor | 1,900 gp | 20 lb | DMG 181 |
 | Adamantine plate armor | 2,000 gp | 65 lb | DMG 150 |
-| Arcane grimoire, +1 (attunement wizard) | 2,000 gp | 3 lb | TCoE 120 |
+| Arcane grimoire +1 (attunement wizard) | 2,000 gp | 3 lb | TCoE 120 |
 | Cauldron of rebirth (attunement druid/warlock) | 2,000 gp | 10 lb | TCoE 122 |
 | Coiling grasp tattoo (attunement) | 2,000 gp | – | TCoE 123 |
 | Dancing sword (any sword) (attunement) | 2,000 gp | (varies) | DMG 161 |
@@ -731,12 +785,12 @@ Abbreviations:
 | Glamoured studded leather armor | 2,000 gp | 13 lb | DMG 172 |
 | Gloves of swimming and climbing (attunement) | 2,000 gp | – | DMG 172 |
 | Heward's handy haversack | 2,000 gp | 5 lb | DMG 174 |
-| Moon sickle, +1 (attunement druid/ranger) | 2,000 gp | 2 lb | TCoE 133 |
+| Moon sickle +1 (attunement druid/ranger) | 2,000 gp | 2 lb | TCoE 133 |
 | Necklace of prayer beads, bead of blessing (each) | 2,000 gp | – | DMG 182 |
 | Pipes of the sewers (attunement) | 2,000 gp | 2 lb | DMG 185 |
-| Rhythm-maker's drum, +1 (attunement bard) | 2,000 gp | 3 lb | TCoE 134 |
+| Rhythm-maker's drum +1 (attunement bard) | 2,000 gp | 3 lb | TCoE 134 |
 | Ring of feather falling (attunement) | 2,000 gp | – | DMG 191 |
-| Rod of the pact keeper, +1 (attunement warlock) | 2,000 gp | 2 lb | DMG 197 |
+| Rod of the pact keeper +1 (attunement warlock) | 2,000 gp | 2 lb | DMG 197 |
 | Rope of climbing | 2,000 gp | 3 lb | DMG 197 |
 | Saddle of the cavalier | 2,000 gp | 30 lb | DMG 199 |
 | Sending stones (each) | 2,000 gp | 1 lb | DMG 199 |
@@ -744,7 +798,7 @@ Abbreviations:
 | Staff of the python (attunement cleric/druid/warlock) | 2,000 gp | 4 lb | DMG 204 |
 | Sword of wounding (any sword) (attunement) | 2,000 gp | (varies) | DMG 207 |
 | Frost brand (any sword) (attunement) | 2,200 gp | (varies) | DMG 171 |
-| Half plate armor, +1 | 2,300 gp | 40 lb | DMG 152 |
+| Half plate armor +1 | 2,300 gp | 40 lb | DMG 152 |
 | Mariner's half plate armor | 2,300 gp | 40 lb | DMG 181 |
 | Mithral plate armor | 2,300 gp | 65 lb | DMG 182 |
 | Ioun stone of absorption (attunement) | 2,400 gp | – | DMG 176 |
@@ -754,9 +808,9 @@ Abbreviations:
 | Eyes of the eagle (attunement) | 2,500 gp | – | DMG 168 |
 | Outer essence shard of chaos (attunement sorcerer) | 2,500 gp | 1 lb | TCoE 133 |
 | Ring of jumping (attunement) | 2,500 gp | – | DMG 191 |
-| All-purpose tool, +1 (attunement artificer) | 3,000 gp | – | TCoE 119 |
-| Amulet of the devout, +1 (attunement cleric/paladin) | 3,000 gp | 1 lb | TCoE 119 |
-| Bloodwell vial, +1 (attunement sorcerer) | 3,000 gp | – | TCoE 122 |
+| All-purpose tool +1 (attunement artificer) | 3,000 gp | – | TCoE 119 |
+| Amulet of the devout +1 (attunement cleric/paladin) | 3,000 gp | 1 lb | TCoE 119 |
+| Bloodwell vial +1 (attunement sorcerer) | 3,000 gp | – | TCoE 122 |
 | Dimensional shackles | 3,000 gp | 6 lb | DMG 165 |
 | Eldritch claw tattoo (attunement) | 3,000 gp | – | TCoE 126 |
 | Elemental essence shard of earth (attunement sorcerer) | 3,000 gp | 1 lb | TCoE 127 |
@@ -771,7 +825,7 @@ Abbreviations:
 | Ioun stone of strength (attunement) | 3,000 gp | – | DMG 176 |
 | Mariner's plate armor | 3,000 gp | 65 lb | DMG 181 |
 | Medallion of thoughts (attunement) | 3,000 gp | – | DMG 181 |
-| Plate armor, +1 | 3,000 gp | 65 lb | DMG 152 |
+| Plate armor +1 | 3,000 gp | 65 lb | DMG 152 |
 | Ring of swimming | 3,000 gp | – | DMG 193 |
 | Staff of withering (attunement cleric/druid/warlock) | 3,000 gp | 4 lb | DMG 205 |
 | Cloak of protection (attunement) | 3,500 gp | – | DMG 159 |
@@ -789,10 +843,10 @@ Abbreviations:
 | Ring of animal influence | 4,000 gp | – | DMG 189 |
 | Rope of entanglement | 4,000 gp | 3 lb | DMG 197 |
 | Wand of enemy detection (attunement) | 4,000 gp | 1 lb | DMG 210 |
-| Weapon, +2 (any weapon) | 4,000 gp | (varies) | DMG 213 |
+| Weapon +2 (any weapon) | 4,000 gp | (varies) | DMG 213 |
 | Elven chain shirt armor | 4,100 gp | 20 lb | DMG 168 |
 | Stone of good luck (attunement) | 4,200 gp | – | DMG 205 |
-| Wand of the war mage, +2 (attunement spellcaster) | 4,800 gp | 1 lb | DMG 212 |
+| Wand of the war mage +2 (attunement spellcaster) | 4,800 gp | 1 lb | DMG 212 |
 | Boots of striding and springing (attunement) | 5,000 gp | – | DMG 156 |
 | Cloak of arachnida (attunement) | 5,000 gp | – | DMG 158 |
 | Cloak of elvenkind (attunement) | 5,000 gp | – | DMG 158 |
@@ -820,29 +874,83 @@ Abbreviations:
 | Cloak of the bat (attunement) | 6,000 gp | – | DMG 159 |
 | Cloak of the manta ray | 6,000 gp | – | DMG 159 |
 | Figurine of wondrous power, marble elephant | 6,000 gp | – | DMG 170 |
-| Hide armor of resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
-| Hide armor, +2 | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor +2 | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of acid resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of cold resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of fire resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of force resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of lightning resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of necrotic resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of poison resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of psychic resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of radiant resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
+| Hide armor of thunder resistance (attunement) | 6,000 gp | 12 lb | DMG 152 |
 | Ioun stone of reserve (attunement) | 6,000 gp | – | DMG 176 |
 | Masquerade tattoo (attunement) | 6,000 gp | – | TCoE 131 |
 | Pearl of power (attunement spellcaster) | 6,000 gp | – | DMG 184 |
 | Pipes of haunting | 6,000 gp | 2 lb | DMG 185 |
-| Ring of resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of acid resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of cold resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of fire resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of force resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of lightning resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of necrotic resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of poison resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of psychic resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of radiant resistance (attunement) | 6,000 gp | – | DMG 192 |
+| Ring of thunder resistance (attunement) | 6,000 gp | – | DMG 192 |
 | Ring of x-ray vision (attunement) | 6,000 gp | – | DMG 193 |
 | Robe of scintillating colors (attunement) | 6,000 gp | 4 lb | DMG 194 |
 | Scimitar of speed (attunement) | 6,000 gp | 3 lb | DMG 199 |
-| Shield, +2 | 6,000 gp | 6 lb | DMG 200 |
-| Studded leather armor of resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
-| Studded leather armor, +2 | 6,000 gp | 13 lb | DMG 152 |
-| Breastplate armor of resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
-| Breastplate armor, +2 | 6,400 gp | 20 lb | DMG 152 |
-| Half plate armor of resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
-| Half plate armor, +2 | 6,800 gp | 40 lb | DMG 152 |
+| Shield +2 | 6,000 gp | 6 lb | DMG 200 |
+| Studded leather armor +2 | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of acid resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of cold resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of fire resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of force resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of lightning resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of necrotic resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of poison resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of psychic resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of radiant resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Studded leather armor of thunder resistance (attunement) | 6,000 gp | 13 lb | DMG 152 |
+| Breastplate armor +2 | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of acid resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of cold resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of fire resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of force resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of lightning resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of necrotic resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of poison resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of psychic resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of radiant resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Breastplate armor of thunder resistance (attunement) | 6,400 gp | 20 lb | DMG 152 |
+| Half plate armor +2 | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of acid resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of cold resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of fire resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of force resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of lightning resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of necrotic resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of poison resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of psychic resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of radiant resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
+| Half plate armor of thunder resistance (attunement) | 6,800 gp | 40 lb | DMG 152 |
 | Giant slayer (any axe or sword) | 7,000 gp | (varies) | DMG 172 |
 | Mace of smiting | 7,000 gp | 4 lb | DMG 179 |
 | Brooch of shielding (attunement) | 7,500 gp | – | DMG 156 |
-| Plate armor of resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
-| Plate armor, +2 | 7,500 gp | 65 lb | DMG 152 |
-| Arcane grimoire, +2 (attunement wizard) | 8,000 gp | 3 lb | TCoE 120 |
+| Plate armor +2 | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of acid resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of cold resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of fire resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of force resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of lightning resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of necrotic resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of poison resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of psychic resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of radiant resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Plate armor of thunder resistance (attunement) | 7,500 gp | 65 lb | DMG 152 |
+| Arcane grimoire +2 (attunement wizard) | 8,000 gp | 3 lb | TCoE 120 |
 | Bowl of commanding water elementals | 8,000 gp | 3 lb | DMG 156 |
 | Brazier of commanding fire elementals | 8,000 gp | 5 lb | DMG 156 |
 | Cape of the mountebank | 8,000 gp | – | DMG 157 |
@@ -850,18 +958,18 @@ Abbreviations:
 | Dragon slayer (any sword) | 8,000 gp | (varies) | DMG 166 |
 | Mace of disruption (attunement) | 8,000 gp | 4 lb | DMG 179 |
 | Mace of terror (attunement) | 8,000 gp | 4 lb | DMG 180 |
-| Moon sickle, +2 (attunement druid/ranger) | 8,000 gp | 2 lb | TCoE 133 |
+| Moon sickle +2 (attunement druid/ranger) | 8,000 gp | 2 lb | TCoE 133 |
 | Nine lives stealer (any sword) (attunement) | 8,000 gp | (varies) | DMG 183 |
 | Portable hole | 8,000 gp | – | DMG 185 |
-| Rhythm-maker's drum, +2 (attunement bard) | 8,000 gp | 3 lb | TCoE 134 |
-| Rod of the pact keeper, +2 (attunement warlock) | 8,000 gp | 2 lb | DMG 197 |
+| Rhythm-maker's drum +2 (attunement bard) | 8,000 gp | 3 lb | TCoE 134 |
+| Rod of the pact keeper +2 (attunement warlock) | 8,000 gp | 2 lb | DMG 197 |
 | Shadowfell brand tattoo (attunement) | 8,000 gp | – | TCoE 134 |
 | Stone of controlling earth elementals | 8,000 gp | 5 lb | DMG 205 |
 | Wand of magic missiles | 8,000 gp | 1 lb | DMG 211 |
 | Wand of web (attunement spellcaster) | 8,000 gp | 1 lb | DMG 212 |
 | Horn of Valhalla, brass | 8,400 gp | 2 lb | DMG 175 |
 | Absorbing tattoo (attunement) | 9,000 gp | – | TCoE 119 |
-| Barrier tattoo, uncommon (attunement) | 9,000 gp | – | TCoE 122 |
+| Barrier tattoo uncommon (attunement) | 9,000 gp | – | TCoE 122 |
 | Lifewell tattoo (attunement) | 9,000 gp | – | TCoE 129 |
 | Apparatus of Kwalish | 10,000 gp | 500 lb | DMG 151 |
 | Blood fury tattoo (attunement) | 10,000 gp | – | TCoE 122 |
@@ -873,14 +981,14 @@ Abbreviations:
 | Wand of fear (attunement) | 10,000 gp | 1 lb | DMG 210 |
 | Dwarven plate armor | 11,000 gp | 65 lb | DMG 167 |
 | Horn of Valhalla, bronze | 11,000 gp | 2 lb | DMG 175 |
-| All-purpose tool, +2 (attunement artificer) | 12,000 gp | – | TCoE 119 |
-| Amulet of the devout, +2 (attunement cleric/paladin) | 12,000 gp | 1 lb | TCoE 119 |
-| Bloodwell vial, +2 (attunement sorcerer) | 12,000 gp | – | TCoE 122 |
+| All-purpose tool +2 (attunement artificer) | 12,000 gp | – | TCoE 119 |
+| Amulet of the devout +2 (attunement cleric/paladin) | 12,000 gp | 1 lb | TCoE 119 |
+| Bloodwell vial +2 (attunement sorcerer) | 12,000 gp | – | TCoE 122 |
 | Helm of telepathy (attunement) | 12,000 gp | – | DMG 174 |
 | Ioun stone of awareness (attunement) | 12,000 gp | – | DMG 176 |
 | Staff of charming (attunement bard/cleric/druid/sorcerer/warlock/wizard) | 12,000 gp | 4 lb | DMG 201 |
 | Sun blade (longsword) (attunement) | 12,000 gp | 3 lb | DMG 205 |
-| Staff of healing (attunement bard, cleric, druid) | 13,000 gp | 4 lb | DMG 202 |
+| Staff of healing (attunement bard/cleric/druid) | 13,000 gp | 4 lb | DMG 202 |
 | Horn of Valhalla, iron | 14,000 gp | 2 lb | DMG 175 |
 | Ring of shooting stars (attunement) | 14,000 gp | – | DMG 192 |
 | Ioun stone of mastery (attunement) | 15,000 gp | – | DMG 176 |
@@ -892,14 +1000,14 @@ Abbreviations:
 | Staff of swarming insects (attunement bard/cleric/druid/sorcerer/warlock/wizard) | 16,000 gp | 4 lb | DMG 203 |
 | Tan bag of tricks | 16,000 gp | ½ lb | DMG 154 |
 | Wand of paralysis (attunement spellcaster) | 16,000 gp | 1 lb | DMG 211 |
-| Weapon, +3 (any weapon) | 16,000 gp | (varies) | DMG 213 |
+| Weapon +3 (any weapon) | 16,000 gp | (varies) | DMG 213 |
 | Gray bag of tricks | 17,000 gp | ½ lb | DMG 154 |
 | Ring of fire elemental command (attunement) | 17,000 gp | – | DMG 190 |
 | Dwarven thrower (warhammer) (attunement dwarf) | 18,000 gp | 2 lb | DMG 167 |
 | Mirror of life trapping | 18,000 gp | 50 lb | DMG 181 |
 | Rust bag of tricks | 18,000 gp | ½ lb | DMG 154 |
 | Wand of wonder (attunement spellcaster) | 18,000 gp | 1 lb | DMG 212 |
-| Wand of the war mage, +3 (attunement spellcaster) | 19,000 gp | 1 lb | DMG 212 |
+| Wand of the war mage +3 (attunement spellcaster) | 19,000 gp | 1 lb | DMG 212 |
 | Amulet of proof against detection and location (attunement) | 20,000 gp | – | DMG 150 |
 | Efreeti chain mail armor (attunement) | 20,000 gp | 55 lb | DMG 167 |
 | Figurine of wondrous power, ivory goat of terror | 20,000 gp | – | DMG 169 |
@@ -908,19 +1016,19 @@ Abbreviations:
 | Sentinel shield | 20,000 gp | 6 lb | DMG 199 |
 | Staff of striking (attunement) | 21,000 gp | 4 lb | DMG 203 |
 | Talisman of the sphere (attunement) | 22,000 gp | – | DMG 207 |
-| Breastplate armor, +3 | 24,000 gp | 20 lb | DMG 152 |
+| Breastplate armor +3 | 24,000 gp | 20 lb | DMG 152 |
 | Defender (any sword) (attunement) | 24,000 gp | (varies) | DMG 164 |
 | Duplicitous manuscript (attunement wizard) | 24,000 gp | 3 lb | TCoE 126 |
-| Hide armor, +3 | 24,000 gp | 12 lb | DMG 152 |
+| Hide armor +3 | 24,000 gp | 12 lb | DMG 152 |
 | Ring of spell storing (attunement) | 24,000 gp | – | DMG 192 |
-| Shield, +3 | 24,000 gp | 6 lb | DMG 200 |
-| Studded leather armor, +3 | 24,000 gp | 13 lb | DMG 152 |
+| Shield +3 | 24,000 gp | 6 lb | DMG 200 |
+| Studded leather armor +3 | 24,000 gp | 13 lb | DMG 152 |
 | Vorpal sword (greatsword/longsword/scimitar) (attunement) | 24,000 gp | (varies) | DMG 209 |
 | Crystalline chronicle (attunement wizard) | 25,000 gp | 3 lb | TCoE 124 |
-| Half plate armor, +3 | 25,000 gp | 40 lb | DMG 152 |
+| Half plate armor +3 | 25,000 gp | 40 lb | DMG 152 |
 | Ring of water elemental command (attunement) | 25,000 gp | – | DMG 190 |
 | Rod of alertness (attunement) | 25,000 gp | 2 lb | DMG 196 |
-| Plate armor, +3 | 26,000 gp | 65 lb | DMG 152 |
+| Plate armor +3 | 26,000 gp | 65 lb | DMG 152 |
 | Staff of frost (attunement druid/sorcerer/warlock/wizard) | 26,000 gp | 4 lb | DMG 202 |
 | Instrument of the bards, fochlucan bandore (attunement bard) | 27,000 gp | 2 lb | DMG 176 |
 | Instrument of the bards, mac-fuirmidh cittern (attunement bard) | 27,000 gp | 2 lb | DMG 176 |
@@ -933,19 +1041,19 @@ Abbreviations:
 | Instrument of the bards, canaith mandolin (attunement bard) | 31,000 gp | 2 lb | DMG 176 |
 | Ioun stone of greater absorption (attunement) | 31,000 gp | – | DMG 176 |
 | Lyre of building (attunement bard) | 31,000 gp | 2 lb | TCoE 131 |
-| Arcane grimoire, +3 (attunement wizard) | 32,000 gp | 3 lb | TCoE 120 |
+| Arcane grimoire +3 (attunement wizard) | 32,000 gp | 3 lb | TCoE 120 |
 | Gem of seeing (attunement) | 32,000 gp | – | DMG 172 |
-| Moon sickle, +3 (attunement druid/ranger) | 32,000 gp | 2 lb | TCoE 133 |
+| Moon sickle +3 (attunement druid/ranger) | 32,000 gp | 2 lb | TCoE 133 |
 | Necklace of prayer beads, bead of favor (each) | 32,000 gp | – | DMG 182 |
-| Rhythm-maker's drum, +3 (attunement bard) | 32,000 gp | 3 lb | TCoE 134 |
-| Rod of the pact keeper, +3 (attunement warlock) | 32,000 gp | 2 lb | DMG 197 |
+| Rhythm-maker's drum +3 (attunement bard) | 32,000 gp | 3 lb | TCoE 134 |
+| Rod of the pact keeper +3 (attunement warlock) | 32,000 gp | 2 lb | DMG 197 |
 | Wand of fireballs (attunement spellcaster) | 32,000 gp | 1 lb | DMG 210 |
 | Wand of lightning bolts (attunement spellcaster) | 32,000 gp | 1 lb | DMG 211 |
 | Wand of polymorph (attunement spellcaster) | 32,000 gp | 1 lb | DMG 211 |
 | Instrument of the bards, cli lyre (attunement bard) | 33,000 gp | 2 lb | DMG 176 |
-| All-purpose tool, +3 (attunement artificer) | 36,000 gp | – | TCoE 119 |
-| Amulet of the devout, +3 (attunement cleric/paladin) | 36,000 gp | 1 lb | TCoE 119 |
-| Bloodwell vial, +3 (attunement sorcerer) | 36,000 gp | – | TCoE 122 |
+| All-purpose tool +3 (attunement artificer) | 36,000 gp | – | TCoE 119 |
+| Amulet of the devout +3 (attunement cleric/paladin) | 36,000 gp | 1 lb | TCoE 119 |
+| Bloodwell vial +3 (attunement sorcerer) | 36,000 gp | – | TCoE 122 |
 | Scarab of protection (attunement) | 36,000 gp | – | DMG 199 |
 | Sword of answering (longsword) (attunement) | 36,000 gp | 3 lb | DMG 206 |
 | Rod of resurrection (attunement cleric/druid/paladin) | 40,000 gp | 2 lb | DMG 197 |
@@ -989,8 +1097,8 @@ Abbreviations:
 | Axe of the dwarvish lords (battleaxe) (artifact) (cursed) (attunement) | – | 4 lb | DMG 221 |
 | Baba Yaga's mortar and pestle (artifact) (attunement) | – | 1 lb | TCoE 121 |
 | Bag of devouring (cursed) | – | 15 lb | DMG 153 |
-| Barrier tattoo, rare (attunement) | – | – | TCoE 122 |
-| Barrier tattoo, very rare (attunement) | – | – | TCoE 122 |
+| Barrier tattoo rare (attunement) | – | – | TCoE 122 |
+| Barrier tattoo very rare (attunement) | – | – | TCoE 122 |
 | Belt of cloud giant strength (attunement) | – | – | DMG 155 |
 | Belt of fire giant strength (attunement) | – | – | DMG 155 |
 | Belt of frost giant strength (attunement) | – | – | DMG 155 |
