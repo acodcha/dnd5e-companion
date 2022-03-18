@@ -4,6 +4,7 @@
 - **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 - **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Squeezing](#condition-squeezing), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
 - **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
+- **[Expenses and Hirelings](#expenses-and-hirelings):** [Lifestyle Expenses](#lifestyle-expenses), [Travel Expenses](#travel-expenses), [Hirelings](#hirelings)
 - **[Spellcasting Services](#spellcasting-services):** [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
 
 [(Back to Main Page)](../../#)
@@ -707,6 +708,67 @@
 - Creatures and objects that are fully immersed in water have resistance to fire damage.
 
 [(Back to Circumstances)](#circumstances)
+
+## Expenses and Hirelings
+
+- [Lifestyle Expenses](#lifestyle-expenses)
+- [Travel Expenses](#travel-expenses)
+- [Hirelings](#hirelings)
+
+[(Back to Top)](#)
+
+### Lifestyle Expenses
+
+| Lifestyle    |      Lodging |        Meals |         Other |         Total |
+| :----------- | -----------: | -----------: | ------------: | ------------: |
+| Wretched     |            – |            – |             – |             – |
+| Squalid      | 7 cp per day | 3 cp per day |             – |  1 sp per day |
+| Poor         | 1 sp per day | 6 cp per day |  4 cp per day |  2 sp per day |
+| Modest       | 5 sp per day | 3 sp per day |  2 sp per day |  1 gp per day |
+| Comfortable  | 1 gp per day | 5 sp per day |  5 sp per day |  2 gp per day |
+| Wealthy      | 2 gp per day | 8 sp per day | 12 sp per day |  4 gp per day |
+| Aristocratic | 4 gp per day | 2 gp per day |  4 gp per day | 10 gp per day |
+
+[(Back to Expenses and Hirelings)](#expenses-and-hirelings)
+
+### Travel Expenses
+
+| Travel Expense | Cost |
+| :------------- | ---: |
+| Coach cab between towns | 3 cp per mile |
+| Coach cab within a city | 1 cp |
+| Messenger | 2 cp per mile |
+| Road or gate toll, pedestrian | 1 cp |
+| Road or gate toll, rider | 5 cp |
+| Road or gate toll, cart or sled | 2 sp |
+| Road or gate toll, carriage or wagon | 1 gp |
+| Ship's passage, lower class | 1 sp per mile |
+| Ship's passage, upper class | 4 sp per mile |
+
+[(Back to Expenses and Hirelings)](#expenses-and-hirelings)
+
+### Hirelings
+
+Some hirelings might require a minimum of several days or even weeks of pay for a given job, and might ask for some or all of their pay up front. Furthermore, danger implies higher pay: if there is a possibility of combat or similar hazard, hirelings generally require double pay.
+
+| Hireling | Cost |
+| :------- | ---: |
+| Unskilled laborer, costermonger, or peddler | 2 sp per day |
+| Burglar, pickpocket, or bandit (MM 343) | 5 sp per day |
+| Soldier, skilled laborer, student, or guard (MM 347) | 1 gp per day |
+| Artisan, merchant, military officer, acolyte (MM 342), apprentice wizard (Volo 209), or thug (MM 350) | 2 gp per day |
+| Courtier, business owner, or scout (MM 349) | 4 gp per day |
+| Politician, guild leader, noble, druid (MM 346), spy (MM 349), or bandit captain (MM 344) | 8 gp per day |
+| Aristocrat, bard (Volo 211), priest (MM 348), or swashbuckler (Volo 217) | 16 gp per day |
+| Archer (Volo 210), knight (MM 347), martial arts adept (Volo 216), or veteran (MM 350) | 24 gp per day |
+| Gladiator (MM 346) or master thief (Volo 216) | 5 pp per day |
+| Mage (MM 347) | 8 pp per day |
+| Assassin (MM 343) | 18 pp per day |
+| Champion (Volo 212) or war priest (Volo 218) | 30 pp per day |
+| Archdruid (Volo 210) | 60 pp per day |
+| Archmage (MM 342) or warlord (Volo 220) | 90 pp per day |
+
+[(Back to Expenses and Hirelings)](#expenses-and-hirelings)
 
 ## Spellcasting Services
 
