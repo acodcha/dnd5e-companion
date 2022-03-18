@@ -802,20 +802,8 @@ Some hirelings might require a minimum of several days or even weeks of pay for 
 | Spell | Spell Slot | Spellcaster | Cost |
 | :---- | :--------- | :---------- | ---: |
 | Cure wounds | 1st-level spell slot | 1st-level spellcaster | 10 gp |
-| Cure wounds | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
 | Prayer of healing | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
-| Cure wounds | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
-| Prayer of healing | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
-| Cure wounds | 4th-level spell slot | 7th-level spellcaster | 160 gp |
-| Prayer of healing | 4th-level spell slot | 7th-level spellcaster | 160 gp |
-| Cure wounds | 5th-level spell slot | 9th-level spellcaster | 250 gp |
-| Prayer of healing | 5th-level spell slot | 9th-level spellcaster | 250 gp |
 | Heal | 6th-level spell slot | 11th-level spellcaster | 360 gp |
-| Prayer of healing | 6th-level spell slot | 11th-level spellcaster | 360 gp |
-| Heal | 7th-level spell slot | 13th-level spellcaster | 490 gp |
-| Prayer of healing | 7th-level spell slot | 13th-level spellcaster | 490 gp |
-| Heal | 8th-level spell slot | 15th-level spellcaster | 640 gp |
-| Prayer of healing | 8th-level spell slot | 15th-level spellcaster | 640 gp |
 | Mass heal | 9th-level spell slot | 17th-level spellcaster | 810 gp |
 
 [(Back to Spellcasting Services)](#spellcasting-services)
