@@ -742,8 +742,9 @@
 | Road or gate toll, rider | 5 cp |
 | Road or gate toll, cart or sled | 2 sp |
 | Road or gate toll, carriage or wagon | 1 gp |
-| Ship's passage, lower class | 1 sp per mile |
-| Ship's passage, upper class | 4 sp per mile |
+| Ship's passage, berth deck hammock | 1 sp per mile |
+| Ship's passage, lower class dormitory | 5 sp per mile |
+| Ship's passage, upper class cabin | 2 gp per mile |
 
 [(Back to Expenses and Hirelings)](#expenses-and-hirelings)
 
@@ -754,19 +755,19 @@ Some hirelings might require a minimum of several days or even weeks of pay for 
 | Hireling | Cost |
 | :------- | ---: |
 | Unskilled laborer, costermonger, or peddler | 2 sp per day |
-| Burglar, pickpocket, or bandit (MM 343) | 5 sp per day |
-| Soldier, skilled laborer, student, or guard (MM 347) | 1 gp per day |
-| Artisan, merchant, military officer, acolyte (MM 342), apprentice wizard (Volo 209), or thug (MM 350) | 2 gp per day |
-| Courtier, business owner, or scout (MM 349) | 4 gp per day |
-| Politician, guild leader, noble, druid (MM 346), spy (MM 349), or bandit captain (MM 344) | 8 gp per day |
-| Aristocrat, bard (Volo 211), priest (MM 348), or swashbuckler (Volo 217) | 16 gp per day |
-| Archer (Volo 210), knight (MM 347), martial arts adept (Volo 216), or veteran (MM 350) | 24 gp per day |
-| Gladiator (MM 346) or master thief (Volo 216) | 5 pp per day |
-| Mage (MM 347) | 8 pp per day |
-| Assassin (MM 343) | 18 pp per day |
-| Champion (Volo 212) or war priest (Volo 218) | 30 pp per day |
-| Archdruid (Volo 210) | 60 pp per day |
-| Archmage (MM 342) or warlord (Volo 220) | 90 pp per day |
+| Burglar, pickpocket, bandit (MM 343), or tribal warrior (MM 350) | 1 gp per day |
+| Soldier, skilled laborer, student, or guard (MM 347) | 2 gp per day |
+| Artisan, merchant, military officer, acolyte (MM 342), apprentice wizard (Volo 209), or thug (MM 350) | 4 gp per day |
+| Courtier, business owner, or scout (MM 349) | 8 gp per day |
+| Politician, guild leader, noble, bandit captain (MM 344), berserker (MM 344), druid (MM 346), or spy (MM 349) | 16 gp per day |
+| Aristocrat, bard (Volo 211), priest (MM 348), or swashbuckler (Volo 217) | 32 gp per day |
+| Archer (Volo 210), knight (MM 347), martial arts adept (Volo 216), or veteran (MM 350) | 48 gp per day |
+| Gladiator (MM 346) or master thief (Volo 216) | 110 gp per day |
+| Mage (MM 347) | 160 gp per day |
+| Assassin (MM 343) | 360 gp per day |
+| Champion (Volo 212) or war priest (Volo 218) | 600 gp per day |
+| Archdruid (Volo 210) | 1,200 gp per day |
+| Archmage (MM 342) or warlord (Volo 220) | 1,800 gp per day |
 
 [(Back to Expenses and Hirelings)](#expenses-and-hirelings)
 
