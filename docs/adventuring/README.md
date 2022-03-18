@@ -803,6 +803,8 @@ Some hirelings might require a minimum of several days or even weeks of pay for 
 | :---- | :--------- | :---------- | ---: |
 | Cure wounds | 1st-level spell slot | 1st-level spellcaster | 10 gp |
 | Prayer of healing | 2nd-level spell slot | 3rd-level spellcaster | 40 gp |
+| Mass healing word | 3rd-level spell slot | 5th-level spellcaster | 90 gp |
+| Mass cure wounds | 5th-level spell slot | 9th-level spellcaster | 250 gp |
 | Heal | 6th-level spell slot | 11th-level spellcaster | 360 gp |
 | Mass heal | 9th-level spell slot | 17th-level spellcaster | 810 gp |
 
