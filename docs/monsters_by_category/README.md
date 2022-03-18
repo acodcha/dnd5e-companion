@@ -39,25 +39,25 @@ Abbreviations:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 0 | Human commoner | Med. | Hum. | - | 10 XP | 20 cp | MM 344 |
-| CR 0 | Human magewright (spells) | Med. | Hum. | - | 10 XP | 20 cp | Eber 318 |
-| CR ⅛ | Human bandit | Med. | Hum. | C | 25 XP | 50 cp | MM 343 |
-| CR ⅛ | Human cultist | Med. | Hum. | E | 25 XP | 50 cp | MM 345 |
-| CR ⅛ | Human guard | Med. | Hum. | - | 25 XP | 50 cp | MM 347 |
-| CR ⅛ | Human noble | Med. | Hum. | - | 25 XP | 50 cp | MM 348 |
-| CR ⅛ | Human tribal warrior | Med. | Hum. | - | 25 XP | 50 cp | MM 350 |
-| CR ¼ | Human acolyte (spells) | Med. | Hum. | - | 50 XP | 10 sp | MM 342 |
-| CR ¼ | Human apprentice wizard (spells) | Med. | Hum. | - | 50 XP | 10 sp | Volo 209 |
-| CR ½ | Human scout | Med. | Hum. | - | 100 XP | 20 sp | MM 349 |
-| CR ½ | Human thug | Med. | Hum. | - | 100 XP | 20 sp | MM 350 |
-| CR 1 | Human spy | Med. | Hum. | - | 200 XP | 40 sp | MM 349 |
-| CR 2 | Human bandit captain | Med. | Hum. | C | 450 XP | 80 sp | MM 344 |
-| CR 2 | Human bard (spells) | Med. | Hum. | - | 450 XP | 80 sp | Volo 211 |
-| CR 2 | Human berserker | Med. | Hum. | C | 450 XP | 80 sp | MM 344 |
-| CR 2 | Human cultist fanatic (spells) | Med. | Hum. | E | 450 XP | 80 sp | MM 345 |
-| CR 2 | Human druid (spells) | Med. | Hum. | - | 450 XP | 80 sp | MM 346 |
-| CR 2 | Human priest (spells) | Med. | Hum. | - | 450 XP | 80 sp | MM 348 |
-| CR 2 | Human Tarkanan assassin (spells) | Med. | Hum. | E | 450 XP | 80 sp | Eber 320 |
+| CR 0 | Human commoner | Med. | Hum. | - | 10 XP | 2 sp | MM 344 |
+| CR 0 | Human magewright (spells) | Med. | Hum. | - | 10 XP | 2 sp | Eber 318 |
+| CR ⅛ | Human bandit | Med. | Hum. | C | 25 XP | 5 sp | MM 343 |
+| CR ⅛ | Human cultist | Med. | Hum. | E | 25 XP | 5 sp | MM 345 |
+| CR ⅛ | Human guard | Med. | Hum. | - | 25 XP | 5 sp | MM 347 |
+| CR ⅛ | Human noble | Med. | Hum. | - | 25 XP | 5 sp | MM 348 |
+| CR ⅛ | Human tribal warrior | Med. | Hum. | - | 25 XP | 5 sp | MM 350 |
+| CR ¼ | Human acolyte (spells) | Med. | Hum. | - | 50 XP | 1 gp | MM 342 |
+| CR ¼ | Human apprentice wizard (spells) | Med. | Hum. | - | 50 XP | 1 gp | Volo 209 |
+| CR ½ | Human scout | Med. | Hum. | - | 100 XP | 2 gp | MM 349 |
+| CR ½ | Human thug | Med. | Hum. | - | 100 XP | 2 gp | MM 350 |
+| CR 1 | Human spy | Med. | Hum. | - | 200 XP | 4 gp | MM 349 |
+| CR 2 | Human bandit captain | Med. | Hum. | C | 450 XP | 8 gp | MM 344 |
+| CR 2 | Human bard (spells) | Med. | Hum. | - | 450 XP | 8 gp | Volo 211 |
+| CR 2 | Human berserker | Med. | Hum. | C | 450 XP | 8 gp | MM 344 |
+| CR 2 | Human cultist fanatic (spells) | Med. | Hum. | E | 450 XP | 8 gp | MM 345 |
+| CR 2 | Human druid (spells) | Med. | Hum. | - | 450 XP | 8 gp | MM 346 |
+| CR 2 | Human priest (spells) | Med. | Hum. | - | 450 XP | 8 gp | MM 348 |
+| CR 2 | Human Tarkanan assassin (spells) | Med. | Hum. | E | 450 XP | 8 gp | Eber 320 |
 | CR 3 | Human archer | Med. | Hum. | - | 700 XP | 12 gp | Volo 210 |
 | CR 3 | Human illusionist (spells) | Med. | Hum. | - | 700 XP | 12 gp | Volo 214 |
 | CR 3 | Human knight | Med. | Hum. | - | 700 XP | 12 gp | MM 347 |
@@ -71,13 +71,13 @@ Abbreviations:
 | CR 5 | Human kraken priest (swim) (spells) | Med. | Hum. | - | 1,800 XP | 27 gp | Volo 215 |
 | CR 5 | Human master thief | Med. | Hum. | - | 1,800 XP | 27 gp | Volo 216 |
 | CR 5 | Human transmuter (spells) | Med. | Hum. | - | 1,800 XP | 27 gp | Volo 218 |
-| CR 6 | Human conjurer (spells) | Med. | Hum. | - | 2,300 XP | 41 gp | Volo 212 |
-| CR 6 | Human mage (spells) | Med. | Hum. | - | 2,300 XP | 41 gp | MM 347 |
-| CR 6 | Human warlock of the great old one (spells) | Med. | Hum. | - | 2,300 XP | 41 gp | Volo 220 |
-| CR 7 | Human warlock of the fiend (spells) | Med. | Hum. | - | 2,900 XP | 61 gp | Volo 219 |
-| CR 8 | Human assassin | Med. | Hum. | E | 3,900 XP | 91 gp | MM 343 |
-| CR 8 | Human blackguard (spells) | Med. | Hum. | E | 3,900 XP | 91 gp | Volo 211 |
-| CR 8 | Human diviner (spells) | Med. | Hum. | - | 3,900 XP | 91 gp | Volo 213 |
+| CR 6 | Human conjurer (spells) | Med. | Hum. | - | 2,300 XP | 4 pp | Volo 212 |
+| CR 6 | Human mage (spells) | Med. | Hum. | - | 2,300 XP | 4 pp | MM 347 |
+| CR 6 | Human warlock of the great old one (spells) | Med. | Hum. | - | 2,300 XP | 4 pp | Volo 220 |
+| CR 7 | Human warlock of the fiend (spells) | Med. | Hum. | - | 2,900 XP | 6 pp | Volo 219 |
+| CR 8 | Human assassin | Med. | Hum. | E | 3,900 XP | 9 pp | MM 343 |
+| CR 8 | Human blackguard (spells) | Med. | Hum. | E | 3,900 XP | 9 pp | Volo 211 |
+| CR 8 | Human diviner (spells) | Med. | Hum. | - | 3,900 XP | 9 pp | Volo 213 |
 | CR 9 | Human abjurer (spells) | Med. | Hum. | - | 5,000 XP | 14 pp | Volo 209 |
 | CR 9 | Human champion | Med. | Hum. | - | 5,000 XP | 14 pp | Volo 212 |
 | CR 9 | Human evoker (spells) | Med. | Hum. | - | 5,000 XP | 14 pp | Volo 214 |
@@ -145,8 +145,8 @@ Elves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 3 | Yeti (climb) | Large | Monstr. | CE | 700 XP | – | MM 305 |
 | CR 5 | Half-dragon, white, veteran | Med. | Hum. | - | 1,800 XP | 27 gp | MM 180 |
-| CR 7 | Hag, bheur (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | CE | 2,900 XP | 61 gp | Volo 160 |
-| CR 8 | Giant, frost | Huge | Giant | NE | 3,900 XP | 91 gp | MM 155 |
+| CR 7 | Hag, bheur (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | CE | 2,900 XP | 6 pp | Volo 160 |
+| CR 8 | Giant, frost | Huge | Giant | NE | 3,900 XP | 9 pp | MM 155 |
 | CR 9 | Yeti, abominable (climb) | Huge | Monstr. | CE | 5,000 XP | – | MM 306 |
 | CR 12 | Giant, frost, everlasting one | Huge | Giant | CE | 8,400 XP | 44 pp | Volo 148 |
 
@@ -200,10 +200,10 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ⅛ | Merfolk (swim) | Med. | Hum. | N | 25 XP | 50 cp | MM 218 |
-| CR ½ | Sahuagin (swim) | Med. | Hum. | LE | 100 XP | 20 sp | MM 263 |
-| CR 2 | Merfolk merrow (swim) | Large | Monstr. | CE | 450 XP | 80 sp | MM 219 |
-| CR 2 | Sahuagin priestess (swim) (spells) | Med. | Hum. | LE | 450 XP | 80 sp | MM 264 |
+| CR ⅛ | Merfolk (swim) | Med. | Hum. | N | 25 XP | 5 sp | MM 218 |
+| CR ½ | Sahuagin (swim) | Med. | Hum. | LE | 100 XP | 2 gp | MM 263 |
+| CR 2 | Merfolk merrow (swim) | Large | Monstr. | CE | 450 XP | 8 gp | MM 219 |
+| CR 2 | Sahuagin priestess (swim) (spells) | Med. | Hum. | LE | 450 XP | 8 gp | MM 264 |
 | CR 5 | Sahuagin baron (swim) | Large | Hum. | LE | 1,800 XP | 27 gp | MM 264 |
 | CR 10 | Aboleth (swim) (legend) (lair) | Large | Aberr. | LE | 5,900 XP | – | MM 13 |
 | CR 11 | Genie, marid (swim) (fly) (spells) | Large | Elem. | CN | 7,200 XP | 30 pp | MM 146 |
@@ -228,7 +228,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ¼ | Mephit, steam (fly) | Small | Elem. | NE | 50 XP | – | MM 217 |
 | CR ½ | Crocodile (swim) | Large | Beast | – | 100 XP | – | MM 320 |
 | CR ½ | Shark, reef (swim) | Med. | Beast | – | 100 XP | – | MM 336 |
-| CR 1 | Sea spawn (swim) | Med. | Hum. | NE | 200 XP | 40 sp | Volo 189 |
+| CR 1 | Sea spawn (swim) | Med. | Hum. | NE | 200 XP | 4 gp | Volo 189 |
 | CR 1 | Strider, giant | Large | Monstr. | NE | 200 XP | – | Volo 143 |
 | CR 2 | Dinosaur, quetzalcoatlus (fly) | Huge | Beast | – | 450 XP | – | Volo 140 |
 | CR 3 | Water weird (swim) | Large | Elem. | N | 700 XP | – | MM 299 |
@@ -240,14 +240,14 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ¼ | Tortle | Med. | Hum. | LG | 50 XP | 10 sp | Mord 242 |
-| CR ½ | Firenewt warrior | Med. | Hum. | NE | 100 XP | 20 sp | Volo 142 |
-| CR 1 | Firenewt warlock of Imix (spells) | Med. | Hum. | NE | 200 XP | 40 sp | Volo 143 |
-| CR 1 | Harpy (fly) | Med. | Monstr. | CE | 200 XP | 40 sp | MM 181 |
-| CR 2 | Hag, sea (swim) (coven +2 CR) (lair VGtM 59) | Med. | Fey | CE | 450 XP | 80 sp | MM 179 |
-| CR 2 | Tortle druid (spells) | Med. | Hum. | LN | 450 XP | 80 sp | Mord 242 |
+| CR ¼ | Tortle | Med. | Hum. | LG | 50 XP | 1 gp | Mord 242 |
+| CR ½ | Firenewt warrior | Med. | Hum. | NE | 100 XP | 2 gp | Volo 142 |
+| CR 1 | Firenewt warlock of Imix (spells) | Med. | Hum. | NE | 200 XP | 4 gp | Volo 143 |
+| CR 1 | Harpy (fly) | Med. | Monstr. | CE | 200 XP | 4 gp | MM 181 |
+| CR 2 | Hag, sea (swim) (coven +2 CR) (lair VGtM 59) | Med. | Fey | CE | 450 XP | 8 gp | MM 179 |
+| CR 2 | Tortle druid (spells) | Med. | Hum. | LN | 450 XP | 8 gp | Mord 242 |
 | CR 3 | Deep scion (swim) (shapech) | Med. | Hum. | NE | 700 XP | 12 gp | Volo 135 |
-| CR 6 | Cyclops | Huge | Giant | CN | 2,300 XP | 41 gp | MM 45 |
+| CR 6 | Cyclops | Huge | Giant | CN | 2,300 XP | 4 pp | MM 45 |
 | CR 11 | Morkoth (swim) (spells) (lair) | Med. | Aberr. | CE | 7,200 XP | 30 pp | Volo 178 |
 | CR 13 | Giant, storm (swim) (spells) | Huge | Giant | CG | 10,000 XP | 64 pp | MM 156 |
 | CR 16 | Giant, storm, quintessent (swim) (fly) (legend) (lair) | Huge | Giant | CG | 15,000 XP | 200 pp | Volo 151 |
@@ -309,13 +309,13 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 1 | Yuan-ti pureblood (spells) | Med. | Hum. | NE | 200 XP | 40 sp | MM 310 |
+| CR 1 | Yuan-ti pureblood (spells) | Med. | Hum. | NE | 200 XP | 4 gp | MM 310 |
 | CR 2 | Yuan-ti broodguard | Med. | Hum. | NE | 450 XP | – | Volo 203 |
 | CR 3 | Yuan-ti malison (spells) (shapech) | Med. | Monstr. | NE | 700 XP | 12 gp | MM 309 |
 | CR 4 | Yuan-ti mind whisperer (spells) (shapech) | Med. | Monstr. | NE | 1,100 XP | 18 gp | Volo 204 |
 | CR 4 | Yuan-ti nightmare speaker (spells) (shapech) | Med. | Monstr. | NE | 1,100 XP | 18 gp | Volo 205 |
 | CR 5 | Yuan-ti pit master (spells) (shapech) | Med. | Monstr. | NE | 1,800 XP | 27 gp | Volo 206 |
-| CR 7 | Yuan-ti abomination (spells) (shapech) | Large | Monstr. | NE | 2,900 XP | 61 gp | MM 308 |
+| CR 7 | Yuan-ti abomination (spells) (shapech) | Large | Monstr. | NE | 2,900 XP | 6 pp | MM 308 |
 | CR 12 | Yuan-ti anathema (climb) (swim) (spells) (shapech) | Huge | Monstr. | NE | 8,400 XP | 44 pp | Volo 202 |
 
 [(Back to Swamps)](#swamps)
@@ -324,11 +324,11 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ¼ | Bullywug (swim) | Med. | Hum. | NE | 50 XP | 10 sp | MM 35 |
-| CR ¼ | Vegepygmy | Small | Plant | N | 50 XP | 10 sp | Volo 196 |
-| CR ½ | Lizardfolk (swim) | Med. | Hum. | N | 100 XP | 20 sp | MM 204 |
-| CR 2 | Lizardfolk shaman (swim) (spells) (shapech) | Med. | Hum. | N | 450 XP | 80 sp | MM 205 |
-| CR 2 | Vegepygmy chief | Small | Plant | N | 450 XP | 80 sp | Volo 197 |
+| CR ¼ | Bullywug (swim) | Med. | Hum. | NE | 50 XP | 1 gp | MM 35 |
+| CR ¼ | Vegepygmy | Small | Plant | N | 50 XP | 1 gp | Volo 196 |
+| CR ½ | Lizardfolk (swim) | Med. | Hum. | N | 100 XP | 2 gp | MM 204 |
+| CR 2 | Lizardfolk shaman (swim) (spells) (shapech) | Med. | Hum. | N | 450 XP | 8 gp | MM 205 |
+| CR 2 | Vegepygmy chief | Small | Plant | N | 450 XP | 8 gp | Volo 197 |
 | CR 4 | Lizardfolk king (swim) | Med. | Hum. | CE | 1,100 XP | 18 gp | MM 205 |
 | CR 5 | Half-dragon, black, veteran | Med. | Hum. | - | 1,800 XP | 27 gp | MM 180 |
 
@@ -398,7 +398,7 @@ Elves use the same stat blocks as humans, with the following changes:
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 5 | Troll | Large | Giant | CE | 1,800 XP | 27 gp | MM 291 |
-| CR 7 | Troll, venom | Large | Giant | CE | 2,900 XP | 61 gp | Mord 245 |
+| CR 7 | Troll, venom | Large | Giant | CE | 2,900 XP | 6 pp | Mord 245 |
 | CR 9 | Troll, rot | Large | Giant | CE | 5,000 XP | 14 pp | Mord 244 |
 | CR 11 | Troll, spirit | Large | Giant | CE | 7,200 XP | – | Mord 244 |
 | CR 13 | Troll, dire | Huge | Giant | CE | 10,000 XP | 64 pp | Mord 243 |
@@ -421,17 +421,17 @@ Elves use the same stat blocks as humans, with the following changes:
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR ⅛ | Boggle (climb) | Small | Fey | CN | 25 XP | – | Volo 128 |
-| CR ¼ | Grung (climb) | Small | Hum. | LE | 50 XP | 10 sp | Volo 156 |
-| CR ¼ | Pixie (fly) (spells) | Tiny | Fey | NG | 50 XP | 10 sp | MM 253 |
-| CR ¼ | Sprite (fly) | Tiny | Fey | NG | 50 XP | 10 sp | MM 283 |
-| CR ½ | Darkling | Small | Fey | CN | 100 XP | 20 sp | Volo 134 |
-| CR ½ | Satyr | Med. | Fey | CN | 100 XP | 20 sp | MM 267 |
-| CR ½ | Shifter | Med. | Hum. | - | 100 XP | 20 sp | Eber 319 |
+| CR ¼ | Grung (climb) | Small | Hum. | LE | 50 XP | 1 gp | Volo 156 |
+| CR ¼ | Pixie (fly) (spells) | Tiny | Fey | NG | 50 XP | 1 gp | MM 253 |
+| CR ¼ | Sprite (fly) | Tiny | Fey | NG | 50 XP | 1 gp | MM 283 |
+| CR ½ | Darkling | Small | Fey | CN | 100 XP | 2 gp | Volo 134 |
+| CR ½ | Satyr | Med. | Fey | CN | 100 XP | 2 gp | MM 267 |
+| CR ½ | Shifter | Med. | Hum. | - | 100 XP | 2 gp | Eber 319 |
 | CR 1 | Dryad (spells) | Med. | Fey | N | 200 XP | – | MM 121 |
-| CR 1 | Grung wildling (climb) (spells) | Small | Hum. | LE | 200 XP | 40 sp | Volo 157 |
-| CR 1 | Quickling | Tiny | Fey | CE | 200 XP | 40 sp | Volo 187 |
-| CR 2 | Darkling elder | Med. | Fey | CN | 450 XP | 80 sp | Volo 134 |
-| CR 2 | Grung elite warrior (climb) | Small | Hum. | LE | 450 XP | 80 sp | Volo 157 |
+| CR 1 | Grung wildling (climb) (spells) | Small | Hum. | LE | 200 XP | 4 gp | Volo 157 |
+| CR 1 | Quickling | Tiny | Fey | CE | 200 XP | 4 gp | Volo 187 |
+| CR 2 | Darkling elder | Med. | Fey | CN | 450 XP | 8 gp | Volo 134 |
+| CR 2 | Grung elite warrior (climb) | Small | Hum. | LE | 450 XP | 8 gp | Volo 157 |
 | CR 3 | Hag, green (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | NE | 700 XP | 12 gp | MM 177 |
 | CR 3 | Redcap | Small | Fey | CE | 700 XP | 12 gp | Volo 188 |
 | CR 5 | Half-dragon, green, veteran | Med. | Hum. | - | 1,800 XP | 27 gp | MM 180 |
@@ -518,11 +518,11 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ½ | Hobgoblin | Med. | Hum. | LE | 100 XP | 20 sp | MM 186 |
-| CR 2 | Hobgoblin iron shadow (spells) | Med. | Hum. | LE | 450 XP | 80 sp | Volo 162 |
+| CR ½ | Hobgoblin | Med. | Hum. | LE | 100 XP | 2 gp | MM 186 |
+| CR 2 | Hobgoblin iron shadow (spells) | Med. | Hum. | LE | 450 XP | 8 gp | Volo 162 |
 | CR 3 | Hobgoblin captain | Med. | Hum. | LE | 700 XP | 12 gp | MM 186 |
 | CR 4 | Hobgoblin devastator (spells) | Med. | Hum. | LE | 1,100 XP | 18 gp | Volo 161 |
-| CR 6 | Hobgoblin warlord | Med. | Hum. | LE | 2,300 XP | 41 gp | MM 187 |
+| CR 6 | Hobgoblin warlord | Med. | Hum. | LE | 2,300 XP | 4 pp | MM 187 |
 
 [(Back to Plains)](#plains)
 
@@ -531,10 +531,10 @@ Elves use the same stat blocks as humans, with the following changes:
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR ¼ | Gnoll witherling | Med. | Undead | CE | 50 XP | – | Volo 155 |
-| CR ½ | Gnoll | Med. | Hum. | CE | 100 XP | 20 sp | MM 163 |
-| CR ½ | Gnoll hunter | Med. | Hum. | CE | 100 XP | 20 sp | Volo 154 |
-| CR 1 | Gnoll flesh gnawer | Med. | Hum. | CE | 200 XP | 40 sp | Volo 154 |
-| CR 2 | Gnoll pack lord | Med. | Hum. | CE | 450 XP | 80 sp | MM 163 |
+| CR ½ | Gnoll | Med. | Hum. | CE | 100 XP | 2 gp | MM 163 |
+| CR ½ | Gnoll hunter | Med. | Hum. | CE | 100 XP | 2 gp | Volo 154 |
+| CR 1 | Gnoll flesh gnawer | Med. | Hum. | CE | 200 XP | 4 gp | Volo 154 |
+| CR 2 | Gnoll pack lord | Med. | Hum. | CE | 450 XP | 8 gp | MM 163 |
 | CR 4 | Gnoll fang of Yeenoghu | Med. | Fiend | CE | 1,100 XP | 18 gp | MM 163 |
 | CR 9 | Gnoll flind | Med. | Hum. | CE | 5,000 XP | 14 pp | Volo 153 |
 
@@ -544,14 +544,14 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ½ | Jackalwere (shapech) | Med. | Hum. | CE | 100 XP | 20 sp | MM 193 |
-| CR 2 | Centaur | Large | Monstr. | NG | 450 XP | 80 sp | MM 38 |
+| CR ½ | Jackalwere (shapech) | Med. | Hum. | CE | 100 XP | 2 gp | MM 193 |
+| CR 2 | Centaur | Large | Monstr. | NG | 450 XP | 8 gp | MM 38 |
 | CR 3 | Manticore (fly) | Large | Monstr. | LE | 700 XP | – | MM 213 |
 | CR 3 | Minotaur | Large | Monstr. | CE | 700 XP | 12 gp | MM 223 |
 | CR 5 | Giant, hill | Huge | Giant | CE | 1,800 XP | 27 gp | MM 155 |
-| CR 6 | Giant, hill, mouth of Grolantor | Huge | Giant | CE | 2,300 XP | 41 gp | Volo 149 |
-| CR 6 | Hag, dusk (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | NE | 2,300 XP | 41 gp | Eber 292 |
-| CR 7 | Oni (fly) (spells) (shapech) | Large | Giant | LE | 2,900 XP | 61 gp | MM 239 |
+| CR 6 | Giant, hill, mouth of Grolantor | Huge | Giant | CE | 2,300 XP | 4 pp | Volo 149 |
+| CR 6 | Hag, dusk (spells) (coven +2 CR) (lair VGtM 59) | Med. | Fey | NE | 2,300 XP | 4 pp | Eber 292 |
+| CR 7 | Oni (fly) (spells) (shapech) | Large | Giant | LE | 2,900 XP | 6 pp | MM 239 |
 
 [(Back to Plains)](#plains)
 
@@ -617,9 +617,9 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ¼ | Goblin | Small | Hum. | NE | 50 XP | 10 sp | MM 166 |
-| CR 1 | Goblin boss | Small | Hum. | NE | 200 XP | 40 sp | MM 166 |
-| CR 1 | Goblin nilbog (spells) | Small | Hum. | CE | 200 XP | 40 sp | Volo 182 |
+| CR ¼ | Goblin | Small | Hum. | NE | 50 XP | 1 gp | MM 166 |
+| CR 1 | Goblin boss | Small | Hum. | NE | 200 XP | 4 gp | MM 166 |
+| CR 1 | Goblin nilbog (spells) | Small | Hum. | CE | 200 XP | 4 gp | Volo 182 |
 | CR 4 | Goblin barghest (spells) (shapech) | Large | Fiend | NE | 1,100 XP | – | Volo 123 |
 
 [(Back to Hills)](#hills)
@@ -628,10 +628,10 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 1 | Ogrillon half-ogre | Large | Giant | C | 200 XP | 40 sp | MM 238 |
-| CR 2 | Ogre | Large | Giant | CE | 450 XP | 80 sp | MM 237 |
-| CR 2 | Ogre bolt launcher | Large | Giant | CE | 450 XP | 80 sp | Mord 220 |
-| CR 2 | Ogre howdah | Large | Giant | CE | 450 XP | 80 sp | Mord 221 |
+| CR 1 | Ogrillon half-ogre | Large | Giant | C | 200 XP | 4 gp | MM 238 |
+| CR 2 | Ogre | Large | Giant | CE | 450 XP | 8 gp | MM 237 |
+| CR 2 | Ogre bolt launcher | Large | Giant | CE | 450 XP | 8 gp | Mord 220 |
+| CR 2 | Ogre howdah | Large | Giant | CE | 450 XP | 8 gp | Mord 221 |
 | CR 3 | Ogre chain brute | Large | Giant | CE | 700 XP | 12 gp | Mord 221 |
 | CR 4 | Ogre battering ram | Large | Giant | CE | 1,100 XP | 18 gp | Mord 220 |
 
@@ -641,11 +641,11 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 1 | Bugbear | Med. | Hum. | CE | 200 XP | 40 sp | MM 33 |
+| CR 1 | Bugbear | Med. | Hum. | CE | 200 XP | 4 gp | MM 33 |
 | CR 3 | Bugbear chief | Med. | Hum. | CE | 700 XP | 12 gp | MM 33 |
 | CR 5 | Xorn (burrow) | Med. | Elem. | N | 1,800 XP | – | MM 304 |
 | CR 6 | Galeb duhr | Med. | Elem. | N | 2,300 XP | – | MM 139 |
-| CR 7 | Giant, stone | Huge | Giant | N | 2,900 XP | 61 gp | MM 156 |
+| CR 7 | Giant, stone | Huge | Giant | N | 2,900 XP | 6 pp | MM 156 |
 | CR 10 | Giant, stone, dreamwalker | Huge | Giant | CN | 5,900 XP | 20 pp | Volo 150 |
 | CR 11 | Genie, dao (burrow) (fly) (spells) | Large | Elem. | NE | 7,200 XP | 30 pp | MM 143 |
 
@@ -705,11 +705,11 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ⅛ | Kobold | Small | Hum. | LE | 25 XP | 50 cp | MM 195 |
-| CR ¼ | Kobold inventor | Small | Hum. | LE | 50 XP | 10 sp | Volo 166 |
-| CR ¼ | Kobold, winged (fly) | Small | Hum. | LE | 50 XP | 10 sp | MM 195 |
-| CR 1 | Kobold dragonshield | Small | Hum. | LE | 200 XP | 40 sp | Volo 165 |
-| CR 1 | Kobold scale sorcerer (spells) | Small | Hum. | LE | 200 XP | 40 sp | Volo 167 |
+| CR ⅛ | Kobold | Small | Hum. | LE | 25 XP | 5 sp | MM 195 |
+| CR ¼ | Kobold inventor | Small | Hum. | LE | 50 XP | 1 gp | Volo 166 |
+| CR ¼ | Kobold, winged (fly) | Small | Hum. | LE | 50 XP | 1 gp | MM 195 |
+| CR 1 | Kobold dragonshield | Small | Hum. | LE | 200 XP | 4 gp | Volo 165 |
+| CR 1 | Kobold scale sorcerer (spells) | Small | Hum. | LE | 200 XP | 4 gp | Volo 167 |
 
 [(Back to Mountains)](#mountains)
 
@@ -717,12 +717,12 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ½ | Orc | Med. | Hum. | CE | 100 XP | 20 sp | MM 246 |
+| CR ½ | Orc | Med. | Hum. | CE | 100 XP | 2 gp | MM 246 |
 | CR ½ | Orc nurtured one of Yurtrus | Med. | Hum. | CE | 100 XP | – | Volo 184 |
-| CR 2 | Orc claw of Luthic (spells) | Med. | Hum. | CE | 450 XP | 80 sp | Volo 183 |
-| CR 2 | Orc eye of Gruumsh (spells) | Med. | Hum. | CE | 450 XP | 80 sp | MM 247 |
-| CR 2 | Orc hand of Yurtrus (spells) | Med. | Hum. | CE | 450 XP | 80 sp | Volo 184 |
-| CR 2 | Orc orog | Med. | Hum. | CE | 450 XP | 80 sp | MM 247 |
+| CR 2 | Orc claw of Luthic (spells) | Med. | Hum. | CE | 450 XP | 8 gp | Volo 183 |
+| CR 2 | Orc eye of Gruumsh (spells) | Med. | Hum. | CE | 450 XP | 8 gp | MM 247 |
+| CR 2 | Orc hand of Yurtrus (spells) | Med. | Hum. | CE | 450 XP | 8 gp | Volo 184 |
+| CR 2 | Orc orog | Med. | Hum. | CE | 450 XP | 8 gp | MM 247 |
 | CR 3 | Orc red fang of Shargaas | Med. | Hum. | CE | 700 XP | 12 gp | Volo 185 |
 | CR 4 | Orc blade of Ilneval | Med. | Hum. | CE | 1,100 XP | 18 gp | Volo 183 |
 | CR 4 | Orc war chief | Med. | Hum. | CE | 1,100 XP | 18 gp | MM 246 |
@@ -734,13 +734,13 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ⅛ | Xvart | Small | Hum. | CE | 25 XP | 50 cp | Volo 200 |
-| CR ¼ | Aarakocra (fly) | Med. | Hum. | NG | 50 XP | 10 sp | MM 12 |
-| CR 1 | Xvart warlock of Raxivort (spells) | Small | Hum. | CE | 200 XP | 40 sp | Volo 200 |
+| CR ⅛ | Xvart | Small | Hum. | CE | 25 XP | 5 sp | Volo 200 |
+| CR ¼ | Aarakocra (fly) | Med. | Hum. | NG | 50 XP | 1 gp | MM 12 |
+| CR 1 | Xvart warlock of Raxivort (spells) | Small | Hum. | CE | 200 XP | 4 gp | Volo 200 |
 | CR 4 | Ettin | Large | Giant | CE | 1,100 XP | 18 gp | MM 132 |
 | CR 5 | Half-dragon, red, veteran | Med. | Hum. | - | 1,800 XP | 27 gp | MM 180 |
-| CR 6 | Hag, annis (spells) (coven +2 CR) (lair VGtM 59) | Large | Fey | CE | 2,300 XP | 41 gp | Volo 159 |
-| CR 7 | Korred (burrow) (spells) | Small | Fey | CN | 2,900 XP | 61 gp | Volo 168 |
+| CR 6 | Hag, annis (spells) (coven +2 CR) (lair VGtM 59) | Large | Fey | CE | 2,300 XP | 4 pp | Volo 159 |
+| CR 7 | Korred (burrow) (spells) | Small | Fey | CN | 2,900 XP | 6 pp | Volo 168 |
 | CR 9 | Giant, cloud (spells) | Huge | Giant | NG/NE | 5,000 XP | 14 pp | MM 154 |
 | CR 11 | Genie, djinni (fly) (spells) | Large | Elem. | CG | 7,200 XP | 30 pp | MM 144 |
 | CR 11 | Giant, cloud, smiling one (spells) (shapech) | Huge | Giant | CN | 7,200 XP | 30 pp | Volo 146 |
@@ -808,10 +808,10 @@ Elves use the same stat blocks as humans, with the following changes:
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 1 | Salamander fire snake | Med. | Elem. | NE | 200 XP | – | MM 265 |
-| CR 1 | Thri-kreen | Med. | Hum. | CN | 200 XP | 40 sp | MM 288 |
-| CR 1 | Thri-kreen spellcaster (spells) | Med. | Hum. | CN | 200 XP | 40 sp | MM 288 |
-| CR 1 | Thri-kreen warrior | Med. | Hum. | CN | 200 XP | 40 sp | MM 288 |
-| CR 2 | Azer | Med. | Elem. | LN | 450 XP | 80 sp | MM 22 |
+| CR 1 | Thri-kreen | Med. | Hum. | CN | 200 XP | 4 gp | MM 288 |
+| CR 1 | Thri-kreen spellcaster (spells) | Med. | Hum. | CN | 200 XP | 4 gp | MM 288 |
+| CR 1 | Thri-kreen warrior | Med. | Hum. | CN | 200 XP | 4 gp | MM 288 |
+| CR 2 | Azer | Med. | Elem. | LN | 450 XP | 8 gp | MM 22 |
 | CR 4 | Lamia (spells) | Large | Monstr. | CE | 1,100 XP | 18 gp | MM 201 |
 | CR 5 | Half-dragon, blue, veteran | Med. | Hum. | - | 1,800 XP | 27 gp | MM 180 |
 | CR 5 | Salamander | Large | Elem. | NE | 1,800 XP | 27 gp | MM 266 |
@@ -867,10 +867,10 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR ½ | Mephit, dust (fly) | Small | Elem. | NE | 100 XP | – | MM 215 |
 | CR 2 | Bear, cave (swim) | Large | Beast | – | 450 XP | – | MM 334 |
 | CR 2 | Carrion crawler (climb) | Large | Monstr. | – | 450 XP | – | MM 37 |
-| CR 2 | Gelatinous cube | Large | Ooze | – | 450 XP | 80 sp | MM 242 |
+| CR 2 | Gelatinous cube | Large | Ooze | – | 450 XP | 8 gp | MM 242 |
 | CR 2 | Gibbering mouther (swim) | Med. | Aberr. | N | 450 XP | – | MM 157 |
 | CR 2 | Mimic (shapech) | Med. | Monstr. | N | 450 XP | – | MM 220 |
-| CR 2 | Ochre jelly (climb) | Large | Ooze | – | 450 XP | 80 sp | MM 243 |
+| CR 2 | Ochre jelly (climb) | Large | Ooze | – | 450 XP | 8 gp | MM 243 |
 | CR 4 | Black pudding (climb) | Large | Ooze | – | 1,100 XP | – | MM 241 |
 | CR 5 | Oblex, adult (spells) | Med. | Ooze | LE | 1,800 XP | – | Mord 218 |
 | CR 5 | Rat, cranium, swarm (spells) | Med. | Beast | LE | 1,800 XP | – | Volo 133 |
@@ -882,7 +882,7 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 2 | Lycanthrope wererat (shapech) | Med. | Hum. | LE | 450 XP | 80 sp | MM 209 |
+| CR 2 | Lycanthrope wererat (shapech) | Med. | Hum. | LE | 450 XP | 8 gp | MM 209 |
 | CR 3 | Lycanthrope werewolf (shapech) | Med. | Hum. | CE | 700 XP | 12 gp | MM 211 |
 | CR 4 | Lycanthrope wereboar (shapech) | Med. | Hum. | NE | 1,100 XP | 18 gp | MM 209 |
 | CR 4 | Lycanthrope weretiger (shapech) | Med. | Hum. | N | 1,100 XP | 18 gp | MM 210 |
@@ -906,9 +906,9 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 2 | Quori inspired, hashalaq (spells) | Med. | Hum. | LE | 450 XP | 80 sp | Eber 294 |
-| CR 2 | Quori inspired, kalaraq (spells) | Med. | Hum. | LE | 450 XP | 80 sp | Eber 294 |
-| CR 2 | Quori inspired, tsucora (spells) | Med. | Hum. | LE | 450 XP | 80 sp | Eber 294 |
+| CR 2 | Quori inspired, hashalaq (spells) | Med. | Hum. | LE | 450 XP | 8 gp | Eber 294 |
+| CR 2 | Quori inspired, kalaraq (spells) | Med. | Hum. | LE | 450 XP | 8 gp | Eber 294 |
+| CR 2 | Quori inspired, tsucora (spells) | Med. | Hum. | LE | 450 XP | 8 gp | Eber 294 |
 | CR 7 | Quori tsucora (spells) | Med. | Aberr. | LE | 2,900 XP | – | Eber 307 |
 | CR 9 | Quori hashalaq (spells) | Med. | Aberr. | LE | 5,000 XP | – | Eber 305 |
 | CR 19 | Quori kalaraq (fly) (spells) | Med. | Aberr. | LE | 22,000 XP | – | Eber 306 |
@@ -919,21 +919,21 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ⅛ | Neogi hatchling (climb) | Tiny | Aberr. | LE | 25 XP | 50 cp | Volo 179 |
-| CR ¼ | Kalashtar | Med. | Hum. | - | 50 XP | 10 sp | Eber 317 |
-| CR ¼ | Kenku | Med. | Hum. | CN | 50 XP | 10 sp | MM 194 |
-| CR ½ | Changeling (shapech) | Med. | Hum. | - | 100 XP | 20 sp | Eber 317 |
-| CR ½ | Daelkyr dolgrim | Small | Aberr. | CE | 100 XP | 20 sp | Eber 291 |
-| CR 2 | Berbalang (fly) (spells) | Med. | Aberr. | NE | 450 XP | 80 sp | Mord 120 |
+| CR ⅛ | Neogi hatchling (climb) | Tiny | Aberr. | LE | 25 XP | 5 sp | Volo 179 |
+| CR ¼ | Kalashtar | Med. | Hum. | - | 50 XP | 1 gp | Eber 317 |
+| CR ¼ | Kenku | Med. | Hum. | CN | 50 XP | 1 gp | MM 194 |
+| CR ½ | Changeling (shapech) | Med. | Hum. | - | 100 XP | 2 gp | Eber 317 |
+| CR ½ | Daelkyr dolgrim | Small | Aberr. | CE | 100 XP | 2 gp | Eber 291 |
+| CR 2 | Berbalang (fly) (spells) | Med. | Aberr. | NE | 450 XP | 8 gp | Mord 120 |
 | CR 2 | Meenlock | Small | Fey | NE | 450 XP | – | Volo 170 |
-| CR 2 | Nothic | Med. | Aberr. | NE | 450 XP | 80 sp | MM 236 |
+| CR 2 | Nothic | Med. | Aberr. | NE | 450 XP | 8 gp | MM 236 |
 | CR 3 | Daelkyr dolgaunt | Med. | Aberr. | LE | 700 XP | 12 gp | Eber 290 |
 | CR 3 | Doppelganger (shapech) | Med. | Monstr. | N | 700 XP | 12 gp | MM 82 |
 | CR 3 | Giff | Med. | Hum. | LN | 700 XP | 12 gp | Mord 204 |
 | CR 3 | Neogi (climb) | Small | Aberr. | LE | 700 XP | 12 gp | Volo 180 |
 | CR 4 | Naga, bone (spells) | Large | Undead | LE | 1,100 XP | – | MM 233 |
 | CR 4 | Neogi master (climb) (spells) | Med. | Aberr. | LE | 1,100 XP | 18 gp | Volo 180 |
-| CR 6 | Medusa | Med. | Monstr. | LE | 2,300 XP | 41 gp | MM 214 |
+| CR 6 | Medusa | Med. | Monstr. | LE | 2,300 XP | 4 pp | MM 214 |
 | CR 8 | Naga, spirit (spells) | Large | Monstr. | CE | 3,900 XP | – | MM 234 |
 | CR 10 | Naga, guardian (spells) | Large | Monstr. | LG | 5,900 XP | – | MM 234 |
 | CR 11 | Sphinx, gynosphinx (fly) (spells) (legend) (lair) | Large | Monstr. | LN | 7,200 XP | 30 pp | MM 282 |
@@ -988,15 +988,15 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 1 | Duergar | Med. | Hum. | LE | 200 XP | 40 sp | MM 122 |
-| CR 1 | Duergar soulblade (spells) | Med. | Hum. | LE | 200 XP | 40 sp | Mord 190 |
+| CR 1 | Duergar | Med. | Hum. | LE | 200 XP | 4 gp | MM 122 |
+| CR 1 | Duergar soulblade (spells) | Med. | Hum. | LE | 200 XP | 4 gp | Mord 190 |
 | CR 2 | Duergar hammerer | Med. | Constr. | LE | 450 XP | – | Mord 188 |
-| CR 2 | Duergar kavalrachni | Med. | Hum. | LE | 450 XP | 80 sp | Mord 189 |
-| CR 2 | Duergar mind master | Med. | Hum. | LE | 450 XP | 80 sp | Mord 189 |
-| CR 2 | Duergar stone guard | Med. | Hum. | LE | 450 XP | 80 sp | Mord 191 |
-| CR 2 | Duergar xarrorn | Med. | Hum. | LE | 450 XP | 80 sp | Mord 193 |
+| CR 2 | Duergar kavalrachni | Med. | Hum. | LE | 450 XP | 8 gp | Mord 189 |
+| CR 2 | Duergar mind master | Med. | Hum. | LE | 450 XP | 8 gp | Mord 189 |
+| CR 2 | Duergar stone guard | Med. | Hum. | LE | 450 XP | 8 gp | Mord 191 |
+| CR 2 | Duergar xarrorn | Med. | Hum. | LE | 450 XP | 8 gp | Mord 193 |
 | CR 3 | Duergar screamer | Med. | Constr. | LE | 700 XP | – | Mord 190 |
-| CR 6 | Duergar warlord | Med. | Hum. | LE | 2,300 XP | 41 gp | Mord 192 |
+| CR 6 | Duergar warlord | Med. | Hum. | LE | 2,300 XP | 4 pp | Mord 192 |
 | CR 12 | Duergar despot (spells) | Med. | Hum. | LE | 8,400 XP | 44 pp | Mord 188 |
 
 [(Back to Underground)](#underground)
@@ -1005,12 +1005,12 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR ¼ | Drow (spells) | Med. | Hum. | NE | 50 XP | 10 sp | MM 128 |
+| CR ¼ | Drow (spells) | Med. | Hum. | NE | 50 XP | 1 gp | MM 128 |
 | CR 5 | Drow elite warrior (spells) | Med. | Hum. | NE | 1,800 XP | 27 gp | MM 128 |
-| CR 6 | Drow drider (climb) (spells) | Large | Monstr. | CE | 2,300 XP | 41 gp | MM 120 |
-| CR 7 | Drow draegloth (spells) | Large | Fiend | CE | 2,900 XP | 61 gp | Volo 141 |
-| CR 7 | Drow mage (spells) | Med. | Hum. | NE | 2,900 XP | 61 gp | MM 129 |
-| CR 8 | Drow priestess of lolth (spells) | Med. | Hum. | NE | 3,900 XP | 91 gp | MM 129 |
+| CR 6 | Drow drider (climb) (spells) | Large | Monstr. | CE | 2,300 XP | 4 pp | MM 120 |
+| CR 7 | Drow draegloth (spells) | Large | Fiend | CE | 2,900 XP | 6 pp | Volo 141 |
+| CR 7 | Drow mage (spells) | Med. | Hum. | NE | 2,900 XP | 6 pp | MM 129 |
+| CR 8 | Drow priestess of lolth (spells) | Med. | Hum. | NE | 3,900 XP | 9 pp | MM 129 |
 | CR 9 | Drow house captain (spells) | Med. | Hum. | NE | 5,000 XP | 14 pp | Mord 184 |
 | CR 11 | Drow shadowblade (spells) | Med. | Hum. | NE | 7,200 XP | 30 pp | Mord 187 |
 | CR 13 | Drow arachnomancer (climb) (spells) (shapech) | Med. | Hum. | CE | 10,000 XP | 64 pp | Mord 182 |
@@ -1024,25 +1024,25 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 0 | Myconid sprout | Small | Plant | LN | 10 XP | 20 cp | MM 230 |
+| CR 0 | Myconid sprout | Small | Plant | LN | 10 XP | 2 sp | MM 230 |
 | CR ⅛ | Flumph (fly) | Small | Aberr. | LG | 25 XP | – | MM 135 |
-| CR ¼ | Derro | Small | Hum. | CE | 50 XP | 10 sp | Mord 158 |
-| CR ¼ | Grimlock | Med. | Hum. | NE | 50 XP | 10 sp | MM 175 |
-| CR ¼ | Kuo-toa (swim) | Med. | Hum. | NE | 50 XP | 10 sp | MM 199 |
-| CR ¼ | Troglodyte | Med. | Hum. | CE | 50 XP | 10 sp | MM 290 |
-| CR ½ | Chitine (climb) | Small | Monstr. | CE | 100 XP | 20 sp | Volo 131 |
-| CR ½ | Myconid adult | Med. | Plant | LN | 100 XP | 20 sp | MM 232 |
-| CR ½ | Svirfneblin (spells) | Small | Hum. | NG | 100 XP | 20 sp | MM 164 |
-| CR 1 | Kuo-toa whip (swim) (spells) | Med. | Hum. | NE | 200 XP | 40 sp | MM 200 |
-| CR 2 | Myconid sovereign | Large | Plant | LN | 450 XP | 80 sp | MM 232 |
-| CR 2 | Quaggoth (climb) | Med. | Hum. | CN | 450 XP | 80 sp | MM 256 |
+| CR ¼ | Derro | Small | Hum. | CE | 50 XP | 1 gp | Mord 158 |
+| CR ¼ | Grimlock | Med. | Hum. | NE | 50 XP | 1 gp | MM 175 |
+| CR ¼ | Kuo-toa (swim) | Med. | Hum. | NE | 50 XP | 1 gp | MM 199 |
+| CR ¼ | Troglodyte | Med. | Hum. | CE | 50 XP | 1 gp | MM 290 |
+| CR ½ | Chitine (climb) | Small | Monstr. | CE | 100 XP | 2 gp | Volo 131 |
+| CR ½ | Myconid adult | Med. | Plant | LN | 100 XP | 2 gp | MM 232 |
+| CR ½ | Svirfneblin (spells) | Small | Hum. | NG | 100 XP | 2 gp | MM 164 |
+| CR 1 | Kuo-toa whip (swim) (spells) | Med. | Hum. | NE | 200 XP | 4 gp | MM 200 |
+| CR 2 | Myconid sovereign | Large | Plant | LN | 450 XP | 8 gp | MM 232 |
+| CR 2 | Quaggoth (climb) | Med. | Hum. | CN | 450 XP | 8 gp | MM 256 |
 | CR 3 | Chitine choldrith (climb) (spells) | Med. | Monstr. | CE | 700 XP | 12 gp | Volo 132 |
 | CR 3 | Derro savant (spells) | Small | Hum. | CE | 700 XP | 12 gp | Mord 159 |
 | CR 3 | Kuo-toa monitor (swim) | Med. | Hum. | NE | 700 XP | 12 gp | MM 198 |
 | CR 3 | Quaggoth thonot (climb) (spells) | Med. | Hum. | CN | 700 XP | 12 gp | MM 256 |
 | CR 5 | Umber hulk (burrow) | Large | Monstr. | CE | 1,800 XP | – | MM 292 |
-| CR 6 | Kuo-toa archpriest (swim) (spells) | Med. | Hum. | NE | 2,300 XP | 41 gp | MM 200 |
-| CR 8 | Fomorian | Huge | Giant | CE | 3,900 XP | 91 gp | MM 136 |
+| CR 6 | Kuo-toa archpriest (swim) (spells) | Med. | Hum. | NE | 2,300 XP | 4 pp | MM 200 |
+| CR 8 | Fomorian | Huge | Giant | CE | 3,900 XP | 9 pp | MM 136 |
 
 [(Back to Underground)](#underground)
 
@@ -1065,8 +1065,8 @@ Elves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 2 | Intellect devourer | Tiny | Aberr. | LE | 450 XP | – | MM 191 |
 | CR 5 | Beholder mindwitness (fly) | Large | Aberr. | LE | 1,800 XP | – | Volo 176 |
-| CR 7 | Illithid (spells) | Med. | Aberr. | LE | 2,900 XP | 61 gp | MM 222 |
-| CR 8 | Illithid arcanist (spells) | Med. | Aberr. | LE | 3,900 XP | 91 gp | MM 222 |
+| CR 7 | Illithid (spells) | Med. | Aberr. | LE | 2,900 XP | 6 pp | MM 222 |
+| CR 8 | Illithid arcanist (spells) | Med. | Aberr. | LE | 3,900 XP | 9 pp | MM 222 |
 | CR 9 | Illithid ulitharid (spells) | Large | Aberr. | LE | 5,000 XP | 14 pp | Volo 175 |
 | CR 10 | Illithid alhoon (spells) | Med. | Undead | E | 5,900 XP | 20 pp | Volo 172 |
 | CR 14 | Elder brain (swim) (spells) (legend) (lair) | Large | Aberr. | LE | 11,500 XP | – | Volo 174 |
@@ -1114,7 +1114,7 @@ Elves use the same stat blocks as humans, with the following changes:
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 1 | Scarecrow | Med. | Constr. | CE | 200 XP | – | MM 268 |
-| CR 1 | Warforged soldier | Med. | Hum. | - | 200 XP | 40 sp | Eber 320 |
+| CR 1 | Warforged soldier | Med. | Hum. | - | 200 XP | 4 gp | Eber 320 |
 | CR 4 | Helmed horror (fly) | Med. | Constr. | N | 1,100 XP | – | MM 183 |
 | CR 7 | Shield guardian (spells) | Large | Constr. | – | 2,900 XP | – | MM 271 |
 | CR 8 | Warforged titan | Huge | Constr. | LN | 3,900 XP | – | Eber 315 |
@@ -1151,13 +1151,13 @@ Elves use the same stat blocks as humans, with the following changes:
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 0 | Crawling claw (climb) | Tiny | Undead | NE | 10 XP | – | MM 44 |
-| CR ¼ | Skeleton | Med. | Undead | LE | 50 XP | 10 sp | MM 272 |
-| CR ¼ | Zombie | Med. | Undead | NE | 50 XP | 10 sp | MM 316 |
+| CR ¼ | Skeleton | Med. | Undead | LE | 50 XP | 1 gp | MM 272 |
+| CR ¼ | Zombie | Med. | Undead | NE | 50 XP | 1 gp | MM 316 |
 | CR ½ | Skeleton, warhorse | Large | Undead | LE | 100 XP | – | MM 273 |
 | CR 1 | Ghoul | Med. | Undead | CE | 200 XP | – | MM 148 |
-| CR 2 | Ghoul, ghast | Med. | Undead | CE | 450 XP | 80 sp | MM 148 |
-| CR 2 | Skeleton, minotaur | Large | Undead | LE | 450 XP | 80 sp | MM 273 |
-| CR 2 | Zombie, ogre | Large | Undead | NE | 450 XP | 80 sp | MM 316 |
+| CR 2 | Ghoul, ghast | Med. | Undead | CE | 450 XP | 8 gp | MM 148 |
+| CR 2 | Skeleton, minotaur | Large | Undead | LE | 450 XP | 8 gp | MM 273 |
+| CR 2 | Zombie, ogre | Large | Undead | NE | 450 XP | 8 gp | MM 316 |
 | CR 3 | Mummy | Med. | Undead | LE | 700 XP | 12 gp | MM 228 |
 | CR 5 | Spawn of Kyuss | Med. | Undead | CE | 1,800 XP | – | Volo 192 |
 | CR 5 | Zombie, beholder (fly) | Large | Undead | NE | 1,800 XP | – | MM 316 |
@@ -1188,13 +1188,13 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 2 | Undying soldier | Med. | Undead | NG | 450 XP | 80 sp | Eber 311 |
+| CR 2 | Undying soldier | Med. | Undead | NG | 450 XP | 8 gp | Eber 311 |
 | CR 3 | Karrnathi undead soldier | Med. | Undead | LE | 700 XP | 12 gp | Eber 295 |
 | CR 3 | Wight | Med. | Undead | NE | 700 XP | 12 gp | MM 300 |
 | CR 4 | Deathlock (spells) | Med. | Undead | NE | 1,100 XP | 18 gp | Mord 128 |
 | CR 4 | Flameskull (fly) (spells) | Tiny | Undead | NE | 1,100 XP | – | MM 134 |
 | CR 5 | Revenant | Med. | Undead | N | 1,800 XP | 27 gp | MM 259 |
-| CR 8 | Deathlock mastermind (spells) | Med. | Undead | NE | 3,900 XP | 91 gp | Mord 129 |
+| CR 8 | Deathlock mastermind (spells) | Med. | Undead | NE | 3,900 XP | 9 pp | Mord 129 |
 | CR 10 | Undying councilor (spells) (legend) | Med. | Undead | NG | 5,900 XP | 20 pp | Eber 311 |
 | CR 15 | Mummy lord (spells) (legend) (lair +1 CR) | Med. | Undead | LE | 13,000 XP | 140 pp | MM 229 |
 | CR 15 | Skull lord (spells) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | Mord 230 |
@@ -1240,10 +1240,10 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 1 | Meazel | Med. | Hum. | NE | 200 XP | 40 sp | Mord 214 |
+| CR 1 | Meazel | Med. | Hum. | NE | 200 XP | 4 gp | Mord 214 |
 | CR 4 | Demon, shadow (fly) | Med. | Fiend | CE | 1,100 XP | – | MM 64 |
 | CR 5 | Vampire spawn | Med. | Undead | NE | 1,800 XP | – | MM 298 |
-| CR 7 | Shadar-kai shadow dancer | Med. | Hum. | N | 2,900 XP | 61 gp | Mord 225 |
+| CR 7 | Shadar-kai shadow dancer | Med. | Hum. | N | 2,900 XP | 6 pp | Mord 225 |
 | CR 9 | Shadar-kai gloom weaver (spells) | Med. | Hum. | N | 5,000 XP | 14 pp | Mord 224 |
 | CR 11 | Shadar-kai soul monger (spells) | Med. | Hum. | N | 7,200 XP | 30 pp | Mord 226 |
 | CR 13 | Vampire lord (fly) (shapech) (legend) | Med. | Undead | LE | 10,000 XP | 64 pp | MM 297 |
@@ -1346,10 +1346,10 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 4 | Demon, babau (spells) | Med. | Fiend | CE | 1,100 XP | 18 gp | Volo 136 |
 | CR 4 | Demon, dybbuk (fly) (spells) | Med. | Fiend | CE | 1,100 XP | – | Mord 132 |
 | CR 5 | Demon, barlgura (climb) (spells) | Large | Fiend | CE | 1,800 XP | 27 gp | MM 56 |
-| CR 6 | Demon, chasme (fly) | Large | Fiend | CE | 2,300 XP | 41 gp | MM 57 |
-| CR 6 | Demon, vrock (fly) | Large | Fiend | CE | 2,300 XP | 41 gp | MM 64 |
-| CR 7 | Demon, armanite | Large | Fiend | CE | 2,900 XP | 61 gp | Mord 131 |
-| CR 7 | Demon, maurezhi | Med. | Fiend | CE | 2,900 XP | 61 gp | Mord 133 |
+| CR 6 | Demon, chasme (fly) | Large | Fiend | CE | 2,300 XP | 4 pp | MM 57 |
+| CR 6 | Demon, vrock (fly) | Large | Fiend | CE | 2,300 XP | 4 pp | MM 64 |
+| CR 7 | Demon, armanite | Large | Fiend | CE | 2,900 XP | 6 pp | Mord 131 |
+| CR 7 | Demon, maurezhi | Med. | Fiend | CE | 2,900 XP | 6 pp | Mord 133 |
 | CR 8 | Demon, hezrou | Large | Fiend | CE | 3,900 XP | – | MM 60 |
 | CR 8 | Demon, shoosuva | Large | Fiend | CE | 3,900 XP | – | Volo 137 |
 | CR 9 | Demon, glabrezu (spells) | Large | Fiend | CE | 5,000 XP | 14 pp | MM 58 |
@@ -1381,11 +1381,11 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 0 | Devil, lemure | Med. | Fiend | LE | 10 XP | – | MM 76 |
 | CR ½ | Devil, nupperibo | Med. | Fiend | LE | 100 XP | – | Mord 168 |
 | CR 1 | Devil, imp (fly) (shapech) | Tiny | Fiend | LE | 200 XP | – | MM 76 |
-| CR 2 | Devil, spinagon (fly) | Small | Fiend | LE | 450 XP | 80 sp | MM 78 |
+| CR 2 | Devil, spinagon (fly) | Small | Fiend | LE | 450 XP | 8 gp | MM 78 |
 | CR 3 | Devil, barbazu | Med. | Fiend | LE | 700 XP | 12 gp | MM 70 |
 | CR 4 | Devil, merregon | Med. | Fiend | LE | 1,100 XP | – | Mord 166 |
 | CR 5 | Devil, hamatula | Med. | Fiend | LE | 1,800 XP | 27 gp | MM 70 |
-| CR 8 | Devil, kyton | Med. | Fiend | LE | 3,900 XP | 91 gp | MM 72 |
+| CR 8 | Devil, kyton | Med. | Fiend | LE | 3,900 XP | 9 pp | MM 72 |
 | CR 9 | Devil, osyluth (fly) | Large | Fiend | LE | 5,000 XP | 14 pp | MM 71 |
 | CR 10 | Devil, orthon (climb) | Large | Fiend | LE | 5,900 XP | 20 pp | Mord 169 |
 | CR 11 | Devil, malebranche (fly) | Large | Fiend | LE | 7,200 XP | 30 pp | MM 74 |
@@ -1408,8 +1408,8 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 6 | Devil, abishai, white (fly) | Med. | Fiend | LE | 2,300 XP | 41 gp | Mord 163 |
-| CR 7 | Devil, abishai, black (fly) | Med. | Fiend | LE | 2,900 XP | 61 gp | Mord 160 |
+| CR 6 | Devil, abishai, white (fly) | Med. | Fiend | LE | 2,300 XP | 4 pp | Mord 163 |
+| CR 7 | Devil, abishai, black (fly) | Med. | Fiend | LE | 2,900 XP | 6 pp | Mord 160 |
 | CR 15 | Devil, abishai, green (fly) (spells) | Med. | Fiend | LE | 13,000 XP | 140 pp | Mord 162 |
 | CR 17 | Devil, abishai, blue (fly) (spells) | Med. | Fiend | LE | 18,000 XP | 280 pp | Mord 161 |
 | CR 19 | Devil, abishai, red (fly) | Med. | Fiend | LE | 22,000 XP | 490 pp | Mord 162 |
@@ -1422,8 +1422,8 @@ Elves use the same stat blocks as humans, with the following changes:
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR ⅛ | Slaad tadpole | Tiny | Aberr. | CN | 25 XP | – | MM 276 |
 | CR 5 | Slaad, red | Large | Aberr. | CN | 1,800 XP | 27 gp | MM 276 |
-| CR 7 | Slaad, blue | Large | Aberr. | CN | 2,900 XP | 61 gp | MM 276 |
-| CR 8 | Slaad, green (spells) (shapech) | Large | Aberr. | CN | 3,900 XP | 91 gp | MM 277 |
+| CR 7 | Slaad, blue | Large | Aberr. | CN | 2,900 XP | 6 pp | MM 276 |
+| CR 8 | Slaad, green (spells) (shapech) | Large | Aberr. | CN | 3,900 XP | 9 pp | MM 277 |
 | CR 9 | Slaad, gray (spells) (shapech) | Med. | Aberr. | CN | 5,000 XP | 14 pp | MM 277 |
 | CR 10 | Slaad, death (spells) (shapech) | Med. | Aberr. | CE | 5,900 XP | 20 pp | MM 278 |
 
@@ -1439,7 +1439,7 @@ Elves use the same stat blocks as humans, with the following changes:
 | CR 5 | Hag, night (spells) (shapech) (coven +2 CR) (lair VGtM 59) | Med. | Fiend | NE | 1,800 XP | 27 gp | MM 178 |
 | CR 5 | Rakshasa zakya (spells) | Med. | Fiend | LE | 1,800 XP | 27 gp | Eber 309 |
 | CR 5 | Yugoloth mezzoloth (spells) | Med. | Fiend | NE | 1,800 XP | 27 gp | MM 313 |
-| CR 7 | Yugoloth dhergoloth (spells) | Med. | Fiend | NE | 2,900 XP | 61 gp | Mord 248 |
+| CR 7 | Yugoloth dhergoloth (spells) | Med. | Fiend | NE | 2,900 XP | 6 pp | Mord 248 |
 | CR 9 | Yugoloth hydroloth (swim) (spells) | Med. | Fiend | NE | 5,000 XP | 14 pp | Mord 249 |
 | CR 9 | Yugoloth nycaloth (fly) (spells) | Large | Fiend | NE | 5,000 XP | 14 pp | MM 314 |
 | CR 11 | Yugoloth yagnoloth (spells) | Large | Fiend | NE | 7,200 XP | 30 pp | Mord 252 |
@@ -1483,7 +1483,7 @@ Elves use the same stat blocks as humans, with the following changes:
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 3 | Githyanki warrior (spells) | Med. | Hum. | LE | 700 XP | 12 gp | MM 160 |
-| CR 8 | Githyanki knight (spells) | Med. | Hum. | LE | 3,900 XP | 91 gp | MM 160 |
+| CR 8 | Githyanki knight (spells) | Med. | Hum. | LE | 3,900 XP | 9 pp | MM 160 |
 | CR 10 | Githyanki gish (spells) | Med. | Hum. | LE | 5,900 XP | 20 pp | Mord 205 |
 | CR 12 | Githyanki kith'rak (spells) | Med. | Hum. | LE | 8,400 XP | 44 pp | Mord 205 |
 | CR 14 | Githyanki supreme commander (spells) (legend) | Med. | Hum. | LE | 11,500 XP | 94 pp | Mord 206 |
@@ -1494,8 +1494,8 @@ Elves use the same stat blocks as humans, with the following changes:
 
 |  CR   | Name | Size | Type | Align |  XP  | Coins | Source |
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
-| CR 2 | Githzerai monk (spells) | Med. | Hum. | LN | 450 XP | 80 sp | MM 161 |
-| CR 6 | Githzerai zerth (spells) | Med. | Hum. | LN | 2,300 XP | 41 gp | MM 161 |
+| CR 2 | Githzerai monk (spells) | Med. | Hum. | LN | 450 XP | 8 gp | MM 161 |
+| CR 6 | Githzerai zerth (spells) | Med. | Hum. | LN | 2,300 XP | 4 pp | MM 161 |
 | CR 10 | Githzerai enlightened (spells) | Med. | Hum. | LN | 5,900 XP | 20 pp | Mord 208 |
 | CR 16 | Githzerai anarch (fly) (spells) (legend) (lair) | Med. | Hum. | LN | 15,000 XP | 200 pp | Mord 207 |
 
