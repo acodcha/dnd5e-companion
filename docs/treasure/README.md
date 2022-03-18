@@ -13,38 +13,41 @@
 
 Not all monsters carry coinage on their person, but those that do can be expected to carry the amounts shown in the following table.
 
-| Challenge | Experience | Coinage || Challenge | Experience | Coinage  |
+| Challenge | Experience | Coinage |       | Challenge | Experience |  Coinage |
 | :-------: | ---------: | ------: | :---: | :-------: | ---------: | -------: |
-|   CR 0    |      10 XP |    2 sp ||   CR 14   |  11,500 XP |    94 pp |
-|   CR ⅛    |      25 XP |    5 sp ||   CR 15   |  13,000 XP |   140 pp |
-|   CR ¼    |      50 XP |    1 gp ||   CR 16   |  15,000 XP |   200 pp |
-|   CR ½    |     100 XP |    2 gp ||   CR 17   |  18,000 XP |   280 pp |
-|   CR 1    |     200 XP |    4 gp ||   CR 18   |  20,000 XP |   380 pp |
-|   CR 2    |     450 XP |    8 gp ||   CR 19   |  22,000 XP |   490 pp |
-|   CR 3    |     700 XP |   12 gp ||   CR 20   |  25,000 XP |   610 pp |
-|   CR 4    |   1,100 XP |   18 gp ||   CR 21   |  33,000 XP |   730 pp |
-|   CR 5    |   1,800 XP |   27 gp ||   CR 22   |  41,000 XP |   840 pp |
-|   CR 6    |   2,300 XP |    4 pp ||   CR 23   |  50,000 XP |   930 pp |
-|   CR 7    |   2,900 XP |    6 pp ||   CR 24   |  62,000 XP |   970 pp |
-|   CR 8    |   3,900 XP |    9 pp ||   CR 25   |  75,000 XP | 1,000 pp |
-|   CR 9    |   5,000 XP |   14 pp ||   CR 26   |  90,000 XP | 1,100 pp |
-|   CR 10   |   5,900 XP |   20 pp ||   CR 27   | 105,000 XP | 1,100 pp |
-|   CR 11   |   7,200 XP |   30 pp ||   CR 28   | 120,000 XP | 1,200 pp |
-|   CR 12   |   8,400 XP |   44 pp ||   CR 29   | 135,000 XP | 1,200 pp |
-|   CR 13   |  10,000 XP |   64 pp ||   CR 30   | 155,000 XP | 1,300 pp |
+|   CR 0    |      10 XP |    2 sp |       |   CR 14   |  11,500 XP |    94 pp |
+|   CR ⅛    |      25 XP |    5 sp |       |   CR 15   |  13,000 XP |   140 pp |
+|   CR ¼    |      50 XP |    1 gp |       |   CR 16   |  15,000 XP |   200 pp |
+|   CR ½    |     100 XP |    2 gp |       |   CR 17   |  18,000 XP |   280 pp |
+|   CR 1    |     200 XP |    4 gp |       |   CR 18   |  20,000 XP |   380 pp |
+|   CR 2    |     450 XP |    8 gp |       |   CR 19   |  22,000 XP |   490 pp |
+|   CR 3    |     700 XP |   12 gp |       |   CR 20   |  25,000 XP |   610 pp |
+|   CR 4    |   1,100 XP |   18 gp |       |   CR 21   |  33,000 XP |   730 pp |
+|   CR 5    |   1,800 XP |   27 gp |       |   CR 22   |  41,000 XP |   840 pp |
+|   CR 6    |   2,300 XP |    4 pp |       |   CR 23   |  50,000 XP |   930 pp |
+|   CR 7    |   2,900 XP |    6 pp |       |   CR 24   |  62,000 XP |   970 pp |
+|   CR 8    |   3,900 XP |    9 pp |       |   CR 25   |  75,000 XP | 1,000 pp |
+|   CR 9    |   5,000 XP |   14 pp |       |   CR 26   |  90,000 XP | 1,100 pp |
+|   CR 10   |   5,900 XP |   20 pp |       |   CR 27   | 105,000 XP | 1,100 pp |
+|   CR 11   |   7,200 XP |   30 pp |       |   CR 28   | 120,000 XP | 1,200 pp |
+|   CR 12   |   8,400 XP |   44 pp |       |   CR 29   | 135,000 XP | 1,200 pp |
+|   CR 13   |  10,000 XP |   64 pp |       |   CR 30   | 155,000 XP | 1,300 pp |
 
 [(Back to Top)](#)
 
 ## Treasure Hoards
 
-The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gems, art objects, consumable magic items, and permanent magic items. Note that all content is listed **per player**. ½ × means 1 item per 2 players. ¼ × means 1 item per 4 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
+The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gemstones, art objects, consumable magic items, and permanent magic items. Note that all content is listed **per player**. ½ × means 1 item per 2 players. ¼ × means 1 item per 4 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
 
-For example, a party of four 1st-level player characters can expect to loot a treasure hoard containing a total of 40 gp, 4 × 10 gp gems, 2 × 25 gp art objects, 4 × 40 gp consumable magic items, and 1 × 200 gp permanent magic items during 1st level.
+For example, a party of four 1st-level player characters can expect to loot a treasure hoard containing a total of 40 gp, 4 × 10 gp gemstones, 2 × 25 gp art objects, 4 × 40 gp consumable magic items, and 1 × 200 gp permanent magic items during 1st level.
 
-This table assumes that players are able to purchase magic items throughout the campaign using their accumulated wealth; if this is not the case, then treasure hoards should contain twice as many magic items.
+This table assumes that players are primarily spending their accumulated wealth on equipment and magic items.
 
-| Level | Coinage per Player | Gems per Player | Art Objects per Player | Consumable Magic Items per Player | Permanent Magic Items per Player |
-| :---: | :----------------: | :-------------: | :--------------------: | :-------------------------------: | :------------------------------: |
+- If players have significant additional expenses, then treasure hoards should contain additional coinage, gemstones, and art objects.
+- If players are not able to purchase magic items, then treasure hoards should contain additional magic items.
+
+| Level | Coinage per Player | Gemstones per Player | Art Objects per Player | Consumable Magic Items per Player | Permanent Magic Items per Player |
+| :---: | :----------------: | :------------------: | :--------------------: | :-------------------------------: | :------------------------------: |
 | 1st | 10 gp | 1 × 10 gp | ½ × 25 gp | 1 × 40 gp | ¼ × 200 gp |
 | 2nd | 20 gp | 1 × 10 gp | ½ × 25 gp | 1 × 55 gp | ¼ × 270 gp |
 | 3rd | 40 gp | 1 × 10 gp | ½ × 25 gp | 1 × 75 gp | ¼ × 370 gp |
