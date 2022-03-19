@@ -1,7 +1,7 @@
 # Equipment
 
 - **[Armor](#armor):** [Light Armor](#light-armor), [Medium Armor](#medium-armor), [Heavy Armor](#heavy-armor), [Shield](#shield)
-- **[Weapons](#weapons):** [Simple Melee Weapons](#simple-melee-weapons), [Martial Melee Weapons](#martial-melee-weapons), [Simple Ranged Weapons](#simple-ranged-weapons), [Martial Ranged Weapons](#martial-ranged-weapons)
+- **[Weapons](#weapons):** [Simple Melee Weapons](#simple-melee-weapons), [Martial Melee Weapons](#martial-melee-weapons), [Simple Ranged Weapons](#simple-ranged-weapons), [Martial Ranged Weapons](#martial-ranged-weapons), [Firearms](#firearms)
 - **[Gear](#gear):** [Ammunition](#ammunition), [Spellcasting Gear](#spellcasting-gear), [Consumable Gear](#consumable-gear), [Permanent Gear](#permanent-gear)
 - **[Tools](#tools):** [Artisan's Tools](#artisans-tools), [Gaming Sets](#gaming-sets), [Musical Instruments](#musical-instruments), [Miscellaneous Tools](#miscellaneous-tools)
 - **[Poisons](#poisons):** [Contact Poisons](#contact-poisons), [Ingested Poisons](#ingested-poisons), [Inhaled Poisons](#inhaled-poisons), [Injury Poisons](#injury-poisons)
@@ -76,6 +76,7 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 - [Martial Melee Weapons](#martial-melee-weapons)
 - [Simple Ranged Weapons](#simple-ranged-weapons)
 - [Martial Ranged Weapons](#martial-ranged-weapons)
+- [Firearms](#firearms)
 
 [(Back to Top)](#)
 
@@ -144,6 +145,15 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 [(Back to Weapons)](#weapons)
 
+### Firearms
+
+| Firearm | Cost  | Weight | Damage | Properties |
+| :------ | :---: | :----: | :----: | :--------- |
+| Pistol | 250 gp | 3 lb | 1d10 piercing | Ammunition (range 30/90 ft), loading |
+| Musket | 500 gp | 10 lb | 1d12 piercing | Ammunition (range 40/120 ft), loading, two-handed |
+
+[(Back to Weapons)](#weapons)
+
 ## Gear
 
 - [Ammunition](#ammunition)
@@ -158,11 +168,14 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Ammunition | Cost  | Weight |
 | :--------- | :---: | :----: |
 | Arrows (20) | 1 gp | 1 lb |
+| Blowgun needle pouch (holds 50 blowgun needles) | 5 sp | 1 lb |
 | Blowgun needles (50) | 1 gp | 1 lb |
-| Crossbow bolt case | 1 gp | 1 lb |
+| Crossbow bolt case (holds 20 crossbow bolts) | 1 gp | 1 lb |
 | Crossbow bolts (20) | 1 gp | 1½ lb |
-| Pouch (holds 50 blowgun needles or 20 sling bullets) | 5 sp | 1 lb |
+| Firearm bullet pouch (holds 10 firearm bullets) | 5 sp | 1 lb |
+| Firearm bullets (10) | 3 gp | 2 lb |
 | Quiver (holds 20 arrows) | 1 gp | 1 lb |
+| Sling bullet pouch (holds 20 sling bullets) | 5 sp | 1 lb |
 | Sling bullets (20) | 4 cp | 1½ lb |
 
 [(Back to Gear)](#gear)
@@ -199,6 +212,9 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 | Basic poison (vial) | 100 gp | – |
 | Caltrops (bag of 20) | 1 gp | 2 lb |
 | Candle | 1 cp | – |
+| Gunpowder bomb | 150 gp | 1 lb |
+| Gunpowder keg | 250 gp | 20 lb |
+| Gunpowder powder horn | 35 gp | 2 lb |
 | Holy water (flask) | 25 gp | 1 lb |
 | Oil (flask) | 1 sp | 1 lb |
 | Potion of healing | 50 gp | ½ lb |
