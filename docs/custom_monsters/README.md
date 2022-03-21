@@ -15,17 +15,17 @@ The following table shows the approximate combat equivalence between monster cha
 | CR ½  |    2nd    |
 | CR 1  |    3rd    |
 | CR 2  |    4th    |
-| CR 3  |  5th-6th  |
+| CR 3  |  5th–6th  |
 | CR 4  |    7th    |
 | CR 5  |    8th    |
 | CR 6  |    9th    |
 | CR 7  |   10th    |
 | CR 8  |   11th    |
 | CR 9  |   12th    |
-| CR 10 | 13th-14th |
-| CR 11 | 15th-16th |
-| CR 12 | 17th-18th |
-| CR 13 | 19th-20th |
+| CR 10 | 13th–14th |
+| CR 11 | 15th–16th |
+| CR 12 | 17th–18th |
+| CR 13 | 19th–20th |
 
 [(Back to Top)](#)
 
