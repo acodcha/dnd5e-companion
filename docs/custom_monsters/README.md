@@ -1,6 +1,35 @@
 # Custom Monsters
 
+- [Monster and Player Character Equivalence](#monster-and-player-character-equivalence)
+- [Custom Monster Table](#custom-monster-table)
+
 [(Back to Main Page)](../../#)
+
+## Monster and Player Character Equivalence
+
+The following table shows the approximate combat equivalence between monster challenge ratings and player character levels. For example, a CR 1 monster is roughly equivalent to a 3rd-level player character in combat. Similarly, if a CR 1 monster is a spellcaster, it is likely a 3rd-level spellcaster.
+
+| Monster Challenge Rating | Player Character Level |
+| :---: | :-------: |
+| CR ¼  |    1st    |
+| CR ½  |    2nd    |
+| CR 1  |    3rd    |
+| CR 2  |    4th    |
+| CR 3  |  5th-6th  |
+| CR 4  |    7th    |
+| CR 5  |    8th    |
+| CR 6  |    9th    |
+| CR 7  |   10th    |
+| CR 8  |   11th    |
+| CR 9  |   12th    |
+| CR 10 | 13th-14th |
+| CR 11 | 15th-16th |
+| CR 12 | 17th-18th |
+| CR 13 | 19th-20th |
+
+[(Back to Top)](#)
+
+## Custom Monster Table
 
 |  CR   |         XP |    Coins | Prof  | Ability Scores         |  AC   |  HP   |  Atk  | Save DC | Dmg / Round |
 | :---: | ---------: | -------: | :---: | :--------------------- | :---: | :---: | :---: | :-----: | :---------: |
