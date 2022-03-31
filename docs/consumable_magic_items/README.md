@@ -100,22 +100,24 @@ A spell scroll bears the words of a single spell, written in a mystical cipher. 
 
 If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell’s level. On a failed check, the spell disappears from the scroll with no other effect.
 
-A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed. For each level of the spell, the process takes 2 hours and costs 50 gp, which represents material components expended as the wizard experiments with the spell to master it as well as the fine inks needed to record it.
+
+With time and patience, a spellcaster can transfer a spell to a scroll, creating a spell scroll. Scribing a spell scroll takes an amount of time and money related to the level of the spell. In addition, the spellcaster must have proficiency in the Arcana skill and must provide any material components required for the casting of the spell. Moreover, the spellcaster must have the spell prepared, or it must be among the spellcaster’s known spells, in order to scribe a scroll of that spell. If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
 The level of the spell on the scroll determines the spell’s saving throw DC and attack bonus.
 
-| Magic Item             |       Cost | Weight | Save DC | Attack Bonus |  Source |
-| :--------------------- | ---------: | :----: | :-----: | :----------: | ------: |
-| Spell scroll cantrip   |      30 gp |   –    |   13    |      +5      | DMG 200 |
-| Spell scroll 1st-level |      50 gp |   –    |   13    |      +5      | DMG 200 |
-| Spell scroll 2nd-level |     500 gp |   –    |   13    |      +5      | DMG 200 |
-| Spell scroll 3rd-level |   1,000 gp |   –    |   15    |      +7      | DMG 200 |
-| Spell scroll 4th-level |   5,000 gp |   –    |   15    |      +7      | DMG 200 |
-| Spell scroll 5th-level |  10,000 gp |   –    |   17    |      +9      | DMG 200 |
-| Spell scroll 6th-level |  30,000 gp |   –    |   17    |      +9      | DMG 200 |
-| Spell scroll 7th-level |  50,000 gp |   –    |   18    |     +10      | DMG 200 |
-| Spell scroll 8th-level | 100,000 gp |   –    |   18    |     +10      | DMG 200 |
-| Spell scroll 9th-level | 500,000 gp |   –    |   19    |     +11      | DMG 200 |
+| Magic Item             | Purchase Cost | Scribing Cost | Scribing Time | Weight | Save DC | Attack Bonus |  Source |
+| :--------------------- | ------------: | ------------: | :-----------: | :----: | :-----: | :----------: | ------: |
+| Spell scroll cantrip   |         30 gp |         15 gp |  1 work day   |   –    |   13    |      +5      | DMG 200 |
+| Spell scroll 1st-level |         50 gp |         25 gp |  1 work day   |   –    |   13    |      +5      | DMG 200 |
+| Spell scroll 2nd-level |        500 gp |        250 gp |  3 work days  |   –    |   13    |      +5      | DMG 200 |
+| Spell scroll 3rd-level |      1,000 gp |        500 gp |  1 work week  |   –    |   15    |      +7      | DMG 200 |
+| Spell scroll 4th-level |      5,000 gp |      2,500 gp |  2 work weeks |   –    |   15    |      +7      | DMG 200 |
+| Spell scroll 5th-level |     10,000 gp |      5,000 gp |  4 work weeks |   –    |   17    |      +9      | DMG 200 |
+| Spell scroll 6th-level |     30,000 gp |     15,000 gp |  8 work weeks |   –    |   17    |      +9      | DMG 200 |
+| Spell scroll 7th-level |     50,000 gp |     25,000 gp | 16 work weeks |   –    |   18    |     +10      | DMG 200 |
+| Spell scroll 8th-level |    100,000 gp |     50,000 gp | 32 work weeks |   –    |   18    |     +10      | DMG 200 |
+| Spell scroll 9th-level |    500,000 gp |    250,000 gp | 48 work weeks |   –    |   19    |     +11      | DMG 200 |
 
 [(Back to Top)](#)
 
