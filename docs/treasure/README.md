@@ -71,6 +71,7 @@ This table assumes that players are primarily spending their accumulated wealth 
 | 20th+1 | 3,100 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 16,000 gp | ¼ × 81,000 gp |
 | 20th+2 | 4,300 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 22,000 gp | ¼ × 110,000 gp |
 | 20th+3 | 6,100 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 29,000 gp | ¼ × 150,000 gp |
+| 20th+4 | 8,500 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 40,000 gp | ¼ × 200,000 gp |
 
 [(Back to Top)](#)
 
@@ -78,20 +79,20 @@ This table assumes that players are primarily spending their accumulated wealth 
 
 The following table lists experience points and coinage awarded by a patron for completing a quest. Over the course of a campaign, players are expected to receive one quest reward per level from 1st to 20th level.
 
-| Level | Experience per Player | Coinage per Player |       | Level | Experience per Player | Coinage per Player |
-| :---: | :-------------------: | :----------------: | :---: | :---: | :-------------------: | :----------------: |
-|  1st  |   100 XP |  5 gp |  |  13th  |  3,700 XP |    80 pp |
-|  2nd  |   200 XP | 10 gp |  |  14th  |  4,500 XP |   120 pp |
-|  3rd  |   400 XP | 15 gp |  |  15th  |  5,400 XP |   170 pp |
-|  4th  |   600 XP | 23 gp |  |  16th  |  6,500 XP |   250 pp |
-|  5th  |   800 XP | 35 gp |  |  17th  |  7,800 XP |   350 pp |
-|  6th  | 1,000 XP |  5 pp |  |  18th  |  9,300 XP |   480 pp |
-|  7th  | 1,200 XP |  8 pp |  |  19th  | 11,000 XP |   600 pp |
-|  8th  | 1,500 XP | 12 pp |  |  20th  | 13,000 XP |   780 pp |
-|  9th  | 1,800 XP | 17 pp |  | 20th+1 | 16,000 XP |   930 pp |
-| 10th  | 2,200 XP | 25 pp |  | 20th+2 | 19,000 XP | 1,100 pp |
-| 11th  | 2,600 XP | 38 pp |  | 20th+3 | 23,000 XP | 1,200 pp |
-| 12th  | 3,100 XP | 55 pp |  |        |           |          |
+| Level | Experience per Player | Coinage per Player |  | Level | Experience per Player | Coinage per Player |
+| :---: | :-------------------: | :----------------: |  | :---: | :-------------------: | :----------------: |
+|  1st  |   100 XP |  15 gp |  |  13th  | 2,400 XP |   180 pp |
+|  2nd  |   150 XP |  30 gp |  |  14th  | 2,700 XP |   220 pp |
+|  3rd  |   250 XP |  50 gp |  |  15th  | 3,100 XP |   270 pp |
+|  4th  |   350 XP |  85 gp |  |  16th  | 3,400 XP |   330 pp |
+|  5th  |   500 XP |  14 pp |  |  17th  | 3,800 XP |   400 pp |
+|  6th  |   650 XP |  21 pp |  |  18th  | 4,200 XP |   490 pp |
+|  7th  |   800 XP |  32 pp |  |  19th  | 4,600 XP |   600 pp |
+|  8th  | 1,000 XP |  46 pp |  |  20th  | 5,000 XP |   730 pp |
+|  9th  | 1,300 XP |  65 pp |  | 20th+1 | 5,000 XP |   880 pp |
+| 10th  | 1,500 XP |  90 pp |  | 20th+2 | 5,000 XP | 1,000 pp |
+| 11th  | 1,800 XP | 120 pp |  | 20th+3 | 5,000 XP | 1,200 pp |
+| 12th  | 2,100 XP | 150 pp |  | 20th+4 | 5,000 XP | 1,400 pp |
 
 [(Back to Top)](#)
 
@@ -99,20 +100,20 @@ The following table lists experience points and coinage awarded by a patron for 
 
 The following table lists experience points awarded for achieving progress objectives, accomplishing impressive exploits, gaining useful information, or performing useful deeds during adventures. Over the course of a campaign, players can receive any number of such rewards.
 
-| Level | Experience per Player |       | Level | Experience per Player |
-| :---: | :-------------------: | :---: | :---: | :-------------------: |
-|  1st  |  20 XP |  |  13th  |   750 XP |
-|  2nd  |  40 XP |  |  14th  |   900 XP |
-|  3rd  |  70 XP |  |  15th  | 1,100 XP |
-|  4th  | 110 XP |  |  16th  | 1,300 XP |
-|  5th  | 160 XP |  |  17th  | 1,600 XP |
-|  6th  | 210 XP |  |  18th  | 1,900 XP |
-|  7th  | 250 XP |  |  19th  | 2,200 XP |
-|  8th  | 300 XP |  |  20th  | 2,700 XP |
-|  9th  | 360 XP |  | 20th+1 | 3,000 XP |
-| 10th  | 430 XP |  | 20th+2 | 3,900 XP |
-| 11th  | 520 XP |  | 20th+3 | 4,600 XP |
-| 12th  | 630 XP |  |        |          |
+| Level | Experience per Player |  | Level | Experience per Player |
+| :---: | :-------------------: |  | :---: | :-------------------: |
+|  1st  |  20 XP |  |  13th  |   480 XP |
+|  2nd  |  30 XP |  |  14th  |   540 XP |
+|  3rd  |  50 XP |  |  15th  |   620 XP |
+|  4th  |  70 XP |  |  16th  |   680 XP |
+|  5th  | 100 XP |  |  17th  |   760 XP |
+|  6th  | 130 XP |  |  18th  |   840 XP |
+|  7th  | 160 XP |  |  19th  |   920 XP |
+|  8th  | 200 XP |  |  20th  | 1,000 XP |
+|  9th  | 260 XP |  | 20th+1 | 1,000 XP |
+| 10th  | 300 XP |  | 20th+2 | 1,000 XP |
+| 11th  | 360 XP |  | 20th+3 | 1,000 XP |
+| 12th  | 420 XP |  | 20th+4 | 1,000 XP |
 
 [(Back to Top)](#)
 
