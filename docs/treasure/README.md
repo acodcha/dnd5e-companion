@@ -81,18 +81,18 @@ The following table lists experience points and coinage awarded by a patron for 
 
 | Level | Experience per Player | Coinage per Player |  | Level | Experience per Player | Coinage per Player |
 | :---: | :-------------------: | :----------------: |  | :---: | :-------------------: | :----------------: |
-|  1st  |   100 XP |  15 gp |  |  13th  | 2,400 XP |   180 pp |
-|  2nd  |   150 XP |  30 gp |  |  14th  | 2,700 XP |   220 pp |
-|  3rd  |   250 XP |  50 gp |  |  15th  | 3,100 XP |   270 pp |
-|  4th  |   350 XP |  85 gp |  |  16th  | 3,400 XP |   330 pp |
-|  5th  |   500 XP |  14 pp |  |  17th  | 3,800 XP |   400 pp |
-|  6th  |   650 XP |  21 pp |  |  18th  | 4,200 XP |   490 pp |
-|  7th  |   800 XP |  32 pp |  |  19th  | 4,600 XP |   600 pp |
-|  8th  | 1,000 XP |  46 pp |  |  20th  | 5,000 XP |   730 pp |
-|  9th  | 1,300 XP |  65 pp |  | 20th+1 | 5,000 XP |   880 pp |
-| 10th  | 1,500 XP |  90 pp |  | 20th+2 | 5,000 XP | 1,000 pp |
-| 11th  | 1,800 XP | 120 pp |  | 20th+3 | 5,000 XP | 1,200 pp |
-| 12th  | 2,100 XP | 150 pp |  | 20th+4 | 5,000 XP | 1,400 pp |
+|  1st  |   100 XP | 20 gp |  |  13th  | 2,400 XP |  82 pp |
+|  2nd  |   150 XP | 30 gp |  |  14th  | 2,700 XP |  98 pp |
+|  3rd  |   250 XP | 50 gp |  |  15th  | 3,100 XP | 120 pp |
+|  4th  |   350 XP | 70 gp |  |  16th  | 3,400 XP | 140 pp |
+|  5th  |   500 XP | 10 pp |  |  17th  | 3,800 XP | 160 pp |
+|  6th  |   650 XP | 14 pp |  |  18th  | 4,200 XP | 180 pp |
+|  7th  |   800 XP | 18 pp |  |  19th  | 4,600 XP | 190 pp |
+|  8th  | 1,000 XP | 24 pp |  |  20th  | 5,000 XP | 200 pp |
+|  9th  | 1,300 XP | 32 pp |  | 20th+1 | 5,000 XP | 210 pp |
+| 10th  | 1,500 XP | 41 pp |  | 20th+2 | 5,000 XP | 220 pp |
+| 11th  | 1,800 XP | 53 pp |  | 20th+3 | 5,000 XP | 230 pp |
+| 12th  | 2,100 XP | 66 pp |  | 20th+4 | 5,000 XP | 240 pp |
 
 [(Back to Top)](#)
 
