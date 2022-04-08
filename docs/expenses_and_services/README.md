@@ -1,19 +1,13 @@
-# Services and Hirelings
+# Expenses and Services
 
-- **[Lifestyle and Travel Services](#lifestyle-and-travel-services):** [Lifestyle Services](#lifestyle-services), [Travel Services](#travel-services)
+- **[Lifestyle](#lifestyle)**
+- **[Travel](#travel):** [Services](#travel-services), [Mounts](#travel-mounts), [Tack](#travel-tack), [Land Vehicles](#travel-land-vehicles), [Waterborne Vehicles](#travel-waterborne-vehicles)
 - **[Spellcasting Services](#spellcasting-services):** [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
 - **[Hirelings](#hirelings)**
 
 [(Back to Main Page)](../../#)
 
-## Lifestyle and Travel Services
-
-- [Lifestyle Services](#lifestyle-services)
-- [Travel Services](#travel-services)
-
-[(Back to Top)](#)
-
-### Lifestyle Services
+## Lifestyle
 
 | Lifestyle    |      Lodging |        Meals | Other Expenses |         Total |
 | :----------- | -----------: | -----------: | -------------: | ------------: |
@@ -25,24 +19,101 @@
 | Wealthy      | 2 gp per day | 8 sp per day |  12 sp per day |  4 gp per day |
 | Aristocratic | 4 gp per day | 2 gp per day |   4 gp per day | 10 gp per day |
 
-[(Back to Lifestyle and Travel Services)](#lifestyle-and-travel-services)
+[(Back to Top)](#)
 
-### Travel Services
+## Travel
 
-| Travel Service | Cost |
-| :------------- | ---: |
-| Coach cab between towns | 3 cp per mile |
-| Coach cab within a city | 1 cp |
-| Messenger | 2 cp per mile |
-| Road or gate toll, pedestrian | 1 cp |
-| Road or gate toll, rider | 5 cp |
-| Road or gate toll, cart or sled | 2 sp |
-| Road or gate toll, carriage or wagon | 1 gp |
-| Ship's passage, berth deck hammock | 1 sp per mile |
-| Ship's passage, lower class dormitory | 5 sp per mile |
-| Ship's passage, upper class cabin | 2 gp per mile |
+- [Services](#travel-services)
+- [Mounts](#travel-mounts)
+- [Tack](#travel-tack)
+- [Land Vehicles](#travel-land-vehicles)
+- [Waterborne Vehicles](#travel-waterborne-vehicles)
 
-[(Back to Lifestyle and Travel Services)](#lifestyle-and-travel-services)
+[(Back to Top)](#)
+
+### Travel: Services
+
+| Travel Service                            |     Cost      |
+| :---------------------------------------- | :-----------: |
+| Messenger                                 | 2 cp per mile |
+| Coach cab: within a city                  |     1 cp      |
+| Coach cab: between towns                  | 3 cp per mile |
+| Road or gate toll: pedestrian             |     1 cp      |
+| Road or gate toll: rider                  |     5 cp      |
+| Road or gate toll: cart, chariot, or sled |     2 sp      |
+| Road or gate toll: carriage or wagon      |     1 gp      |
+| Ship's passage: berth deck hammock        | 1 sp per mile |
+| Ship's passage: lower class dormitory     | 5 sp per mile |
+| Ship's passage: upper class cabin         | 2 gp per mile |
+
+[(Back to Travel)](#travel)
+
+### Travel: Mounts
+
+Abbreviations:
+
+- MM: *Monster Manual*
+- Volo: *Volo's Guide to Monsters*
+
+| Mount        | Size   |   Cost | Feed per Day | Stabling per Day |   Source |
+| :----------- | :----- | -----: | :----------: | :--------------: | -------: |
+| Mule         | Medium |   8 gp | 1 cp,   2 lb |       2 sp       |   MM 333 |
+| Ox           | Large  |  15 gp | 5 cp,  10 lb |       5 sp       | Volo 207 |
+| Mastiff      | Medium |  25 gp | 1 cp,   2 lb |       2 sp       |   MM 332 |
+| Pony         | Medium |  30 gp | 1 cp,   2 lb |       2 sp       |   MM 335 |
+| Camel        | Large  |  50 gp | 5 cp,  10 lb |       5 sp       |   MM 320 |
+| Draft horse  | Large  |  50 gp | 5 cp,  10 lb |       5 sp       |   MM 321 |
+| Riding horse | Large  |  75 gp | 5 cp,  10 lb |       5 sp       |   MM 336 |
+| Elephant     | Huge   | 200 gp | 1 gp, 100 lb |       5 gp       |   MM 322 |
+| Warhorse     | Large  | 400 gp | 5 cp,  10 lb |       5 sp       |   MM 340 |
+
+[(Back to Travel)](#travel)
+
+### Travel: Tack
+
+Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor can be made as barding, but it costs and weighs more. A military saddle gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
+
+| Tack            |  Cost | Weight |
+| :-------------- | ----: | -----: |
+| Bit and bridle  |  2 gp |   1 lb |
+| Saddlebags      |  4 gp |   8 lb |
+| Pack saddle     |  5 gp |  15 lb |
+| Riding saddle   | 10 gp |  25 lb |
+| Military saddle | 20 gp |  30 lb |
+| Exotic saddle   | 60 gp |  40 lb |
+| Barding         |    ×4 |     ×2 |
+
+[(Back to Travel)](#travel)
+
+### Travel: Land Vehicles
+
+Land vehicles must be drawn by a mount. Generally, a mount can draw a land vehicle one size larger than itself, and multiple mounts can be used to draw a land vehicle faster.
+
+| Land Vehicle | Size  |   Cost | Weight |
+| :----------- | :---- | -----: | -----: |
+| Cart         | Large |  15 gp | 200 lb |
+| Sled         | Large |  20 gp | 300 lb |
+| Wagon        | Huge  |  35 gp | 400 lb |
+| Carriage     | Huge  | 100 gp | 600 lb |
+| Chariot      | Large | 250 gp | 100 lb |
+
+[(Back to Travel)](#travel)
+
+### Travel: Waterborne Vehicles
+
+The speed of a waterborne vehicle depends on the speed and direction of the water current. A typical water current speed is about 3 mph. Add the speed of the water current to the vehicle's speed while taking the directions into account to determine the vehicle's net speed. If a vehicle is using sails, its listed speed assumes there is a decent breeze and that the vehicle is sailing with the wind; sailing into the wind is much slower.
+
+| Waterborne Vehicle | Capacity                                 | Propulsion    | Speed  |      Cost |
+| :----------------- | :--------------------------------------- | :------------ | :----- | --------: |
+| Canoe              | 2 crew, 200 lb cargo                     | Paddles       | 1½ mph |     30 gp |
+| Rowboat            | 2 crew, 2 passengers, 400 lb cargo       | Oars          | 1½ mph |     50 gp |
+| Keelboat           | 3 crew, 4 passengers, 1,000 lb cargo     | Oars or sails | 1 mph  |  3,000 gp |
+| Longship           | 40 crew, 100 passengers, 20,000 lb cargo | Oars or sails | 3 mph  | 10,000 gp |
+| Sailing ship       | 30 crew, 20 passengers, 200,000 lb cargo | Sails         | 2 mph  | 10,000 gp |
+| Warship            | 40 crew, 60 passengers, 400,000 lb cargo | Oars or sails | 2½ mph | 25,000 gp |
+| Galley             | 80 crew, 40 passengers, 300,000 lb cargo | Oars or sails | 4 mph  | 30,000 gp |
+
+[(Back to Travel)](#travel)
 
 ## Spellcasting Services
 
