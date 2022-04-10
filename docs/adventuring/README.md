@@ -4,6 +4,7 @@
 - **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 - **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Squeezing](#condition-squeezing), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
 - **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
+- **[Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts)**
 
 [(Back to Main Page)](../../#)
 
@@ -706,3 +707,135 @@
 - Creatures and objects that are fully immersed in water have resistance to fire damage.
 
 [(Back to Circumstances)](#circumstances)
+
+## Wild Shape and Polymorph Beasts
+
+The following table lists all beasts. The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
+
+Abbreviations:
+
+- Eber: *Eberron: Rising from the Last War*
+- MM: *Monster Manual*
+- Volo: *Volo's Guide to Monsters*
+
+| CR    | Name | Size | Source |
+| :---: | :--- | :--- | -----: |
+| CR 0 | Baboon (climb) | Small | MM 318 |
+| CR 0 | Badger (burrow) | Tiny | MM 318 |
+| CR 0 | Bat (fly) | Tiny | MM 318 |
+| CR 0 | Beetle, fire, giant | Small | MM 325 |
+| CR 0 | Cat (climb) | Tiny | MM 320 |
+| CR 0 | Crab (swim) | Tiny | MM 320 |
+| CR 0 | Deer | Med. | MM 321 |
+| CR 0 | Eagle (fly) | Small | MM 322 |
+| CR 0 | Frog (swim) | Tiny | MM 322 |
+| CR 0 | Goat | Med. | MM 330 |
+| CR 0 | Hawk (fly) | Tiny | MM 330 |
+| CR 0 | Hyena | Med. | MM 331 |
+| CR 0 | Jackal | Small | MM 331 |
+| CR 0 | Lizard (climb) | Tiny | MM 332 |
+| CR 0 | Octopus (swim) | Small | MM 333 |
+| CR 0 | Owl (fly) | Tiny | MM 333 |
+| CR 0 | Quipper (swim) | Tiny | MM 335 |
+| CR 0 | Rat | Tiny | MM 335 |
+| CR 0 | Rat, cranium | Tiny | Volo 133 |
+| CR 0 | Raven (fly) | Tiny | MM 335 |
+| CR 0 | Scorpion | Tiny | MM 337 |
+| CR 0 | Sea horse (swim) | Tiny | MM 337 |
+| CR 0 | Spider (climb) | Tiny | MM 337 |
+| CR 0 | Vulture (fly) | Med. | MM 339 |
+| CR 0 | Weasel | Tiny | MM 340 |
+| CR ⅛ | Camel | Large | MM 320 |
+| CR ⅛ | Crab, giant (swim) | Med. | MM 324 |
+| CR ⅛ | Dolphin (swim) | Med. | Volo 208 |
+| CR ⅛ | Hawk, blood (fly) | Small | MM 319 |
+| CR ⅛ | Mastiff | Med. | MM 332 |
+| CR ⅛ | Mule | Med. | MM 333 |
+| CR ⅛ | Pony | Med. | MM 335 |
+| CR ⅛ | Rat, giant | Small | MM 327 |
+| CR ⅛ | Snake, flying (swim) (fly) | Tiny | MM 322 |
+| CR ⅛ | Snake, poisonous (swim) | Tiny | MM 334 |
+| CR ⅛ | Stirge (fly) | Tiny | MM 284 |
+| CR ⅛ | Weasel, giant | Med. | MM 329 |
+| CR ¼ | Axe beak | Large | MM 317 |
+| CR ¼ | Badger, giant (burrow) | Med. | MM 323 |
+| CR ¼ | Bat swarm (fly) | Med. | MM 337 |
+| CR ¼ | Bat, giant (fly) | Large | MM 323 |
+| CR ¼ | Boar | Med. | MM 319 |
+| CR ¼ | Centipede, giant (climb) | Small | MM 323 |
+| CR ¼ | Cow | Large | Volo 207 |
+| CR ¼ | Dinosaur, dimetrodon (swim) | Med. | Volo 139 |
+| CR ¼ | Dinosaur, fastieth | Med. | Eber 289 |
+| CR ¼ | Dinosaur, hadrosaurus | Large | Volo 140 |
+| CR ¼ | Dinosaur, pteranodon (fly) | Med. | MM 80 |
+| CR ¼ | Dinosaur, velociraptor | Tiny | Volo 140 |
+| CR ¼ | Draft horse | Large | MM 321 |
+| CR ¼ | Elk | Large | MM 322 |
+| CR ¼ | Frog, giant (swim) | Med. | MM 325 |
+| CR ¼ | Lizard, giant (climb) | Large | MM 326 |
+| CR ¼ | Owl, giant (fly) | Large | MM 327 |
+| CR ¼ | Ox | Large | Volo 207 |
+| CR ¼ | Panther (climb) | Med. | MM 333 |
+| CR ¼ | Rat swarm | Med. | MM 339 |
+| CR ¼ | Raven swarm (fly) | Med. | MM 339 |
+| CR ¼ | Riding horse | Large | MM 336 |
+| CR ¼ | Rothé | Large | Volo 207 |
+| CR ¼ | Rothé, deep | Med. | Volo 207 |
+| CR ¼ | Snake, constrictor (swim) | Large | MM 320 |
+| CR ¼ | Snake, poisonous, giant (swim) | Med. | MM 327 |
+| CR ¼ | Spider, wolf, giant (climb) | Med. | MM 330 |
+| CR ¼ | Wolf | Med. | MM 341 |
+| CR ½ | Ape (climb) | Med. | MM 317 |
+| CR ½ | Bear, black (climb) | Med. | MM 318 |
+| CR ½ | Beetle swarm (climb) (burrow) | Med. | MM 338 |
+| CR ½ | Centipede swarm (climb) | Med. | MM 338 |
+| CR ½ | Crocodile (swim) | Large | MM 320 |
+| CR ½ | Goat, giant | Large | MM 326 |
+| CR ½ | Rot grub swarm (climb) | Med. | Volo 208 |
+| CR ½ | Sea horse, giant (swim) | Large | MM 328 |
+| CR ½ | Shark, reef (swim) | Med. | MM 336 |
+| CR ½ | Spider swarm (climb) | Med. | MM 338 |
+| CR ½ | Warhorse | Large | MM 340 |
+| CR ½ | Wasp swarm (fly) | Med. | MM 338 |
+| CR ½ | Wasp, giant (fly) | Med. | MM 329 |
+| CR 1 | Bear, brown (climb) | Large | MM 319 |
+| CR 1 | Dinosaur, clawfoot | Med. | Eber 289 |
+| CR 1 | Dinosaur, deinonychus | Med. | Volo 139 |
+| CR 1 | Eagle, giant (fly) | Large | MM 324 |
+| CR 1 | Hyena, giant | Large | MM 326 |
+| CR 1 | Lion | Large | MM 331 |
+| CR 1 | Octopus, giant (swim) | Large | MM 326 |
+| CR 1 | Quipper swarm (swim) | Med. | MM 338 |
+| CR 1 | Spider, giant (climb) | Large | MM 328 |
+| CR 1 | Tiger | Large | MM 339 |
+| CR 1 | Toad, giant (swim) | Large | MM 329 |
+| CR 1 | Vulture, giant (fly) | Large | MM 329 |
+| CR 1 | Wolf, dire | Large | MM 321 |
+| CR 2 | Aurochs | Large | Volo 207 |
+| CR 2 | Bear, cave (swim) | Large | MM 334 |
+| CR 2 | Bear, polar (swim) | Large | MM 334 |
+| CR 2 | Boar, giant | Large | MM 323 |
+| CR 2 | Dinosaur, allosaurus | Large | MM 79 |
+| CR 2 | Dinosaur, plesiosaurus (swim) | Large | MM 80 |
+| CR 2 | Dinosaur, quetzalcoatlus (fly) | Huge | Volo 140 |
+| CR 2 | Elk, giant | Huge | MM 325 |
+| CR 2 | Rhinoceros | Large | MM 336 |
+| CR 2 | Shark, hunter (swim) | Large | MM 330 |
+| CR 2 | Snake, constrictor, giant (swim) | Huge | MM 324 |
+| CR 2 | Snake, poisonous, swarm (swim) | Med. | MM 338 |
+| CR 2 | Tiger, saber-toothed | Large | MM 336 |
+| CR 3 | Dinosaur, ankylosaurus | Huge | MM 79 |
+| CR 3 | Killer whale (swim) | Huge | MM 331 |
+| CR 3 | Scorpion, giant | Large | MM 327 |
+| CR 4 | Dinosaur, stegosaurus | Huge | Volo 140 |
+| CR 4 | Elephant | Huge | MM 322 |
+| CR 5 | Crocodile, giant (swim) | Huge | MM 324 |
+| CR 5 | Dinosaur, brontosaurus | Garg. | Volo 139 |
+| CR 5 | Dinosaur, triceratops | Huge | MM 80 |
+| CR 5 | Rat, cranium, swarm (spells) | Med. | Volo 133 |
+| CR 5 | Shark, giant (swim) | Huge | MM 328 |
+| CR 6 | Mammoth | Huge | MM 332 |
+| CR 7 | Ape, giant (climb) | Huge | MM 323 |
+| CR 8 | Dinosaur, tyrannosaurus rex | Huge | MM 80 |
+
+[(Back to Top)](#)
