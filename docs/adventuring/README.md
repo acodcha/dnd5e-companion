@@ -4,7 +4,7 @@
 - **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 - **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Squeezing](#condition-squeezing), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
 - **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
-- **[Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts):** [Challenge Rating 0](#wild-shape-and-polymorph-beasts-challenge-rating-0), [Challenge Rating ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-⅛), [Challenge Rating ¼](#wild-shape-and-polymorph-beasts-challenge-rating-¼), [Challenge Rating ½](#wild-shape-and-polymorph-beasts-challenge-rating-½), [Challenge Rating 1](#wild-shape-and-polymorph-beasts-challenge-rating-1), [Challenge Rating 2](#wild-shape-and-polymorph-beasts-challenge-rating-2), [Challenge Rating 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
+- **[Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts):** [CR 0](#wild-shape-and-polymorph-beasts-challenge-rating-0), [CR ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-), [CR ¼](#wild-shape-and-polymorph-beasts-challenge-rating--1), [CR ½](#wild-shape-and-polymorph-beasts-challenge-rating--2), [CR 1](#wild-shape-and-polymorph-beasts-challenge-rating-1), [CR 2](#wild-shape-and-polymorph-beasts-challenge-rating-2), [CR 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
 
 [(Back to Main Page)](../../#)
 
@@ -710,13 +710,13 @@
 
 ## Wild Shape and Polymorph Beasts
 
-- [Challenge Rating 0](#wild-shape-and-polymorph-beasts-challenge-rating-0)
-- [Challenge Rating ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-⅛)
-- [Challenge Rating ¼](#wild-shape-and-polymorph-beasts-challenge-rating-¼)
-- [Challenge Rating ½](#wild-shape-and-polymorph-beasts-challenge-rating-½)
-- [Challenge Rating 1](#wild-shape-and-polymorph-beasts-challenge-rating-1)
-- [Challenge Rating 2](#wild-shape-and-polymorph-beasts-challenge-rating-2)
-- [Challenge Rating 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
+- [CR 0](#wild-shape-and-polymorph-beasts-challenge-rating-0)
+- [CR ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-)
+- [CR ¼](#wild-shape-and-polymorph-beasts-challenge-rating--1)
+- [CR ½](#wild-shape-and-polymorph-beasts-challenge-rating--2)
+- [CR 1](#wild-shape-and-polymorph-beasts-challenge-rating-1)
+- [CR 2](#wild-shape-and-polymorph-beasts-challenge-rating-2)
+- [CR 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
 
 [(Back to Top)](#)
 
