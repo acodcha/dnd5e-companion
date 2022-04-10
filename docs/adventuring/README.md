@@ -718,6 +718,8 @@
 - [Challenge Rating 2](#wild-shape-and-polymorph-beasts-challenge-rating-2)
 - [Challenge Rating 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
 
+[(Back to Top)](#)
+
 The following tables list all beasts. The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
 
 Abbreviations:
