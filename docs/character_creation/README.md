@@ -7,7 +7,7 @@
 - **[Alignment](#alignment)**
 - **[Languages](#languages)**
 - **[Personality Traits](#personality-traits)**
-- **[Ideals](#ideals):** [Any Alignment](#ideals-any-alignment), [Lawful Alignment](#ideals-lawful-alignment), [Good Alignment](#ideals-good-alignment), [Neutral Alignment](#ideals-neutral-alignment), [Chaotic Alignment](#ideals-chaotic-alignment), [Evil Alignment](#ideals-evil-alignment)
+- **[Ideals](#ideals):** [Any Alignment](#ideals-any-alignment), [Good Alignment](#ideals-good-alignment), [Lawful Alignment](#ideals-lawful-alignment), [Neutral Alignment](#ideals-neutral-alignment), [Chaotic Alignment](#ideals-chaotic-alignment), [Evil Alignment](#ideals-evil-alignment)
 - **[Bonds](#bonds)**
 - **[Flaws](#flaws)**
 
@@ -390,8 +390,8 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 ## Ideals
 
 - [Any Alignment](#ideals-any-alignment)
-- [Lawful Alignment](#ideals-lawful-alignment)
 - [Good Alignment](#ideals-good-alignment)
+- [Lawful Alignment](#ideals-lawful-alignment)
 - [Neutral Alignment](#ideals-neutral-alignment)
 - [Chaotic Alignment](#ideals-chaotic-alignment)
 - [Evil Alignment](#ideals-evil-alignment)
@@ -400,6 +400,8 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 ### Ideals: Any Alignment
 
+| Ideal | Background | Source |
+| :---- | :--------- | -----: |
 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. | Acolyte | PHB 127 |
 | Aspiration. I work hard to be the best there is at my craft. | Guild Artisan | PHB 132 |
 | Aspiration. I'm determined to make something of myself. | Charlatan | PHB 128 |
@@ -420,34 +422,10 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 [(Back to Ideals)](#ideals)
 
-### Ideals: Lawful Alignment
-
-| Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. | Guild Artisan | PHB 132 |
-| Community. We have to take care of each other, because no one else is going to do it. | Urchin | PHB 141 |
-| Fairness. I never target people who can't afford to lose a few coins. | Charlatan | PHB 128 |
-| Fairness. No one should get preferential treatment before the law, and no one is above the law. | Folk Hero | PHB 131 |
-| Fairness. We all do the work, so we all share in the rewards. | Sailor | PHB 139 |
-| Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. | Acolyte | PHB 127 |
-| Honor. I don't steal from others in the trade. | Criminal | PHB 129 |
-| Honor. If I dishonor myself, I dishonor my whole clan. | Outlander | PHB 136 |
-| Justice. A nation built upon just foundations will uphold freedom for all. | Grinner | Wild 200 |
-| Logic. Emotions must not cloud our logical thinking. | Sage | PHB 137 |
-| Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. | Hermit | PHB 134 |
-| Order. The will of the crown is absolute. | Volstrucker Agent | Wild 202 |
-| Power. I hope to one day rise to the top of my faith's religious hierarchy. | Acolyte | PHB 127 |
-| Reserved. As someone new to these strange lands, I am cautious and respectful in my dealings. | Far Traveler | SCAG 148 |
-| Responsibility. I do what I must and obey just authority. | Soldier | PHB 140 |
-| Responsibility. It is my duty to respect the authority of those above me, just as those below me must respect mine. | Noble | PHB 135 |
-| Tradition. Every game has rules, and the playing field must be level. | Athlete | Ther 31 |
-| Tradition. I uphold traditions of my house and bring honor to my family. | House Agent | Eber 53 |
-| Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. | Acolyte | PHB 127 |
-| Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. | Entertainer | PHB 130 |
-| True Loyalty. The Cerberus Assembly is greater than any power, even the crown. | Volstrucker Agent | Wild 202 |
-
-[(Back to Ideals)](#ideals)
-
 ### Ideals: Good Alignment
 
+| Ideal | Background | Source |
+| :---- | :--------- | -----: |
 | Beauty. What is beautiful points us beyond itself toward what is true. | Sage | PHB 137 |
 | Beauty. When I perform, I make the world better than it was. | Entertainer | PHB 130 |
 | Camaraderie. The strongest bonds are forged through struggle. | Athlete | Ther 31 |
@@ -472,8 +450,38 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 [(Back to Ideals)](#ideals)
 
+### Ideals: Lawful Alignment
+
+| Ideal | Background | Source |
+| :---- | :--------- | -----: |
+| Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. | Guild Artisan | PHB 132 |
+| Community. We have to take care of each other, because no one else is going to do it. | Urchin | PHB 141 |
+| Fairness. I never target people who can't afford to lose a few coins. | Charlatan | PHB 128 |
+| Fairness. No one should get preferential treatment before the law, and no one is above the law. | Folk Hero | PHB 131 |
+| Fairness. We all do the work, so we all share in the rewards. | Sailor | PHB 139 |
+| Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. | Acolyte | PHB 127 |
+| Honor. I don't steal from others in the trade. | Criminal | PHB 129 |
+| Honor. If I dishonor myself, I dishonor my whole clan. | Outlander | PHB 136 |
+| Justice. A nation built upon just foundations will uphold freedom for all. | Grinner | Wild 200 |
+| Logic. Emotions must not cloud our logical thinking. | Sage | PHB 137 |
+| Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. | Hermit | PHB 134 |
+| Order. The will of the crown is absolute. | Volstrucker Agent | Wild 202 |
+| Power. I hope to one day rise to the top of my faith's religious hierarchy. | Acolyte | PHB 127 |
+| Reserved. As someone new to these strange lands, I am cautious and respectful in my dealings. | Far Traveler | SCAG 148 |
+| Responsibility. I do what I must and obey just authority. | Soldier | PHB 140 |
+| Responsibility. It is my duty to respect the authority of those above me, just as those below me must respect mine. | Noble | PHB 135 |
+| Tradition. Every game has rules, and the playing field must be level. | Athlete | Ther 31 |
+| Tradition. I uphold traditions of my house and bring honor to my family. | House Agent | Eber 53 |
+| Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. | Acolyte | PHB 127 |
+| Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. | Entertainer | PHB 130 |
+| True Loyalty. The Cerberus Assembly is greater than any power, even the crown. | Volstrucker Agent | Wild 202 |
+
+[(Back to Ideals)](#ideals)
+
 ### Ideals: Neutral Alignment
 
+| Ideal | Background | Source |
+| :---- | :--------- | -----: |
 | Determination. I cannot fail. Not ever. | Volstrucker Agent | Wild 202 |
 | Inquisitive. Everything is new, but I have a thirst to learn. | Far Traveler | SCAG 148 |
 | Knowledge. The path to power and self-improvement is through knowledge. | Sage | PHB 137 |
@@ -493,6 +501,8 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 ### Ideals: Chaotic Alignment
 
+| Ideal | Background | Source |
+| :---- | :--------- | -----: |
 | Adventure. I'm far from home, and everything is strange and wonderful! | Far Traveler | SCAG 148 |
 | Change. Life is like the seasons, in constant change, and we must change with it. | Outlander | PHB 136 |
 | Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things. | Urchin | PHB 141 |
@@ -517,6 +527,8 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 ### Ideals: Evil Alignment
 
+| Ideal | Background | Source |
+| :---- | :--------- | -----: |
 | Cunning. Though I may not know their ways, neither do they know mine, which can be to my advantage. | Far Traveler | SCAG 148 |
 | Death. The penalty for disloyalty is death. | Volstrucker Agent | Wild 202 |
 | Fear. People should not respect power. They should fear it. | Volstrucker Agent | Wild 202 |
@@ -540,7 +552,6 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 | Bond | Background | Source |
 | :--- | :--------- | -----: |
-
 | A powerful person killed someone I love. Some day soon, I'll have my revenge. | Charlatan | PHB 128 |
 | A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter. | Folk Hero | PHB 131 |
 | All life is precious to me. I know I can change the world without taking a humanoid life. | Grinner | Wild 200 |
@@ -654,7 +665,6 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 | Flaw | Background | Source |
 | :--- | :--------- | -----: |
-
 | A scandal prevents me from ever going home again. That kind of trouble seems to follow me around. | Entertainer | PHB 130 |
 | An innocent person is in prison for a crime that I committed. I'm okay with that. | Criminal | PHB 129 |
 | Any defeat or failure on my part is because my opponent cheated. | Athlete | Ther 31 |
