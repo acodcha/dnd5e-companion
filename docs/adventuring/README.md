@@ -4,7 +4,7 @@
 - **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 - **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Squeezing](#condition-squeezing), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
 - **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
-- **[Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts)**
+- **[Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts):** [Challenge Rating 0](#wild-shape-and-polymorph-beasts-challenge-rating-0), [Challenge Rating ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-⅛), [Challenge Rating ¼](#wild-shape-and-polymorph-beasts-challenge-rating-¼), [Challenge Rating ½](#wild-shape-and-polymorph-beasts-challenge-rating-½), [Challenge Rating 1](#wild-shape-and-polymorph-beasts-challenge-rating-1), [Challenge Rating 2](#wild-shape-and-polymorph-beasts-challenge-rating-2), [Challenge Rating 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
 
 [(Back to Main Page)](../../#)
 
@@ -710,13 +710,23 @@
 
 ## Wild Shape and Polymorph Beasts
 
-The following table lists all beasts. The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
+- [Challenge Rating 0](#wild-shape-and-polymorph-beasts-challenge-rating-0)
+- [Challenge Rating ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-⅛)
+- [Challenge Rating ¼](#wild-shape-and-polymorph-beasts-challenge-rating-¼)
+- [Challenge Rating ½](#wild-shape-and-polymorph-beasts-challenge-rating-½)
+- [Challenge Rating 1](#wild-shape-and-polymorph-beasts-challenge-rating-1)
+- [Challenge Rating 2](#wild-shape-and-polymorph-beasts-challenge-rating-2)
+- [Challenge Rating 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
+
+The following tables list all beasts. The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
 
 Abbreviations:
 
 - Eber: *Eberron: Rising from the Last War*
 - MM: *Monster Manual*
 - Volo: *Volo's Guide to Monsters*
+
+### Wild Shape and Polymorph Beasts: Challenge Rating 0
 
 | CR    | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
@@ -745,6 +755,13 @@ Abbreviations:
 | CR 0 | Spider (climb) | Tiny | MM 337 |
 | CR 0 | Vulture (fly) | Med. | MM 339 |
 | CR 0 | Weasel | Tiny | MM 340 |
+
+[(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
+
+### Wild Shape and Polymorph Beasts: Challenge Rating ⅛
+
+| CR    | Name | Size | Source |
+| :---: | :--- | :--- | -----: |
 | CR ⅛ | Camel | Large | MM 320 |
 | CR ⅛ | Crab, giant (swim) | Med. | MM 324 |
 | CR ⅛ | Dolphin (swim) | Med. | Volo 208 |
@@ -757,6 +774,13 @@ Abbreviations:
 | CR ⅛ | Snake, poisonous (swim) | Tiny | MM 334 |
 | CR ⅛ | Stirge (fly) | Tiny | MM 284 |
 | CR ⅛ | Weasel, giant | Med. | MM 329 |
+
+[(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
+
+### Wild Shape and Polymorph Beasts: Challenge Rating ¼
+
+| CR    | Name | Size | Source |
+| :---: | :--- | :--- | -----: |
 | CR ¼ | Axe beak | Large | MM 317 |
 | CR ¼ | Badger, giant (burrow) | Med. | MM 323 |
 | CR ¼ | Bat swarm (fly) | Med. | MM 337 |
@@ -785,6 +809,13 @@ Abbreviations:
 | CR ¼ | Snake, poisonous, giant (swim) | Med. | MM 327 |
 | CR ¼ | Spider, wolf, giant (climb) | Med. | MM 330 |
 | CR ¼ | Wolf | Med. | MM 341 |
+
+[(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
+
+### Wild Shape and Polymorph Beasts: Challenge Rating ½
+
+| CR    | Name | Size | Source |
+| :---: | :--- | :--- | -----: |
 | CR ½ | Ape (climb) | Med. | MM 317 |
 | CR ½ | Bear, black (climb) | Med. | MM 318 |
 | CR ½ | Beetle swarm (climb) (burrow) | Med. | MM 338 |
@@ -798,6 +829,13 @@ Abbreviations:
 | CR ½ | Warhorse | Large | MM 340 |
 | CR ½ | Wasp swarm (fly) | Med. | MM 338 |
 | CR ½ | Wasp, giant (fly) | Med. | MM 329 |
+
+[(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
+
+### Wild Shape and Polymorph Beasts: Challenge Rating 1
+
+| CR    | Name | Size | Source |
+| :---: | :--- | :--- | -----: |
 | CR 1 | Bear, brown (climb) | Large | MM 319 |
 | CR 1 | Dinosaur, clawfoot | Med. | Eber 289 |
 | CR 1 | Dinosaur, deinonychus | Med. | Volo 139 |
@@ -811,6 +849,13 @@ Abbreviations:
 | CR 1 | Toad, giant (swim) | Large | MM 329 |
 | CR 1 | Vulture, giant (fly) | Large | MM 329 |
 | CR 1 | Wolf, dire | Large | MM 321 |
+
+[(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
+
+### Wild Shape and Polymorph Beasts: Challenge Rating 2
+
+| CR    | Name | Size | Source |
+| :---: | :--- | :--- | -----: |
 | CR 2 | Aurochs | Large | Volo 207 |
 | CR 2 | Bear, cave (swim) | Large | MM 334 |
 | CR 2 | Bear, polar (swim) | Large | MM 334 |
@@ -824,6 +869,13 @@ Abbreviations:
 | CR 2 | Snake, constrictor, giant (swim) | Huge | MM 324 |
 | CR 2 | Snake, poisonous, swarm (swim) | Med. | MM 338 |
 | CR 2 | Tiger, saber-toothed | Large | MM 336 |
+
+[(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
+
+### Wild Shape and Polymorph Beasts: Challenge Rating 3+
+
+| CR    | Name | Size | Source |
+| :---: | :--- | :--- | -----: |
 | CR 3 | Dinosaur, ankylosaurus | Huge | MM 79 |
 | CR 3 | Killer whale (swim) | Huge | MM 331 |
 | CR 3 | Scorpion, giant | Large | MM 327 |
@@ -838,4 +890,4 @@ Abbreviations:
 | CR 7 | Ape, giant (climb) | Huge | MM 323 |
 | CR 8 | Dinosaur, tyrannosaurus rex | Huge | MM 80 |
 
-[(Back to Top)](#)
+[(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
