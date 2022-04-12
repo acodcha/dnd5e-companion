@@ -720,7 +720,7 @@
 
 [(Back to Top)](#)
 
-The following tables list all beasts. The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
+The following tables list all beasts (excluding swarms of beasts). The druid's Wild Shape feature and the Polymorph spell can be used to transform into these beasts.
 
 Abbreviations:
 
@@ -730,7 +730,7 @@ Abbreviations:
 
 ### Wild Shape and Polymorph Beasts: Challenge Rating 0
 
-| CR    | Name | Size | Source |
+|  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR 0 | Baboon (climb) | Small | MM 318 |
 | CR 0 | Badger (burrow) | Tiny | MM 318 |
@@ -762,7 +762,7 @@ Abbreviations:
 
 ### Wild Shape and Polymorph Beasts: Challenge Rating ⅛
 
-| CR    | Name | Size | Source |
+|  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR ⅛ | Camel | Large | MM 320 |
 | CR ⅛ | Crab, giant (swim) | Med. | MM 324 |
@@ -781,11 +781,10 @@ Abbreviations:
 
 ### Wild Shape and Polymorph Beasts: Challenge Rating ¼
 
-| CR    | Name | Size | Source |
+|  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR ¼ | Axe beak | Large | MM 317 |
 | CR ¼ | Badger, giant (burrow) | Med. | MM 323 |
-| CR ¼ | Bat swarm (fly) | Med. | MM 337 |
 | CR ¼ | Bat, giant (fly) | Large | MM 323 |
 | CR ¼ | Boar | Med. | MM 319 |
 | CR ¼ | Centipede, giant (climb) | Small | MM 323 |
@@ -802,8 +801,6 @@ Abbreviations:
 | CR ¼ | Owl, giant (fly) | Large | MM 327 |
 | CR ¼ | Ox | Large | Volo 207 |
 | CR ¼ | Panther (climb) | Med. | MM 333 |
-| CR ¼ | Rat swarm | Med. | MM 339 |
-| CR ¼ | Raven swarm (fly) | Med. | MM 339 |
 | CR ¼ | Riding horse | Large | MM 336 |
 | CR ¼ | Rothé | Large | Volo 207 |
 | CR ¼ | Rothé, deep | Med. | Volo 207 |
@@ -816,27 +813,22 @@ Abbreviations:
 
 ### Wild Shape and Polymorph Beasts: Challenge Rating ½
 
-| CR    | Name | Size | Source |
+|  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR ½ | Ape (climb) | Med. | MM 317 |
 | CR ½ | Bear, black (climb) | Med. | MM 318 |
-| CR ½ | Beetle swarm (climb) (burrow) | Med. | MM 338 |
-| CR ½ | Centipede swarm (climb) | Med. | MM 338 |
 | CR ½ | Crocodile (swim) | Large | MM 320 |
 | CR ½ | Goat, giant | Large | MM 326 |
-| CR ½ | Rot grub swarm (climb) | Med. | Volo 208 |
 | CR ½ | Sea horse, giant (swim) | Large | MM 328 |
 | CR ½ | Shark, reef (swim) | Med. | MM 336 |
-| CR ½ | Spider swarm (climb) | Med. | MM 338 |
 | CR ½ | Warhorse | Large | MM 340 |
-| CR ½ | Wasp swarm (fly) | Med. | MM 338 |
 | CR ½ | Wasp, giant (fly) | Med. | MM 329 |
 
 [(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
 
 ### Wild Shape and Polymorph Beasts: Challenge Rating 1
 
-| CR    | Name | Size | Source |
+|  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR 1 | Bear, brown (climb) | Large | MM 319 |
 | CR 1 | Dinosaur, clawfoot | Med. | Eber 289 |
@@ -845,7 +837,6 @@ Abbreviations:
 | CR 1 | Hyena, giant | Large | MM 326 |
 | CR 1 | Lion | Large | MM 331 |
 | CR 1 | Octopus, giant (swim) | Large | MM 326 |
-| CR 1 | Quipper swarm (swim) | Med. | MM 338 |
 | CR 1 | Spider, giant (climb) | Large | MM 328 |
 | CR 1 | Tiger | Large | MM 339 |
 | CR 1 | Toad, giant (swim) | Large | MM 329 |
@@ -856,7 +847,7 @@ Abbreviations:
 
 ### Wild Shape and Polymorph Beasts: Challenge Rating 2
 
-| CR    | Name | Size | Source |
+|  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR 2 | Aurochs | Large | Volo 207 |
 | CR 2 | Bear, cave (swim) | Large | MM 334 |
@@ -869,14 +860,13 @@ Abbreviations:
 | CR 2 | Rhinoceros | Large | MM 336 |
 | CR 2 | Shark, hunter (swim) | Large | MM 330 |
 | CR 2 | Snake, constrictor, giant (swim) | Huge | MM 324 |
-| CR 2 | Snake, poisonous, swarm (swim) | Med. | MM 338 |
 | CR 2 | Tiger, saber-toothed | Large | MM 336 |
 
 [(Back to Wild Shape and Polymorph Beasts)](#wild-shape-and-polymorph-beasts)
 
 ### Wild Shape and Polymorph Beasts: Challenge Rating 3+
 
-| CR    | Name | Size | Source |
+|  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR 3 | Dinosaur, ankylosaurus | Huge | MM 79 |
 | CR 3 | Killer whale (swim) | Huge | MM 331 |
@@ -886,7 +876,6 @@ Abbreviations:
 | CR 5 | Crocodile, giant (swim) | Huge | MM 324 |
 | CR 5 | Dinosaur, brontosaurus | Garg. | Volo 139 |
 | CR 5 | Dinosaur, triceratops | Huge | MM 80 |
-| CR 5 | Rat, cranium, swarm (spells) | Med. | Volo 133 |
 | CR 5 | Shark, giant (swim) | Huge | MM 328 |
 | CR 6 | Mammoth | Huge | MM 332 |
 | CR 7 | Ape, giant (climb) | Huge | MM 323 |
