@@ -223,51 +223,56 @@ Flying speeds apply to horizontal and downwards flight. Upwards flight is more s
 
 ### Adventuring: Falling
 
-Falling damage increases quadratically rather than linearly with distance fallen, up to a maximum of 100d6 damage:
+When you fall, if you are conscious, subtract your running high jump distance (a number of feet equal to 3 + your Strength modifier) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. You can make a Dexterity saving throw to halve the damage taken. The DC for this save equals 10 + 1 for each 10 ft of effective fall distance. You fall prone if you take any damage from falling.
 
-- Falling 10 feet deals 1d6 (4) bludgeoning damage.
-- Falling 20 feet deals 4d6 (14) bludgeoning damage.
-- Falling 30 feet deals 9d6 (32) bludgeoning damage.
-- Falling 40 feet deals 16d6 (56) bludgeoning damage.
-- Falling 50 feet deals 25d6 (88) bludgeoning damage.
-- Falling 60 feet deals 36d6 (126) bludgeoning damage.
-- Falling 70 feet deals 49d6 (172) bludgeoning damage.
-- Falling 80 feet deals 64d6 (224) bludgeoning damage.
-- Falling 90 feet deals 81d6 (284) bludgeoning damage.
-- Falling 100 feet deals 100d6 (350) bludgeoning damage.
+|  Distance  | Save DC | Tiny  | Small | Medium | Large | Huge  | Garg. |
+| :--------: | :-----: | :---: | :---: | :----: | :---: | :---: | :---: |
+|   0–9 ft   |    –    |   –   |   –   |    –   |   –   |   –   |   –   |
+|  10–19 ft  |   11    |   –   |   –   |   1d8  |  1d10 |  1d12 |  1d20 |
+|  20–29 ft  |   12    |   –   |  1d6  |   3d8  |  3d10 |  3d12 |  3d20 |
+|  30–39 ft  |   13    |  1d4  |  3d6  |   6d8  |  6d10 |  6d12 |  6d20 |
+|  40–49 ft  |   14    |  1d4  |  6d6  |  10d8  | 10d10 | 10d12 | 10d20 |
+|  50–59 ft  |   15    |  2d4  | 10d6  |  15d8  | 15d10 | 15d12 | 15d20 |
+|  60–69 ft  |   16    |  2d4  | 15d6  |  20d8  | 20d10 | 20d12 | 20d20 |
+|  70–79 ft  |   17    |  3d4  | 20d6  |  25d8  | 25d10 | 25d12 | 25d20 |
+|  80–89 ft  |   18    |  3d4  | 25d6  |  30d8  | 30d10 | 30d12 | 30d20 |
+|  90–99 ft  |   19    |  4d4  | 30d6  |  35d8  | 35d10 | 35d12 | 35d20 |
+| 100–109 ft |   20    |  4d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 110–119 ft |   21    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 120–129 ft |   22    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 130–139 ft |   23    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 140–149 ft |   24    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 150–159 ft |   25    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 160–169 ft |   26    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 170–179 ft |   27    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 180–189 ft |   28    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+| 190–199 ft |   29    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
+|   200+ ft  |   30    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
 
 [(Back to Adventuring)](#adventuring)
 
 ### Adventuring: Travel
 
-Your speed determines your travel pace.
+Your speed determines your normal travel pace as shown in the following table.
 
-| Speed  | Hourly Travel Pace | Daily Travel Pace |
-| :----: | :----------------: | :---------------: |
-|   5 ft |  ½ miles/hour |  4 miles/day |
-|  10 ft |  1 miles/hour |  8 miles/day |
-|  15 ft | 1½ miles/hour | 12 miles/day |
-|  20 ft |  2 miles/hour | 16 miles/day |
-|  25 ft | 2½ miles/hour | 20 miles/day |
-|  30 ft |  3 miles/hour | 24 miles/day |
-|  35 ft | 3½ miles/hour | 28 miles/day |
-|  40 ft |  4 miles/hour | 32 miles/day |
-|  50 ft |  5 miles/hour | 40 miles/day |
-|  60 ft |  6 miles/hour | 48 miles/day |
-|  70 ft |  7 miles/hour | 56 miles/day |
-|  80 ft |  8 miles/hour | 64 miles/day |
-|  90 ft |  9 miles/hour | 72 miles/day |
-| 100 ft | 10 miles/hour | 80 miles/day |
-| 110 ft | 11 miles/hour | 88 miles/day |
-| 120 ft | 12 miles/hour | 96 miles/day |
+| Speed  | Hourly Pace | Daily Pace |       | Speed  | Hourly Pace | Daily Pace |
+| :----: | :---------: | :--------: | :---: | :----: | :---------: | :--------: |
+|   5 ft |   ½ mi/hr   |  4 mi/day  |       |  50 ft |   5 mi/hr   | 40 mi/day  |
+|  10 ft |   1 mi/hr   |  8 mi/day  |       |  60 ft |   6 mi/hr   | 48 mi/day  |
+|  15 ft |  1½ mi/hr   | 12 mi/day  |       |  70 ft |   7 mi/hr   | 56 mi/day  |
+|  20 ft |   2 mi/hr   | 16 mi/day  |       |  80 ft |   8 mi/hr   | 64 mi/day  |
+|  25 ft |  2½ mi/hr   | 20 mi/day  |       |  90 ft |   9 mi/hr   | 72 mi/day  |
+|  30 ft |   3 mi/hr   | 24 mi/day  |       | 100 ft |  10 mi/hr   | 80 mi/day  |
+|  35 ft |  3½ mi/hr   | 28 mi/day  |       | 110 ft |  11 mi/hr   | 88 mi/day  |
+|  40 ft |   4 mi/hr   | 32 mi/day  |       | 120 ft |  12 mi/hr   | 96 mi/day  |
 
-Your travel pace assumes you are traveling on a paved road, over flat terrain, and in good weather. Various circumstances affect your travel pace:
+Terrain affects your travel pace:
 
-- Unpaved path: reduces your travel pace by one quarter.
-- Cross-country: reduces your travel pace by half.
-- Hilly or mountainous terrain: reduces your travel pace by half.
-- Bad weather: reduces your travel pace by half.
+- Paved road: normal travel pace.
+- Unpaved path: reduces your travel pace to three quarters of its normal value.
+- Cross-country through normal terrain such as grass, soil, or rock: reduces your travel pace to half its normal value.
+- Cross-country through difficult terrain such as sand, mud, forests, swamps, hills, mountains, ice, or snow: reduces your travel pace to one quarter of its normal value.
 
-These circumstances interact multiplicatively.
+Bad weather such as heavy rains, blizzards, or hurricane winds can slow your travel pace even further.
 
 [(Back to Adventuring)](#adventuring)
