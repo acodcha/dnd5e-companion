@@ -10,7 +10,7 @@
 
 ## Consent
 
-The players and the Game Master must each carefully read and fill out the [RPG Consent Checklist](https://mcpl.info/sites/default/files/images/consent-in-gaming-form-fillable-checklist-2019-09-13.pdf) and hand it over to the Game Master before the start of the campaign. The Game Master then aggregates and anonymizes the results and posts them for the gaming group to see. Players and the Game Master are expected to adhere to these restrictions on RPG story elements during play. Failure to do so results in warnings, and serious or repeated offences result in expulsion from the gaming group.
+The players and the Game Master must each carefully read and fill out the [RPG Consent Checklist](https://mcpl.info/sites/default/files/images/consent-in-gaming-form-fillable-checklist-2019-09-13.pdf) and hand it over to the Game Master before the start of the campaign. The Game Master then aggregates and anonymizes the results and posts them for the gaming group to see. Players and the Game Master are expected to adhere to these restrictions on story elements during play. Failure to do so will result in warnings, and serious or repeated offences will result in expulsion from the gaming group.
 
 [(Back to Top)](#)
 
