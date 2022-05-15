@@ -3,7 +3,7 @@
 - **[Consent](#consent)**
 - **[Character Creation](#character-creation):** [Basics](#character-creation-basics), [Race and Class](#character-creation-race-and-class), [Background and Personality](#character-creation-background-and-personality), [Backstory and Portrait](#character-creation-backstory-and-portrait)
 - **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
-- **[Progression](#progression):** [Levelling](#progression-levelling), [Absenteeism](#progression-absenteeism), [Death and Retirement](#progression-death-and-retirement)
+- **[Advancement](#advancement):** [Levelling](#advancement-levelling), [Absenteeism](#advancement-absenteeism), [Death and Retirement](#advancement-death-and-retirement)
 - **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
 
 [(Back to Main Page)](../../#)
@@ -50,7 +50,7 @@ Above 1st level, you may multiclass. Your multiclass selections must make sense 
 You may customize your background as described in the *Player's Handbook*. In summary:
 
 - **Skill Proficiencies:** Each background grants proficiency in two skills. You may choose any two skills.
-- **Language and Tool Proficiencies:** Each background grants proficiency in either two languages, two tools, or one language and one tool. You may choose any of these categories, and make any choices within that category. Languages and tools are described in the *Player's Handbook*. Additional details regarding tools are described in *Xanathar's Guide to Everything*.
+- **Language and Tool Proficiencies:** Each background grants proficiency in either two languages, two tools, or one language and one tool. You may choose any of these three options, and make any choices within that option. Languages and tools are described in the *Player's Handbook*. Additional details regarding tools are described in *Xanathar's Guide to Everything*.
 - **Starting Equipment:** Since we are using the variant rule where you start with coinage instead of equipment, you do not receive any starting coinage or equipment from your background.
 - **Feature:** Each background grants a passive feature. This is what effectively identifies the background, so you gain this feature as usual.
 
@@ -162,21 +162,21 @@ Magic items have costs and can be purchased and sold. However, buyers and seller
 
 [(Back to Equipment)](#equipment)
 
-## Progression
+## Advancement
 
-- [Levelling](#progression-levelling)
-- [Absenteeism](#progression-absenteeism)
-- [Death and Retirement](#progression-death-and-retirement)
+- [Levelling](#advancement-levelling)
+- [Absenteeism](#advancement-absenteeism)
+- [Death and Retirement](#advancement-death-and-retirement)
 
 [(Back to Top)](#)
 
-### Progression: Levelling
+### Advancement: Levelling
 
 Your character can only level-up in-between game sessions. When you acquire enough experience points to level-up, wait until the end of the game session to do so.
 
-[(Back to Progression)](#progression)
+[(Back to Advancement)](#advancement)
 
-### Progression: Absenteeism
+### Advancement: Absenteeism
 
 If you are absent during a game session, your character "fades into the background": you are assumed to follow the adventuring party around, but you cannot directly impact the game, and the game cannot directly impact you. While absent, you do not receive any experience points or treasure except for quest rewards.
 
@@ -184,15 +184,15 @@ Strictly more than half of all players must be present for a game session to tak
 
 If a player is present at the game table, they gain experience points. Experience points are considered to be a property of the player that carry over to the player's current character. Thus, experience points transfer from a player's dead or retired character to their next character.
 
-[(Back to Progression)](#progression)
+[(Back to Advancement)](#advancement)
 
-### Progression: Death and Retirement
+### Advancement: Death and Retirement
 
 If your character dies or retires, you may make a new character. Your new character starts with the same total experience points as your previous one. Consult the game master when making a new character.
 
 Unlike experience points, treasure and equipment is lost when your character dies or retires. If you have enough experience points for your new character to start at 2nd level or higher, you start with additional wealth, which you can use to purchase additional mundane or magic equipment in addition to your normal 1st-level starting equipment. Your additional starting wealth depends on your level; see [Character Creation – Starting Wealth](../character_creation/#starting-wealth).
 
-[(Back to Progression)](#progression)
+[(Back to Advancement)](#advancement)
 
 ## Adventuring
 
