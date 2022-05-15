@@ -4,7 +4,7 @@
 - **[Character Creation](#character-creation):** [Basics](#character-creation-basics), [Race and Class](#character-creation-race-and-class), [Background and Personality](#character-creation-background-and-personality), [Backstory and Portrait](#character-creation-backstory-and-portrait)
 - **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
 - **[Progression](#progression):** [Levelling](#progression-levelling), [Absenteeism](#progression-absenteeism), [Death and Retirement](#progression-death-and-retirement)
-- **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling), [Travel](#adventuring-travel)
+- **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
 
 [(Back to Main Page)](../../#)
 
@@ -199,7 +199,6 @@ Unlike experience points, treasure and equipment is lost when your character die
 - [Going Unconscious](#adventuring-going-unconscious)
 - [Movement](#adventuring-movement)
 - [Falling](#adventuring-falling)
-- [Travel](#adventuring-travel)
 
 [(Back to Top)](#)
 
@@ -223,56 +222,25 @@ Flying speeds apply to horizontal and downwards flight. Upwards flight is more s
 
 ### Adventuring: Falling
 
-When you fall, if you are conscious, subtract your running high jump distance (a number of feet equal to 3 + your Strength modifier) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. You can make a Dexterity saving throw to halve the damage taken. The DC for this save equals 10 + 1 for each 10 ft of effective fall distance. You fall prone if you take any damage from falling.
+When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. You can make a Dexterity saving throw to halve the damage taken. The DC for this save equals 10 + 1 for each 10 ft of effective fall distance. You fall prone if you take any damage from falling. Landing in water or on some similarly soft or deformable ground halves this damage.
 
-|  Distance  | Save DC | Tiny  | Small | Medium | Large | Huge  | Garg. |
-| :--------: | :-----: | :---: | :---: | :----: | :---: | :---: | :---: |
-|   0–9 ft   |    –    |   –   |   –   |    –   |   –   |   –   |   –   |
-|  10–19 ft  |   11    |   –   |   –   |   1d8  |  1d10 |  1d12 |  1d20 |
-|  20–29 ft  |   12    |   –   |  1d6  |   3d8  |  3d10 |  3d12 |  3d20 |
-|  30–39 ft  |   13    |  1d4  |  3d6  |   6d8  |  6d10 |  6d12 |  6d20 |
-|  40–49 ft  |   14    |  1d4  |  6d6  |  10d8  | 10d10 | 10d12 | 10d20 |
-|  50–59 ft  |   15    |  2d4  | 10d6  |  15d8  | 15d10 | 15d12 | 15d20 |
-|  60–69 ft  |   16    |  2d4  | 15d6  |  20d8  | 20d10 | 20d12 | 20d20 |
-|  70–79 ft  |   17    |  3d4  | 20d6  |  25d8  | 25d10 | 25d12 | 25d20 |
-|  80–89 ft  |   18    |  3d4  | 25d6  |  30d8  | 30d10 | 30d12 | 30d20 |
-|  90–99 ft  |   19    |  4d4  | 30d6  |  35d8  | 35d10 | 35d12 | 35d20 |
-| 100–109 ft |   20    |  4d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 110–119 ft |   21    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 120–129 ft |   22    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 130–139 ft |   23    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 140–149 ft |   24    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 150–159 ft |   25    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 160–169 ft |   26    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 170–179 ft |   27    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 180–189 ft |   28    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-| 190–199 ft |   29    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-|   200+ ft  |   30    |  5d4  | 30d6  |  40d8  | 40d10 | 40d12 | 40d20 |
-
-[(Back to Adventuring)](#adventuring)
-
-### Adventuring: Travel
-
-Your speed determines your normal travel pace as shown in the following table.
-
-| Speed  | Hourly Pace | Daily Pace |       | Speed  | Hourly Pace | Daily Pace |
-| :----: | :---------: | :--------: | :---: | :----: | :---------: | :--------: |
-|   5 ft |   ½ mi/hr   |  4 mi/day  |       |  50 ft |   5 mi/hr   | 40 mi/day  |
-|  10 ft |   1 mi/hr   |  8 mi/day  |       |  60 ft |   6 mi/hr   | 48 mi/day  |
-|  15 ft |  1½ mi/hr   | 12 mi/day  |       |  70 ft |   7 mi/hr   | 56 mi/day  |
-|  20 ft |   2 mi/hr   | 16 mi/day  |       |  80 ft |   8 mi/hr   | 64 mi/day  |
-|  25 ft |  2½ mi/hr   | 20 mi/day  |       |  90 ft |   9 mi/hr   | 72 mi/day  |
-|  30 ft |   3 mi/hr   | 24 mi/day  |       | 100 ft |  10 mi/hr   | 80 mi/day  |
-|  35 ft |  3½ mi/hr   | 28 mi/day  |       | 110 ft |  11 mi/hr   | 88 mi/day  |
-|  40 ft |   4 mi/hr   | 32 mi/day  |       | 120 ft |  12 mi/hr   | 96 mi/day  |
-
-Terrain affects your travel pace:
-
-- Paved road: normal travel pace.
-- Unpaved path: reduces your travel pace to three quarters of its normal value.
-- Cross-country through normal terrain such as grass, soil, or rock: reduces your travel pace to half its normal value.
-- Cross-country through difficult terrain such as sand, mud, forests, swamps, hills, mountains, ice, or snow: reduces your travel pace to one quarter of its normal value.
-
-Bad weather such as heavy rains, blizzards, or hurricane winds can slow your travel pace even further.
+|  Distance  | Save DC | Tiny  | Small | Medium | Large  |  Huge  | Garg.  |
+| :--------: | :-----: | :---: | :---: | :----: | :----: | :----: | :----: |
+|   0–9 ft   |    –    |   –   |    –  |    –   |    –   |    –   |    –   |
+|  10–19 ft  |   11    |   –   |    –  |   1d8  |   1d10 |   1d12 |   1d20 |
+|  20–29 ft  |   12    |   –   |   1d6 |   3d8  |   3d10 |   3d12 |   3d20 |
+|  30–39 ft  |   13    |  1d4  |   3d6 |   6d8  |   6d10 |   6d12 |   6d20 |
+|  40–49 ft  |   14    |  3d4  |   6d6 |  10d8  |  10d10 |  10d12 |  10d20 |
+|  50–59 ft  |   15    |  6d4  |  10d6 |  15d8  |  15d10 |  15d12 |  15d20 |
+|  60–69 ft  |   16    | 10d4  |  15d6 |  21d8  |  21d10 |  21d12 |  21d20 |
+|  70–79 ft  |   17    | 15d4  |  21d6 |  28d8  |  28d10 |  28d12 |  28d20 |
+|  80–89 ft  |   18    | 21d4  |  28d6 |  36d8  |  36d10 |  36d12 |  36d20 |
+|  90–99 ft  |   19    | 28d4  |  36d6 |  45d8  |  45d10 |  45d12 |  45d20 |
+| 100–109 ft |   20    | 36d4  |  45d6 |  55d8  |  55d10 |  55d12 |  55d20 |
+| 110–119 ft |   21    | 45d4  |  55d6 |  66d8  |  66d10 |  66d12 |  66d20 |
+| 120–129 ft |   22    | 55d4  |  66d6 |  78d8  |  78d10 |  78d12 |  78d20 |
+| 130–139 ft |   23    | 66d4  |  78d6 |  91d8  |  91d10 |  91d12 |  91d20 |
+| 140–149 ft |   24    | 78d4  |  91d6 | 105d8  | 105d10 | 105d12 | 105d20 |
+|   150+ ft  |   25    | 91d4  | 105d6 | 120d8  | 120d10 | 120d12 | 120d20 |
 
 [(Back to Adventuring)](#adventuring)

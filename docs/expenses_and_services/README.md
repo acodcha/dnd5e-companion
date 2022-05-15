@@ -1,7 +1,7 @@
 # Expenses and Services
 
 - **[Lifestyle](#lifestyle)**
-- **[Travel](#travel):** [Services](#travel-services), [Mounts](#travel-mounts), [Tack](#travel-tack), [Land Vehicles](#travel-land-vehicles), [Waterborne Vehicles](#travel-waterborne-vehicles)
+- **[Travel](#travel):** [Pace](#travel-pace), [Activities](#travel-activities), [Services](#travel-services), [Mounts](#travel-mounts), [Tack](#travel-tack), [Land Vehicles](#travel-land-vehicles), [Waterborne Vehicles](#travel-waterborne-vehicles)
 - **[Spellcasting Services](#spellcasting-services):** [Wellness](#spellcasting-services-wellness), [Healing](#spellcasting-services-healing), [Resurrection](#spellcasting-services-resurrection), [Security](#spellcasting-services-security), [Communication](#spellcasting-services-communication), [Transportation](#spellcasting-services-transportation), [Surveillance](#spellcasting-services-surveillance)
 - **[Hirelings](#hirelings)**
 
@@ -23,6 +23,8 @@
 
 ## Travel
 
+- [Pace](#travel-pace)
+- [Activities](#travel-activities)
 - [Services](#travel-services)
 - [Mounts](#travel-mounts)
 - [Tack](#travel-tack)
@@ -30,6 +32,59 @@
 - [Waterborne Vehicles](#travel-waterborne-vehicles)
 
 [(Back to Top)](#)
+
+### Travel: Pace
+
+Characters traveling on foot, on a mount, or aboard a land vehicle move at the same travel pace, choosing between a slow, normal, or fast pace:
+
+| Type   |          Travel Pace           | Effect |
+| :----- | :----------------------------: | :----- |
+| Slow   | 200 ft/min, 2 mi/hr, 18 mi/day | Able to use stealth |
+| Normal | 300 ft/min, 3 mi/hr, 24 mi/day | – |
+| Fast   | 400 ft/min, 4 mi/hr, 30 mi/day | −5 penalty to passive Wisdom (Perception) |
+
+Terrain affects your travel pace:
+
+- Paved road: normal travel pace.
+- Unpaved path: reduces your travel pace to three quarters of its normal value.
+- Cross-country through normal terrain such as grass, soil, or rock: reduces your travel pace to half of its normal value.
+- Cross-country through difficult terrain such as sand, mud, forests, swamps, hills, mountains, ice, or snow: reduces your travel pace to one quarter of its normal value.
+
+Bad weather such as heavy rains, blizzards, or hurricane winds can slow your travel pace even further.
+
+For each additional hour of travel beyond 8 hours, a character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, the character suffers one level of exhaustion
+
+A mounted character can ride at a gallop for up to one hour, covering 8 miles.
+
+Characters traveling in waterborne vehicles travel at the pace of that vehicle. Depending on the vehicle and its crew, it may be possible to travel for 24 hours a day.
+
+Characters traveling using motorized vehicles, magic, or flying mounts travel at a pace that depends on the speed of the motorized vehicle, magic effect, or flying mount:
+
+| Speed  | Slow Travel Pace | Normal Travel Pace | Fast Travel Pace |
+| :----: | :--------------: | :----------------: | :--------------: |
+|  30 ft | 200 ft/min, 2 mi/hr, 16 mi/day | 300 ft/min, 3 mi/hr, 24 mi/day | 400 ft/min, 4 mi/hr, 32 mi/day |
+|  40 ft | 250 ft/min, 2½ mi/hr, 20 mi/day | 400 ft/min, 4 mi/hr, 32 mi/day | 550 ft/min, 5½ mi/hr, 40 mi/day |
+|  50 ft | 350 ft/min, 3½ mi/hr, 28 mi/day | 500 ft/min, 5 mi/hr, 40 mi/day | 650 ft/min, 6½ mi/hr, 52 mi/day |
+|  60 ft | 400 ft/min, 4 mi/hr, 32 mi/day | 600 ft/min, 6 mi/hr, 48 mi/day | 800 ft/min, 8 mi/hr, 64 mi/day |
+|  70 ft | 450 ft/min, 4½ mi/hr, 36 mi/day | 700 ft/min, 7 mi/hr, 56 mi/day | 950 ft/min, 9½ mi/hr, 76 mi/day |
+|  80 ft | 550 ft/min, 5½ mi/hr, 44 mi/day | 800 ft/min, 8 mi/hr, 64 mi/day | 1,100 ft/min, 11 mi/hr, 88 mi/day |
+|  90 ft | 600 ft/min, 6 mi/hr, 48 mi/day | 900 ft/min, 9 mi/hr, 72 mi/day | 1,200 ft/min, 12 mi/hr, 96 mi/day |
+| 100 ft | 650 ft/min, 6½ mi/hr, 52 mi/day | 1,000 ft/min, 10 mi/hr, 80 mi/day | 1,300 ft/min, 13 mi/hr, 104 mi/day |
+| 110 ft | 750 ft/min, 7½ mi/hr, 60 mi/day | 1,100 ft/min, 11 mi/hr, 88 mi/day | 1,500 ft/min, 15 mi/hr, 120 mi/day |
+| 120 ft | 800 ft/min, 8 mi/hr, 64 mi/day | 1,200 ft/min, 12 mi/hr, 96 mi/day | 1,600 ft/min, 16 mi/hr, 128 mi/day |
+
+[(Back to Travel)](#travel)
+
+### Travel: Activities
+
+While traveling, characters can perform the following activities:
+
+- **Watch for Danger:** Contribute your passive Wisdom (Perception) score to the group's chance of noticing hidden threats.
+- **Navigate or Track:** Navigate the wilderness or follow tracks to avoid getting lost.
+- **Draw a Map:** Chart the group's progress. Helps the group get back on track if it gets lost.
+- **Forage:** Keep an eye out for ready sources of food and water.
+
+[(Back to Travel)](#travel)
 
 ### Travel: Services
 
