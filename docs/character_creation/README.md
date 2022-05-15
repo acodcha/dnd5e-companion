@@ -222,21 +222,21 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Abyssal | Demons | Infernal |
 | Celestial | Angels, pegasi | Celestial |
 | Common | Humans | Common |
-| Deep Speech | Aboleths, beholders, illithids | – |
+| Deep Speech | Beholders, illithids, aboleths, star spawns | – |
 | Draconic | Dragons, dragonborn, kobolds | Draconic |
 | Dwarvish | Dwarves | Dwarvish |
 | Elvish | Elves | Elvish |
 | Giant | Giants, ogres, trolls | Dwarvish |
 | Gnomish | Gnomes | Dwarvish |
-| Goblin | Bugbears, goblins, hobgoblins | Dwarvish |
+| Goblin | Goblins, hobgoblins, bugbears | Dwarvish |
 | Halfling | Halflings | Common |
 | Infernal | Devils | Infernal |
-| Orc | Orcs | Dwarvish |
-| Primordial (Aquan) | Marids, merfolk, water elementals | Dwarvish |
-| Primordial (Auran) | Aarakocra, air elementals, djinni | Dwarvish |
-| Primordial (Ignan) | Azer, efreeti, fire elementals, salamanders | Dwarvish |
-| Primordial (Terran) | Dao, earth elementals, gargoyles | Dwarvish |
-| Sylvan | Centaurs, dryads, pixies, satyrs, sprites | Elvish |
+| Orcish | Orcs | Dwarvish |
+| Primordial (Aquan) | Water elementals, marids, merfolk | Dwarvish |
+| Primordial (Auran) | Air elementals, djinni, aarakocra | Dwarvish |
+| Primordial (Ignan) | Fire elementals, efreeti, azer, salamanders | Dwarvish |
+| Primordial (Terran) | Earth elementals, dao, gargoyles | Dwarvish |
+| Sylvan | Centaurs, dryads, satyrs, pixies, sprites | Elvish |
 | Undercommon | Drow, duergar | Elvish |
 
 [(Back to Top)](#)
