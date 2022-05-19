@@ -101,13 +101,15 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 ### Equipment: Encumbrance
 
-Use the variant encumbrance rule from the *Player's Handbook*, with the following modifications:
+A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows:
 
-- Bipedal creatures can carry weight in pounds up to 5 times their Strength score without penalty.
-- Bipedal creatures carrying weight in pounds of 5 to 10 times their Strength score causes them to become encumbered: their speed is reduced by 10 feet.
-- Bipedal creature carrying weight in excess of 10 times their Strength score causes them to become heavily encumbered: their speed is reduced by 20 feet and they has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
-- Non-bipedal creatures can carry twice as much weight.
+- A Medium bipedal creature can carry weight in pounds up to 5 times its Strength score without penalty.
+- A Medium bipedal creature carrying weight in pounds in excess of 5 times its Strength score and up to 10 times its Strength score is encumbered: its speed is reduced by 10 feet.
+- A Medium bipedal creature carrying weight in excess of 10 times its Strength score is heavily encumbered: its speed is reduced by 20 feet and it has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+- A non-bipedal creature can carry twice as much weight.
+- A creature larger than Medium can carry twice as much weight for each size category above Medium, and a creature smaller than Medium can carry half as much weight for each size category below Medium.
 - Creatures cannot fly while encumbered or heavily encumbered.
+- Armor types retain their Strength requirements, even with this variant encumbrance rule. If an armor type has a "Strength 13" or "Strength 15" requirement, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
 Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person. Electrum pieces are not used. 50 coins weigh 1 lb as usual. You can exchange coins for coins of different denominations in most settlements:
 
