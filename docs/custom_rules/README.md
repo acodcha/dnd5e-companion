@@ -105,7 +105,13 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows:
 
-A Medium upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. A Medium upright-standing bipedal creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score. While encumbered, its speed is reduced by 10 feet. A Medium upright-standing bipedal creature becomes heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score. While heavily encumbered, its speed is reduced by 20 feet and it has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. A creature cannot fly while encumbered or heavily encumbered.
+A Medium upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty.
+
+A Medium upright-standing bipedal creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score. While encumbered, its speed is reduced by 10 feet.
+
+A Medium upright-standing bipedal creature becomes heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score. While heavily encumbered, its speed is reduced by 20 feet and it has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+
+A creature cannot fly while encumbered or heavily encumbered.
 
 A creature that is either not bipedal or not upright-standing can carry twice as much weight: such creatures include most beasts, most beast-like monstrosities, and most dragons.
 
