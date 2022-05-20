@@ -105,21 +105,19 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows:
 
-- A Medium bipedal creature can carry weight in pounds up to 5 times its Strength score without penalty.
-- A Medium bipedal creature carrying weight in pounds in excess of 5 times its Strength score and up to 10 times its Strength score is encumbered: its speed is reduced by 10 feet.
-- A Medium bipedal creature carrying weight in excess of 10 times its Strength score is heavily encumbered: its speed is reduced by 20 feet and it has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
-- A non-bipedal creature can carry twice as much weight.
-- A creature larger than Medium can carry twice as much weight for each size category above Medium, and a creature smaller than Medium can carry half as much weight for each size category below Medium.
-- Creatures cannot fly while encumbered or heavily encumbered.
-- Armor types retain their Strength requirements, even with this variant encumbrance rule. If an armor type has a "Strength 13" or "Strength 15" requirement, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+A Medium upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. A Medium upright-standing bipedal creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score. While encumbered, its speed is reduced by 10 feet. A Medium upright-standing bipedal creature becomes heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score. While heavily encumbered, its speed is reduced by 20 feet and it has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. A creature cannot fly while encumbered or heavily encumbered.
 
-Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person. Electrum pieces are not used. 50 coins weigh 1 lb as usual. You can exchange coins for coins of different denominations in most settlements:
+A creature that is either not bipedal or not upright-standing can carry twice as much weight: such creatures include most beasts, most beast-like monstrosities, and most dragons.
 
-- 10 cp = 1 sp
-- 10 sp = 1 gp
-- 10 gp = 1 pp
+A creature larger than Medium can carry twice as much weight for each size category above Medium, and a creature smaller than Medium can only carry half as much weight for each size category below Medium.
 
-Instead of carrying all of your coinage on your person, you can deposit excess coinage at a bank. Large cities are home to various international banks. Consult the Game Master when doing so.
+Armor types retain their Strength requirements, even with this variant encumbrance rule. The Strength requirements apply as follows: If an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with Strength 12 wearing armor with a Strength 15 requirement would have its speed reduced by 15 feet.
+
+Armor and clothing only weigh half their weight when worn, but weigh their regular weight when carried. All other equipment always weighs its regular weight, including shields, cloaks, boots, belts, bracers, gloves, weapons, spellcasting focuses, adventuring gear, and tools.
+
+Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person. 50 coins weigh 1 lb as usual. You can exchange coins for coins of different denominations in most settlements: 10 cp = 1 sp, 10 sp = 1 gp, and 10 gp = 1 pp. Electrum pieces are not used.
+
+Instead of carrying all of your coinage on your person, you can deposit excess coinage at a bank. Large cities are generally home to one or more well-established and reputable banks. Consult the Game Master when doing so.
 
 [(Back to Equipment)](#equipment)
 
@@ -127,7 +125,7 @@ Instead of carrying all of your coinage on your person, you can deposit excess c
 
 While adventuring in the wilderness, you must have the following equipment at minimum:
 
-- Suit of armor or traveler's clothes (2 gp, 4 lb)
+- Suit of armor or traveler's clothes (2 gp, 4 lb or 2 lb when worn)
 - Backpack (2 gp, 5 lb)
 - Bedroll (1 gp, 7 lb)
 - Blanket (5 sp, 3 lb)
