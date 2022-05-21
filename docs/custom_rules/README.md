@@ -1,8 +1,8 @@
 # Custom Rules
 
-- **[Consent](#consent)**
+- **[Consent](#consent):** [Story Elements](#consent-story-elements), [Player Character Interactions](#consent-player-character-interactions)
 - **[Character Creation](#character-creation):** [Basics](#character-creation-basics), [Race and Class](#character-creation-race-and-class), [Background and Personality](#character-creation-background-and-personality), [Backstory and Portrait](#character-creation-backstory-and-portrait)
-- **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
+- **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Armor and Clothing](#equipment-armor-and-clothing), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
 - **[Advancement](#advancement):** [Levelling](#advancement-levelling), [Absenteeism](#advancement-absenteeism), [Death and Retirement](#advancement-death-and-retirement)
 - **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
 
@@ -12,9 +12,24 @@ This page lists the custom "homebrew" rules that I use in the games that I run.
 
 ## Consent
 
-The players and the Game Master must each carefully read and fill out the [RPG Consent Checklist](https://mcpl.info/sites/default/files/images/consent-in-gaming-form-fillable-checklist-2019-09-13.pdf) and hand it over to the Game Master before the start of the campaign. The Game Master then aggregates and anonymizes the results and posts them for the gaming group to see. Players and the Game Master are expected to adhere to these restrictions on story elements during play. Failure to do so will result in warnings, and serious or repeated offences will result in expulsion from the gaming group.
+- [Story Elements](#consent-story-elements)
+- [Player Character Interactions](#consent-player-character-interactions)
 
 [(Back to Top)](#)
+
+### Consent: Story Elements
+
+The players and the Game Master must each carefully read and fill out the [RPG Consent Checklist](https://mcpl.info/sites/default/files/images/consent-in-gaming-form-fillable-checklist-2019-09-13.pdf) and hand it over to the Game Master before the start of the campaign. The Game Master then aggregates and anonymizes the results and posts them for the gaming group to see. Players and the Game Master are expected to adhere to these restrictions on story elements during play. Failure to do so will result in warnings, and serious or repeated offences will result in expulsion from the gaming group.
+
+[(Back to Consent)](#consent)
+
+### Consent: Player Character Interactions
+
+Whenever a player character wishes to take an action that may directly harm or inconvenience another player character, both players must agree to that action; otherwise, the action cannot be taken. Some examples include: stealing from a companion, including a companion in the area of effect of a spell, purposefully attacking a companion, purposefully pushing a companion off a ledge, or speaking ill of a companion to an important non-player character.
+
+Similarly, player characters in the same adventuring party are assumed to be sufficiently familiar with each other that they cannot effectively deceive or cheat each other.
+
+[(Back to Consent)](#consent)
 
 ## Character Creation
 
@@ -94,6 +109,8 @@ Find an image depicting your character, ideally a full-body image or a "from the
 ## Equipment
 
 - [Encumbrance](#equipment-encumbrance)
+- [Armor and Clothing](#equipment-armor-and-clothing)
+- [Coinage](#equipment-coinage)
 - [Wilderness](#equipment-wilderness)
 - [Ammunition](#equipment-ammunition)
 - [Thrown Weapons](#equipment-thrown-weapons)
@@ -105,19 +122,25 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows:
 
-A Medium upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score or heavily encumbered if it carries weight in pounds in excess of 10 times its Strenth score.
+A Medium or Small upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score or heavily encumbered if it carries weight in pounds in excess of 10 times its Strenth score.
 
-An encumbered creature has its speed reduced by 10 feet. A heavily encumbered creature has its speed is reduced by 20 feet and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
-
-A creature cannot fly while encumbered or heavily encumbered.
+An encumbered creature has its speed reduced by 10 feet. A heavily encumbered creature has its speed is reduced by 20 feet and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. Additionally, a creature cannot fly while encumbered or heavily encumbered.
 
 A creature that is either not bipedal or not upright-standing can carry twice as much weight: such creatures include most beasts, most beast-like monstrosities, and most dragons.
 
-A creature larger than Medium can carry twice as much weight for each size category above Medium, and a creature smaller than Medium can only carry half as much weight for each size category below Medium.
+A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one quarter as much weight as a Medium or Small creature.
 
-Armor types retain their Strength requirements, even with this variant encumbrance rule. The Strength requirements apply as follows: If an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with Strength 12 wearing armor with a Strength 15 requirement has its speed reduced by 15 feet.
+[(Back to Equipment)](#equipment)
+
+### Equipment: Armor and Clothing
 
 Armor and clothing only weigh half their weight when worn, but weigh their regular weight when carried. All other equipment always weighs its regular weight, including shields, cloaks, boots, belts, bracers, gloves, weapons, spellcasting focuses, adventuring gear, and tools.
+
+Armor types retain their Strength requirements, even with this variant encumbrance rule. The Strength requirements apply as follows: if an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with Strength 13 wearing armor with a Strength 15 requirement has its speed reduced by 10 feet.
+
+[(Back to Equipment)](#equipment)
+
+### Equipment: Coinage
 
 Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person. 50 coins weigh 1 lb as usual. You can exchange coins for coins of different denominations in most settlements: 10 cp = 1 sp, 10 sp = 1 gp, and 10 gp = 1 pp. Electrum pieces are not used.
 
@@ -218,7 +241,7 @@ After you make a death saving throw but before it takes effect, you may choose t
 
 ### Adventuring: Movement
 
-Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal tile of movement costs an additional 5 feet of movement. This simple rule very closely approximates real diagonal movement.
+Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot grid costs an additional 5 feet of movement. This simple rule very closely approximates real diagonal movement.
 
 Vertical movement such as climbing and flying is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards.
 
