@@ -25,7 +25,7 @@ The players and the Game Master must each carefully read and fill out the [RPG C
 
 ### Consent: Player Character Interactions
 
-Whenever a player character wishes to take an action that may directly harm or inconvenience another player character, both players must agree to that action; otherwise, the action cannot be taken. Some examples include: stealing from a companion, including a companion in the area of effect of a spell, purposefully attacking a companion, purposefully pushing a companion off a ledge, or speaking ill of a companion to an important non-player character.
+Whenever a player character wishes to take an action that may directly harm or inconvenience another player character, both players must consent to that action; otherwise, the action cannot be taken. Some examples include: stealing from a companion, including a companion in the area of effect of a spell, purposefully attacking a companion, purposefully pushing a companion off a ledge, or speaking ill of a companion to an important non-player character.
 
 Similarly, player characters in the same adventuring party are assumed to be sufficiently familiar with each other that they cannot effectively deceive or cheat each other.
 
