@@ -248,5 +248,6 @@
 | Sekolah, the Caller from the Depths | Sahuagin god of the hunt | Lawful evil | Nature, Tempest | Shark |
 | Semuanya | Lizardfolk god of survival | True neutral | Life | Egg |
 | Skerrit, the Forest Walker | Centaur and satyr god of nature | True neutral | Nature | Oak growing from acorn |
+| The Raven Queen | Shadar-kai goddess of memories | Lawful neutral | Life, Death | Raven's head in profile facing left |
 
 [(Back to Top)](#)
