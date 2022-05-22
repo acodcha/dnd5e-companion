@@ -77,7 +77,7 @@
 | Araleth Letheranil, the Prince of Stars | Elven god of light, stars, and revelations | Chaotic good | Knowledge, Light | Shaft of light |
 | Darahl Tilvenar, the Lord of the Green Flame | Elven god of fire, earth, and metalwork | Lawful neutral | Forge, Light | Flame between hands |
 | Deep Sashelas, the Lord of the Undersea | Elven god of creativity, knowledge, and the sea | Chaotic good | Knowledge, Nature, Tempest | Dolphin |
-| Elebrin Liothiel, the Leaflord | Elven god of abundance, gardens, and the harvest | Chaotic good | Life, Nature | Acorn |
+| Elebrin Liothiel, the Celestial Gardener | Elven god of abundance, gardens, and the harvest | Chaotic good | Life, Nature | Acorn |
 | Erevan Ilesere, the Trickster | Elven god of mischief and change | Chaotic neutral | Trickery | Asymmetrical starburst |
 | Fenmarel Mestarine, the Lone Wolf | Elven god of solitude and outcasts | Chaotic neutral | Nature, Trickery | Two peering elven eyes |
 | Gadhelyn | Elven god of independence and outlawry | Chaotic neutral | Nature, Trickery | Leaf-shaped arrowhead |
