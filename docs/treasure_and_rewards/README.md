@@ -1,17 +1,22 @@
-# Treasure
+# Treasure and Rewards
 
-- **[Individual Monster Treasure](#individual-monster-treasure)**
-- **[Treasure Hoards](#treasure-hoards)**
-- **[Quest Rewards](#quest-rewards)**
-- **[Minor Rewards](#minor-rewards)**
+- **[Treasure](#treasure):** [Individual Monster Treasure](#individual-monster-treasure), [Treasure Hoards](#treasure-hoards)
+- **[Rewards](#rewards):** [Quest Rewards](#quest-rewards), [Minor Rewards](#minor-rewards), [Game Session Rewards](#game-session-rewards)
 - **[Gemstones](#gemstones):** [10 gp Gemstones](#gemstones-10-gp), [50 gp Gemstones](#gemstones-50-gp), [100 gp Gemstones](#gemstones-100-gp), [500 gp Gemstones](#gemstones-500-gp), [1,000 gp Gemstones](#gemstones-1000-gp), [5,000 gp Gemstones](#gemstones-5000-gp)
 - **[Art Objects](#art-objects):** [25 gp Art Objects](#art-objects-25-gp), [250 gp Art Objects](#art-objects-250-gp), [750 gp Art Objects](#art-objects-750-gp), [2,500 gp Art Objects](#art-objects-2500-gp), [7,500 gp Art Objects](#art-objects-7500-gp)
 
 [(Back to Main Page)](../../#)
 
-## Individual Monster Treasure
+## Treasure
 
-Not all monsters carry coinage on their person, but those that do can be expected to carry the amounts shown in the following table.
+- [Individual Monster Treasure](#individual-monster-treasure)
+- [Treasure Hoards](#treasure-hoards)
+
+[(Back to Top)](#)
+
+### Individual Monster Treasure
+
+Not all monsters carry coinage on their person, but those that do can be expected to carry the amounts shown in the following table. Alternatively, monsters might carry gemstones or art objects of similar value.
 
 | Challenge | Experience | Coinage |       | Challenge | Experience |  Coinage |
 | :-------: | ---------: | ------: | :---: | :-------: | ---------: | -------: |
@@ -33,9 +38,9 @@ Not all monsters carry coinage on their person, but those that do can be expecte
 |   CR 12   |   8,400 XP |   44 pp |       |   CR 29   | 135,000 XP | 1,200 pp |
 |   CR 13   |  10,000 XP |   64 pp |       |   CR 30   | 155,000 XP | 1,300 pp |
 
-[(Back to Top)](#)
+[(Back to Treasure)](#treasure)
 
-## Treasure Hoards
+### Treasure Hoards
 
 The following table lists the contents of treasure hoards. Each treasure hoard contains coinage, gemstones, art objects, consumable magic items, and permanent magic items. Note that all content is listed **per player**. ½ × means 1 item per 2 players. ¼ × means 1 item per 4 players. Over the course of a campaign, players are expected to find one treasure hoard per level from 1st to 20th level.
 
@@ -73,14 +78,22 @@ This table assumes that players are primarily spending their accumulated wealth 
 | 20th+3 | 6,100 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 29,000 gp | ¼ × 150,000 gp |
 | 20th+4 | 8,500 pp | 1 × 5,000 gp | ½ × 7,500 gp | 1 × 40,000 gp | ¼ × 200,000 gp |
 
+[(Back to Treasure)](#treasure)
+
+## Rewards
+
+- [Quest Rewards](#quest-rewards)
+- [Minor Rewards](#minor-rewards)
+- [Game Session Rewards](#game-session-rewards)
+
 [(Back to Top)](#)
 
-## Quest Rewards
+### Quest Rewards
 
 The following table lists experience points and coinage awarded by a patron for completing a quest. Over the course of a campaign, players are expected to receive one quest reward per level from 1st to 20th level.
 
-| Level | Experience per Player | Coinage per Player |  | Level | Experience per Player | Coinage per Player |
-| :---: | :-------------------: | :----------------: |  | :---: | :-------------------: | :----------------: |
+| Level | Experience per Player | Coinage per Player |       | Level | Experience per Player | Coinage per Player |
+| :---: | :-------------------: | :----------------: | :---: | :---: | :-------------------: | :----------------: |
 |  1st  |   100 XP | 20 gp |  |  13th  | 2,400 XP |  82 pp |
 |  2nd  |   150 XP | 30 gp |  |  14th  | 2,700 XP |  98 pp |
 |  3rd  |   250 XP | 50 gp |  |  15th  | 3,100 XP | 120 pp |
@@ -94,14 +107,14 @@ The following table lists experience points and coinage awarded by a patron for 
 | 11th  | 1,800 XP | 53 pp |  | 20th+3 | 5,000 XP | 230 pp |
 | 12th  | 2,100 XP | 66 pp |  | 20th+4 | 5,000 XP | 240 pp |
 
-[(Back to Top)](#)
+[(Back to Rewards)](#rewards)
 
-## Minor Rewards
+### Minor Rewards
 
 The following table lists experience points awarded for achieving progress objectives, accomplishing impressive exploits, gaining useful information, or performing useful deeds during adventures. Over the course of a campaign, players can receive any number of such rewards.
 
-| Level | Experience per Player |  | Level | Experience per Player |
-| :---: | :-------------------: |  | :---: | :-------------------: |
+| Level | Experience per Player |       | Level | Experience per Player |
+| :---: | :-------------------: | :---: | :---: | :-------------------: |
 |  1st  |  20 XP |  |  13th  |   480 XP |
 |  2nd  |  30 XP |  |  14th  |   540 XP |
 |  3rd  |  50 XP |  |  15th  |   620 XP |
@@ -115,7 +128,26 @@ The following table lists experience points awarded for achieving progress objec
 | 11th  | 360 XP |  | 20th+3 | 1,000 XP |
 | 12th  | 420 XP |  | 20th+4 | 1,000 XP |
 
-[(Back to Top)](#)
+[(Back to Rewards)](#rewards)
+
+### Game Session Rewards
+
+The following table lists bonus experience points awarded to each player character at the end of a game session. This reward is a catch-all for the various actions taken during the game session that were not explicitly covered by other rewards. These experience points also reward each player for attending the game session and guarantee a minimum rate of advancement in the campaign.
+
+| Game Session | Experience per Player |       | Game Session | Experience per Player |
+| :----------: | :-------------------: | :---: | :----------: | :-------------------: |
+|  1 |  50 XP |  | 11  |   550 XP |
+|  2 | 100 XP |  | 12  |   600 XP |
+|  3 | 150 XP |  | 13  |   650 XP |
+|  4 | 200 XP |  | 14  |   700 XP |
+|  5 | 250 XP |  | 15  |   750 XP |
+|  6 | 300 XP |  | 16  |   800 XP |
+|  7 | 350 XP |  | 17  |   850 XP |
+|  8 | 400 XP |  | 18  |   900 XP |
+|  9 | 450 XP |  | 19  |   950 XP |
+| 10 | 500 XP |  | 20+ | 1,000 XP |
+
+[(Back to Rewards)](#rewards)
 
 ## Gemstones
 
