@@ -8,7 +8,7 @@
 - **[6 Player Characters](#6-player-characters):** [1 Encounter per Day](#6-player-characters-1-encounter-per-day), [2 Encounters per Day](#6-player-characters-2-encounters-per-day), [3 Encounters per Day](#6-player-characters-3-encounters-per-day), [4 Encounters per Day](#6-player-characters-4-encounters-per-day)
 - **[7 Player Characters](#7-player-characters):** [1 Encounter per Day](#7-player-characters-1-encounter-per-day), [2 Encounters per Day](#7-player-characters-2-encounters-per-day), [3 Encounters per Day](#7-player-characters-3-encounters-per-day), [4 Encounters per Day](#7-player-characters-4-encounters-per-day)
 - **[8 Player Characters](#8-player-characters):** [1 Encounter per Day](#8-player-characters-1-encounter-per-day), [2 Encounters per Day](#8-player-characters-2-encounters-per-day), [3 Encounters per Day](#8-player-characters-3-encounters-per-day), [4 Encounters per Day](#8-player-characters-4-encounters-per-day)
-- **[General](#general)**
+- **[Encounter Calculator](#encounter-calculator):** [Experience Adjustment Factor](#encounter-calculator-experience-adjustment-factor), [Adjusted Experience per Player Character](#encounter-calculator-adjusted-experience-per-player-character)
 
 [(Back to Main Page)](../../#)
 
@@ -1057,18 +1057,18 @@ As the tables show, it quickly becomes difficult to challenge large adventuring 
 
 [(Back to 8 Player Characters)](#8-player-characters)
 
-## General
+## Encounter Calculator
 
-- [Experience Adjustment Factor](#general-experience-adjustment-factor)
-- [Adjusted Experience per Player Character](#general-adjusted-experience-per-player-character)
+- [Experience Adjustment Factor](#encounter-calculator-experience-adjustment-factor)
+- [Adjusted Experience per Player Character](#encounter-calculator-adjusted-experience-per-player-character)
 
 The following tables are used to design combat encounters containing monsters with different challenge ratings.
 
-Example using these tables: A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR 1 monsters. Each CR 3 monster is worth 700 XP and each CR 1 monster is worth 200 XP, so the total base experience of the encounter is 2 × 700 XP + 4 × 200 XP = 2,200 XP. There are 4 player characters fighting 6 monsters, so the experience adjustment factor is 2.39 from the table. The total adjusted experience of the encounter is therefore 2,200 XP × 2.39 = 5,258 XP, which is 5,258 XP / 4 = 1,315 XP per player character. From the table, this corresponds to 2 encounters per day. The party can therefore be expected to expend half its resources during this encounter.
+Example using these tables: A party of 4 × 5th-level characters are fighting 2 × CR 3 monsters and 4 × CR 1 monsters. Each CR 3 monster is worth 700 XP and each CR 1 monster is worth 200 XP, so the total base experience of the encounter is 2 × 700 XP + 4 × 200 XP = 2,200 XP. From the first table, since there are 4 player characters fighting 6 monsters, the experience adjustment factor is 2.39. The total adjusted experience of the encounter is therefore 2,200 XP × 2.39 = 5,258 XP, which is 5,258 XP / 4 = 1,315 XP per player character. From the second table, this corresponds to 2 encounters per day. The party can therefore be expected to expend roughly half its resources during this encounter.
 
 [(Back to Top)](#)
 
-### General: Experience Adjustment Factor
+### Encounter Calculator: Experience Adjustment Factor
 
 | Monsters | 1 P.C. | 2 P.C. | 3 P.C. | 4 P.C. | 5 P.C. | 6 P.C. | 7 P.C. | 8 P.C. |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -1093,9 +1093,9 @@ Example using these tables: A party of 4 × 5th-level characters are fighting 2 
 | × 19 | 5.21 | 4.28 | 3.72 | 3.31 | 3.02 | 2.77 | 2.56 | 2.38 |
 | × 20 | 5.27 | 4.32 | 3.77 | 3.35 | 3.06 | 2.81 | 2.60 | 2.41 |
 
-[(Back to General)](#general)
+[(Back to Encounter Calculator)](#encounter-calculator)
 
-### General: Adjusted Experience per Player Character
+### Encounter Calculator: Adjusted Experience per Player Character
 
 | Level | 1 Enc./Day | 2 Enc./Day | 3 Enc./Day | 4 Enc./Day |
 | :---: | ---------: | ---------: | ---------: | ---------: |
@@ -1123,4 +1123,4 @@ Example using these tables: A party of 4 × 5th-level characters are fighting 2 
 | 20th+2 | 52,650 XP | 43,875 XP | 35,100 XP | 26,325 XP |
 | 20th+3 | 59,400 XP | 49,500 XP | 39,600 XP | 29,700 XP |
 
-[(Back to General)](#general)
+[(Back to Encounter Calculator)](#encounter-calculator)
