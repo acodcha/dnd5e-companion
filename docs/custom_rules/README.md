@@ -2,9 +2,9 @@
 
 - **[Consent](#consent):** [Story Elements](#consent-story-elements), [Player Character Interactions](#consent-player-character-interactions)
 - **[Character Creation](#character-creation):** [Basics](#character-creation-basics), [Race and Class](#character-creation-race-and-class), [Background and Personality](#character-creation-background-and-personality), [Backstory and Portrait](#character-creation-backstory-and-portrait)
-- **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Armor and Clothing](#equipment-armor-and-clothing), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
 - **[Advancement](#advancement):** [Levelling](#advancement-levelling), [Absenteeism](#advancement-absenteeism), [Death and Retirement](#advancement-death-and-retirement)
 - **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
+- **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Armor and Clothing](#equipment-armor-and-clothing), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
 
 [(Back to Main Page)](../../#)
 
@@ -25,7 +25,7 @@ The players and the Game Master must each carefully read and fill out the [RPG C
 
 ### Consent: Player Character Interactions
 
-Whenever a player character wishes to take an action that may directly harm or inconvenience another player character, both players must consent to that action; otherwise, the action cannot be taken. Some examples include: stealing from a companion, including a companion in the area of effect of a spell, purposefully attacking a companion, purposefully pushing a companion off a ledge, or speaking ill of a companion to an important non-player character.
+Whenever a player character wishes to take an action that may directly harm or inconvenience another player character, both players must consent to that action; otherwise, the action cannot be taken. Some examples include: pocketing more than your fair share of looted treasure, stealing from a companion, including a companion in the area of effect of a spell, purposefully attacking a companion, purposefully pushing a companion off a ledge, or speaking ill of a companion to an important non-player character.
 
 Similarly, player characters in the same adventuring party are assumed to be sufficiently familiar with each other that they cannot effectively deceive or cheat each other.
 
@@ -106,6 +106,89 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 [(Back to Character Creation)](#character-creation)
 
+## Advancement
+
+- [Levelling](#advancement-levelling)
+- [Absenteeism](#advancement-absenteeism)
+- [Death and Retirement](#advancement-death-and-retirement)
+
+[(Back to Top)](#)
+
+### Advancement: Levelling
+
+Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level.
+
+[(Back to Advancement)](#advancement)
+
+### Advancement: Absenteeism
+
+If you are absent during a game session, your character fades into the background of the story: you are assumed to follow the adventuring party around, but you cannot directly impact the game, and the game cannot directly impact you. While absent, you do not receive any experience points or treasure except for treasure hoards and quest rewards.
+
+Strictly more than half of all players must be present for a game session to take place. If there are not enough players, the game session will be cancelled.
+
+[(Back to Advancement)](#advancement)
+
+### Advancement: Death and Retirement
+
+If your character dies or retires, you may make a new character. Your new character starts with the same total experience points as your previous one. Consult the game master when making a new character.
+
+If a player is present at the game table, they gain experience points. Experience points are considered to be a property of the player that carry over to the player's current character. Thus, experience points transfer from a player's dead or retired character to their next character. If a player's character dies or retires during a game session and the player does not yet have a replacement character, the player continues to gain experience points during the session as long as they are present.
+
+Unlike experience points, treasure and equipment is lost when your character dies or retires. If you have enough experience points for your new character to start at 2nd level or higher, you start with additional wealth, which you can use to purchase additional mundane or magic equipment in addition to your normal 1st-level starting equipment. Your additional starting wealth depends on your level; see [Character Creation – Starting Wealth](../character_creation/#starting-wealth) and consult the Game Master.
+
+[(Back to Advancement)](#advancement)
+
+## Adventuring
+
+- [Going Unconscious](#adventuring-going-unconscious)
+- [Movement](#adventuring-movement)
+- [Falling](#adventuring-falling)
+
+[(Back to Top)](#)
+
+### Adventuring: Going Unconscious
+
+Each time you are reduced to 0 hit points, you gain one level of exhaustion.
+
+After you make a death saving throw but before it takes effect, you may choose to gain two levels of exhaustion to reroll your death saving throw, using either result.
+
+[(Back to Adventuring)](#adventuring)
+
+### Adventuring: Movement
+
+Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot grid costs an additional 5 feet of movement. This simple rule very closely approximates real diagonal movement.
+
+Vertical movement such as climbing and flying is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards.
+
+Flying speeds apply to horizontal and downwards flight. Upwards flight is more strenuous: each foot of upwards flight costs an additional foot of movement.
+
+[(Back to Adventuring)](#adventuring)
+
+### Adventuring: Falling
+
+When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. You can make a Dexterity saving throw to halve the damage taken. The DC for this save equals 10 + 1 for each 10 ft of effective fall distance. You fall prone if you take any damage from falling. Landing in water or on some similarly soft or deformable ground halves this damage.
+
+|  Distance  | Save DC | Tiny  | Small | Medium | Large  |  Huge  | Garg.  |
+| :--------: | :-----: | :---: | :---: | :----: | :----: | :----: | :----: |
+|   0–9 ft   |    –    |   –   |    –  |    –   |    –   |    –   |    –   |
+|  10–19 ft  |   11    |   –   |    –  |   1d8  |   1d10 |   1d12 |   1d20 |
+|  20–29 ft  |   12    |   –   |   1d6 |   3d8  |   3d10 |   3d12 |   3d20 |
+|  30–39 ft  |   13    |  1d4  |   3d6 |   6d8  |   6d10 |   6d12 |   6d20 |
+|  40–49 ft  |   14    |  3d4  |   6d6 |  10d8  |  10d10 |  10d12 |  10d20 |
+|  50–59 ft  |   15    |  6d4  |  10d6 |  15d8  |  15d10 |  15d12 |  15d20 |
+|  60–69 ft  |   16    | 10d4  |  15d6 |  21d8  |  21d10 |  21d12 |  21d20 |
+|  70–79 ft  |   17    | 15d4  |  21d6 |  28d8  |  28d10 |  28d12 |  28d20 |
+|  80–89 ft  |   18    | 21d4  |  28d6 |  36d8  |  36d10 |  36d12 |  36d20 |
+|  90–99 ft  |   19    | 28d4  |  36d6 |  45d8  |  45d10 |  45d12 |  45d20 |
+| 100–109 ft |   20    | 36d4  |  45d6 |  55d8  |  55d10 |  55d12 |  55d20 |
+| 110–119 ft |   21    | 45d4  |  55d6 |  66d8  |  66d10 |  66d12 |  66d20 |
+| 120–129 ft |   22    | 55d4  |  66d6 |  78d8  |  78d10 |  78d12 |  78d20 |
+| 130–139 ft |   23    | 66d4  |  78d6 |  91d8  |  91d10 |  91d12 |  91d20 |
+| 140–149 ft |   24    | 78d4  |  91d6 | 105d8  | 105d10 | 105d12 | 105d20 |
+|   150+ ft  |   25    | 91d4  | 105d6 | 120d8  | 120d10 | 120d12 | 120d20 |
+
+[(Back to Adventuring)](#adventuring)
+
 ## Equipment
 
 - [Encumbrance](#equipment-encumbrance)
@@ -122,13 +205,15 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows:
 
-A Medium or Small upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score or heavily encumbered if it carries weight in pounds in excess of 10 times its Strenth score.
+A Medium or Small upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score, or heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score.
 
 An encumbered creature has its speed reduced by 10 feet. A heavily encumbered creature has its speed is reduced by 20 feet and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. Additionally, a creature cannot fly while encumbered or heavily encumbered.
 
 A creature that is either not bipedal or not upright-standing can carry twice as much weight: such creatures include most beasts, most beast-like monstrosities, and most dragons.
 
 A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one quarter as much weight as a Medium or Small creature.
+
+Note that the *Beast of Burden* monster trait and the *Powerful Build* racial feature change a creature's effective size for the purpose of determining its carrying capacity. Also note that many effects such as the *Polymorph* spell, the *Enlarge/Reduce* spell, the *Shapechange* monster feature, the *Wild Shape* druid class feature, and the *Giant's Might* Rune Knight fighter class feature directly change a creature's size, which also changes its carrying capacity.
 
 [(Back to Equipment)](#equipment)
 
@@ -190,86 +275,3 @@ However, magical thrown weapons (such as a +1 javelin) need to be counted indivi
 Magic items have costs and can be purchased and sold. However, buyers and sellers of magic items can generally only be found in large cities, and certain magic items may be more difficult to obtain than others. Consult the Game Master whenever you wish to purchase or sell a magic item. For magic item costs and weights, see [Consumable Magic Items](../consumable_magic_items) and [Permanent Magic Items](../permanent_magic_items).
 
 [(Back to Equipment)](#equipment)
-
-## Advancement
-
-- [Levelling](#advancement-levelling)
-- [Absenteeism](#advancement-absenteeism)
-- [Death and Retirement](#advancement-death-and-retirement)
-
-[(Back to Top)](#)
-
-### Advancement: Levelling
-
-Your character can only level-up in-between game sessions. When you acquire enough experience points to level-up, wait until the end of the game session to do so.
-
-[(Back to Advancement)](#advancement)
-
-### Advancement: Absenteeism
-
-If you are absent during a game session, your character "fades into the background": you are assumed to follow the adventuring party around, but you cannot directly impact the game, and the game cannot directly impact you. While absent, you do not receive any experience points or treasure except for quest rewards.
-
-Strictly more than half of all players must be present for a game session to take place. If there are not enough players, the session is cancelled.
-
-If a player is present at the game table, they gain experience points. Experience points are considered to be a property of the player that carry over to the player's current character. Thus, experience points transfer from a player's dead or retired character to their next character.
-
-[(Back to Advancement)](#advancement)
-
-### Advancement: Death and Retirement
-
-If your character dies or retires, you may make a new character. Your new character starts with the same total experience points as your previous one. Consult the game master when making a new character.
-
-Unlike experience points, treasure and equipment is lost when your character dies or retires. If you have enough experience points for your new character to start at 2nd level or higher, you start with additional wealth, which you can use to purchase additional mundane or magic equipment in addition to your normal 1st-level starting equipment. Your additional starting wealth depends on your level; see [Character Creation – Starting Wealth](../character_creation/#starting-wealth).
-
-[(Back to Advancement)](#advancement)
-
-## Adventuring
-
-- [Going Unconscious](#adventuring-going-unconscious)
-- [Movement](#adventuring-movement)
-- [Falling](#adventuring-falling)
-
-[(Back to Top)](#)
-
-### Adventuring: Going Unconscious
-
-Each time you are reduced to 0 hit points, you gain one level of exhaustion.
-
-After you make a death saving throw but before it takes effect, you may choose to gain two levels of exhaustion to reroll your death saving throw, using either result.
-
-[(Back to Adventuring)](#adventuring)
-
-### Adventuring: Movement
-
-Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot grid costs an additional 5 feet of movement. This simple rule very closely approximates real diagonal movement.
-
-Vertical movement such as climbing and flying is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards.
-
-Flying speeds apply to horizontal and downwards flight. Upwards flight is more strenuous: each foot of upwards flight costs an additional foot of movement.
-
-[(Back to Adventuring)](#adventuring)
-
-### Adventuring: Falling
-
-When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. You can make a Dexterity saving throw to halve the damage taken. The DC for this save equals 10 + 1 for each 10 ft of effective fall distance. You fall prone if you take any damage from falling. Landing in water or on some similarly soft or deformable ground halves this damage.
-
-|  Distance  | Save DC | Tiny  | Small | Medium | Large  |  Huge  | Garg.  |
-| :--------: | :-----: | :---: | :---: | :----: | :----: | :----: | :----: |
-|   0–9 ft   |    –    |   –   |    –  |    –   |    –   |    –   |    –   |
-|  10–19 ft  |   11    |   –   |    –  |   1d8  |   1d10 |   1d12 |   1d20 |
-|  20–29 ft  |   12    |   –   |   1d6 |   3d8  |   3d10 |   3d12 |   3d20 |
-|  30–39 ft  |   13    |  1d4  |   3d6 |   6d8  |   6d10 |   6d12 |   6d20 |
-|  40–49 ft  |   14    |  3d4  |   6d6 |  10d8  |  10d10 |  10d12 |  10d20 |
-|  50–59 ft  |   15    |  6d4  |  10d6 |  15d8  |  15d10 |  15d12 |  15d20 |
-|  60–69 ft  |   16    | 10d4  |  15d6 |  21d8  |  21d10 |  21d12 |  21d20 |
-|  70–79 ft  |   17    | 15d4  |  21d6 |  28d8  |  28d10 |  28d12 |  28d20 |
-|  80–89 ft  |   18    | 21d4  |  28d6 |  36d8  |  36d10 |  36d12 |  36d20 |
-|  90–99 ft  |   19    | 28d4  |  36d6 |  45d8  |  45d10 |  45d12 |  45d20 |
-| 100–109 ft |   20    | 36d4  |  45d6 |  55d8  |  55d10 |  55d12 |  55d20 |
-| 110–119 ft |   21    | 45d4  |  55d6 |  66d8  |  66d10 |  66d12 |  66d20 |
-| 120–129 ft |   22    | 55d4  |  66d6 |  78d8  |  78d10 |  78d12 |  78d20 |
-| 130–139 ft |   23    | 66d4  |  78d6 |  91d8  |  91d10 |  91d12 |  91d20 |
-| 140–149 ft |   24    | 78d4  |  91d6 | 105d8  | 105d10 | 105d12 | 105d20 |
-|   150+ ft  |   25    | 91d4  | 105d6 | 120d8  | 120d10 | 120d12 | 120d20 |
-
-[(Back to Adventuring)](#adventuring)

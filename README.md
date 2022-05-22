@@ -2,7 +2,7 @@
 
 ## Documentation for Players
 
-- **[Custom Rules](docs/custom_rules):** [Consent](docs/custom_rules#consent), [Character Creation](docs/custom_rules#character-creation), [Equipment](docs/custom_rules#equipment), [Advancement](docs/custom_rules#advancement), [Adventuring](docs/custom_rules#adventuring)
+- **[Custom Rules](docs/custom_rules):** [Consent](docs/custom_rules#consent), [Character Creation](docs/custom_rules#character-creation), [Advancement](docs/custom_rules#advancement), [Adventuring](docs/custom_rules#adventuring), [Equipment](docs/custom_rules#equipment)
 
 - **[Character Creation](docs/character_creation):** [Advancement](docs/character_creation#advancement), [Ability Scores](docs/character_creation#ability-scores), [Wealth](docs/character_creation#wealth), [Height and Weight](docs/character_creation#height-and-weight), [Alignment](docs/character_creation#alignment), [Languages](docs/character_creation#languages), [Personality Traits](docs/character_creation#personality-traits), [Ideals](docs/character_creation#ideals), [Bonds](docs/character_creation#bonds), [Flaws](docs/character_creation#flaws)
 
