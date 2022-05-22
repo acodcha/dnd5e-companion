@@ -18,6 +18,8 @@
 
 - **[Permanent Magic Items](docs/permanent_magic_items):** [Light Armor](docs/permanent_magic_items#light-armor), [Medium Armor](docs/permanent_magic_items#medium-armor), [Heavy Armor](docs/permanent_magic_items#heavy-armor), [Shields](docs/permanent_magic_items#shields), [Clothes](docs/permanent_magic_items#clothes), [Coats](docs/permanent_magic_items#coats), [Belts](docs/permanent_magic_items#belts), [Footwear](docs/permanent_magic_items#footwear), [Bracers](docs/permanent_magic_items#bracers), [Gloves](docs/permanent_magic_items#gloves), [Headwear](docs/permanent_magic_items#headwear), [Eyewear](docs/permanent_magic_items#eyewear), [Jewelry](docs/permanent_magic_items#jewelry), [Tattoos](docs/permanent_magic_items#tattoos), [Weapons](docs/permanent_magic_items#weapons), [Arcane Foci](docs/permanent_magic_items#arcane-foci), [Druidic Foci](docs/permanent_magic_items#druidic-foci), [Holy Symbols](docs/permanent_magic_items#holy-symbols), [Musical Instruments](docs/permanent_magic_items#musical-instruments), [Artisan's Tools](docs/permanent_magic_items#artisans-tools), [Summoning Items](docs/permanent_magic_items#summoning-items), [Miscellaneous](docs/permanent_magic_items#miscellaneous), [All Permanent Magic Items by Cost](docs/permanent_magic_items#all-permanent-magic-items-by-cost)
 
+[(Back to Top)](#)
+
 ## Documentation for Game Masters
 
 - **[Treasure and Rewards](docs/treasure_and_rewards):** [Treasure](docs/treasure_and_rewards#treasure), [Rewards](docs/treasure_and_rewards#rewards), [Gemstones](docs/treasure_and_rewards#gemstones), [Art Objects](docs/treasure_and_rewards#art-objects)
