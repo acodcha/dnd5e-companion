@@ -211,7 +211,7 @@ An encumbered creature has its speed reduced by 10 feet. A heavily encumbered cr
 
 A creature that is either not bipedal or not upright-standing can carry twice as much weight: such creatures include most beasts, most beast-like monstrosities, and most dragons.
 
-A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one quarter as much weight as a Medium or Small creature.
+A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one fifth as much weight as a Medium or Small creature.
 
 Note that the *Beast of Burden* monster trait and the *Powerful Build* racial feature change a creature's effective size for the purpose of determining its carrying capacity. Also note that many effects such as the *Polymorph* spell, the *Enlarge/Reduce* spell, the *Shapechange* monster feature, the *Wild Shape* druid class feature, and the *Giant's Might* Rune Knight fighter class feature directly change a creature's size, which also changes its carrying capacity.
 
