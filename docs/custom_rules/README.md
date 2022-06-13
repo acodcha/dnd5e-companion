@@ -60,6 +60,12 @@ Regarding your 1st-level class, use the variant rule from the *Player's Handbook
 
 Above 1st level, you may multiclass. Your multiclass selections must make sense given your character's backstory and experiences during the campaign.
 
+If you have one or more levels in the cleric class, your alignment must match the alignment of your deity, and your cleric domain must match one of the domains of your deity. Make careful note of the tenets of your deity; your behavior must be consistent with the tenets of your deity. If you stray from the tenets of your deity, you run the risk of losing your cleric class features and spells. Depending on the severity of your infractions, you may or may not be able to recover your cleric class features and spells.
+
+If you have one or more levels in the paladin class, make careful note of the tenets of your sacred oath; your alignment and behavior must be consistent with the tenets of your sacred oath. If you stray from the tenets of your sacred oath, you run the risk of losing your paladin class features and spells. Depending on the severity of your infractions, you may or may not be able to recover your paladin class features and spells. If you abandon your sacred oath completely, you might become an Oathbreaker paladin as described in the *Dungeon Master's Guide*.
+
+If you have one or more levels in the warlock class, carefully detail your pact with your otherwordly patron. Depending on the specifics of your pact and the disposition of your otherwordly patron, your otherwordly patron may or may not tolerate your straying from your pact, in which case you may or may not run the risk of losing your warlock class features and spells.
+
 [(Back to Character Creation)](#character-creation)
 
 ### Character Creation: Background and Personality
@@ -87,7 +93,7 @@ You may choose your two personality traits, your ideal, your bond, and your flaw
 
 Your bond must involve one of your fellow adventuring party members. You may optionally have a second bond unrelated to the adventuring party.
 
-You are assumed to have a modest lifestyle, which costs 1 gp per day when staying in a settlement.
+You are assumed to have a modest lifestyle, and lifestyle expenses are ignored.
 
 [(Back to Character Creation)](#character-creation)
 
