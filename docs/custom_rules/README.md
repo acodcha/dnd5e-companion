@@ -1,9 +1,9 @@
 # Custom Rules
 
 - **[Consent](#consent):** [Story Elements](#consent-story-elements), [Player Character Interactions](#consent-player-character-interactions)
-- **[Character Creation](#character-creation):** [Basics](#character-creation-basics), [Race and Class](#character-creation-race-and-class), [Background and Personality](#character-creation-background-and-personality), [Backstory and Portrait](#character-creation-backstory-and-portrait)
+- **[Character Creation](#character-creation):** [Basics](#character-creation-basics), [Race](#character-creation-race), [Class](#character-creation-class), [Background](#character-creation-background), [Personality](#character-creation-personality), [Backstory](#character-creation-backstory), [Portrait](#character-creation-portrait)
 - **[Advancement](#advancement):** [Levelling](#advancement-levelling), [Absenteeism](#advancement-absenteeism), [Death and Retirement](#advancement-death-and-retirement)
-- **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
+- **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling), [Resting](#adventuring-resting)
 - **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Armor and Clothing](#equipment-armor-and-clothing), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
 
 [(Back to Main Page)](../../#)
@@ -34,9 +34,12 @@ Similarly, player characters in the same adventuring party are assumed to be suf
 ## Character Creation
 
 - [Basics](#character-creation-basics)
-- [Race and Class](#character-creation-race-and-class)
-- [Background and Personality](#character-creation-background-and-personality)
-- [Backstory and Portrait](#character-creation-backstory-and-portrait)
+- [Race](#character-creation-race)
+- [Class](#character-creation-class)
+- [Background](#character-creation-background)
+- [Personality](#character-creation-personality)
+- [Backstory](#character-creation-backstory)
+- [Portrait](#character-creation-portrait)
 
 [(Back to Top)](#)
 
@@ -48,13 +51,26 @@ Unless otherwise stated, start with 0 XP at 1st level. If you are creating a rep
 
 Use the Point Buy system for your starting ability scores. For a list of all possible starting ability score arrays using the Point Buy system, see [Character Creation – Ability Scores](../character_creation#ability-scores).
 
+Always take the average value for your hit points at 1st level.
+
+| Hit Die | Hit points at 1st level |
+| :-----: | :---------------------: |
+|    d6   |  6 + Constitution modifier |
+|    d8   |  8 + Constitution modifier |
+|   d10   | 10 + Constitution modifier |
+|   d12   | 12 + Constitution modifier |
+
 [(Back to Character Creation)](#character-creation)
 
-### Character Creation: Race and Class
+### Character Creation: Race
 
 You may customize your race as described in *Tasha's Cauldron of Everything*. You cannot choose a race that has a base flying speed, such as the Aarakocra, the Winged Tiefling, the Fairy, and so on.
 
-Some races are missing official heights and weights, and some races have inconsistent heights and weights. See [Character Creation – Height and Weight](../character_creation/#height-and-weight) for more consistent height and weight data. Your height and weight must lie within the minimum and maximum bounds of this data.
+Some races are missing official heights and weights, and some races have inconsistent heights and weights. See [Character Creation – Height and Weight](../character_creation/#height-and-weight) for more consistent height and weight data. Your height and weight must lie within the minimum and maximum bounds of this data for your race.
+
+[(Back to Character Creation)](#character-creation)
+
+### Character Creation: Class
 
 Regarding your 1st-level class, use the variant rule from the *Player's Handbook* where you start with coinage instead of equipment. This starting coinage depends only on your 1st-level class; you do not receive any starting coinage or equipment from your background. Use your starting coinage to purchase your starting equipment. See [Character Creation – Wealth](../character_creation#wealth) for a list of starting coinage by class. Do not roll dice; simply take the average value.
 
@@ -68,7 +84,7 @@ If you have one or more levels in the warlock class, carefully detail your pact 
 
 [(Back to Character Creation)](#character-creation)
 
-### Character Creation: Background and Personality
+### Character Creation: Background
 
 You may customize your background as described in the *Player's Handbook*. In summary:
 
@@ -76,6 +92,10 @@ You may customize your background as described in the *Player's Handbook*. In su
 - **Language and Tool Proficiencies:** Each background grants proficiency in either two languages, two tools, or one language and one tool. You may choose any of these three options, and make any choices within that option. Languages and tools are described in the *Player's Handbook*. Additional details regarding tools are described in *Xanathar's Guide to Everything*.
 - **Starting Equipment:** Since we are using the variant rule where you start with coinage instead of equipment, you do not receive any starting coinage or equipment from your background.
 - **Feature:** Each background grants a passive feature. This is what effectively identifies the background, so you gain this feature as usual.
+
+[(Back to Character Creation)](#character-creation)
+
+### Character Creation: Personality
 
 Your alignment, personality traits, ideal, bond, and flaw must:
 
@@ -97,7 +117,7 @@ You are assumed to have a modest lifestyle, and lifestyle expenses are ignored.
 
 [(Back to Character Creation)](#character-creation)
 
-### Character Creation: Backstory and Portrait
+### Character Creation: Backstory
 
 Write a short backstory of a few paragraphs. The purpose of your backstory is to explain your background, your bond, your 1st-level class, and your other character details. Your backstory must include the following:
 
@@ -108,7 +128,11 @@ Write a short backstory of a few paragraphs. The purpose of your backstory is to
 
 Your backstory must fit the campaign setting and tone, and your backstory must be appropriate for your starting level. Greatness is something that is earned while adventuring, not something that is written into a backstory.
 
-Find an image depicting your character, ideally a full-body image or a "from the waist up" image, to serve as your character's portrait. Your portrait must fit the campaign setting and tone, and your portrait cannot be lewd or inappropriate.
+[(Back to Character Creation)](#character-creation)
+
+### Character Creation: Portrait
+
+Find an image depicting your character, ideally a full-body image or a "from the waist up" image, to serve as your character's portrait. Your portrait must fit the campaign setting and tone, and your portrait cannot be lewd or inappropriate. This portrait will be used to create a token for your character.
 
 [(Back to Character Creation)](#character-creation)
 
@@ -122,7 +146,18 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 ### Advancement: Levelling
 
-Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level.
+Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level. Gain the benefits of your new level immediately, including new spell slots or nearly-learned spells, even if the session ended in the middle of a combat. Furthermore, if you are able to prepare additional spells, you may do so immediately, although you cannot change your previously-prepared spells as usual.
+
+Always take the average value for hit points gained above 1st level.
+
+| Hit Die | Hit points gained per level above 1st level |
+| :-----: | :-----------------------------------------: |
+|    d6   | 4 + Constitution modifier |
+|    d8   | 5 + Constitution modifier |
+|   d10   | 6 + Constitution modifier |
+|   d12   | 7 + Constitution modifier |
+
+Remember that if your Constitution modifier changes, you must recalculate your 1st-level and higher-level hit points as if you had always had that different modifier.
 
 [(Back to Advancement)](#advancement)
 
@@ -131,6 +166,10 @@ Your character can only gain new levels in-between game sessions. When you acqui
 If you are absent during a game session, your character fades into the background of the story: you are assumed to follow the adventuring party around, but you cannot directly impact the game, and the game cannot directly impact you. While absent, you do not receive any experience points or treasure except for treasure hoards and quest rewards.
 
 Strictly more than half of all players must be present for a game session to take place. If there are not enough players, the game session will be cancelled.
+
+Please inform the Game Master ahead of time if you will be absent from a game session or if you will be late to a game session.
+
+Game session notes in the form of an adventuring journal are kept by the Game Master and posted publicly. At the beginning of each game session, the previous session's journal is read as a recap. If you are absent from a game session, it is your responsibility to read the game session notes that would have been recapped during the game sessions you missed, so make sure to schedule some time to do so.
 
 [(Back to Advancement)](#advancement)
 
@@ -149,12 +188,13 @@ Unlike experience points, treasure and equipment is lost when your character die
 - [Going Unconscious](#adventuring-going-unconscious)
 - [Movement](#adventuring-movement)
 - [Falling](#adventuring-falling)
+- [Resting](#adventuring-resting)
 
 [(Back to Top)](#)
 
 ### Adventuring: Going Unconscious
 
-Each time you are reduced to 0 hit points, you gain one level of exhaustion.
+Each time you are incapacitated from being reduced to 0 hit points, you gain one level of exhaustion.
 
 After you make a death saving throw but before it takes effect, you may choose to gain two levels of exhaustion to reroll your death saving throw, using either result.
 
@@ -164,15 +204,15 @@ After you make a death saving throw but before it takes effect, you may choose t
 
 Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot grid costs an additional 5 feet of movement. This simple rule very closely approximates real diagonal movement.
 
-Vertical movement such as climbing and flying is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards.
+Vertical climbing, flying, and hovering movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards.
 
-Flying speeds apply to horizontal and downwards flight. Upwards flight is more strenuous: each foot of upwards flight costs an additional foot of movement.
+Flying and hovering speeds apply to horizontal and downwards flight. Upwards flight is more strenuous: each foot of upwards flight costs an additional foot of movement.
 
 [(Back to Adventuring)](#adventuring)
 
 ### Adventuring: Falling
 
-When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. You can make a Dexterity saving throw to halve the damage taken. The DC for this save equals 10 + 1 for each 10 ft of effective fall distance. You fall prone if you take any damage from falling. Landing in water or on some similarly soft or deformable ground halves this damage.
+When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. You can make a Dexterity saving throw to halve the damage taken. The DC for this save equals 10 + 1 for each 10 ft of effective fall distance. You also fall prone if you take any damage from falling. Landing in water or on some similarly soft or deformable ground halves this damage.
 
 |  Distance  | Save DC | Tiny  | Small | Medium | Large  |  Huge  | Garg.  |
 | :--------: | :-----: | :---: | :---: | :----: | :----: | :----: | :----: |
@@ -193,6 +233,27 @@ When you fall, if you are conscious, subtract your running high jump distance (3
 | 140–149 ft |   24    | 78d4  |  91d6 | 105d8  | 105d10 | 105d12 | 105d20 |
 |   150+ ft  |   25    | 91d4  | 105d6 | 120d8  | 120d10 | 120d12 | 120d20 |
 
+When falling from a great height, the optional rule from *Xanathar's Guide to Everything* is used: you descend up to 500 feet per turn.
+
+When a conscious flying or hovering creature falls, the optional rule from *Xanathar's Guide to Everything* is also used: the creature subtracts its current flying speed from its fall distance to determine its effective fall distance.
+
+[(Back to Adventuring)](#adventuring)
+
+### Adventuring: Resting
+
+The optional rules from *Xanathar's Guide to Everything* concerning long rests are used with some modifications.
+
+When you finish a long rest during which you slept in medium or heavy armor:
+
+- You do not regain any of your Hit Dice.
+- You do not regain any of your uses of your race and class resources that are normally regained on a long rest. For example, a barbarian does not regain any uses of their rage.
+- You do not regain any spell slots.
+- If you have any levels of exhaustion, the long rest doesn’t reduce your exhaustion level.
+
+Sleeping in light armor has no adverse effect on the wearer.
+
+Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
+
 [(Back to Adventuring)](#adventuring)
 
 ## Equipment
@@ -211,13 +272,16 @@ When you fall, if you are conscious, subtract your running high jump distance (3
 
 A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows:
 
-A Medium or Small upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score, or heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score.
+A Medium or Small upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score, or heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score:
 
-An encumbered creature has its speed reduced by 10 feet. A heavily encumbered creature has its speed is reduced by 20 feet and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. Additionally, a creature cannot fly while encumbered or heavily encumbered.
+- An encumbered creature has its speed reduced by 10 feet.
+- A heavily encumbered creature has its speed is reduced by 20 feet and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. Additionally, a creature cannot fly while encumbered or heavily encumbered.
 
 A creature that is either not bipedal or not upright-standing can carry twice as much weight: such creatures include most beasts, most beast-like monstrosities, and most dragons.
 
 A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one fifth as much weight as a Medium or Small creature.
+
+For example, a draft horse is Large and not bipedal, so it can carry weight in pounds up to 20 times its Strength score without penalty, while an elephant is Huge and not bipedal, so it can carry 40 times its Strength score without penalty.
 
 Note that the *Beast of Burden* monster trait and the *Powerful Build* racial feature change a creature's effective size for the purpose of determining its carrying capacity. Also note that many effects such as the *Polymorph* spell, the *Enlarge/Reduce* spell, the *Shapechange* monster feature, the *Wild Shape* druid class feature, and the *Giant's Might* Rune Knight fighter class feature directly change a creature's size, which also changes its carrying capacity.
 
@@ -225,7 +289,7 @@ Note that the *Beast of Burden* monster trait and the *Powerful Build* racial fe
 
 ### Equipment: Armor and Clothing
 
-Armor and clothing only weigh half their weight when worn, but weigh their regular weight when carried. All other equipment always weighs its regular weight, including shields, cloaks, boots, belts, bracers, gloves, weapons, spellcasting focuses, adventuring gear, and tools.
+Armor and clothing only weigh half their weight when worn, but weigh their regular weight when carried. All other equipment always weighs its regular weight, including shields, cloaks, boots, belts, bracers, gloves, weapons, spellcasting focuses, tools, and adventuring gear.
 
 Armor types retain their Strength requirements, even with this variant encumbrance rule. The Strength requirements apply as follows: if an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with Strength 13 wearing armor with a Strength 15 requirement has its speed reduced by 10 feet.
 
@@ -233,7 +297,9 @@ Armor types retain their Strength requirements, even with this variant encumbran
 
 ### Equipment: Coinage
 
-Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person. 50 coins weigh 1 lb as usual. You can exchange coins for coins of different denominations in most settlements: 10 cp = 1 sp, 10 sp = 1 gp, and 10 gp = 1 pp. Electrum pieces are not used.
+Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person. 50 coins weigh 1 lb as usual. You can exchange coins for coins of different denominations in most settlements: 10 cp = 1 sp, 10 sp = 1 gp, and 10 gp = 1 pp.
+
+Electrum pieces (ep) are not used.
 
 Instead of carrying all of your coinage on your person, you can deposit excess coinage at a bank. Large cities are generally home to one or more well-established and reputable banks. Consult the Game Master when doing so.
 
