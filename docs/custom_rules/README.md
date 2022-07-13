@@ -119,14 +119,34 @@ You are assumed to have a modest lifestyle, and lifestyle expenses are ignored.
 
 ### Character Creation: Backstory
 
-Write a short backstory of a few paragraphs. The purpose of your backstory is to explain your background, your bond, your 1st-level class, and your other character details. Your backstory must include the following:
+Write a brief backstory of a few paragraphs describing your character. The primary purpose of your backstory is to answer the following two questions:
+
+1. **Motivation:** Why do you want to be part of this adventuring party?
+2. **Pedigree:** How does your past explain your current skill set?
+
+The secondary purpose of your backstory is to describe the following:
 
 - **Background:** One paragraph of your backstory must explain your background, including any non-player characters or factions from your background's passive feature.
 - **Bond:** One paragraph of your backstory must explain your bond(s).
 - **Class:** One paragraph of your backstory must explain your 1st-level class and subclass as well as any other classes you plan on taking in the future if you choose to multiclass.
-- You may optionally write one or more additional paragraphs to explain your alignment, personality traits, ideal, and flaw.
+- You may optionally write one or more additional paragraphs to explain your alignment, ideal, personality traits, and flaw.
 
 Your backstory must fit the campaign setting and tone, and your backstory must be appropriate for your starting level. Greatness is something that is earned while adventuring, not something that is written into a backstory.
+
+You may use the following template for your backstory:
+
+```
+I am (NAME), a (AGE)-year old (RACE & SUBRACE), from __________.
+Prior to becoming an adventurer, I was a (BACKGROUND), which involved __________.
+I first encountered the adventuring party through __________.
+I want to be part of this adventuring party because __________.
+I care about (BOND) because __________.
+I learned (CLASS & SUBCLASS) from __________.
+I intend to progress into (MULTICLASS & SUBCLASS) through __________.
+My conduct most closely matches the (ALIGNMENT) alignment because __________.
+I idealize the concept of (IDEAL) because __________.
+I am (PERSONALITY TRAITS & FLAWS) because __________.
+```
 
 [(Back to Character Creation)](#character-creation)
 
@@ -194,19 +214,17 @@ Unlike experience points, treasure and equipment is lost when your character die
 
 ### Adventuring: Going Unconscious
 
-Each time you are incapacitated from being reduced to 0 hit points, you gain one level of exhaustion.
+You gain one level of exhaustion each time you are incapacitated from being reduced to 0 hit points.
 
-After you make a death saving throw but before it takes effect, you may choose to gain two levels of exhaustion to reroll your death saving throw, using either result.
+When you make a death saving throw, you may choose to gain two levels of exhaustion to reroll the death saving throw, using either result. You may do this multiple times per death saving throw.
 
 [(Back to Adventuring)](#adventuring)
 
 ### Adventuring: Movement
 
-Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot grid costs an additional 5 feet of movement. This simple rule very closely approximates real diagonal movement.
+Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot square grid costs an additional 5 feet of movement.
 
-Vertical climbing, flying, and hovering movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards.
-
-Flying and hovering speeds apply to horizontal and downwards flight. Upwards flight is more strenuous: each foot of upwards flight costs an additional foot of movement.
+Vertical movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards.
 
 [(Back to Adventuring)](#adventuring)
 
@@ -241,18 +259,14 @@ When a conscious flying or hovering creature falls, the optional rule from *Xana
 
 ### Adventuring: Resting
 
-The optional rules from *Xanathar's Guide to Everything* concerning long rests are used with some modifications.
+Sleeping in light armor has no adverse effect on the wearer. That being said, when sleeping at an inn or similar "safe" place, you are generally assumed to be sleeping in nightwear rather than light armor.
 
-When you finish a long rest during which you slept in medium or heavy armor:
+The optional sleeping rules from *Xanathar's Guide to Everything* are used:
 
-- You do not regain any of your Hit Dice.
-- You do not regain any of your uses of your race and class resources that are normally regained on a long rest. For example, a barbarian does not regain any uses of their rage.
-- You do not regain any spell slots.
-- If you have any levels of exhaustion, the long rest doesn’t reduce your exhaustion level.
+- When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter (rather than half) of your spent Hit Dice (minimum of one die), and if you have any levels of exhaustion, the long rest doesn't reduce your exhaustion level.
+- Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
 
-Sleeping in light armor has no adverse effect on the wearer.
-
-Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
+Elves and warforged do not need to remove their armor during their Trance and Sentry's Rest, respectively.
 
 [(Back to Adventuring)](#adventuring)
 
