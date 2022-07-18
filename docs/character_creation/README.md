@@ -80,7 +80,7 @@ The following table lists all possible sets of ability scores at 1st level using
 
 ### Starting Wealth
 
-When you create your character, instead of receiving starting equipment and wealth from your 1st-level class and background, you can instead opt to receive coinage based solely on your 1st-level class and spend this coinage on equipment.
+When you create your character, instead of receiving starting equipment and wealth from your 1st-level class and background, you can instead opt to receive coinage based solely on your 1st-level class and spend this coinage on equipment. When using this rule, you do not gain any starting equipment or wealth from your background.
 
 | Class     |      Starting Wealth |       | Class    |      Starting Wealth |
 | :-------- | -------------------: | :---: | :------- | -------------------: |
@@ -92,20 +92,20 @@ When you create your character, instead of receiving starting equipment and weal
 | Fighter   | 125 gp (5d4 × 10 gp) |       | Wizard   | 100 gp (4d4 × 10 gp) |
 | Monk      |  25 gp (1d4 × 10 gp) |       |          |                      |
 
-In addition, when creating a replacement character at 2nd level or higher (because a prior character died or was retired), gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and/or wealth.
+In addition, when creating a replacement character at 2nd level or higher after a prior character died or was retired, gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and/or wealth. Consult the Game Master before gaining this additional starting wealth; the Game Master might judge that you are effectively one or more levels ahead or behind based on your adventuring party's progress at looting treasure in the campaign.
 
 | Level | Starting Wealth |       | Level | Starting Wealth |
 | :---: | --------------: | :---: | :---: | --------------: |
-|  1st  |               – |       | 11th  |      + 2,700 gp |
-|  2nd  |         + 50 gp |       | 12th  |      + 3,800 gp |
-|  3rd  |        + 100 gp |       | 13th  |      + 5,300 gp |
-|  4th  |        + 180 gp |       | 14th  |      + 7,400 gp |
-|  5th  |        + 300 gp |       | 15th  |     + 10,000 gp |
-|  6th  |        + 470 gp |       | 16th  |     + 14,000 gp |
-|  7th  |        + 700 gp |       | 17th  |     + 20,000 gp |
-|  8th  |      + 1,000 gp |       | 18th  |     + 28,000 gp |
-|  9th  |      + 1,400 gp |       | 19th  |     + 40,000 gp |
-| 10th  |      + 1,900 gp |       | 20th  |     + 55,000 gp |
+|  1st  |               – |       | 11th  |      + 2,300 gp |
+|  2nd  |         + 50 gp |       | 12th  |      + 3,500 gp |
+|  3rd  |         + 80 gp |       | 13th  |      + 5,200 gp |
+|  4th  |        + 140 gp |       | 14th  |      + 7,800 gp |
+|  5th  |        + 200 gp |       | 15th  |     + 12,000 gp |
+|  6th  |        + 310 gp |       | 16th  |     + 16,000 gp |
+|  7th  |        + 460 gp |       | 17th  |     + 21,000 gp |
+|  8th  |        + 700 gp |       | 18th  |     + 26,000 gp |
+|  9th  |      + 1,000 gp |       | 19th  |     + 30,000 gp |
+| 10th  |      + 1,500 gp |       | 20th  |     + 33,000 gp |
 
 [(Back to Wealth)](#wealth)
 
