@@ -230,26 +230,26 @@ Vertical movement is counted separately from horizontal movement, even when movi
 
 ### Adventuring: Falling
 
-When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. You can make a Dexterity saving throw to halve the damage taken. The DC for this save equals 10 + 1 for each 10 ft of effective fall distance. You also fall prone if you take any damage from falling. Landing in water or on some similarly soft or deformable ground halves this damage.
+When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. Landing in water or on some similarly soft or deformable ground halves this damage.
 
-|  Distance  | Save DC | Tiny  | Small | Medium | Large  |  Huge  | Garg.  |
-| :--------: | :-----: | :---: | :---: | :----: | :----: | :----: | :----: |
-|   0–9 ft   |    –    |   –   |    –  |    –   |    –   |    –   |    –   |
-|  10–19 ft  |   11    |   –   |    –  |   1d8  |   1d10 |   1d12 |   1d20 |
-|  20–29 ft  |   12    |   –   |   1d6 |   3d8  |   3d10 |   3d12 |   3d20 |
-|  30–39 ft  |   13    |  1d4  |   3d6 |   6d8  |   6d10 |   6d12 |   6d20 |
-|  40–49 ft  |   14    |  3d4  |   6d6 |  10d8  |  10d10 |  10d12 |  10d20 |
-|  50–59 ft  |   15    |  6d4  |  10d6 |  15d8  |  15d10 |  15d12 |  15d20 |
-|  60–69 ft  |   16    | 10d4  |  15d6 |  21d8  |  21d10 |  21d12 |  21d20 |
-|  70–79 ft  |   17    | 15d4  |  21d6 |  28d8  |  28d10 |  28d12 |  28d20 |
-|  80–89 ft  |   18    | 21d4  |  28d6 |  36d8  |  36d10 |  36d12 |  36d20 |
-|  90–99 ft  |   19    | 28d4  |  36d6 |  45d8  |  45d10 |  45d12 |  45d20 |
-| 100–109 ft |   20    | 36d4  |  45d6 |  55d8  |  55d10 |  55d12 |  55d20 |
-| 110–119 ft |   21    | 45d4  |  55d6 |  66d8  |  66d10 |  66d12 |  66d20 |
-| 120–129 ft |   22    | 55d4  |  66d6 |  78d8  |  78d10 |  78d12 |  78d20 |
-| 130–139 ft |   23    | 66d4  |  78d6 |  91d8  |  91d10 |  91d12 |  91d20 |
-| 140–149 ft |   24    | 78d4  |  91d6 | 105d8  | 105d10 | 105d12 | 105d20 |
-|   150+ ft  |   25    | 91d4  | 105d6 | 120d8  | 120d10 | 120d12 | 120d20 |
+|  Distance  | Tiny  | Small | Medium | Large  |  Huge  | Garg.  |
+| :--------: | :---: | :---: | :----: | :----: | :----: | :----: |
+|   0–9 ft   |    –  |    –  |    –   |    –   |    –   |    –   |
+|  10–19 ft  |    –  |   1d6 |   1d8  |   1d10 |   1d12 |   1d20 |
+|  20–29 ft  |   1d4 |   3d6 |   3d8  |   3d10 |   3d12 |   3d20 |
+|  30–39 ft  |   3d4 |   6d6 |   6d8  |   6d10 |   6d12 |   6d20 |
+|  40–49 ft  |   6d4 |  10d6 |  10d8  |  10d10 |  10d12 |  10d20 |
+|  50–59 ft  |  10d4 |  15d6 |  15d8  |  15d10 |  15d12 |  15d20 |
+|  60–69 ft  |  15d4 |  21d6 |  21d8  |  21d10 |  21d12 |  21d20 |
+|  70–79 ft  |  21d4 |  28d6 |  28d8  |  28d10 |  28d12 |  28d20 |
+|  80–89 ft  |  28d4 |  36d6 |  36d8  |  36d10 |  36d12 |  36d20 |
+|  90–99 ft  |  36d4 |  45d6 |  45d8  |  45d10 |  45d12 |  45d20 |
+| 100–109 ft |  45d4 |  55d6 |  55d8  |  55d10 |  55d12 |  55d20 |
+| 110–119 ft |  55d4 |  66d6 |  66d8  |  66d10 |  66d12 |  66d20 |
+| 120–129 ft |  66d4 |  78d6 |  78d8  |  78d10 |  78d12 |  78d20 |
+| 130–139 ft |  78d4 |  91d6 |  91d8  |  91d10 |  91d12 |  91d20 |
+| 140–149 ft |  91d4 | 105d6 | 105d8  | 105d10 | 105d12 | 105d20 |
+|   150+ ft  | 105d4 | 120d6 | 120d8  | 120d10 | 120d12 | 120d20 |
 
 When falling from a great height, the optional rule from *Xanathar's Guide to Everything* is used: you descend up to 500 feet per turn.
 
