@@ -1,6 +1,6 @@
 # Monsters by Category
 
-- **[Common](#common):** [Humans](#common-humans), [Dwarves](#common-dwarves), [Elves](#common-elves)
+- **[Common](#common):** [Humans](#common-humans), [Dwarves](#common-dwarves), [Elves](#common-elves), [Halflings](#common-halflings), [Gnomes](#common-gnomes)
 - **[Arctic](#arctic):** [Monsters](#arctic-monsters), [Peoples](#arctic-peoples), [White Dragons](#arctic-white-dragons)
 - **[Oceans](#oceans):** [Monsters](#oceans-monsters), [Peoples](#oceans-peoples)
 - **[Coastal](#coastal):** [Monsters](#coastal-monsters), [Peoples](#coastal-peoples), [Bronze Dragons](#coastal-bronze-dragons)
@@ -32,6 +32,8 @@ Abbreviations:
 - [Humans](#common-humans)
 - [Dwarves](#common-dwarves)
 - [Elves](#common-elves)
+- [Halflings](#common-halflings)
+- [Gnomes](#common-gnomes)
 
 [(Back to Top)](#)
 
@@ -92,11 +94,13 @@ Abbreviations:
 ### Common: Dwarves
 
 Dwarves use the same stat blocks as humans, with the following changes:
+
 - **Speed:** Dwarves have a base walking speed of 25 feet instead of 30 feet.
 - **Darkvision:** Dwarves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
 - **Dwarven Resilience:** Dwarves have advantage on saving throws against poison and have resistance against poison damage.
 - **Tool Proficiency:** Dwarves are proficient in one of smith's tools, brewer's supplies, or mason's tools.
 - **Stonecunning:** Whenever dwarves make an Intelligence (History) check related to the origin of stonework, they are considered to have expertise in the skill, adding double their proficiency bonus to the check.
+- **Languages:** Dwarves can speak, read, and write Dwarvish rather than Common.
 - **Weapons:** Dwarves favor hammers (warhammer, maul, mace, light hammer), axes (battleaxe, greataxe, handaxe), and crossbows (light crossbow, heavy crossbow, hand crossbow) over other weapons.
 
 [(Back to Common)](#common)
@@ -104,11 +108,38 @@ Dwarves use the same stat blocks as humans, with the following changes:
 ### Common: Elves
 
 Elves use the same stat blocks as humans, with the following changes:
+
 - **Keen Senses:** Elves have proficiency in the Perception skill.
 - **Darkvision:** Elves can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
 - **Fey Ancestry:** Elves have advantage on saving throws against being charmed, and magic can't put them to sleep.
 - **Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
+- **Languages:** Elves can speak, read, and write Elvish rather than Common.
 - **Weapons:** Elves favor swords (longsword, rapier, scimitar, shortsword, greatsword) and bows (longbow, shortbow) over other weapons.
+
+[(Back to Common)](#common)
+
+### Common: Halflings
+
+Halflings use the same stat blocks as humans, with the following changes:
+
+- **Size:** Halflings are Small instead of Medium.
+- **Speed:** Halflings have a base walking speed of 25 feet instead of 30 feet.
+- **Lucky:** When a halfling rolls a 1 on an attack roll, ability check, or saving throw, they can reroll the die. They must use the new result, even if it is a 1.
+- **Brave:** Halflings have advantage on saving throws against being frightened.
+- **Nimble:** Halflings can move through the space of any creature that is of a size larger than theirs.
+- **Languages:** Halflings can speak, read, and write Halfling rather than Common.
+
+[(Back to Common)](#common)
+
+### Common: Gnomes
+
+Gnomes use the same stat blocks as humans, with the following changes:
+
+- **Size:** Gnomes are Small instead of Medium.
+- **Speed:** Gnomes have a base walking speed of 25 feet instead of 30 feet.
+- **Darkvision:** Gnomes can see in dim light within 60 feet of themselves as if it were bright light, and in darkness as if it were dim light. They can't discern color in darkness, only shades of gray.
+- **Gnome Cunning:** Gnomes have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+- **Languages:** Gnomes can speak, read, and write Gnomish rather than Common.
 
 [(Back to Common)](#common)
 
