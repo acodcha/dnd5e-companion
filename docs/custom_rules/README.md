@@ -230,7 +230,7 @@ Vertical movement is counted separately from horizontal movement, even when movi
 
 ### Adventuring: Falling
 
-When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table. Landing in water or on some similarly soft or deformable ground halves this damage.
+When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table.
 
 |  Distance  | Tiny  | Small | Medium | Large  |  Huge  | Garg.  |
 | :--------: | :---: | :---: | :----: | :----: | :----: | :----: |
@@ -249,11 +249,20 @@ When you fall, if you are conscious, subtract your running high jump distance (3
 | 120–129 ft |  66d4 |  78d6 |  78d8  |  78d10 |  78d12 |  78d20 |
 | 130–139 ft |  78d4 |  91d6 |  91d8  |  91d10 |  91d12 |  91d20 |
 | 140–149 ft |  91d4 | 105d6 | 105d8  | 105d10 | 105d12 | 105d20 |
-|   150+ ft  | 105d4 | 120d6 | 120d8  | 120d10 | 120d12 | 120d20 |
+| 150–159 ft | 105d4 | 120d6 | 120d8  | 120d10 | 120d12 | 120d20 |
+| 160–169 ft | 120d4 | 136d6 | 136d8  | 136d10 | 136d12 | 136d20 |
+| 170–179 ft | 136d4 | 153d6 | 153d8  | 153d10 | 153d12 | 153d20 |
+| 180–189 ft | 153d4 | 171d6 | 171d8  | 171d10 | 171d12 | 171d20 |
+| 190–199 ft | 171d4 | 190d6 | 190d8  | 190d10 | 190d12 | 190d20 |
+|   200+ ft  | 190d4 | 210d6 | 210d8  | 210d10 | 210d12 | 210d20 |
 
 When falling from a great height, the optional rule from *Xanathar's Guide to Everything* is used: you descend up to 500 feet per turn.
 
-When a conscious flying or hovering creature falls, the optional rule from *Xanathar's Guide to Everything* is also used: the creature subtracts its current flying speed from its fall distance to determine its effective fall distance.
+When a conscious flying or hovering creature falls, the optional rule from *Xanathar's Guide to Everything* is used: the creature subtracts its current flying speed from its fall distance to determine its effective fall distance.
+
+When a creature falls into water or a similar liquid, the optional rule from *Tasha's Cauldron of Everything* is used: the creature can use its reaction to make a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+
+When a creature falls into the space of another creature and neither of them is Tiny, the optional rule from *Tasha's Cauldron of Everything* is used: the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked prone, unless it is two or more sizes larger than the falling creature.
 
 [(Back to Adventuring)](#adventuring)
 
