@@ -361,9 +361,7 @@ However, magical ammunition (such as a +1 arrow, +1 crossbow bolt, and so on) is
 
 ### Equipment: Thrown Weapons
 
-If you carry 5 copies of a mundane melee weapon with the thrown property (such as 5 javelins, 5 handaxes, 5 daggers, and so on), you are assumed to have an effectively limitless supply of that weapon, so you do not need to keep track of how many you have thrown.
-
-However, magical thrown weapons (such as a +1 javelin) need to be counted individually. If you have a few moments after combat, you can usually pick up your magical thrown weapons.
+If you carry 5 copies of a melee weapon with the thrown property (such as 5 javelins, 5 handaxes, 5 daggers, and so on), you are assumed to have an effectively limitless supply of that weapon, so you do not need to keep track of how many you have thrown. This applies whether the weapon is mundane or magical.
 
 ### Equipment: Magic Items
 
