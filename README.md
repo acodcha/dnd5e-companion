@@ -1,3 +1,5 @@
+[View on GitHub.io](https://acodcha.github.io/dnd5e-companion) · [View on GitHub.com](https://github.com/acodcha/dnd5e-companion)
+
 [Documentation for Players](#documentation-for-players) · [Documentation for Game Masters](#documentation-for-game-masters) · [Tokens](#tokens) · [Scenery](#scenery)
 
 ## Documentation for Players
