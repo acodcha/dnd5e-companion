@@ -232,7 +232,15 @@ Vertical movement is counted separately from horizontal movement, even when movi
 
 When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table.
 
-|  Distance  | Tiny  | Small | Medium | Large  |  Huge  | Garg.  |
+When falling from a great height, the optional rule from *Xanathar's Guide to Everything* is used: you descend up to 500 feet per turn.
+
+When a conscious flying creature falls, the optional rule from *Xanathar's Guide to Everything* is used: the creature subtracts its current flying speed from its fall distance to determine its effective fall distance.
+
+When a creature falls into water or a similar liquid, the optional rule from *Tasha's Cauldron of Everything* is used: the creature can use its reaction to make a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+
+When a creature falls into the space of another creature and neither of them is Tiny, the optional rule from *Tasha's Cauldron of Everything* is used: the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked prone, unless it is two or more sizes larger than the falling creature.
+
+|  Distance  | Tiny  | Small | Medium | Large  |  Huge  | Gargantuan |
 | :--------: | :---: | :---: | :----: | :----: | :----: | :----: |
 |   0–9 ft   |    –  |    –  |    –   |    –   |    –   |    –   |
 |  10–19 ft  |    –  |   1d6 |   1d8  |   1d10 |   1d12 |   1d20 |
@@ -256,22 +264,13 @@ When you fall, if you are conscious, subtract your running high jump distance (3
 | 190–199 ft | 171d4 | 190d6 | 190d8  | 190d10 | 190d12 | 190d20 |
 |   200+ ft  | 190d4 | 210d6 | 210d8  | 210d10 | 210d12 | 210d20 |
 
-When falling from a great height, the optional rule from *Xanathar's Guide to Everything* is used: you descend up to 500 feet per turn.
-
-When a conscious flying or hovering creature falls, the optional rule from *Xanathar's Guide to Everything* is used: the creature subtracts its current flying speed from its fall distance to determine its effective fall distance.
-
-When a creature falls into water or a similar liquid, the optional rule from *Tasha's Cauldron of Everything* is used: the creature can use its reaction to make a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
-
-When a creature falls into the space of another creature and neither of them is Tiny, the optional rule from *Tasha's Cauldron of Everything* is used: the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked prone, unless it is two or more sizes larger than the falling creature.
-
 [(Back to Adventuring)](#adventuring)
 
 ### Adventuring: Resting
 
-Sleeping in light armor has no adverse effect on the wearer. That being said, when sleeping at an inn or similar "safe" place, you are generally assumed to be sleeping in nightwear rather than light armor.
-
 The optional sleeping rules from *Xanathar's Guide to Everything* are used:
 
+- Sleeping in light armor has no adverse effect on the wearer. That being said, when sleeping at an inn or similar "safe" place, you are generally assumed to be sleeping in nightwear rather than light armor.
 - When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter (rather than half) of your spent Hit Dice (minimum of one die), and if you have any levels of exhaustion, the long rest doesn't reduce your exhaustion level.
 - Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
 
@@ -295,16 +294,31 @@ Elves and warforged do not need to remove their armor during their Trance and Se
 
 A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows:
 
-A Medium or Small upright-standing bipedal creature such as a humanoid can carry weight in pounds up to 5 times its Strength score without penalty. Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score, or heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score:
+A Small or Medium humanoid-like creature can carry weight in pounds up to 5 times its Strength score without penalty.
 
-- An encumbered creature has its speed reduced by 10 feet.
-- A heavily encumbered creature has its speed is reduced by 20 feet and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. Additionally, a creature cannot fly while encumbered or heavily encumbered.
+- Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score. An encumbered creature has its speed reduced by 10 feet and cannot fly.
+- Such a creature becomes heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
-A creature that is either not bipedal or not upright-standing can carry twice as much weight: such creatures include most beasts, most beast-like monstrosities, and most dragons.
+A beast-like creature can carry twice as much weight as a humanoid-like creature. Such creatures include beasts, dragons, and most monstrosities. The Game Master determines whether a creature is humanoid-like or beast-like.
 
-A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one fifth as much weight as a Medium or Small creature.
+A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one fifth as much weight as a Small or Medium creature.
 
-For example, a draft horse is Large and not bipedal, so it can carry weight in pounds up to 20 times its Strength score without penalty, while an elephant is Huge and not bipedal, so it can carry 40 times its Strength score without penalty.
+Examples of these encumbrance rules are shown in the following table:
+
+| Size | Type | Carrying Capacity in Pounds | Examples |
+| :--- | :--- | :-------------------------: | :------- |
+| Tiny | Humanoid-like | 1 × Strength score | Imp, quickling, pixie |
+| Tiny | Beast-like | 2 × Strength score | Cat, faerie dragon, owl |
+| Small | Humanoid-like | 5 × Strength score | Halfling, goblin, mephit |
+| Small | Beast-like | 10 × Strength score | Awakened shrub, eagle, giant rat |
+| Medium | Humanoid-like | 5 × Strength score | Harpy, human commoner, zombie |
+| Medium | Beast-like | 10 × Strength score | Mule, red dragon wyrmling, vulture |
+| Large | Humanoid-like | 10 × Strength score | Centaur, earth elemental, ogre |
+| Large | Beast-like | 20 × Strength score | Draft horse, wyvern, young red dragon |
+| Huge | Humanoid-like | 20 × Strength score | Cyclops, fomorian, storm giant |
+| Huge | Beast-like | 40 × Strength score | Adult red dragon, elephant, hydra |
+| Gargantuan | Humanoid-like | 40 × Strength score | – |
+| Gargantuan | Beast-like | 80 × Strength score | Ancient red dragon, kraken, roc |
 
 Note that the *Beast of Burden* monster trait and the *Powerful Build* racial feature change a creature's effective size for the purpose of determining its carrying capacity. Also note that many effects such as the *Polymorph* spell, the *Enlarge/Reduce* spell, the *Shapechange* monster feature, the *Wild Shape* druid class feature, and the *Giant's Might* Rune Knight fighter class feature directly change a creature's size, which also changes its carrying capacity.
 
