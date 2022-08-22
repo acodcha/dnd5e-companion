@@ -230,7 +230,7 @@ Vertical movement is counted separately from horizontal movement, even when movi
 
 ### Adventuring: Falling
 
-When you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table.
+As per the *Player's Handbook*, when you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table.
 
 When falling from a great height, the optional rule from *Xanathar's Guide to Everything* is used: you descend up to 500 feet per turn.
 
@@ -292,16 +292,21 @@ Elves and warforged do not need to remove their armor during their Trance and Se
 
 ### Equipment: Encumbrance
 
-A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows:
+A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows.
 
-A Small or Medium humanoid-like creature can carry weight in pounds up to 5 times its Strength score without penalty.
+Creatures are categorized as either humanoid-like or beast-like. The Game Master determines whether a creature is humanoid-like or beast-like. A creature's carrying capacity depends on this categorization and on its size.
 
-- Such a creature becomes encumbered if it carries weight in pounds in excess of 5 times its Strength score. An encumbered creature has its speed reduced by 10 feet and cannot fly.
-- Such a creature becomes heavily encumbered if it carries weight in pounds in excess of 10 times its Strength score. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+A Small or Medium humanoid-like creature can carry weight in pounds up to 5 times its Strength score without penalty. This is the creature's carrying capacity.
 
-A beast-like creature can carry twice as much weight as a humanoid-like creature. Such creatures include beasts, dragons, and most monstrosities. The Game Master determines whether a creature is humanoid-like or beast-like.
+A beast-like creature can carry twice as much weight as a humanoid-like creature. Such creatures include beasts, dragons, and most monstrosities. 
 
 A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one fifth as much weight as a Small or Medium creature.
+
+A creature becomes encumbered if it carries weight in excess of its carrying capacity. An encumbered creature has its speed reduced by 10 feet and cannot fly.
+
+A creature becomes heavily encumbered if it carries weight in excess of twice its carrying capacity. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+
+A creature collapses if it carries weight in excess of three times its carrying capacity.
 
 Examples of these encumbrance rules are shown in the following table:
 
@@ -344,7 +349,7 @@ Instead of carrying all of your coinage on your person, you can deposit excess c
 
 ### Equipment: Wilderness
 
-While adventuring in the wilderness, you must have the following equipment at minimum:
+While adventuring in the wilderness, you must have the following equipment, at minimum:
 
 - Suit of armor or traveler's clothes (2 gp, 4 lb or 2 lb when worn)
 - Backpack (2 gp, 5 lb)
@@ -355,7 +360,7 @@ While adventuring in the wilderness, you must have the following equipment at mi
 
 Each adventurer must have their own copy of the above equipment. However, you can ask one of your companions to carry your equipment for you.
 
-While traveling through the wilderness, keep track of how many rations you you have as you consume them each day. You also drink the contents of one waterskin per day (or more depending on the climate), so you will usually need to find a source of water each day.
+While traveling through the wilderness, keep track of how many rations you have as you consume them each day. You also drink the contents of one waterskin per day (or more depending on the climate), so you will usually need to find a source of water each day.
 
 [(Back to Equipment)](#equipment)
 
