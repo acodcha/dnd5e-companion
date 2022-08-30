@@ -108,12 +108,12 @@ While traveling, characters can perform the following activities:
 Abbreviations:
 
 - MM: *Monster Manual*
-- Volo: *Volo's Guide to Monsters*
+- VGtM: *Volo's Guide to Monsters*
 
 | Mount        | Size   |   Cost | Feed per Day | Stabling per Day |   Source |
 | :----------- | :----- | -----: | :----------: | :--------------: | -------: |
 | Mule         | Medium |   8 gp | 1 cp,   2 lb |       2 sp       |   MM 333 |
-| Ox           | Large  |  15 gp | 5 cp,  10 lb |       5 sp       | Volo 207 |
+| Ox           | Large  |  15 gp | 5 cp,  10 lb |       5 sp       | VGtM 207 |
 | Mastiff      | Medium |  25 gp | 1 cp,   2 lb |       2 sp       |   MM 332 |
 | Pony         | Medium |  30 gp | 1 cp,   2 lb |       2 sp       |   MM 335 |
 | Camel        | Large  |  50 gp | 5 cp,  10 lb |       5 sp       |   MM 320 |
@@ -284,23 +284,23 @@ Some hirelings might require a minimum of several days or even weeks of pay for 
 Abbreviations:
 
 - MM: *Monster Manual*
-- Volo: *Volo's Guide to Monsters*
+- VGtM: *Volo's Guide to Monsters*
 
 | Hireling | Cost |
 | :------- | ---: |
 | Unskilled laborer, costermonger, peddler | 2 sp per day |
 | Burglar, pickpocket, bandit (MM 343), tribal warrior (MM 350) | 1 gp per day |
 | Soldier, skilled laborer, student, guard (MM 347) | 2 gp per day |
-| Artisan, merchant, military officer, acolyte (MM 342), apprentice wizard (Volo 209), thug (MM 350) | 4 gp per day |
+| Artisan, merchant, military officer, acolyte (MM 342), apprentice wizard (VGtM 209), thug (MM 350) | 4 gp per day |
 | Courtier, business owner, scout (MM 349) | 8 gp per day |
 | Politician, guild leader, noble, bandit captain (MM 344), berserker (MM 344), druid (MM 346), spy (MM 349) | 16 gp per day |
-| Aristocrat, bard (Volo 211), priest (MM 348), swashbuckler (Volo 217) | 32 gp per day |
-| Archer (Volo 210), knight (MM 347), martial arts adept (Volo 216), veteran (MM 350) | 48 gp per day |
-| Gladiator (MM 346), master thief (Volo 216) | 110 gp per day |
+| Aristocrat, bard (VGtM 211), priest (MM 348), swashbuckler (VGtM 217) | 32 gp per day |
+| Archer (VGtM 210), knight (MM 347), martial arts adept (VGtM 216), veteran (MM 350) | 48 gp per day |
+| Gladiator (MM 346), master thief (VGtM 216) | 110 gp per day |
 | Mage (MM 347) | 160 gp per day |
 | Assassin (MM 343) | 360 gp per day |
-| Champion (Volo 212), war priest (Volo 218) | 600 gp per day |
-| Archdruid (Volo 210) | 1,200 gp per day |
-| Archmage (MM 342), warlord (Volo 220) | 1,800 gp per day |
+| Champion (VGtM 212), war priest (VGtM 218) | 600 gp per day |
+| Archdruid (VGtM 210) | 1,200 gp per day |
+| Archmage (MM 342), warlord (VGtM 220) | 1,800 gp per day |
 
 [(Back to Top)](#)

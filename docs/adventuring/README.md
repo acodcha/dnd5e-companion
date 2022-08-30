@@ -724,9 +724,9 @@ The following tables list all beasts (excluding swarms of beasts). The druid's W
 
 Abbreviations:
 
-- Eber: *Eberron: Rising from the Last War*
+- ERftLW: *Eberron: Rising from the Last War*
 - MM: *Monster Manual*
-- Volo: *Volo's Guide to Monsters*
+- VGtM: *Volo's Guide to Monsters*
 
 ### Wild Shape and Polymorph Beasts: Challenge Rating 0
 
@@ -750,7 +750,7 @@ Abbreviations:
 | CR 0 | Owl (fly) | Tiny | MM 333 |
 | CR 0 | Quipper (swim) | Tiny | MM 335 |
 | CR 0 | Rat | Tiny | MM 335 |
-| CR 0 | Rat, cranium | Tiny | Volo 133 |
+| CR 0 | Rat, cranium | Tiny | VGtM 133 |
 | CR 0 | Raven (fly) | Tiny | MM 335 |
 | CR 0 | Scorpion | Tiny | MM 337 |
 | CR 0 | Sea horse (swim) | Tiny | MM 337 |
@@ -766,7 +766,7 @@ Abbreviations:
 | :---: | :--- | :--- | -----: |
 | CR ⅛ | Camel | Large | MM 320 |
 | CR ⅛ | Crab, giant (swim) | Med. | MM 324 |
-| CR ⅛ | Dolphin (swim) | Med. | Volo 208 |
+| CR ⅛ | Dolphin (swim) | Med. | VGtM 208 |
 | CR ⅛ | Hawk, blood (fly) | Small | MM 319 |
 | CR ⅛ | Mastiff | Med. | MM 332 |
 | CR ⅛ | Mule | Med. | MM 333 |
@@ -788,22 +788,22 @@ Abbreviations:
 | CR ¼ | Bat, giant (fly) | Large | MM 323 |
 | CR ¼ | Boar | Med. | MM 319 |
 | CR ¼ | Centipede, giant (climb) | Small | MM 323 |
-| CR ¼ | Cow | Large | Volo 207 |
-| CR ¼ | Dinosaur, dimetrodon (swim) | Med. | Volo 139 |
-| CR ¼ | Dinosaur, fastieth | Med. | Eber 289 |
-| CR ¼ | Dinosaur, hadrosaurus | Large | Volo 140 |
+| CR ¼ | Cow | Large | VGtM 207 |
+| CR ¼ | Dinosaur, dimetrodon (swim) | Med. | VGtM 139 |
+| CR ¼ | Dinosaur, fastieth | Med. | ERftLW 289 |
+| CR ¼ | Dinosaur, hadrosaurus | Large | VGtM 140 |
 | CR ¼ | Dinosaur, pteranodon (fly) | Med. | MM 80 |
-| CR ¼ | Dinosaur, velociraptor | Tiny | Volo 140 |
+| CR ¼ | Dinosaur, velociraptor | Tiny | VGtM 140 |
 | CR ¼ | Draft horse | Large | MM 321 |
 | CR ¼ | Elk | Large | MM 322 |
 | CR ¼ | Frog, giant (swim) | Med. | MM 325 |
 | CR ¼ | Lizard, giant (climb) | Large | MM 326 |
 | CR ¼ | Owl, giant (fly) | Large | MM 327 |
-| CR ¼ | Ox | Large | Volo 207 |
+| CR ¼ | Ox | Large | VGtM 207 |
 | CR ¼ | Panther (climb) | Med. | MM 333 |
 | CR ¼ | Riding horse | Large | MM 336 |
-| CR ¼ | Rothé | Large | Volo 207 |
-| CR ¼ | Rothé, deep | Med. | Volo 207 |
+| CR ¼ | Rothé | Large | VGtM 207 |
+| CR ¼ | Rothé, deep | Med. | VGtM 207 |
 | CR ¼ | Snake, constrictor (swim) | Large | MM 320 |
 | CR ¼ | Snake, poisonous, giant (swim) | Med. | MM 327 |
 | CR ¼ | Spider, wolf, giant (climb) | Med. | MM 330 |
@@ -831,8 +831,8 @@ Abbreviations:
 |  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
 | CR 1 | Bear, brown (climb) | Large | MM 319 |
-| CR 1 | Dinosaur, clawfoot | Med. | Eber 289 |
-| CR 1 | Dinosaur, deinonychus | Med. | Volo 139 |
+| CR 1 | Dinosaur, clawfoot | Med. | ERftLW 289 |
+| CR 1 | Dinosaur, deinonychus | Med. | VGtM 139 |
 | CR 1 | Eagle, giant (fly) | Large | MM 324 |
 | CR 1 | Hyena, giant | Large | MM 326 |
 | CR 1 | Lion | Large | MM 331 |
@@ -849,13 +849,13 @@ Abbreviations:
 
 |  CR   | Name | Size | Source |
 | :---: | :--- | :--- | -----: |
-| CR 2 | Aurochs | Large | Volo 207 |
+| CR 2 | Aurochs | Large | VGtM 207 |
 | CR 2 | Bear, cave (swim) | Large | MM 334 |
 | CR 2 | Bear, polar (swim) | Large | MM 334 |
 | CR 2 | Boar, giant | Large | MM 323 |
 | CR 2 | Dinosaur, allosaurus | Large | MM 79 |
 | CR 2 | Dinosaur, plesiosaurus (swim) | Large | MM 80 |
-| CR 2 | Dinosaur, quetzalcoatlus (fly) | Huge | Volo 140 |
+| CR 2 | Dinosaur, quetzalcoatlus (fly) | Huge | VGtM 140 |
 | CR 2 | Elk, giant | Huge | MM 325 |
 | CR 2 | Rhinoceros | Large | MM 336 |
 | CR 2 | Shark, hunter (swim) | Large | MM 330 |
@@ -871,10 +871,10 @@ Abbreviations:
 | CR 3 | Dinosaur, ankylosaurus | Huge | MM 79 |
 | CR 3 | Killer whale (swim) | Huge | MM 331 |
 | CR 3 | Scorpion, giant | Large | MM 327 |
-| CR 4 | Dinosaur, stegosaurus | Huge | Volo 140 |
+| CR 4 | Dinosaur, stegosaurus | Huge | VGtM 140 |
 | CR 4 | Elephant | Huge | MM 322 |
 | CR 5 | Crocodile, giant (swim) | Huge | MM 324 |
-| CR 5 | Dinosaur, brontosaurus | Garg. | Volo 139 |
+| CR 5 | Dinosaur, brontosaurus | Garg. | VGtM 139 |
 | CR 5 | Dinosaur, triceratops | Huge | MM 80 |
 | CR 5 | Shark, giant (swim) | Huge | MM 328 |
 | CR 6 | Mammoth | Huge | MM 332 |
