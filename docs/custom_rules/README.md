@@ -240,29 +240,29 @@ When a creature falls into water or a similar liquid, the optional rule from *Ta
 
 When a creature falls into the space of another creature and neither of them is Tiny, the optional rule from *Tasha's Cauldron of Everything* is used: the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked prone, unless it is two or more sizes larger than the falling creature.
 
-|  Distance  | Tiny  | Small | Medium | Large  |  Huge  | Gargantuan |
-| :--------: | :---: | :---: | :----: | :----: | :----: | :----: |
-|   0–9 ft   |    –  |    –  |    –   |    –   |    –   |    –   |
-|  10–19 ft  |    –  |   1d6 |   1d8  |   1d10 |   1d12 |   1d20 |
-|  20–29 ft  |   1d4 |   3d6 |   3d8  |   3d10 |   3d12 |   3d20 |
-|  30–39 ft  |   3d4 |   6d6 |   6d8  |   6d10 |   6d12 |   6d20 |
-|  40–49 ft  |   6d4 |  10d6 |  10d8  |  10d10 |  10d12 |  10d20 |
-|  50–59 ft  |  10d4 |  15d6 |  15d8  |  15d10 |  15d12 |  15d20 |
-|  60–69 ft  |  15d4 |  21d6 |  21d8  |  21d10 |  21d12 |  21d20 |
-|  70–79 ft  |  21d4 |  28d6 |  28d8  |  28d10 |  28d12 |  28d20 |
-|  80–89 ft  |  28d4 |  36d6 |  36d8  |  36d10 |  36d12 |  36d20 |
-|  90–99 ft  |  36d4 |  45d6 |  45d8  |  45d10 |  45d12 |  45d20 |
-| 100–109 ft |  45d4 |  55d6 |  55d8  |  55d10 |  55d12 |  55d20 |
-| 110–119 ft |  55d4 |  66d6 |  66d8  |  66d10 |  66d12 |  66d20 |
-| 120–129 ft |  66d4 |  78d6 |  78d8  |  78d10 |  78d12 |  78d20 |
-| 130–139 ft |  78d4 |  91d6 |  91d8  |  91d10 |  91d12 |  91d20 |
-| 140–149 ft |  91d4 | 105d6 | 105d8  | 105d10 | 105d12 | 105d20 |
-| 150–159 ft | 105d4 | 120d6 | 120d8  | 120d10 | 120d12 | 120d20 |
-| 160–169 ft | 120d4 | 136d6 | 136d8  | 136d10 | 136d12 | 136d20 |
-| 170–179 ft | 136d4 | 153d6 | 153d8  | 153d10 | 153d12 | 153d20 |
-| 180–189 ft | 153d4 | 171d6 | 171d8  | 171d10 | 171d12 | 171d20 |
-| 190–199 ft | 171d4 | 190d6 | 190d8  | 190d10 | 190d12 | 190d20 |
-|   200+ ft  | 190d4 | 210d6 | 210d8  | 210d10 | 210d12 | 210d20 |
+|  Distance  | Tiny  | Small or Medium | Large | Huge  |  Gargantuan  |
+| :--------: | :---: | :---: | :----: | :----: | :----: |
+|   0–9 ft   |    –  |    –  |    –   |    –   |    –   |
+|  10–19 ft  |    –  |   1d6 |   1d8  |   1d10 |   1d12 |
+|  20–29 ft  |   1d4 |   3d6 |   3d8  |   3d10 |   3d12 |
+|  30–39 ft  |   3d4 |   6d6 |   6d8  |   6d10 |   6d12 |
+|  40–49 ft  |   6d4 |  10d6 |  10d8  |  10d10 |  10d12 |
+|  50–59 ft  |  10d4 |  15d6 |  15d8  |  15d10 |  15d12 |
+|  60–69 ft  |  15d4 |  20d6 |  20d8  |  20d10 |  20d12 |
+|  70–79 ft  |  20d4 |  25d6 |  25d8  |  25d10 |  25d12 |
+|  80–89 ft  |  25d4 |  30d6 |  30d8  |  30d10 |  30d12 |
+|  90–99 ft  |  30d4 |  35d6 |  35d8  |  35d10 |  35d12 |
+| 100–109 ft |  35d4 |  40d6 |  40d8  |  40d10 |  40d12 |
+| 110–119 ft |  40d4 |  45d6 |  45d8  |  45d10 |  45d12 |
+| 120–129 ft |  45d4 |  50d6 |  50d8  |  50d10 |  50d12 |
+| 130–139 ft |  50d4 |  55d6 |  55d8  |  55d10 |  55d12 |
+| 140–149 ft |  55d4 |  60d6 |  60d8  |  60d10 |  60d12 |
+| 150–159 ft |  60d4 |  65d6 |  65d8  |  65d10 |  65d12 |
+| 160–169 ft |  65d4 |  70d6 |  70d8  |  70d10 |  70d12 |
+| 170–179 ft |  70d4 |  75d6 |  75d8  |  75d10 |  75d12 |
+| 180–189 ft |  75d4 |  80d6 |  80d8  |  80d10 |  80d12 |
+| 190–199 ft |  80d4 |  85d6 |  85d8  |  85d10 |  85d12 |
+|   200+ ft  |  85d4 |  90d6 |  90d8  |  90d10 |  90d12 |
 
 [(Back to Adventuring)](#adventuring)
 
@@ -298,7 +298,7 @@ Creatures are categorized as either humanoid-like or beast-like. The Game Master
 
 A Small or Medium humanoid-like creature can carry weight in pounds up to 5 times its Strength score without penalty. This is the creature's carrying capacity.
 
-A beast-like creature can carry twice as much weight as a humanoid-like creature. Such creatures include beasts, dragons, and most monstrosities. 
+A beast-like creature can carry twice as much weight as a humanoid-like creature. Such creatures include beasts, dragons, and most monstrosities.
 
 A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one fifth as much weight as a Small or Medium creature.
 
