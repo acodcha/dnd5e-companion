@@ -25,16 +25,19 @@ The players and the Game Master must each carefully read and fill out the [RPG C
 
 ### Consent: Player Character Interactions
 
-Whenever a player character wishes to take an action that may directly harm or inconvenience another player character, both players must consent to that action; otherwise, the action cannot be taken. Some examples include: pocketing more than your fair share of looted treasure, stealing from a companion, including a companion in the area of effect of a spell, purposefully attacking a companion, purposefully pushing a companion off a ledge, or speaking ill of a companion to an important non-player character.
-
-Similarly, player characters in the same adventuring party are assumed to be sufficiently familiar with each other that they cannot effectively deceive or cheat each other.
+Whenever a player character wishes to take an action that may directly harm or inconvenience another player character, both players must consent to that action; otherwise, the action cannot be taken. Some examples include: pocketing more than your fair share of looted treasure, stealing from a companion, including a companion in the area of effect of a spell, purposefully attacking a companion, purposefully pushing a companion off a ledge, or speaking ill of a companion to an important non-player character. Similarly, player characters in the same adventuring party are assumed to be sufficiently familiar with each other that they cannot effectively deceive or cheat each other.
 
 [(Back to Consent)](#consent)
 
 ## Character Creation
 
-- [Basics](#character-creation-basics)
+- [Source Material](#character-creation-source-material)
+- [Starting XP and Level](#character-creation-starting-xp-and-level)
+- [Starting Ability Scores](#character-creation-starting-ability-scores)
+- [Hit Points](#character-creation-hit-points)
 - [Race](#character-creation-race)
+- [Height and Weight](#character-creation-height-and-weight)
+- [Starting Equipment and Coinage](#character-creation-starting-equipment-and-coinage)
 - [Class](#character-creation-class)
 - [Background](#character-creation-background)
 - [Personality](#character-creation-personality)
@@ -43,15 +46,27 @@ Similarly, player characters in the same adventuring party are assumed to be suf
 
 [(Back to Top)](#)
 
-### Character Creation: Basics
+### Character Creation: Source Material
 
 When making your character, you may choose your race, subrace, background, class(es), subclass(es), feats, spells, and equipment from any of the official published 5th Edition Dungeon and Dragons books by Wizards of the Coast. You may not use any Unearthed Arcana material, playtest material, or homebrew material.
 
+[(Back to Character Creation)](#character-creation)
+
+### Character Creation: Starting XP and Level
+
 Unless otherwise stated, start with 0 XP at 1st level. If you are creating a replacement character because your previous character died or was retired, consult the Game Master regarding your starting experience and level.
 
-Use the Point Buy system for your starting ability scores. For a list of all possible starting ability score arrays using the Point Buy system, see [Character Creation – Ability Scores](../character_creation#ability-scores).
+[(Back to Character Creation)](#character-creation)
 
-Always take the average value for your hit points at 1st level.
+### Character Creation: Starting Ability Scores
+
+Use the Point Buy system for your starting ability scores. For a list of all possible starting ability score combinations using the Point Buy system, see [Character Creation – Ability Scores](../character_creation#ability-scores).
+
+[(Back to Character Creation)](#character-creation)
+
+### Character Creation: Hit Points
+
+Always take the average value for your hit points at 1st level:
 
 | Hit Die | Hit points at 1st level |
 | :-----: | :---------------------: |
@@ -60,19 +75,50 @@ Always take the average value for your hit points at 1st level.
 |   d10   | 10 + Constitution modifier |
 |   d12   | 12 + Constitution modifier |
 
+Always take the average value for hit points gained above 1st level:
+
+| Hit Die | Hit points gained per level above 1st level |
+| :-----: | :-----------------------------------------: |
+|    d6   | 4 + Constitution modifier |
+|    d8   | 5 + Constitution modifier |
+|   d10   | 6 + Constitution modifier |
+|   d12   | 7 + Constitution modifier |
+
+Remember that if your Constitution modifier changes, you must recalculate your 1st-level and higher-level hit points as if you had always had that different modifier.
+
 [(Back to Character Creation)](#character-creation)
 
 ### Character Creation: Race
 
 You may customize your race as described in *Tasha's Cauldron of Everything*. You cannot choose a race that has a base flying speed, such as the Aarakocra, the Winged Tiefling, the Fairy, and so on.
 
+[(Back to Character Creation)](#character-creation)
+
+### Character Creation: Height and Weight
+
 Some races are missing official heights and weights, and some races have inconsistent heights and weights. See [Character Creation – Height and Weight](../character_creation/#height-and-weight) for more consistent height and weight data. Your height and weight must lie within the minimum and maximum bounds of this data for your race.
 
 [(Back to Character Creation)](#character-creation)
 
-### Character Creation: Class
+### Character Creation: Starting Equipment and Coinage
 
-Regarding your 1st-level class, use the variant rule from the *Player's Handbook* where you start with coinage instead of equipment. This starting coinage depends only on your 1st-level class; you do not receive any starting coinage or equipment from your background. Use your starting coinage to purchase your starting equipment. See [Character Creation – Wealth](../character_creation#wealth) for a list of starting coinage by class. Do not roll dice; simply take the average value.
+The variant rule from the *Player's Handbook* where you start with coinage instead of equipment is used. Use your starting coinage to purchase your starting equipment. This starting coinage depends only on your 1st-level class. You do not receive any starting coinage or equipment from your background.
+
+| Class | Starting Coinage |  | Class | Starting Coinage |
+| :-------- | -----: | :---: | :------- | -----: |
+| Artificer | 125 gp |       | Paladin  | 125 gp |
+| Barbarian |  50 gp |       | Ranger   | 125 gp |
+| Bard      | 125 gp |       | Rogue    | 100 gp |
+| Cleric    | 125 gp |       | Sorcerer |  75 gp |
+| Druid     |  50 gp |       | Warlock  | 100 gp |
+| Fighter   | 125 gp |       | Wizard   | 100 gp |
+| Monk      |  25 gp |       |          |        |
+
+If you are creating a replacement character because your previous character died or was retired, you start with additional wealth. Consult the Game Master regarding your starting wealth.
+
+[(Back to Character Creation)](#character-creation)
+
+### Character Creation: Class
 
 Above 1st level, you may multiclass. Your multiclass selections must make sense given your character's backstory and experiences during the campaign.
 
@@ -168,26 +214,17 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level. Gain the benefits of your new level immediately, including new spell slots or nearly-learned spells, even if the session ended in the middle of a combat. Furthermore, if you are able to prepare additional spells, you may do so immediately, although you cannot change your previously-prepared spells as usual.
 
-Always take the average value for hit points gained above 1st level.
-
-| Hit Die | Hit points gained per level above 1st level |
-| :-----: | :-----------------------------------------: |
-|    d6   | 4 + Constitution modifier |
-|    d8   | 5 + Constitution modifier |
-|   d10   | 6 + Constitution modifier |
-|   d12   | 7 + Constitution modifier |
-
-Remember that if your Constitution modifier changes, you must recalculate your 1st-level and higher-level hit points as if you had always had that different modifier.
-
 [(Back to Advancement)](#advancement)
 
 ### Advancement: Absenteeism
 
 If you are absent during a game session, your character fades into the background of the story: you are assumed to follow the adventuring party around, but you cannot directly impact the game, and the game cannot directly impact you. While absent, you do not receive any experience points or treasure except for treasure hoards and quest rewards.
 
+Please inform the Game Master ahead of time if you will be absent from a game session or if you will be late to a game session.
+
 Strictly more than half of all players must be present for a game session to take place. If there are not enough players, the game session will be cancelled.
 
-Please inform the Game Master ahead of time if you will be absent from a game session or if you will be late to a game session.
+Regarding tardiness, if it is 15 minutes past the start of a game session and not enough players are present, the game session will be immediately cancelled.
 
 Game session notes in the form of an adventuring journal are kept by the Game Master and posted publicly. At the beginning of each game session, the previous session's journal is read as a recap. If you are absent from a game session, it is your responsibility to read the game session notes that would have been recapped during the game sessions you missed, so make sure to schedule some time to do so.
 
@@ -384,6 +421,6 @@ If you carry 5 copies of a melee weapon with the thrown property (such as 5 jave
 
 ### Equipment: Magic Items
 
-Magic items have costs and can be purchased and sold. However, buyers and sellers of magic items can generally only be found in large cities, and certain magic items may be more difficult to obtain than others. Consult the Game Master whenever you wish to purchase or sell a magic item. For magic item costs and weights, see [Consumable Magic Items](../consumable_magic_items) and [Permanent Magic Items](../permanent_magic_items).
+Most magic items have costs and can be purchased and sold. However, buyers and sellers of magic items can generally only be found in large cities, and certain magic items may be more difficult to obtain than others. Consult the Game Master whenever you wish to purchase or sell a magic item. For magic item costs and weights, see [Consumable Magic Items](../consumable_magic_items) and [Permanent Magic Items](../permanent_magic_items). Some magic items do not have a listed cost; these magic items cannot be purchased, sold, or crafted.
 
 [(Back to Equipment)](#equipment)

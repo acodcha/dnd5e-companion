@@ -3,7 +3,7 @@
 - **[Abilities](#abilities):** [Strength](#ability-strength), [Strength (Athletics)](#ability-strength-athletics), [Dexterity](#ability-dexterity), [Dexterity (Acrobatics)](#ability-dexterity-acrobatics), [Dexterity (Sleight of Hand)](#ability-dexterity-sleight-of-hand), [Dexterity (Stealth)](#ability-dexterity-stealth), [Constitution](#ability-constitution), [Intelligence](#ability-intelligence), [Intelligence (Arcana)](#ability-intelligence-arcana), [Intelligence (History)](#ability-intelligence-history), [Intelligence (Investigation)](#ability-intelligence-investigation), [Intelligence (Nature)](#ability-intelligence-nature), [Intelligence (Religion)](#ability-intelligence-religion), [Wisdom](#ability-wisdom), [Wisdom (Animal-Handling)](#ability-wisdom-animal-handling), [Wisdom (Insight)](#ability-wisdom-insight), [Wisdom (Medicine)](#ability-wisdom-medicine), [Wisdom (Perception)](#ability-wisdom-perception), [Wisdom (Survival)](#ability-wisdom-survival), [Charisma](#ability-charisma), [Charisma (Deception)](#ability-charisma-deception), [Charisma (Intimidation)](#ability-charisma-intimidation), [Charisma (Performance)](#ability-charisma-performance), [Charisma (Persuasion)](#ability-charisma-persuasion)
 - **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 - **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Squeezing](#condition-squeezing), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
-- **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
+- **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Falling](#circumstance-falling), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
 - **[Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts):** [CR 0](#wild-shape-and-polymorph-beasts-challenge-rating-0), [CR ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-), [CR ¼](#wild-shape-and-polymorph-beasts-challenge-rating--1), [CR ½](#wild-shape-and-polymorph-beasts-challenge-rating--2), [CR 1](#wild-shape-and-polymorph-beasts-challenge-rating-1), [CR 2](#wild-shape-and-polymorph-beasts-challenge-rating-2), [CR 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
 
 [(Back to Main Page)](../../#)
@@ -636,6 +636,7 @@
 ## Circumstances
 
 - [Jumping](#circumstance-jumping)
+- [Falling](#circumstance-falling)
 - [Cover](#circumstance-cover)
 - [Concealment](#circumstance-concealment)
 - [Light](#circumstance-light)
@@ -652,6 +653,19 @@
 - When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance.
 - When you make a high jump, you can extend your arms half your height above yourself during a high jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 - In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher or further than you normally can.
+
+[(Back to Circumstances)](#circumstances)
+
+### Circumstance: Falling
+
+- At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
+- If a creature is conscious when it falls, subtract the creature's high jump distance from the distance it falls before calculating falling damage.
+- If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the Fly spell.
+- If a flying creature is conscious when it falls, subtract the creature's current flying speed from the distance it falls before calculating falling damage.
+- When a creature falls from a great height, it instantly descends up to 500 feet. If it's still falling on its next turn, it descends up to 500 feet at the end of that turn. This process continues until the fall ends, either because the creature hits the ground or the fall is otherwise halted.
+- If a conscious flying creature starts its turn falling due to being prone, it can use half of its current flying speed to end the prone condition and halt its fall, as if it were standing up in midair.
+- A creature that falls into water or another liquid can use its reaction to make a DC 15 Strength (Athlet­ics) or Dexterity (Acrobatics) check to hit the surface head or feet first. On a successful check, any dam­age resulting from the fall is halved.
+- If a creature falls into the space of a second creature and neither of them is Tiny, the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked prone, unless it is two or more sizes larger than the fall­ ing creature.
 
 [(Back to Circumstances)](#circumstances)
 
