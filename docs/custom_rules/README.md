@@ -4,7 +4,7 @@
 - **[Character Creation](#character-creation):** [Source Material](#character-creation-source-material), [Starting XP and Level](#character-creation-starting-xp-and-level), [Starting Ability Scores](#character-creation-starting-ability-scores), [Hit Points](#character-creation-hit-points), [Race](#character-creation-race), [Height and Weight](#character-creation-height-and-weight), [Starting Equipment and Coinage](#character-creation-starting-equipment-and-coinage), [Class](#character-creation-class), [Background](#character-creation-background), [Personality](#character-creation-personality), [Backstory](#character-creation-backstory), [Portrait](#character-creation-portrait)
 - **[Advancement](#advancement):** [Levelling](#advancement-levelling), [Absenteeism](#advancement-absenteeism), [Death and Retirement](#advancement-death-and-retirement)
 - **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling), [Resting](#adventuring-resting)
-- **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Armor and Clothing](#equipment-armor-and-clothing), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
+- **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
 
 [(Back to Main Page)](../../#)
 
@@ -198,7 +198,9 @@ I am (PERSONALITY TRAITS & FLAWS) because __________.
 
 ### Character Creation: Portrait
 
-Find an image depicting your character, ideally a full-body image or a "from the waist up" image, to serve as your character's portrait. Your portrait must fit the campaign setting and tone, and your portrait cannot be lewd or inappropriate. This portrait will be used to create a token for your character.
+Find an image depicting your character, ideally a full-body image or a "from the waist up" image, to serve as your character's portrait. This portrait will be used to create a token for your character.
+
+Your portrait must fit the campaign setting and tone, and your portrait cannot be lewd or inappropriate.
 
 [(Back to Character Creation)](#character-creation)
 
@@ -212,31 +214,35 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 ### Advancement: Levelling
 
-Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level. Gain the benefits of your new level immediately, including new spell slots or nearly-learned spells, even if the session ended in the middle of a combat. Furthermore, if you are able to prepare additional spells, you may do so immediately, although you cannot change your previously-prepared spells as usual.
+Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level.
+
+If you do not have time at the end of a game session to gain your new level, make sure to schedule time to do so before the next game session.
+
+When you gain a new level, gain all of its benefits instantly, including new spell slots or nearly-learned spells, even if the session ended in the middle of an encounter. Furthermore, if you are able to prepare one or more additional spells, you may do so instantly, although you cannot change your previously-prepared spells until you take a long rest.
 
 [(Back to Advancement)](#advancement)
 
 ### Advancement: Absenteeism
 
-If you are absent during a game session, your character fades into the background of the story: you are assumed to follow the adventuring party around, but you cannot directly impact the game, and the game cannot directly impact you. While absent, you do not receive any experience points or treasure except for treasure hoards and quest rewards.
+Please inform the Game Master and the gaming group ahead of time if you will be absent from an upcoming game session, if you will be late to an upcoming game session, or if you will need to leave early from an upcoming game session.
 
-Please inform the Game Master ahead of time if you will be absent from a game session or if you will be late to a game session.
+If you are absent from a game session, your character fades into the background of the story. Your character is assumed to follow the adventuring party around, but your character cannot directly impact the game, and the game cannot directly impact your character. While absent, you do not receive any experience points or treasure except for treasure hoards and quest rewards.
 
 Strictly more than half of all players must be present for a game session to take place. If there are not enough players, the game session will be cancelled.
 
 Regarding tardiness, if it is 15 minutes past the start of a game session and not enough players are present, the game session will be immediately cancelled.
 
-Game session notes in the form of an adventuring journal are kept by the Game Master and posted publicly. At the beginning of each game session, the previous session's journal is read as a recap. If you are absent from a game session, it is your responsibility to read the game session notes that would have been recapped during the game sessions you missed, so make sure to schedule some time to do so.
+Game session notes in the form of an adventuring journal will be written by the Game Master and posted publicly. At the beginning of each game session, the previous session's journal is read as a recap. If you are absent from a game session, it is your responsibility to read the game session notes that would have been recapped during the game sessions you missed, so make sure to schedule some time to do so.
 
 [(Back to Advancement)](#advancement)
 
 ### Advancement: Death and Retirement
 
-If your character dies or retires, you may make a new character. Your new character starts with the same total experience points as your previous one. Consult the game master when making a new character.
+Experience points are considered to be a property of the player that carry over to the player's current character. Thus, as long you are present at the gaming table, you gain experience points as they are awarded. If your character dies or retires during a game session, you continue to gain experience points during the game session as long as you are present at the gaming table, and your experience points transfer from your dead or retired character to your new character. Consult the game master when making a new character.
 
-If a player is present at the game table, they gain experience points. Experience points are considered to be a property of the player that carry over to the player's current character. Thus, experience points transfer from a player's dead or retired character to their next character. If a player's character dies or retires during a game session and the player does not yet have a replacement character, the player continues to gain experience points during the session as long as they are present.
+Unlike experience points, treasure and equipment is lost when your character dies or retires. Additionally, it is generally not possible for your teammates to recover the wealth and equipment of your dead or retired character for themselves.
 
-Unlike experience points, treasure and equipment is lost when your character dies or retires. If you have enough experience points for your new character to start at 2nd level or higher, you start with additional wealth, which you can use to purchase additional mundane or magic equipment in addition to your normal 1st-level starting equipment. Your additional starting wealth depends on your level; see [Character Creation – Starting Wealth](../character_creation/#starting-wealth) and consult the Game Master.
+If you have enough experience points for your new character to start at 2nd level or higher, you start with additional wealth, which you can use to purchase additional mundane or magic equipment in addition to your normal 1st-level starting equipment. Consult the Game Master regarding your additional starting wealth.
 
 [(Back to Advancement)](#advancement)
 
@@ -245,15 +251,15 @@ Unlike experience points, treasure and equipment is lost when your character die
 - [Going Unconscious](#adventuring-going-unconscious)
 - [Movement](#adventuring-movement)
 - [Falling](#adventuring-falling)
-- [Resting](#adventuring-resting)
 
 [(Back to Top)](#)
 
 ### Adventuring: Going Unconscious
 
-You gain one level of exhaustion each time you are incapacitated from being reduced to 0 hit points.
+The Lingering Injuries variant rule from the *Dungeon Master's Guide* is great but introduces a lot of complexity, so a simpler rule is used instead that leverages the amazing and underutilized exhaustion mechanic:
 
-When you make a death saving throw, you may choose to gain two levels of exhaustion to reroll the death saving throw, using either result. You may do this multiple times per death saving throw.
+- You gain one level of exhaustion each time you drop to 0 hit points.
+- When you make a death saving throw, you may choose to gain two levels of exhaustion to reroll the death saving throw, using either result. You may do this multiple times per death saving throw.
 
 [(Back to Adventuring)](#adventuring)
 
@@ -261,64 +267,19 @@ When you make a death saving throw, you may choose to gain two levels of exhaust
 
 Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot square grid costs an additional 5 feet of movement.
 
-Vertical movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards.
+Vertical movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards. See taxicab geometry for more information (https://en.wikipedia.org/wiki/Taxicab_geometry).
 
 [(Back to Adventuring)](#adventuring)
 
 ### Adventuring: Falling
 
-As per the *Player's Handbook*, when you fall, if you are conscious, subtract your running high jump distance (3 ft + your Strength modifier in feet) from your fall distance to determine your effective fall distance. When you land, you take bludgeoning damage based on your size and your effective fall distance as shown in the following table.
-
-When falling from a great height, the optional rule from *Xanathar's Guide to Everything* is used: you descend up to 500 feet per turn.
-
-When a conscious flying creature falls, the optional rule from *Xanathar's Guide to Everything* is used: the creature subtracts its current flying speed from its fall distance to determine its effective fall distance.
-
-When a creature falls into water or a similar liquid, the optional rule from *Tasha's Cauldron of Everything* is used: the creature can use its reaction to make a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
-
-When a creature falls into the space of another creature and neither of them is Tiny, the optional rule from *Tasha's Cauldron of Everything* is used: the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked prone, unless it is two or more sizes larger than the falling creature.
-
-|  Distance  | Tiny  | Small or Medium | Large | Huge  |  Gargantuan  |
-| :--------: | :---: | :---: | :----: | :----: | :----: |
-|   0–9 ft   |    –  |    –  |    –   |    –   |    –   |
-|  10–19 ft  |    –  |   1d6 |   1d8  |   1d10 |   1d12 |
-|  20–29 ft  |   1d4 |   3d6 |   3d8  |   3d10 |   3d12 |
-|  30–39 ft  |   3d4 |   6d6 |   6d8  |   6d10 |   6d12 |
-|  40–49 ft  |   6d4 |  10d6 |  10d8  |  10d10 |  10d12 |
-|  50–59 ft  |  10d4 |  15d6 |  15d8  |  15d10 |  15d12 |
-|  60–69 ft  |  15d4 |  20d6 |  20d8  |  20d10 |  20d12 |
-|  70–79 ft  |  20d4 |  25d6 |  25d8  |  25d10 |  25d12 |
-|  80–89 ft  |  25d4 |  30d6 |  30d8  |  30d10 |  30d12 |
-|  90–99 ft  |  30d4 |  35d6 |  35d8  |  35d10 |  35d12 |
-| 100–109 ft |  35d4 |  40d6 |  40d8  |  40d10 |  40d12 |
-| 110–119 ft |  40d4 |  45d6 |  45d8  |  45d10 |  45d12 |
-| 120–129 ft |  45d4 |  50d6 |  50d8  |  50d10 |  50d12 |
-| 130–139 ft |  50d4 |  55d6 |  55d8  |  55d10 |  55d12 |
-| 140–149 ft |  55d4 |  60d6 |  60d8  |  60d10 |  60d12 |
-| 150–159 ft |  60d4 |  65d6 |  65d8  |  65d10 |  65d12 |
-| 160–169 ft |  65d4 |  70d6 |  70d8  |  70d10 |  70d12 |
-| 170–179 ft |  70d4 |  75d6 |  75d8  |  75d10 |  75d12 |
-| 180–189 ft |  75d4 |  80d6 |  80d8  |  80d10 |  80d12 |
-| 190–199 ft |  80d4 |  85d6 |  85d8  |  85d10 |  85d12 |
-|   200+ ft  |  85d4 |  90d6 |  90d8  |  90d10 |  90d12 |
-
-[(Back to Adventuring)](#adventuring)
-
-### Adventuring: Resting
-
-The optional sleeping rules from *Xanathar's Guide to Everything* are used:
-
-- Sleeping in light armor has no adverse effect on the wearer. That being said, when sleeping at an inn or similar "safe" place, you are generally assumed to be sleeping in nightwear rather than light armor.
-- When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter (rather than half) of your spent Hit Dice (minimum of one die), and if you have any levels of exhaustion, the long rest doesn't reduce your exhaustion level.
-- Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
-
-Elves and warforged do not need to remove their armor during their Trance and Sentry's Rest, respectively.
+Regarding falling, the usual rules from the *Player's Handbook*, *Xanathar's Guide to Everything*, and *Tasha's Cauldron of Everything* apply, with the following exception: at the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 50d6 (rather than 20d6).
 
 [(Back to Adventuring)](#adventuring)
 
 ## Equipment
 
 - [Encumbrance](#equipment-encumbrance)
-- [Armor and Clothing](#equipment-armor-and-clothing)
 - [Coinage](#equipment-coinage)
 - [Wilderness](#equipment-wilderness)
 - [Ammunition](#equipment-ammunition)
@@ -329,48 +290,13 @@ Elves and warforged do not need to remove their armor during their Trance and Se
 
 ### Equipment: Encumbrance
 
-A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but slightly modified as follows.
+A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but modified as follows.
 
-Creatures are categorized as either humanoid-like or beast-like. The Game Master determines whether a creature is humanoid-like or beast-like. A creature's carrying capacity depends on this categorization and on its size.
+A Small or Medium creature's carrying capacity is its Strength score multiplied by 10. This is the weight in pounds that it can carry without penalty. For each size category above Medium, double the creature's carrying capacity, while for a Tiny creature, halve its carrying capacity.
 
-A Small or Medium humanoid-like creature can carry weight in pounds up to 5 times its Strength score without penalty. This is the creature's carrying capacity.
+A creature can carry weight up to twice its carrying capacity, but it becomes **encumbered** if it carries weight in excess of its carrying capacity. An encumbered creature has its speed reduced by half, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
-A beast-like creature can carry twice as much weight as a humanoid-like creature. Such creatures include beasts, dragons, and most monstrosities.
-
-A creature larger than Medium can carry twice as much weight for each size category above Medium, while a Tiny creature can only carry one fifth as much weight as a Small or Medium creature.
-
-A creature becomes encumbered if it carries weight in excess of its carrying capacity. An encumbered creature has its speed reduced by 10 feet and cannot fly.
-
-A creature becomes heavily encumbered if it carries weight in excess of twice its carrying capacity. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
-
-A creature collapses if it carries weight in excess of three times its carrying capacity.
-
-Examples of these encumbrance rules are shown in the following table:
-
-| Size | Type | Carrying Capacity in Pounds | Examples |
-| :--- | :--- | :-------------------------: | :------- |
-| Tiny | Humanoid-like | 1 × Strength score | Imp, quickling, pixie |
-| Tiny | Beast-like | 2 × Strength score | Cat, faerie dragon, owl |
-| Small | Humanoid-like | 5 × Strength score | Halfling, goblin, mephit |
-| Small | Beast-like | 10 × Strength score | Awakened shrub, eagle, giant rat |
-| Medium | Humanoid-like | 5 × Strength score | Harpy, human commoner, zombie |
-| Medium | Beast-like | 10 × Strength score | Mule, red dragon wyrmling, vulture |
-| Large | Humanoid-like | 10 × Strength score | Centaur, earth elemental, ogre |
-| Large | Beast-like | 20 × Strength score | Draft horse, wyvern, young red dragon |
-| Huge | Humanoid-like | 20 × Strength score | Cyclops, fomorian, storm giant |
-| Huge | Beast-like | 40 × Strength score | Adult red dragon, elephant, hydra |
-| Gargantuan | Humanoid-like | 40 × Strength score | – |
-| Gargantuan | Beast-like | 80 × Strength score | Ancient red dragon, kraken, roc |
-
-Note that the *Beast of Burden* monster trait and the *Powerful Build* racial feature change a creature's effective size for the purpose of determining its carrying capacity. Also note that many effects such as the *Polymorph* spell, the *Enlarge/Reduce* spell, the *Shapechange* monster feature, the *Wild Shape* druid class feature, and the *Giant's Might* Rune Knight fighter class feature directly change a creature's size, which also changes its carrying capacity.
-
-[(Back to Equipment)](#equipment)
-
-### Equipment: Armor and Clothing
-
-Armor and clothing only weigh half their weight when worn, but weigh their regular weight when carried. All other equipment always weighs its regular weight, including shields, cloaks, boots, belts, bracers, gloves, weapons, spellcasting focuses, tools, and adventuring gear.
-
-Armor types retain their Strength requirements, even with this variant encumbrance rule. The Strength requirements apply as follows: if an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with Strength 13 wearing armor with a Strength 15 requirement has its speed reduced by 10 feet.
+Armor types retain their Strength requirements, even with this variant encumbrance rule. The Strength requirements apply as follows: if an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with a Strength score of 13 wearing armor with a Strength 15 requirement has its speed reduced by (15 − 13) × 5 ft = 10 ft.
 
 [(Back to Equipment)](#equipment)
 
@@ -388,7 +314,7 @@ Instead of carrying all of your coinage on your person, you can deposit excess c
 
 While adventuring in the wilderness, you must have the following equipment, at minimum:
 
-- Suit of armor or traveler's clothes (2 gp, 4 lb or 2 lb when worn)
+- Suit of armor or traveler's clothes (2 gp, 4 lb)
 - Backpack (2 gp, 5 lb)
 - Bedroll (1 gp, 7 lb)
 - Blanket (5 sp, 3 lb)
@@ -417,7 +343,7 @@ However, magical ammunition (such as a +1 arrow, +1 crossbow bolt, and so on) is
 
 ### Equipment: Thrown Weapons
 
-If you carry 5 copies of a melee weapon with the thrown property (such as 5 javelins, 5 handaxes, 5 daggers, and so on), you are assumed to have an effectively limitless supply of that weapon, so you do not need to keep track of how many you have thrown. This applies whether the weapon is mundane or magical.
+If you carry 5 copies of a melee weapon with the thrown property (such as 5 javelins, 5 handaxes, 5 daggers, and so on), you are assumed to have an effectively limitless supply of that weapon, such you do not need to keep track of how many you have thrown. This applies whether the 5 thrown weapons are mundane or magical.
 
 ### Equipment: Magic Items
 

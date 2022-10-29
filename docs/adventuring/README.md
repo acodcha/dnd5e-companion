@@ -3,7 +3,7 @@
 - **[Abilities](#abilities):** [Strength](#ability-strength), [Strength (Athletics)](#ability-strength-athletics), [Dexterity](#ability-dexterity), [Dexterity (Acrobatics)](#ability-dexterity-acrobatics), [Dexterity (Sleight of Hand)](#ability-dexterity-sleight-of-hand), [Dexterity (Stealth)](#ability-dexterity-stealth), [Constitution](#ability-constitution), [Intelligence](#ability-intelligence), [Intelligence (Arcana)](#ability-intelligence-arcana), [Intelligence (History)](#ability-intelligence-history), [Intelligence (Investigation)](#ability-intelligence-investigation), [Intelligence (Nature)](#ability-intelligence-nature), [Intelligence (Religion)](#ability-intelligence-religion), [Wisdom](#ability-wisdom), [Wisdom (Animal-Handling)](#ability-wisdom-animal-handling), [Wisdom (Insight)](#ability-wisdom-insight), [Wisdom (Medicine)](#ability-wisdom-medicine), [Wisdom (Perception)](#ability-wisdom-perception), [Wisdom (Survival)](#ability-wisdom-survival), [Charisma](#ability-charisma), [Charisma (Deception)](#ability-charisma-deception), [Charisma (Intimidation)](#ability-charisma-intimidation), [Charisma (Performance)](#ability-charisma-performance), [Charisma (Persuasion)](#ability-charisma-persuasion)
 - **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 - **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Squeezing](#condition-squeezing), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
-- **[Circumstances](#circumstances):** [Jumping](#circumstance-jumping), [Falling](#circumstance-falling), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
+- **[Circumstances](#circumstances):** [Resting](#circumstance-resting), [Jumping](#circumstance-jumping), [Falling](#circumstance-falling), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
 - **[Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts):** [CR 0](#wild-shape-and-polymorph-beasts-challenge-rating-0), [CR ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-), [CR ¼](#wild-shape-and-polymorph-beasts-challenge-rating--1), [CR ½](#wild-shape-and-polymorph-beasts-challenge-rating--2), [CR 1](#wild-shape-and-polymorph-beasts-challenge-rating-1), [CR 2](#wild-shape-and-polymorph-beasts-challenge-rating-2), [CR 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
 
 [(Back to Main Page)](../../#)
@@ -635,6 +635,7 @@
 
 ## Circumstances
 
+- [Resting](#circumstance-resting)
 - [Jumping](#circumstance-jumping)
 - [Falling](#circumstance-falling)
 - [Cover](#circumstance-cover)
@@ -644,6 +645,15 @@
 - [Underwater Combat](#circumstance-underwater-combat)
 
 [(Back to Top)](#)
+
+### Circumstance: Resting
+
+- Sleeping in light armor has no adverse effect on the wearer. That being said, when sleeping at an inn or similar "safe" place, you are generally assumed to be sleeping in nightwear rather than light armor.
+- When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter (rather than half) of your spent Hit Dice (minimum of one die), and if you have any levels of exhaustion, the long rest doesn't reduce your exhaustion level.
+- Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
+- Elves and warforged do not need to remove their armor during their Trance and Sentry's Rest, respectively.
+
+[(Back to Circumstances)](#circumstances)
 
 ### Circumstance: Jumping
 
@@ -659,7 +669,7 @@
 ### Circumstance: Falling
 
 - At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
-- If a creature is conscious when it falls, subtract the creature's high jump distance from the distance it falls before calculating falling damage.
+- If a creature is conscious when it falls, subtract the creature's running high jump distance (3 + Strength modifier in feet) from the distance it falls before calculating falling damage.
 - If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the Fly spell.
 - If a flying creature is conscious when it falls, subtract the creature's current flying speed from the distance it falls before calculating falling damage.
 - When a creature falls from a great height, it instantly descends up to 500 feet. If it's still falling on its next turn, it descends up to 500 feet at the end of that turn. This process continues until the fall ends, either because the creature hits the ground or the fall is otherwise halted.
