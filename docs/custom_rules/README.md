@@ -296,6 +296,8 @@ A Small or Medium creature's carrying capacity is its Strength score multiplied 
 
 A creature can carry weight up to twice its carrying capacity, but it becomes **encumbered** if it carries weight in excess of its carrying capacity. An encumbered creature has its speed reduced by half, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
+A creature can push, drag, or lift a weight in pounds up to twice its carrying capacity. However, while pushing or dragging weight in excess of its carrying capacity, its speed drops to 5 feet.
+
 Armor types retain their Strength requirements, even with this variant encumbrance rule. The Strength requirements apply as follows: if an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with a Strength score of 13 wearing armor with a Strength 15 requirement has its speed reduced by (15 − 13) × 5 ft = 10 ft.
 
 [(Back to Equipment)](#equipment)
