@@ -294,21 +294,25 @@ A variant encumbrance rule is used, similar to that from the *Player's Handbook*
 
 A Small or Medium creature's carrying capacity is its Strength score multiplied by 10. This is the weight in pounds that it can carry without penalty. For each size category above Medium, double the creature's carrying capacity, while for a Tiny creature, halve its carrying capacity.
 
-A creature can carry weight up to twice its carrying capacity, but it becomes **encumbered** if it carries weight in excess of its carrying capacity. An encumbered creature has its speed reduced by half, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+A creature can carry weight up to twice its carrying capacity, but it becomes **heavily encumbered** if it carries weight in excess of its carrying capacity. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. If a creature carries weight in excess of twice its carrying capacity, in addition to being heavily encumbered, it falls prone and its speed is zero.
 
 A creature can push, drag, or lift a weight in pounds up to twice its carrying capacity. However, while pushing or dragging weight in excess of its carrying capacity, its speed drops to 5 feet.
 
-Armor types retain their Strength requirements, even with this variant encumbrance rule. The Strength requirements apply as follows: if an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with a Strength score of 13 wearing armor with a Strength 15 requirement has its speed reduced by (15 − 13) × 5 ft = 10 ft.
+Armor types retain their Strength requirements, even with this variant encumbrance rule. If an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with a Strength score of 13 wearing armor with a Strength 15 requirement has its speed reduced by (15 − 13) × 5 ft = 10 ft.
 
 [(Back to Equipment)](#equipment)
 
 ### Equipment: Coinage
 
-Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person. 50 coins weigh 1 lb as usual. You can exchange coins for coins of different denominations in most settlements: 10 cp = 1 sp, 10 sp = 1 gp, and 10 gp = 1 pp.
+Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person.
 
 Electrum pieces (ep) are not used.
 
-Instead of carrying all of your coinage on your person, you can deposit excess coinage at a bank. Large cities are generally home to one or more well-established and reputable banks. Consult the Game Master when doing so.
+50 coins weigh 1 lb as usual.
+
+You can exchange coins for coins of different denominations in most settlements: 10 cp = 1 sp, 10 sp = 1 gp, and 10 gp = 1 pp.
+
+Instead of carrying all of your coinage on your person, you may deposit excess coinage at a bank. Large cities are generally home to well-established and reputable banks. Consult the Game Master when doing so. Furthermore, most banks also feature safety deposit boxes, so in addition to depositing coinage, you may also deposit equipment at a bank for safekeeping.
 
 [(Back to Equipment)](#equipment)
 
