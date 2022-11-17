@@ -90,7 +90,7 @@ Remember that if your Constitution modifier changes, you must recalculate your 1
 
 ### Character Creation: Race
 
-You may customize your race as described in *Tasha's Cauldron of Everything*. You cannot choose a race that has a base flying speed, such as the Aarakocra, the Winged Tiefling, the Fairy, and so on.
+You may customize your race as described in *Tasha's Cauldron of Everything*.
 
 [(Back to Character Creation)](#character-creation)
 
@@ -102,7 +102,7 @@ Some races are missing official heights and weights, and some races have inconsi
 
 ### Character Creation: Starting Equipment and Coinage
 
-The variant rule from the *Player's Handbook* where you start with coinage instead of equipment is used. Use your starting coinage to purchase your starting equipment. This starting coinage depends only on your 1st-level class. You do not receive any starting coinage or equipment from your background.
+The variant rule from the *Player's Handbook* where you start with coinage instead of equipment is used. Use your starting coinage to purchase your starting equipment. This starting coinage depends only on your 1st-level class; you do not receive any starting coinage or equipment from your background.
 
 | Class | Starting Coinage |  | Class | Starting Coinage |
 | :-------- | -----: | :---: | :------- | -----: |
@@ -122,7 +122,9 @@ If you are creating a replacement character because your previous character died
 
 Above 1st level, you may multiclass. Your multiclass selections must make sense given your character's backstory and experiences during the campaign.
 
-If you have one or more levels in the cleric class, your alignment must match the alignment of your deity, and your cleric domain must match one of the domains of your deity. Make careful note of the tenets of your deity; your behavior must be consistent with the tenets of your deity. If you stray from the tenets of your deity, you run the risk of losing your cleric class features and spells. Depending on the severity of your infractions, you may or may not be able to recover your cleric class features and spells.
+If you have one or more levels in the cleric, paladin, or warlock class, or if you intend to multiclass into either of these classes, consult the Game Master to discuss your otherwordly affiliations.
+
+If you have one or more levels in the cleric class, your alignment must match the alignment of your deity, and your cleric domain must match one of the domains of your deity. See [Deities](../deities/#deities) for a list of pantheons and their deities. Many pantheons are differentiated by the race of their worshippers, and members of a given race generally worship deities within that race's pantheon. Make careful note of the tenets of your deity; your behavior must be consistent with the tenets of your deity. If you stray from the tenets of your deity, you run the risk of losing your cleric class features and spells. Depending on the severity of your infractions, you may or may not be able to recover your cleric class features and spells.
 
 If you have one or more levels in the paladin class, make careful note of the tenets of your sacred oath; your alignment and behavior must be consistent with the tenets of your sacred oath. If you stray from the tenets of your sacred oath, you run the risk of losing your paladin class features and spells. Depending on the severity of your infractions, you may or may not be able to recover your paladin class features and spells. If you abandon your sacred oath completely, you might become an Oathbreaker paladin as described in the *Dungeon Master's Guide*.
 
@@ -136,8 +138,10 @@ You may customize your background as described in the *Player's Handbook*. In su
 
 - **Skill Proficiencies:** Each background grants proficiency in two skills. You may choose any two skills.
 - **Language and Tool Proficiencies:** Each background grants proficiency in either two languages, two tools, or one language and one tool. You may choose any of these three options, and make any choices within that option. Languages and tools are described in the *Player's Handbook*. Additional details regarding tools are described in *Xanathar's Guide to Everything*.
-- **Starting Equipment:** Since we are using the variant rule where you start with coinage instead of equipment, you do not receive any starting coinage or equipment from your background.
+- **Starting Coinage and Equipment:** Since we are using the variant rule where you start with coinage instead of equipment, you do not receive any starting coinage or equipment from your background.
 - **Feature:** Each background grants a passive feature. This is what effectively identifies the background, so you gain this feature as usual.
+
+Regardless of your background, you are assumed to have a modest lifestyle, and lifestyle expenses are ignored.
 
 [(Back to Character Creation)](#character-creation)
 
@@ -159,8 +163,6 @@ You may choose your two personality traits, your ideal, your bond, and your flaw
 
 Your bond must involve one of your fellow adventuring party members. You may optionally have a second bond unrelated to the adventuring party.
 
-You are assumed to have a modest lifestyle, and lifestyle expenses are ignored.
-
 [(Back to Character Creation)](#character-creation)
 
 ### Character Creation: Backstory
@@ -172,10 +174,11 @@ Write a brief backstory of a few paragraphs describing your character. The prima
 
 The secondary purpose of your backstory is to describe the following:
 
-- **Background:** One paragraph of your backstory must explain your background, including any non-player characters or factions from your background's passive feature.
-- **Bond:** One paragraph of your backstory must explain your bond(s).
-- **Class:** One paragraph of your backstory must explain your 1st-level class and subclass as well as any other classes you plan on taking in the future if you choose to multiclass.
-- You may optionally write one or more additional paragraphs to explain your alignment, ideal, personality traits, and flaw.
+1. **Background:** One paragraph of your backstory must explain your background, including any non-player characters or factions from your background's passive feature.
+2. **Bond:** One paragraph of your backstory must explain your bond(s).
+3. **Class:** One paragraph of your backstory must explain your 1st-level class and subclass as well as any other classes you plan on taking in the future if you choose to multiclass.
+
+You may optionally write one or more additional paragraphs to explain your alignment, ideal, personality traits, and flaw.
 
 Your backstory must fit the campaign setting and tone, and your backstory must be appropriate for your starting level. Greatness is something that is earned while adventuring, not something that is written into a backstory.
 

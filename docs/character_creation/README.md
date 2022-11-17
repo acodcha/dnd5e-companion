@@ -211,7 +211,7 @@ Lawful evil (LE) creatures methodically take what they want, within the limits o
 
 Neutral evil (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and yugoloths are neutral evil.
 
-Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and ores are chaotic evil.
+Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.
 
 [(Back to Top)](#)
 

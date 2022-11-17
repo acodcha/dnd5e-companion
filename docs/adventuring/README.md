@@ -3,7 +3,7 @@
 - **[Abilities](#abilities):** [Strength](#ability-strength), [Strength (Athletics)](#ability-strength-athletics), [Dexterity](#ability-dexterity), [Dexterity (Acrobatics)](#ability-dexterity-acrobatics), [Dexterity (Sleight of Hand)](#ability-dexterity-sleight-of-hand), [Dexterity (Stealth)](#ability-dexterity-stealth), [Constitution](#ability-constitution), [Intelligence](#ability-intelligence), [Intelligence (Arcana)](#ability-intelligence-arcana), [Intelligence (History)](#ability-intelligence-history), [Intelligence (Investigation)](#ability-intelligence-investigation), [Intelligence (Nature)](#ability-intelligence-nature), [Intelligence (Religion)](#ability-intelligence-religion), [Wisdom](#ability-wisdom), [Wisdom (Animal-Handling)](#ability-wisdom-animal-handling), [Wisdom (Insight)](#ability-wisdom-insight), [Wisdom (Medicine)](#ability-wisdom-medicine), [Wisdom (Perception)](#ability-wisdom-perception), [Wisdom (Survival)](#ability-wisdom-survival), [Charisma](#ability-charisma), [Charisma (Deception)](#ability-charisma-deception), [Charisma (Intimidation)](#ability-charisma-intimidation), [Charisma (Performance)](#ability-charisma-performance), [Charisma (Persuasion)](#ability-charisma-persuasion)
 - **[Actions](#actions):** [Attack](#action-attack), [Cast a Spell](#action-cast-a-spell), [Climb onto a Bigger Creature](#action-climb-onto-a-bigger-creature), [Dash](#action-dash), [Disarm](#action-disarm), [Disengage](#action-disengage), [Dodge](#action-dodge), [Escape a Grapple](#action-escape-a-grapple), [Grapple](#action-grapple), [Help](#action-help), [Hide](#action-hide), [Identify a Spell](#action-identify-a-spell), [Opportunity Attack](#action-opportunity-attack), [Overrun](#action-overrun), [Ready](#action-ready), [Search](#action-search), [Shove a Creature](#action-shove-a-creature), [Tumble](#action-tumble), [Two-Weapon Fighting](#action-two-weapon-fighting), [Use an Object](#action-use-an-object)
 - **[Conditions](#conditions):** [Blinded](#condition-blinded), [Charmed](#condition-charmed), [Deafened](#condition-deafened), [Exhaustion](#condition-exhaustion), [Frightened](#condition-frightened), [Grappled](#condition-grappled), [Incapacitated](#condition-incapacitated), [Invisible](#condition-invisible), [Paralyzed](#condition-paralyzed), [Petrified](#condition-petrified), [Poisoned](#condition-poisoned), [Prone](#condition-prone), [Restrained](#condition-restrained), [Squeezing](#condition-squeezing), [Stunned](#condition-stunned), [Suffocating](#condition-suffocating), [Unconscious](#condition-unconscious)
-- **[Circumstances](#circumstances):** [Resting](#circumstance-resting), [Jumping](#circumstance-jumping), [Falling](#circumstance-falling), [Cover](#circumstance-cover), [Concealment](#circumstance-concealment), [Light](#circumstance-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
+- **[Circumstances](#circumstances):** [Resting](#circumstance-resting), [Jumping](#circumstance-jumping), [Falling](#circumstance-falling), [Cover](#circumstance-cover), [Concealment and Light](#circumstance-concealment-and-light), [Mounted Combat](#circumstance-mounted-combat), [Underwater Combat](#circumstance-underwater-combat)
 - **[Wild Shape and Polymorph Beasts](#wild-shape-and-polymorph-beasts):** [CR 0](#wild-shape-and-polymorph-beasts-challenge-rating-0), [CR ⅛](#wild-shape-and-polymorph-beasts-challenge-rating-), [CR ¼](#wild-shape-and-polymorph-beasts-challenge-rating--1), [CR ½](#wild-shape-and-polymorph-beasts-challenge-rating--2), [CR 1](#wild-shape-and-polymorph-beasts-challenge-rating-1), [CR 2](#wild-shape-and-polymorph-beasts-challenge-rating-2), [CR 3+](#wild-shape-and-polymorph-beasts-challenge-rating-3)
 
 [(Back to Main Page)](../../#)
@@ -639,8 +639,7 @@
 - [Jumping](#circumstance-jumping)
 - [Falling](#circumstance-falling)
 - [Cover](#circumstance-cover)
-- [Concealment](#circumstance-concealment)
-- [Light](#circumstance-light)
+- [Concealment and Light](#circumstance-concealment-and-light)
 - [Mounted Combat](#circumstance-mounted-combat)
 - [Underwater Combat](#circumstance-underwater-combat)
 
@@ -689,18 +688,13 @@
 
 [(Back to Circumstances)](#circumstances)
 
-### Circumstance: Concealment
-
-- In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
-- A heavily obscured area such as darkness, opaque fog, or dense foliage blocks vision entirely. A creature effectively suffers from the blinded condition when trying to see something in that area.
-
-[(Back to Circumstances)](#circumstances)
-
-### Circumstance: Light
+### Circumstance: Concealment and Light
 
 - Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lan­terns, fires, and other sources of illumination within a specific radius.
 - Dim light, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
+- In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 - Darkness creates a heavily obscured area. Charac­ters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a sub­terranean vault, or in an area of magical darkness.
+- A heavily obscured area such as darkness, opaque fog, or dense foliage blocks vision entirely. A creature effectively suffers from the blinded condition when trying to see something in that area.
 
 [(Back to Circumstances)](#circumstances)
 
