@@ -948,6 +948,7 @@ Abbreviations:
 | :---: | :--- | :--- | :--- | :---: | ---: | ----: | -----: |
 | CR 21 | Angel, solar (fly) (spells) (legend) | Large | Celest. | LG | 33,000 XP | 730 pp | MM 18 |
 | CR 21 | Astral dreadnought (fly) (legend) | Garg. | Monstr. | – | 33,000 XP | – | MToF 117 |
+| CR 21 | Demilich, Acererak (fly) (legend) (lair +2 CR) | Tiny | Undead | NE | 33,000 XP | – | MM 48 |
 | CR 21 | Demon, molydeus (spells) (legend) | Huge | Fiend | CE | 33,000 XP | 730 pp | MToF 134 |
 | CR 21 | Devil, archdevil, Hutijin (fly) (spells) (legend) | Large | Fiend | LE | 33,000 XP | 730 pp | MToF 175 |
 | CR 21 | Devil, archdevil, Moloch (spells) (legend) | Large | Fiend | LE | 33,000 XP | 730 pp | MToF 177 |

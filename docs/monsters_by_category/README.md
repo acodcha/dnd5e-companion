@@ -1231,6 +1231,7 @@ Gnomes use the same stat blocks as humans, with the following changes:
 | CR 15 | Skull lord (spells) (legend) | Med. | Undead | LE | 13,000 XP | 140 pp | MToF 230 |
 | CR 17 | Death knight (spells) | Med. | Undead | CE | 18,000 XP | 280 pp | MM 47 |
 | CR 18 | Demilich (fly) (legend) (lair +2 CR) | Tiny | Undead | NE | 20,000 XP | – | MM 48 |
+| CR 21 | Demilich, Acererak (fly) (legend) (lair +2 CR) | Tiny | Undead | NE | 33,000 XP | – | MM 48 |
 | CR 21 | Lich (spells) (legend) (lair +1 CR) | Med. | Undead | E | 33,000 XP | 730 pp | MM 202 |
 | CR 22 | Lich, Lady Illmarrow (fly) (spells) (legend) | Med. | Undead | NE | 41,000 XP | 840 pp | ERftLW 297 |
 
