@@ -895,6 +895,7 @@ Gnomes use the same stat blocks as humans, with the following changes:
 | CR ¼ | Mephit, smoke (fly) | Small | Elem. | NE | 50 XP | – | MM 217 |
 | CR ¼ | Oblex spawn | Tiny | Ooze | LE | 50 XP | – | MToF 217 |
 | CR ½ | Gray ooze (climb) | Med. | Ooze | – | 100 XP | – | MM 243 |
+| CR ½ | Gray ooze, psychic (climb) | Med. | Ooze | – | 100 XP | – | MM 243 |
 | CR ½ | Mephit, dust (fly) | Small | Elem. | NE | 100 XP | – | MM 215 |
 | CR 2 | Bear, cave (swim) | Large | Beast | – | 450 XP | – | MM 334 |
 | CR 2 | Carrion crawler (climb) | Large | Monstr. | – | 450 XP | – | MM 37 |

@@ -189,6 +189,7 @@ Abbreviations:
 | CR ½ | Gnoll hunter | Med. | Hum. | CE | 100 XP | 2 gp | VGtM 154 |
 | CR ½ | Goat, giant | Large | Beast | – | 100 XP | – | MM 326 |
 | CR ½ | Gray ooze (climb) | Med. | Ooze | – | 100 XP | – | MM 243 |
+| CR ½ | Gray ooze, psychic (climb) | Med. | Ooze | – | 100 XP | – | MM 243 |
 | CR ½ | Hobgoblin | Med. | Hum. | LE | 100 XP | 2 gp | MM 186 |
 | CR ½ | Human scout | Med. | Hum. | * | 100 XP | 2 gp | MM 349 |
 | CR ½ | Human thug | Med. | Hum. | * | 100 XP | 2 gp | MM 350 |
