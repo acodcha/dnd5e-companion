@@ -82,6 +82,7 @@ Abbreviations:
 | CR ⅛ | Neogi hatchling (climb) | Tiny | Aberr. | LE | 25 XP | 5 sp | VGtM 179 |
 | CR ⅛ | Pony | Med. | Beast | – | 25 XP | – | MM 335 |
 | CR ⅛ | Rat, giant | Small | Beast | – | 25 XP | – | MM 327 |
+| CR ⅛ | Rat, giant, diseased | Small | Beast | – | 25 XP | – | MM 327 |
 | CR ⅛ | Slaad tadpole | Tiny | Aberr. | CN | 25 XP | – | MM 276 |
 | CR ⅛ | Snake, flying (swim) (fly) | Tiny | Beast | – | 25 XP | – | MM 322 |
 | CR ⅛ | Snake, poisonous (swim) | Tiny | Beast | – | 25 XP | – | MM 334 |

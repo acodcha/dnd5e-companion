@@ -618,6 +618,7 @@ Gnomes use the same stat blocks as humans, with the following changes:
 | CR 0 | Raven (fly) | Tiny | Beast | – | 10 XP | – | MM 335 |
 | CR ⅛ | Pony | Med. | Beast | – | 25 XP | – | MM 335 |
 | CR ⅛ | Rat, giant | Small | Beast | – | 25 XP | – | MM 327 |
+| CR ⅛ | Rat, giant, diseased | Small | Beast | – | 25 XP | – | MM 327 |
 | CR ¼ | Badger, giant (burrow) | Med. | Beast | – | 50 XP | – | MM 323 |
 | CR ¼ | Cow | Large | Beast | – | 50 XP | – | VGtM 207 |
 | CR ¼ | Owl, giant (fly) | Large | Beast | N | 50 XP | – | MM 327 |
