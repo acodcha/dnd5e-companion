@@ -48,6 +48,8 @@
 
 - **[Spells](https://github.com/acodcha/DnD5eCompanion/tree/main/tokens/spells)**
 
+- **[Terrain](https://github.com/acodcha/DnD5eCompanion/tree/main/tokens/terrain)**
+
 [(Back to Top)](#)
 
 ## Scenery
