@@ -195,13 +195,13 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 
 | Magic Item                                          |       Cost |  Weight  |   Source |
 | :-------------------------------------------------- | ---------: | :------: | -------: |
-| Unbreakable arrow                                   |      10 gp |  1/20 lb | XGtE 139 |
 | Bead of refreshment                                 |      10 gp |    –     | XGtE 136 |
+| Unbreakable arrow                                   |      10 gp |  1/20 lb | XGtE 139 |
+| Bead of nourishment                                 |      20 gp |    –     | XGtE 136 |
 | Walloping arrow                                     |      20 gp |  1/20 lb | XGtE 139 |
 | Walloping blowgun needle                            |      20 gp |  1/20 lb | XGtE 139 |
 | Walloping crossbow bolt                             |      20 gp | 1½/20 lb | XGtE 139 |
 | Walloping sling bullet                              |      20 gp | 1½/20 lb | XGtE 139 |
-| Bead of nourishment                                 |      20 gp |    –     | XGtE 136 |
 | Arrow +1 (each)                                     |      30 gp |  1/20 lb |  DMG 150 |
 | Blowgun needle +1 (each)                            |      30 gp |  1/20 lb |  DMG 150 |
 | Crossbow bolt +1 (each)                             |      30 gp | 1½/20 lb |  DMG 150 |
@@ -227,15 +227,16 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Potion of mind reading                              |     180 gp |   ½ lb   |  DMG 188 |
 | Potion of water breathing                           |     180 gp |   ½ lb   |  DMG 188 |
 | Scroll of protection                                |     180 gp |   ½ lb   |  DMG 199 |
-| Potion of animal friendship                         |     200 gp |   ½ lb   |  DMG 187 |
-| Potion of greater healing                           |     200 gp |   ½ lb   |  DMG 187 |
 | Nolzur's marvelous pigments                         |     200 gp |   1 lb   |  DMG 183 |
 | Pot of awakening                                    |     200 gp |  10 lb   | XGtE 138 |
+| Potion of animal friendship                         |     200 gp |   ½ lb   |  DMG 187 |
+| Potion of greater healing                           |     200 gp |   ½ lb   |  DMG 187 |
 | Quaal's feather token of a tree                     |     200 gp |    –     |  DMG 188 |
 | Potion of diminution                                |     250 gp |   ½ lb   |  DMG 187 |
 | Potion of growth                                    |     250 gp |   ½ lb   |  DMG 187 |
 | Quaal's feather token of a fan                      |     250 gp |    –     |  DMG 188 |
 | Quaal's feather token of a whip                     |     250 gp |    –     |  DMG 188 |
+| Dust of disappearance                               |     300 gp |    –     |  DMG 166 |
 | Potion of acid resistance                           |     300 gp |   ½ lb   |  DMG 188 |
 | Potion of cold resistance                           |     300 gp |   ½ lb   |  DMG 188 |
 | Potion of fire resistance                           |     300 gp |   ½ lb   |  DMG 188 |
@@ -246,7 +247,6 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Potion of psychic resistance                        |     300 gp |   ½ lb   |  DMG 188 |
 | Potion of radiant resistance                        |     300 gp |   ½ lb   |  DMG 188 |
 | Potion of thunder resistance                        |     300 gp |   ½ lb   |  DMG 188 |
-| Dust of disappearance                               |     300 gp |    –     |  DMG 166 |
 | Universal solvent                                   |     300 gp |    –     |  DMG 209 |
 | Keoghtom's ointment                                 |     400 gp |   ½ lb   |  DMG 179 |
 | Potion of gaseous form                              |     400 gp |   ½ lb   |  DMG 187 |
@@ -266,11 +266,11 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Dust of dryness                                     |     800 gp |   1 lb   |  DMG 166 |
 | Bead of force                                       |   1,000 gp |    –     |  DMG 154 |
 | Elemental gem                                       |   1,000 gp |    –     |  DMG 167 |
+| Perfume of bewitching                               |   1,000 gp |    –     | XGtE 138 |
 | Potion of clairvoyance                              |   1,000 gp |   ½ lb   |  DMG 187 |
 | Potion of vitality                                  |   1,000 gp |   ½ lb   |  DMG 188 |
 | Spell scroll 3rd-level                              |   1,000 gp |   ½ lb   |  DMG 200 |
 | Spellwrought tattoo 2nd-level                       |   1,000 gp |    –     | TCoE 135 |
-| Perfume of bewitching                               |   1,000 gp |    –     | XGtE 138 |
 | Chime of opening                                    |   1,500 gp |   1 lb   |  DMG 158 |
 | Oil of etherealness                                 |   2,000 gp |   ½ lb   |  DMG 183 |
 | Potion of superior healing                          |   2,000 gp |   ½ lb   |  DMG 187 |
@@ -280,21 +280,21 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Quaal's feather token of a bird                     |   3,000 gp |    –     |  DMG 188 |
 | Quaal's feather token of a swan boat                |   3,000 gp |    –     |  DMG 188 |
 | Potion of hill giant strength                       |   4,000 gp |   ½ lb   |  DMG 187 |
-| Spell scroll 4th-level                              |   5,000 gp |   ½ lb   |  DMG 200 |
 | Gem of brightness                                   |   5,000 gp |    –     |  DMG 171 |
+| Spell scroll 4th-level                              |   5,000 gp |   ½ lb   |  DMG 200 |
 | Deck of illusions                                   |   6,000 gp |    –     |  DMG 161 |
 | Potion of frost giant strength                      |   8,000 gp |   ½ lb   |  DMG 187 |
 | Potion of stone giant strength                      |   8,000 gp |   ½ lb   |  DMG 187 |
+| Manual of flesh golems                              |  10,000 gp |   3 lb   |  DMG 180 |
 | Potion of invulnerability                           |  10,000 gp |   ½ lb   |  DMG 188 |
 | Potion of longevity                                 |  10,000 gp |   ½ lb   |  DMG 188 |
 | Spell scroll 5th-level                              |  10,000 gp |   ½ lb   |  DMG 200 |
-| Manual of flesh golems                              |  10,000 gp |   3 lb   |  DMG 180 |
 | Spellwrought tattoo 4th-level                       |  10,000 gp |    –     | TCoE 135 |
 | Manual of clay golems                               |  13,000 gp |   3 lb   |  DMG 180 |
-| Potion of fire giant strength                       |  16,000 gp |   ½ lb   |  DMG 187 |
 | Manual of stone golems                              |  16,000 gp |   3 lb   |  DMG 180 |
-| Potion of supreme healing                           |  20,000 gp |   ½ lb   |  DMG 187 |
+| Potion of fire giant strength                       |  16,000 gp |   ½ lb   |  DMG 187 |
 | Manual of iron golems                               |  20,000 gp |   3 lb   |  DMG 180 |
+| Potion of supreme healing                           |  20,000 gp |   ½ lb   |  DMG 187 |
 | Spellwrought tattoo 5th-level                       |  20,000 gp |    –     | TCoE 135 |
 | Potion of cloud giant strength                      |  30,000 gp |   ½ lb   |  DMG 187 |
 | Spell scroll 6th-level                              |  30,000 gp |   ½ lb   |  DMG 200 |
