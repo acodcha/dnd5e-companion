@@ -66,25 +66,25 @@ Use the Point Buy system for your starting ability scores. For a list of all pos
 
 ### Character Creation: Hit Points
 
-Always take the average value for your hit points at 1st level:
+Do not roll dice for your hit points at 1st level. Instead, take the average value:
 
-| Hit Die | Hit points at 1st level |
-| :-----: | :---------------------: |
+| Hit Die |  Hit points at 1st level   |
+| :-----: | :------------------------: |
 |    d6   |  6 + Constitution modifier |
 |    d8   |  8 + Constitution modifier |
 |   d10   | 10 + Constitution modifier |
 |   d12   | 12 + Constitution modifier |
 
-Always take the average value for hit points gained above 1st level:
+Do not roll dice for hit points gained above 1st level. Instead, take the average value:
 
 | Hit Die | Hit points gained per level above 1st level |
 | :-----: | :-----------------------------------------: |
-|    d6   | 4 + Constitution modifier |
-|    d8   | 5 + Constitution modifier |
-|   d10   | 6 + Constitution modifier |
-|   d12   | 7 + Constitution modifier |
+|    d6   |          4 + Constitution modifier          |
+|    d8   |          5 + Constitution modifier          |
+|   d10   |          6 + Constitution modifier          |
+|   d12   |          7 + Constitution modifier          |
 
-Remember that if your Constitution modifier changes, you must recalculate your 1st-level and higher-level hit points as if you had always had that different modifier.
+Remember that whenever your Constitution modifier changes, you must recalculate your 1st-level and higher-level hit points as if you had always had that different modifier.
 
 [(Back to Character Creation)](#character-creation)
 
@@ -104,15 +104,21 @@ Some races are missing official heights and weights, and some races have inconsi
 
 The variant rule from the *Player's Handbook* where you start with coinage instead of equipment is used. Use your starting coinage to purchase your starting equipment. This starting coinage depends only on your 1st-level class; you do not receive any starting coinage or equipment from your background.
 
-| Class | Starting Coinage |  | Class | Starting Coinage |
-| :-------- | -----: | :---: | :------- | -----: |
-| Artificer | 125 gp |       | Paladin  | 125 gp |
-| Barbarian |  50 gp |       | Ranger   | 125 gp |
-| Bard      | 125 gp |       | Rogue    | 100 gp |
-| Cleric    | 125 gp |       | Sorcerer |  75 gp |
-| Druid     |  50 gp |       | Warlock  | 100 gp |
-| Fighter   | 125 gp |       | Wizard   | 100 gp |
-| Monk      |  25 gp |       |          |        |
+| Class     | Starting Coinage |
+| :-------- | ---------------: |
+| Artificer |           125 gp |
+| Barbarian |            50 gp |
+| Bard      |           125 gp |
+| Cleric    |           125 gp |
+| Druid     |            50 gp |
+| Fighter   |           125 gp |
+| Monk      |            25 gp |
+| Paladin   |           125 gp |
+| Ranger    |           125 gp |
+| Rogue     |           100 gp |
+| Sorcerer  |            75 gp |
+| Warlock   |           100 gp |
+| Wizard    |           100 gp |
 
 If you are creating a replacement character because your previous character died or was retired, you start with additional wealth. Consult the Game Master regarding your starting wealth.
 
@@ -121,6 +127,8 @@ If you are creating a replacement character because your previous character died
 ### Character Creation: Class
 
 Above 1st level, you may multiclass. Your multiclass selections must make sense given your character's backstory and experiences during the campaign.
+
+Regarding the druid class' armor proficiencies, they are understood to effectively be "light armor, hide armor, and shields". A character with one or more levels in the druid class refuses to wear other types of armor regardless of their multiclass choices or feat selection.
 
 If you have one or more levels in the cleric, paladin, or warlock class, or if you intend to multiclass into either of these classes, consult the Game Master to discuss your otherwordly affiliations.
 
@@ -297,9 +305,9 @@ A variant encumbrance rule is used, similar to that from the *Player's Handbook*
 
 A Small or Medium creature's carrying capacity is its Strength score multiplied by 10. This is the weight in pounds that it can carry without penalty. For each size category above Medium, double the creature's carrying capacity, while for a Tiny creature, halve its carrying capacity.
 
-A creature can carry weight up to twice its carrying capacity, but it becomes **heavily encumbered** if it carries weight in excess of its carrying capacity. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. If a creature carries weight in excess of twice its carrying capacity, in addition to being heavily encumbered, it falls prone and its speed is zero.
+A creature can carry weight up to 1½ times its carrying capacity, but it becomes **heavily encumbered** if it carries weight in excess of its carrying capacity. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. If a creature carries weight in excess of 1½ times its carrying capacity, in addition to being heavily encumbered, it falls prone and its speed is zero.
 
-A creature can push, drag, or lift a weight in pounds up to twice its carrying capacity. However, while pushing or dragging weight in excess of its carrying capacity, its speed drops to 5 feet.
+A creature can push, drag, or lift a weight in pounds up to 1½ times its carrying capacity. However, while pushing or dragging weight in excess of its carrying capacity, its speed drops to 5 feet.
 
 Armor types retain their Strength requirements, even with this variant encumbrance rule. If an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with a Strength score of 13 wearing armor with a Strength 15 requirement has its speed reduced by (15 − 13) × 5 ft = 10 ft.
 

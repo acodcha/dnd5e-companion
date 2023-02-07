@@ -23,51 +23,104 @@ Abbreviations:
 
 ## Advancement
 
-The following table shows the total XP amounts at which a character gains a new level.
+The following table shows the total XP and incremental XP amounts at which a character gains a new level.
 
-|  Total XP | Level |       |   Total XP | Level |
-|  -------: | :---: | :---: |   -------: | :---: |
-|      0 XP |  1st  |       |  85,000 XP | 11th  |
-|    300 XP |  2nd  |       | 100,000 XP | 12th  |
-|    900 XP |  3rd  |       | 120,000 XP | 13th  |
-|  2,700 XP |  4th  |       | 140,000 XP | 14th  |
-|  6,500 XP |  5th  |       | 165,000 XP | 15th  |
-| 14,000 XP |  6th  |       | 195,000 XP | 16th  |
-| 23,000 XP |  7th  |       | 225,000 XP | 17th  |
-| 34,000 XP |  8th  |       | 265,000 XP | 18th  |
-| 48,000 XP |  9th  |       | 305,000 XP | 19th  |
-| 64,000 XP | 10th  |       | 355,000 XP | 20th  |
+|  Total XP  | Increment XP | Level |
+| ---------: | -----------: | :---: |
+|       0 XP |            – |  1st  |
+|     300 XP |     + 300 XP |  2nd  |
+|     900 XP |     + 600 XP |  3rd  |
+|   2,700 XP |   + 1,800 XP |  4th  |
+|   6,500 XP |   + 3,800 XP |  5th  |
+|  14,000 XP |   + 7,500 XP |  6th  |
+|  23,000 XP |   + 9,000 XP |  7th  |
+|  34,000 XP |  + 11,000 XP |  8th  |
+|  48,000 XP |  + 14,000 XP |  9th  |
+|  64,000 XP |  + 16,000 XP | 10th  |
+|  85,000 XP |  + 21,000 XP | 11th  |
+| 100,000 XP |  + 15,000 XP | 12th  |
+| 120,000 XP |  + 20,000 XP | 13th  |
+| 140,000 XP |  + 20,000 XP | 14th  |
+| 165,000 XP |  + 25,000 XP | 15th  |
+| 195,000 XP |  + 30,000 XP | 16th  |
+| 225,000 XP |  + 30,000 XP | 17th  |
+| 265,000 XP |  + 40,000 XP | 18th  |
+| 305,000 XP |  + 40,000 XP | 19th  |
+| 355,000 XP |  + 50,000 XP | 20th  |
 
 [(Back to Top)](#)
 
 ## Ability Scores
 
-The following table lists all possible sets of ability scores at 1st level using the point buy system, before racial bonuses are applied.
+The following table lists all 65 possible ability score arrays at 1st level using the point buy system, before racial bonuses are applied. Each ability score array is identified with a number for convenience, and a d100 roll is included if you wish to randomly choose your ability score array. Ability score array #20 is the Standard Array presented in the *Player's Handbook*.
 
-| Ability Scores         |       | Ability Scores         |       | Ability Scores         |
-| :--------------------- | :---: | :--------------------- | :---: | :--------------------- |
-| 15, 15, 15,  8,  8,  8 |       | 15, 14, 13, 11, 10,  9 |       | 14, 14, 14, 11, 10,  9 |
-| 15, 15, 14,  9,  9,  8 |       | 15, 14, 13, 10, 10, 10 |       | 14, 14, 14, 10, 10, 10 |
-| 15, 15, 14, 10,  8,  8 |       | 15, 14, 12, 12, 11,  8 |       | 14, 14, 13, 13, 11,  8 |
-| 15, 15, 13, 12,  8,  8 |       | 15, 14, 12, 12, 10,  9 |       | 14, 14, 13, 13, 10,  9 |
-| 15, 15, 13, 11,  9,  8 |       | 15, 14, 12, 11, 11,  9 |       | 14, 14, 13, 12, 12,  8 |
-| 15, 15, 13, 10,  9,  9 |       | 15, 14, 12, 11, 10, 10 |       | 14, 14, 13, 12, 11,  9 |
-| 15, 15, 13, 10, 10,  8 |       | 15, 14, 11, 11, 11, 10 |       | 14, 14, 13, 12, 10, 10 |
-| 15, 15, 12, 12,  9,  8 |       | 15, 13, 13, 13, 11,  8 |       | 14, 14, 13, 11, 11, 10 |
-| 15, 15, 12, 11,  9,  9 |       | 15, 13, 13, 13, 10,  9 |       | 14, 14, 12, 12, 12,  9 |
-| 15, 15, 12, 11, 10,  8 |       | 15, 13, 13, 12, 12,  8 |       | 14, 14, 12, 12, 11, 10 |
-| 15, 15, 12, 10, 10,  9 |       | 15, 13, 13, 12, 11,  9 |       | 14, 14, 12, 11, 11, 11 |
-| 15, 15, 11, 11, 11,  8 |       | 15, 13, 13, 12, 10, 10 |       | 14, 13, 13, 13, 13,  8 |
-| 15, 15, 11, 11, 10,  9 |       | 15, 13, 13, 11, 11, 10 |       | 14, 13, 13, 13, 12,  9 |
-| 15, 15, 11, 10, 10, 10 |       | 15, 13, 12, 12, 12,  9 |       | 14, 13, 13, 13, 11, 10 |
-| 15, 14, 14, 12,  8,  8 |       | 15, 13, 12, 12, 11, 10 |       | 14, 13, 13, 12, 12, 10 |
-| 15, 14, 14, 11,  9,  8 |       | 15, 13, 12, 11, 11, 11 |       | 14, 13, 13, 12, 11, 11 |
-| 15, 14, 14, 10,  9,  9 |       | 15, 12, 12, 12, 12, 10 |       | 14, 13, 12, 12, 12, 11 |
-| 15, 14, 14, 10, 10,  8 |       | 15, 12, 12, 12, 11, 11 |       | 14, 12, 12, 12, 12, 12 |
-| 15, 14, 13, 13,  9,  8 |       | 14, 14, 14, 13,  9,  8 |       | 13, 13, 13, 13, 13, 10 |
-| 15, 14, 13, 12,  9,  9 |       | 14, 14, 14, 12,  9,  9 |       | 13, 13, 13, 13, 12, 11 |
-| 15, 14, 13, 12, 10,  8 |       | 14, 14, 14, 12, 10,  8 |       | 13, 13, 13, 12, 12, 12 |
-| 15, 14, 13, 11, 11,  8 |       | 14, 14, 14, 11, 11,  8 |       |                        |
+|   #   | d100  | Ability Scores         |
+| :---: | :---: | :--------------------- |
+|   #1  | 99–00 | 15, 15, 15,  8,  8,  8 |
+|   #2  | 97–98 | 15, 15, 14, 10,  8,  8 |
+|   #3  | 95–96 | 15, 15, 14,  9,  9,  8 |
+|   #4  | 93–94 | 15, 15, 13, 12,  8,  8 |
+|   #5  | 91–92 | 15, 15, 13, 11,  9,  8 |
+|   #6  | 89–90 | 15, 15, 13, 10, 10,  8 |
+|   #7  | 87–88 | 15, 15, 13, 10,  9,  9 |
+|   #8  | 85–86 | 15, 15, 12, 12,  9,  8 |
+|   #9  | 83–84 | 15, 15, 12, 11, 10,  8 |
+|  #10  | 81–82 | 15, 15, 12, 11,  9,  9 |
+|  #11  | 79–80 | 15, 15, 12, 10, 10,  9 |
+|  #12  | 77–78 | 15, 15, 11, 11, 11,  8 |
+|  #13  | 75–76 | 15, 15, 11, 11, 10,  9 |
+|  #14  | 73–74 | 15, 15, 11, 10, 10, 10 |
+|  #15  | 71–72 | 15, 14, 14, 12,  8,  8 |
+|  #16  | 69–70 | 15, 14, 14, 11,  9,  8 |
+|  #17  | 67–68 | 15, 14, 14, 10, 10,  8 |
+|  #18  | 65–66 | 15, 14, 14, 10,  9,  9 |
+|  #19  | 63–64 | 15, 14, 13, 13,  9,  8 |
+|  #20  | 61–62 | 15, 14, 13, 12, 10,  8 |
+|  #21  | 59–60 | 15, 14, 13, 12,  9,  9 |
+|  #22  | 57–58 | 15, 14, 13, 11, 11,  8 |
+|  #23  | 55–56 | 15, 14, 13, 11, 10,  9 |
+|  #24  | 53–54 | 15, 14, 13, 10, 10, 10 |
+|  #25  | 51–52 | 15, 14, 12, 12, 11,  8 |
+|  #26  | 49–50 | 15, 14, 12, 12, 10,  9 |
+|  #27  | 47–48 | 15, 14, 12, 11, 11,  9 |
+|  #28  | 45–46 | 15, 14, 12, 11, 10, 10 |
+|  #29  | 43–44 | 15, 14, 11, 11, 11, 10 |
+|  #30  | 41–42 | 15, 13, 13, 13, 11,  8 |
+|  #31  | 39–40 | 15, 13, 13, 13, 10,  9 |
+|  #32  | 37–38 | 15, 13, 13, 12, 12,  8 |
+|  #33  | 35–36 | 15, 13, 13, 12, 11,  9 |
+|  #34  | 33–34 | 15, 13, 13, 12, 10, 10 |
+|  #35  | 31–32 | 15, 13, 13, 11, 11, 10 |
+|  #36  |   30  | 15, 13, 12, 12, 12,  9 |
+|  #37  |   29  | 15, 13, 12, 12, 11, 10 |
+|  #38  |   28  | 15, 13, 12, 11, 11, 11 |
+|  #39  |   27  | 15, 12, 12, 12, 12, 10 |
+|  #40  |   26  | 15, 12, 12, 12, 11, 11 |
+|  #41  |   25  | 14, 14, 14, 13,  9,  8 |
+|  #42  |   24  | 14, 14, 14, 12, 10,  8 |
+|  #43  |   23  | 14, 14, 14, 12,  9,  9 |
+|  #44  |   22  | 14, 14, 14, 11, 11,  8 |
+|  #45  |   21  | 14, 14, 14, 11, 10,  9 |
+|  #46  |   20  | 14, 14, 14, 10, 10, 10 |
+|  #47  |   19  | 14, 14, 13, 13, 11,  8 |
+|  #48  |   18  | 14, 14, 13, 13, 10,  9 |
+|  #49  |   17  | 14, 14, 13, 12, 12,  8 |
+|  #50  |   16  | 14, 14, 13, 12, 11,  9 |
+|  #51  |   15  | 14, 14, 13, 12, 10, 10 |
+|  #52  |   14  | 14, 14, 13, 11, 11, 10 |
+|  #53  |   13  | 14, 14, 12, 12, 12,  9 |
+|  #54  |   12  | 14, 14, 12, 12, 11, 10 |
+|  #55  |   11  | 14, 14, 12, 11, 11, 11 |
+|  #56  |   10  | 14, 13, 13, 13, 13,  8 |
+|  #57  |   09  | 14, 13, 13, 13, 12,  9 |
+|  #58  |   08  | 14, 13, 13, 13, 11, 10 |
+|  #59  |   07  | 14, 13, 13, 12, 12, 10 |
+|  #60  |   06  | 14, 13, 13, 12, 11, 11 |
+|  #61  |   05  | 14, 13, 12, 12, 12, 11 |
+|  #62  |   04  | 14, 12, 12, 12, 12, 12 |
+|  #63  |   03  | 13, 13, 13, 13, 13, 10 |
+|  #64  |   02  | 13, 13, 13, 13, 12, 11 |
+|  #65  |   01  | 13, 13, 13, 12, 12, 12 |
 
 [(Back to Top)](#)
 
@@ -82,49 +135,77 @@ The following table lists all possible sets of ability scores at 1st level using
 
 When you create your character, instead of receiving starting equipment and wealth from your 1st-level class and background, you can instead opt to receive coinage based solely on your 1st-level class and spend this coinage on equipment. When using this rule, you do not gain any starting equipment or wealth from your background.
 
-| Class     |      Starting Wealth |       | Class    |      Starting Wealth |
-| :-------- | -------------------: | :---: | :------- | -------------------: |
-| Artificer | 125 gp (5d4 × 10 gp) |       | Paladin  | 125 gp (5d4 × 10 gp) |
-| Barbarian |  50 gp (2d4 × 10 gp) |       | Ranger   | 125 gp (5d4 × 10 gp) |
-| Bard      | 125 gp (5d4 × 10 gp) |       | Rogue    | 100 gp (4d4 × 10 gp) |
-| Cleric    | 125 gp (5d4 × 10 gp) |       | Sorcerer |  75 gp (3d4 × 10 gp) |
-| Druid     |  50 gp (2d4 × 10 gp) |       | Warlock  | 100 gp (4d4 × 10 gp) |
-| Fighter   | 125 gp (5d4 × 10 gp) |       | Wizard   | 100 gp (4d4 × 10 gp) |
-| Monk      |  25 gp (1d4 × 10 gp) |       |          |                      |
+| Class     |      Starting Wealth |
+| :-------- | -------------------: |
+| Artificer | 125 gp (5d4 × 10 gp) |
+| Barbarian |  50 gp (2d4 × 10 gp) |
+| Bard      | 125 gp (5d4 × 10 gp) |
+| Cleric    | 125 gp (5d4 × 10 gp) |
+| Druid     |  50 gp (2d4 × 10 gp) |
+| Fighter   | 125 gp (5d4 × 10 gp) |
+| Monk      |  25 gp (1d4 × 10 gp) |
+| Paladin   | 125 gp (5d4 × 10 gp) |
+| Ranger    | 125 gp (5d4 × 10 gp) |
+| Rogue     | 100 gp (4d4 × 10 gp) |
+| Sorcerer  |  75 gp (3d4 × 10 gp) |
+| Warlock   | 100 gp (4d4 × 10 gp) |
+| Wizard    | 100 gp (4d4 × 10 gp) |
 
 In addition, when creating a replacement character at 2nd level or higher after a prior character died or was retired, gain additional starting wealth as per the following table. Gain this wealth in addition to your regular 1st level starting equipment and/or wealth. Consult the Game Master before gaining this additional starting wealth; the Game Master might judge that you are effectively one or more levels ahead or behind based on your adventuring party's progress at looting treasure in the campaign.
 
-| Level | Starting Wealth |       | Level | Starting Wealth |
-| :---: | --------------: | :---: | :---: | --------------: |
-|  1st  |               – |       | 11th  |      + 2,300 gp |
-|  2nd  |         + 50 gp |       | 12th  |      + 3,500 gp |
-|  3rd  |         + 80 gp |       | 13th  |      + 5,200 gp |
-|  4th  |        + 140 gp |       | 14th  |      + 7,800 gp |
-|  5th  |        + 200 gp |       | 15th  |     + 12,000 gp |
-|  6th  |        + 310 gp |       | 16th  |     + 16,000 gp |
-|  7th  |        + 460 gp |       | 17th  |     + 21,000 gp |
-|  8th  |        + 700 gp |       | 18th  |     + 26,000 gp |
-|  9th  |      + 1,000 gp |       | 19th  |     + 30,000 gp |
-| 10th  |      + 1,500 gp |       | 20th  |     + 33,000 gp |
+| Level | Starting Wealth |
+| :---: | --------------: |
+|  1st  |               – |
+|  2nd  |         + 50 gp |
+|  3rd  |         + 80 gp |
+|  4th  |        + 140 gp |
+|  5th  |        + 200 gp |
+|  6th  |        + 310 gp |
+|  7th  |        + 460 gp |
+|  8th  |        + 700 gp |
+|  9th  |      + 1,000 gp |
+| 10th  |      + 1,500 gp |
+| 11th  |      + 2,300 gp |
+| 12th  |      + 3,500 gp |
+| 13th  |      + 5,200 gp |
+| 14th  |      + 7,800 gp |
+| 15th  |     + 12,000 gp |
+| 16th  |     + 16,000 gp |
+| 17th  |     + 21,000 gp |
+| 18th  |     + 26,000 gp |
+| 19th  |     + 30,000 gp |
+| 20th  |     + 33,000 gp |
 
 [(Back to Wealth)](#wealth)
 
 ### Accumulated Wealth
 
-The following table lists the total accumulated wealth of a character at the start of each given level, in addition to regular 1st level starting equipment and wealth. This wealth is obtained through adventuring from quest rewards, individual monster coinage, and treasure hoards. For example, a character at the beginning of 5th level would have accumulated a total of 650 gp. This table may be used when creating characters for a campaign that begins at a level greater than 1st.
+The following table lists the total accumulated wealth of a character at the start of each given level, in addition to their regular 1st level starting equipment and wealth. This wealth may be in the form of coinage, gemstones, art objects, equipment, magic items, or any combination thereof. This wealth is obtained by receiving quest rewards, looting monsters' coinage, and finding treasure hoards while adventuring. For example, a character at the beginning of 6th level can be expected to have accumulated a total of 1,100 gp in addition to their regular 1st-level starting equipment and wealth.
 
-| Level | Accumulated Wealth |       | Level | Accumulated Wealth |
-| :---: | -----------------: | :---: | :---: | -----------------: |
-|  1st  |                  – |       | 11th  |           7,500 gp |
-|  2nd  |              80 gp |       | 12th  |          11,000 gp |
-|  3rd  |             200 gp |       | 13th  |          15,000 gp |
-|  4th  |             370 gp |       | 14th  |          20,000 gp |
-|  5th  |             650 gp |       | 15th  |          28,000 gp |
-|  6th  |           1,100 gp |       | 16th  |          39,000 gp |
-|  7th  |           1,800 gp |       | 17th  |          55,000 gp |
-|  8th  |           2,600 gp |       | 18th  |          75,000 gp |
-|  9th  |           3,800 gp |       | 19th  |         100,000 gp |
-| 10th  |           5,300 gp |       | 20th  |         140,000 gp |
+This table may also be used when creating characters for a campaign that begins at a level greater than 1st. For example, if starting a campaign at 11th level, each character should start with 7,500 gp in addition to their regular 1st-level starting equipment and wealth.
+
+| Level | Accumulated Wealth |
+| :---: | -----------------: |
+|  1st  |                  – |
+|  2nd  |            + 80 gp |
+|  3rd  |           + 200 gp |
+|  4th  |           + 370 gp |
+|  5th  |           + 650 gp |
+|  6th  |         + 1,100 gp |
+|  7th  |         + 1,800 gp |
+|  8th  |         + 2,600 gp |
+|  9th  |         + 3,800 gp |
+| 10th  |         + 5,300 gp |
+| 11th  |         + 7,500 gp |
+| 12th  |        + 11,000 gp |
+| 13th  |        + 15,000 gp |
+| 14th  |        + 20,000 gp |
+| 15th  |        + 28,000 gp |
+| 16th  |        + 39,000 gp |
+| 17th  |        + 55,000 gp |
+| 18th  |        + 75,000 gp |
+| 19th  |       + 100,000 gp |
+| 20th  |       + 140,000 gp |
 
 [(Back to Wealth)](#wealth)
 
