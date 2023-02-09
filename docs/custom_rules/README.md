@@ -279,7 +279,7 @@ Vertical movement is counted separately from horizontal movement, even when movi
 
 ### Adventuring: Falling
 
-Regarding falling, the usual rules from the *Player's Handbook*, *Xanathar's Guide to Everything*, and *Tasha's Cauldron of Everything* apply, with the following exception: at the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 50d6 (rather than 20d6).
+Regarding falling, the rules from the *Player's Handbook*, *Xanathar's Guide to Everything*, and *Tasha's Cauldron of Everything* apply, with the following exception: at the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 50d6 (rather than 20d6).
 
 [(Back to Adventuring)](#adventuring)
 
