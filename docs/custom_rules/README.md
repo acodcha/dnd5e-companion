@@ -273,7 +273,7 @@ These rules also apply to certain monsters and non-player characters:
 
 Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot square grid costs an additional 5 feet of movement.
 
-Vertical movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards. See taxicab geometry for more information (https://en.wikipedia.org/wiki/Taxicab_geometry).
+Vertical movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards. See taxicab geometry for more information (<https://en.wikipedia.org/wiki/Taxicab_geometry>).
 
 [(Back to Adventuring)](#adventuring)
 
