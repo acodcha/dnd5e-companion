@@ -12,18 +12,18 @@
 
 [(Back to Main Page)](../../#)
 
-The following tables are used to design combat encounters of appropriate difficulty.
+The following tables are used to design combat encounters of appropriate difficulty for a well-optimized adventuring party. The tables make the following assumptions:
 
-The tables make the following assumptions:
-
-- Player character builds are reasonably-well optimized (ability scores, race and class features, spells, and so on).
-- The party composition is reasonably-well optimized (damage-dealer, tank, controller, healer, utility, and so on).
-- Player characters are outfitted with level-appropriate equipment and magic items.
+- Player character builds are reasonably-well optimized regarding ability scores, race selection, class and subclass selection, feat selection, spell selection, multiclassing, and so on.
+- Player characters are reasonably-well outfitted with level-appropriate equipment and magic items, including consumable magic items such as potions and spell scrolls.
+- The adventuring party is reasonably-well organized during combat and uses sound tactics. For example, player characters that specialize in melee combat are able to engage in melee most of the time, player characters with low hit points are able to stay away from the front line most of the time, rogues are able to hide most of the time, spellcasters are able to maintain concentration for a few rounds, and so on.
 - The terrain and circumstances neither advantage nor disadvantage the players nor the monsters.
 
-Otherwise, use easier encounters. Be especially careful with small adventuring parties and with player characters of low level.
+If any of the above assumptions do not hold, use easier encounters than those presented in these tables. These tables should be understood to represent an upper bound on encounter difficulty. Some warnings:
 
-As the tables show, it quickly becomes difficult to challenge large adventuring parties. In such cases, consider using many encounters per adventuring day along with the Gritty Realism variant rest rule from the *Dungeon Master's Guide*.
+- Be especially careful with low-level player characters. Once all members of the adventuring party reach 3rd level, these tables can be safely used. However, during 1st and 2nd level, use easier encounters than those presented in these tables.
+- Be especially careful with adventuring parties consisting of only one, two, or three player characters. A few bad dice rolls in a row can quickly spell disaster for the adventurers. With small adventuring parties, err on the side of using easier encounters than those presented in these tables.
+- Challenging large adventuring parties consisting of six or more player characters is difficult. In such cases, consider using many encounters per adventuring day along with the Gritty Realism variant rest rule from the *Dungeon Master's Guide*. Alternatively, consider splitting a large adventuring party into two and running two separate games.
 
 ## 1 Player Character
 
