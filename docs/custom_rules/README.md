@@ -183,14 +183,10 @@ Write a brief backstory of a few paragraphs describing your character. The prima
 The secondary purpose of your backstory is to describe the following:
 
 1. **Background:** One paragraph of your backstory must explain your background, including any non-player characters or factions from your background's passive feature.
-2. **Bond:** One paragraph of your backstory must explain your bond(s).
+2. **Bond:** One paragraph of your backstory must explain your bond. If you have two bonds, an additional paragraph must explain your second bond.
 3. **Class:** One paragraph of your backstory must explain your 1st-level class and subclass as well as any other classes you plan on taking in the future if you choose to multiclass.
 
-You may optionally write one or more additional paragraphs to explain your alignment, ideal, personality traits, and flaw.
-
-Your backstory must fit the campaign setting and tone, and your backstory must be appropriate for your starting level. Greatness is something that is earned while adventuring, not something that is written into a backstory.
-
-You may use the following template for your backstory:
+You may optionally write one or more additional paragraphs to explain your alignment, ideal, personality traits, and flaw. Your backstory must fit the campaign setting and tone, and your backstory must be appropriate for your starting level. Greatness is something that is earned while adventuring, not something that is written into a backstory. You may use the following template for your backstory:
 
 ```
 I am (NAME), a (AGE)-year old (RACE & SUBRACE), from __________.
@@ -202,16 +198,14 @@ I learned (CLASS & SUBCLASS) from __________.
 I intend to progress into (MULTICLASS & SUBCLASS) through __________.
 My conduct most closely matches the (ALIGNMENT) alignment because __________.
 I idealize the concept of (IDEAL) because __________.
-I am (PERSONALITY TRAITS & FLAWS) because __________.
+I am (PERSONALITY TRAITS & FLAW) because __________.
 ```
 
 [(Back to Character Creation)](#character-creation)
 
 ### Character Creation: Portrait
 
-Find an image depicting your character, ideally a full-body image or a "from the waist up" image, to serve as your character's portrait. This portrait will be used to create a token for your character.
-
-Your portrait must fit the campaign setting and tone, and your portrait cannot be lewd or inappropriate.
+Find an image depicting your character, ideally a full-body image or a "from the waist up" image, to serve as your character's portrait. This portrait will be used to create a token for your character. Your portrait must fit the campaign setting and tone, and your portrait cannot be lewd or inappropriate.
 
 [(Back to Character Creation)](#character-creation)
 
@@ -225,11 +219,9 @@ Your portrait must fit the campaign setting and tone, and your portrait cannot b
 
 ### Advancement: Levelling
 
-Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level.
+Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level. If you do not have time at the end of a game session to gain your new level, make sure to schedule time to do so before the next game session.
 
-If you do not have time at the end of a game session to gain your new level, make sure to schedule time to do so before the next game session.
-
-When you gain a new level, gain all of its benefits instantly, including new spell slots or nearly-learned spells, even if the session ended in the middle of an encounter. Furthermore, if you are able to prepare one or more additional spells, you may do so instantly, although you cannot change your previously-prepared spells until you take a long rest.
+When you gain a new level, gain all of its benefits instantly, including new spell slots or newly-learned spells, even if the session ended in the middle of an encounter. Furthermore, if you are able to prepare one or more additional spells, you may do so instantly, although you cannot change your already-prepared spells.
 
 [(Back to Advancement)](#advancement)
 
@@ -237,23 +229,19 @@ When you gain a new level, gain all of its benefits instantly, including new spe
 
 Please inform the Game Master and the gaming group ahead of time if you will be absent from an upcoming game session, if you will be late to an upcoming game session, or if you will need to leave early from an upcoming game session.
 
+Strictly more than half of all players must be present for a game session to take place. If there are not enough players, the game session will be cancelled. Regarding tardiness, if it is 15 minutes past the start of a game session and not enough players are present, the game session will be immediately cancelled.
+
 If you are absent from a game session, your character fades into the background of the story. Your character is assumed to follow the adventuring party around, but your character cannot directly impact the game, and the game cannot directly impact your character. While absent, you do not receive any experience points or treasure except for treasure hoards and quest rewards.
 
-Strictly more than half of all players must be present for a game session to take place. If there are not enough players, the game session will be cancelled.
-
-Regarding tardiness, if it is 15 minutes past the start of a game session and not enough players are present, the game session will be immediately cancelled.
-
-Game session notes in the form of an adventuring journal will be written by the Game Master and posted publicly. At the beginning of each game session, the previous session's journal is read as a recap. If you are absent from a game session, it is your responsibility to read the game session notes that would have been recapped during the game sessions you missed, so make sure to schedule some time to do so.
+Game session notes in the form of an adventuring journal are written by the Game Master and posted publicly. At the beginning of each game session, the previous session's journal is read as a recap. If you are absent from a game session, it is your responsibility to read the game session notes that would have been recapped during the game sessions you missed, so make sure to schedule some time to do so. You are encouraged to keep your own notes regarding story elements, such as events that occur, characters you encounter, places you visit, objects you find, knowledge you gain, and so on. The adventuring journal written by the Game Master serves as a useful summary but is in no way exhaustive, and failure to keep your own notes will result in you potentially forgetting important details of the story.
 
 [(Back to Advancement)](#advancement)
 
 ### Advancement: Death and Retirement
 
-Experience points are considered to be a property of the player that carry over to the player's current character. Thus, as long you are present at the gaming table, you gain experience points as they are awarded. If your character dies or retires during a game session, you continue to gain experience points during the game session as long as you are present at the gaming table, and your experience points transfer from your dead or retired character to your new character. Consult the game master when making a new character.
+Experience points are considered to be a property of the player that carry over to the player's current character. Thus, as long you are present at the gaming table, you gain experience points as they are awarded. If your character dies or retires during a game session, you continue to gain experience points during the game session as long as you are present at the gaming table, and your experience points transfer from your dead or retired character to your new character. Consult the Game Master when making a new character.
 
-Unlike experience points, treasure and equipment is lost when your character dies or retires. Additionally, it is generally not possible for your teammates to recover the wealth and equipment of your dead or retired character for themselves.
-
-If you have enough experience points for your new character to start at 2nd level or higher, you start with additional wealth, which you can use to purchase additional mundane or magic equipment in addition to your normal 1st-level starting equipment. Consult the Game Master regarding your additional starting wealth.
+Unlike experience points, treasure and equipment is lost when your character dies or retires. Additionally, it is generally not possible for your teammates to recover the wealth and equipment of your dead or retired character for themselves. If you have enough experience points for your new character to start at 2nd level or higher, you start with additional wealth, which you can use to purchase additional mundane or magic equipment in addition to your normal 1st-level starting equipment. Consult the Game Master regarding your additional starting wealth.
 
 [(Back to Advancement)](#advancement)
 
@@ -271,6 +259,13 @@ The Lingering Injuries variant rule from the *Dungeon Master's Guide* is great b
 
 - You gain one level of exhaustion each time you drop to 0 hit points.
 - When you make a death saving throw, you may choose to gain two levels of exhaustion to reroll the death saving throw, using either result. You may do this multiple times per death saving throw.
+
+These rules also apply to certain monsters and non-player characters:
+
+- Beasts, dragons, giants, humanoids, and monstrosities fall unconscious and gain one level of exhaustion upon dropping to 0 hit points and make death saving throws just as player characters do.
+- Constructs, oozes, plants, and undead are immediately destroyed upon dropping to to 0 hit points.
+- Celestials, elementals, fey, and fiends discorporate and eventually reform in their home plane upon dropping to 0 hit points in the Prime Material Plane, or are destroyed upon dropping to 0 hit points in their home plane.
+- Aberrations might fall in any of the above categories depending on the particular kind of aberration.
 
 [(Back to Adventuring)](#adventuring)
 
@@ -309,19 +304,13 @@ A creature can carry weight up to 1½ times its carrying capacity, but it become
 
 A creature can push, drag, or lift a weight in pounds up to 1½ times its carrying capacity. However, while pushing or dragging weight in excess of its carrying capacity, its speed drops to 5 feet.
 
-Armor types retain their Strength requirements, even with this variant encumbrance rule. If an armor type has a Strength requirement, the armor reduces the wearer's speed unless the wearer has a Strength score equal to or higher than the listed score. The reduction equals 5 feet for each 1 Strength score below the requirement. For example, a character with a Strength score of 13 wearing armor with a Strength 15 requirement has its speed reduced by (15 − 13) × 5 ft = 10 ft.
+Armor types retain their Strength requirements, even with this variant encumbrance rule. If an armor type has a Strength requirement, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
 [(Back to Equipment)](#equipment)
 
 ### Equipment: Coinage
 
-Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person.
-
-Electrum pieces (ep) are not used.
-
-50 coins weigh 1 lb as usual.
-
-You can exchange coins for coins of different denominations in most settlements: 10 cp = 1 sp, 10 sp = 1 gp, and 10 gp = 1 pp.
+Keep track of how many copper pieces (cp), silver pieces (sp), gold pieces (gp), and platinum pieces (pp) you carry on your person. Electrum pieces (ep) are not used. 50 coins weigh 1 lb as usual. You can exchange coins for coins of different denominations in most settlements: 10 cp = 1 sp, 10 sp = 1 gp, and 10 gp = 1 pp.
 
 Instead of carrying all of your coinage on your person, you may deposit excess coinage at a bank. Large cities are generally home to well-established and reputable banks. Consult the Game Master when doing so. Furthermore, most banks also feature safety deposit boxes, so in addition to depositing coinage, you may also deposit equipment at a bank for safekeeping.
 
@@ -329,24 +318,23 @@ Instead of carrying all of your coinage on your person, you may deposit excess c
 
 ### Equipment: Wilderness
 
-While adventuring in the wilderness, you must have the following equipment, at minimum:
+While adventuring in the wilderness, you must have the following equipment at minimum:
 
-- Suit of armor or traveler's clothes (2 gp, 4 lb)
-- Backpack (2 gp, 5 lb)
-- Bedroll (1 gp, 7 lb)
-- Blanket (5 sp, 3 lb)
-- Mess kit (2 sp, 1 lb)
-- Waterskin (2 sp, 5 lb)
+- Suit of armor or traveler's clothes (2 gp, 4 lb).
+- Backpack (2 gp, 5 lb).
+- Bedroll (1 gp, 7 lb).
+- Blanket (5 sp, 3 lb).
+- Mess kit (2 sp, 1 lb).
+- Waterskin (2 sp, 5 lb full or 1 lb empty).
+- Rations (5 sp, 2 lb per day) or access to a ready source of food.
 
-Each adventurer must have their own copy of the above equipment. However, you can ask one of your companions to carry your equipment for you.
-
-While traveling through the wilderness, keep track of how many rations you have as you consume them each day. You also drink the contents of one waterskin per day (or more depending on the climate), so you will usually need to find a source of water each day.
+Each adventurer must have their own copy of the above equipment. However, you can ask one of your companions to carry your equipment for you. While traveling through the wilderness, keep track of how many rations you have as you consume them each day. You also drink the contents of one or more waterskins per day depending on the climate, so you will usually need to find one or more sources of water each day.
 
 [(Back to Equipment)](#equipment)
 
 ### Equipment: Ammunition
 
-If you carry one standard bundle of mundane ammunition along with an appropriate container for this ammunition, it is assumed that you effectively have a limitless supply of ammunition of that type, such that you do not need to keep track of its expenditure. Darts also follow this rule: if you have 10 darts, you are assumed to have an effectively limitless supply and do not need to keep track of how many you have thrown. Thus, this applies to:
+If you carry one standard bundle of mundane ammunition along with an appropriate container for this ammunition, it is assumed that you effectively have a limitless supply of ammunition of that type, such that you do not need to keep track of its expenditure. Darts also follow this rule: if you have 10 darts, you are assumed to have an effectively limitless supply and do not need to keep track of how many you have thrown. Thus, we have the following sets:
 
 - **Bow:** Quiver (1 gp, 1 lb) and 20 arrows (1 gp, 1 lb).
 - **Crossbow:** Crossbow bolt case (1 gp, 1 lb) and 20 crossbow bolts (1 gp, 1.5 lb).
