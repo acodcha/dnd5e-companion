@@ -217,8 +217,8 @@
 
 | Deity | Description | Alignment | Domain | Emblem |
 | :---- | :---------- | :-------- | :----- | :----- |
-|	Bahamut, the Platinum Dragon	|	Dragon god of good	|	Lawful good	|	Life, War	|	Dragon's head in profile	|
-|	Tiamat, the Chromatic Dragon	|	Dragon goddess of evil	|	Lawful evil	|	Trickery, War	|	Dragon head with five claw marks	|
+| Bahamut, the Platinum Dragon | Dragon god of good | Lawful good | Life, War | Dragon's head in profile |
+| Tiamat, the Chromatic Dragon | Dragon goddess of evil | Lawful evil | Trickery, War | Dragon head with five claw marks |
 
 [(Back to Top)](#)
 

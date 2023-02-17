@@ -3,7 +3,7 @@
 - **[Consent](#consent):** [Story Elements](#consent-story-elements), [Player Character Interactions](#consent-player-character-interactions)
 - **[Character Creation](#character-creation):** [Source Material](#character-creation-source-material), [Starting XP and Level](#character-creation-starting-xp-and-level), [Starting Ability Scores](#character-creation-starting-ability-scores), [Hit Points](#character-creation-hit-points), [Race](#character-creation-race), [Height and Weight](#character-creation-height-and-weight), [Starting Equipment and Coinage](#character-creation-starting-equipment-and-coinage), [Class](#character-creation-class), [Background](#character-creation-background), [Personality](#character-creation-personality), [Backstory](#character-creation-backstory), [Portrait](#character-creation-portrait)
 - **[Advancement](#advancement):** [Levelling](#advancement-levelling), [Absenteeism](#advancement-absenteeism), [Death and Retirement](#advancement-death-and-retirement)
-- **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling), [Resting](#adventuring-resting)
+- **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
 - **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
 
 [(Back to Main Page)](../../#)

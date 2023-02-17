@@ -15,11 +15,11 @@
 
 Abbreviations:
 
-- EGtW: *Explorer's Guide to Wildemount*
-- ERftLW: *Eberron: Rising from the Last War*
-- MOoT: *Mythic Odysseys of Theros*
+- Eber: *Eberron: Rising from the Last War*
 - PHB: *Player's Handbook*
 - SCAG: *Sword Coast Adventurer's Guide*
+- Ther: *Mythic Odysseys of Theros*
+- Wild: *Explorer's Guide to Wildemount*
 
 ## Advancement
 
@@ -326,12 +326,12 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 | Personality Trait | Background | Source |
 | :---------------- | :--------- | -----: |
-| Anything worth doing is worth doing best. | Athlete | MOoT 31 |
+| Anything worth doing is worth doing best. | Athlete | Ther 31 |
 | Despite my noble birth, I do not place myself above other folk. We all have the same blood. | Noble | PHB 135 |
 | Flattery is my preferred trick for getting what I want. | Charlatan | PHB 128 |
-| Give me a drink and I'm your friend. | Grinner | EGtW 200 |
+| Give me a drink and I'm your friend. | Grinner | Wild 200 |
 | I always have a plan for what to do when things go wrong. | Criminal | PHB 129 |
-| I always keep my word-except when I'm commanded to break it. | Volstrucker Agent | EGtW 202 |
+| I always keep my word-except when I'm commanded to break it. | Volstrucker Agent | Wild 202 |
 | I always want to know how things work and what makes people tick. | Guild Artisan | PHB 132 |
 | I am always calm, no matter what the situation. I never raise my voice or let my emotions control me. | Criminal | PHB 129 |
 | I am horribly, horribly awkward in social situations. | Sage | PHB 137 |
@@ -347,12 +347,12 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I can defuse any amount of tension. | Entertainer | PHB 130 |
 | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace. | Acolyte | PHB 127 |
 | I can stare down a hell hound without flinching. | Soldier | PHB 140 |
-| I can't sit still. | Grinner | EGtW 200 |
+| I can't sit still. | Grinner | Wild 200 |
 | I change my mood or my mind as quickly as I change key in a song. | Entertainer | PHB 130 |
 | I connect everything that happens to me to a grand, cosmic plan. | Hermit | PHB 134 |
 | I don't like to bathe. | Urchin | PHB 141 |
 | I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations. | Noble | PHB 135 |
-| I don't like to sit idle. | Athlete | MOoT 31 |
+| I don't like to sit idle. | Athlete | Ther 31 |
 | I don't part with my money easily and will haggle tirelessly to get the best deal possible. | Guild Artisan | PHB 132 |
 | I don't pay attention to the risks in a situation. Never tell me the odds. | Criminal | PHB 129 |
 | I eat like a pig and have bad manners. | Urchin | PHB 141 |
@@ -362,14 +362,14 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I face problems head-on. A simple, direct solution is the best path to success. | Soldier | PHB 140 |
 | I fall in and out of love easily, and am always pursuing someone. | Charlatan | PHB 128 |
 | I feel far more comfortable around animals than people. | Outlander | PHB 136 |
-| I feel most at peace during physical exertion, be it exercise or battle. | Athlete | MOoT 31 |
+| I feel most at peace during physical exertion, be it exercise or battle. | Athlete | Ther 31 |
 | I feel tremendous empathy for all who suffer. | Hermit | PHB 134 |
 | I get bitter if I'm not the center of attention. | Entertainer | PHB 130 |
 | I get bored easily. When am I going to get on with my destiny? | Folk Hero | PHB 131 |
-| I get irritated if people praise someone else and not me. | Athlete | MOoT 31 |
-| I hate to start fights, but I love to finish them. | Grinner | EGtW 200 |
+| I get irritated if people praise someone else and not me. | Athlete | Ther 31 |
+| I hate to start fights, but I love to finish them. | Grinner | Wild 200 |
 | I have a crude sense of humor. | Soldier | PHB 140 |
-| I have a daily exercise routine that I refuse to break. | Athlete | MOoT 31 |
+| I have a daily exercise routine that I refuse to break. | Athlete | Ther 31 |
 | I have a joke for every occasion, especially occasions where humor is inappropriate. | Charlatan | PHB 128 |
 | I have a lesson for every situation, drawn from observing nature. | Outlander | PHB 136 |
 | I have a strong code of honor or sense of propriety that others don't comprehend. | Far Traveler | SCAG 148 |
@@ -379,29 +379,29 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I hide scraps of food and trinkets away in my pockets. | Urchin | PHB 141 |
 | I honor my deities through practices that are foreign to this land. | Far Traveler | SCAG 148 |
 | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example. | Acolyte | PHB 127 |
-| I indulge vice in excess to quiet my conscience. | Volstrucker Agent | EGtW 202 |
+| I indulge vice in excess to quiet my conscience. | Volstrucker Agent | Wild 202 |
 | I judge people by their actions, not their words. | Folk Hero | PHB 131 |
 | I keep multiple holy symbols on me and invoke whatever deity might come in useful at any given moment. | Charlatan | PHB 128 |
 | I know a story relevant to almost every situation. | Entertainer | PHB 130 |
-| I laugh off insults and never take them pesonally. | Volstrucker Agent | EGtW 202 |
+| I laugh off insults and never take them pesonally. | Volstrucker Agent | Wild 202 |
 | I lie about almost everything, even when there's no good reason to. | Charlatan | PHB 128 |
 | I like a job well done, especially if I can convince someone else to do it. | Sailor | PHB 139 |
 | I like to squeeze into small places where no one else can get to me. | Urchin | PHB 141 |
 | I like to talk at length about my profession. | Guild Artisan | PHB 132 |
 | I love a good insult, even one directed at me. | Entertainer | PHB 130 |
-| I love the spotlight. Everyone, look at me! | Grinner | EGtW 200 |
-| I love to share trivia about my house's business. | House Agent | ERftLW 53 |
-| I love to trade banter and gibes. | Athlete | MOoT 31 |
+| I love the spotlight. Everyone, look at me! | Grinner | Wild 200 |
+| I love to share trivia about my house's business. | House Agent | Eber 53 |
+| I love to trade banter and gibes. | Athlete | Ther 31 |
 | I misuse long words in an attempt to sound smarter. | Folk Hero | PHB 131 |
-| I never forget an insult against me or my house. | House Agent | ERftLW 53 |
+| I never forget an insult against me or my house. | House Agent | Eber 53 |
 | I never pass up a friendly wager. | Sailor | PHB 139 |
 | I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings. | Hermit | PHB 134 |
 | I once ran twenty-five miles without stopping to warn to my clan of an approaching ore horde. I'd do it again if I had to. | Outlander | PHB 136 |
 | I place no stock in wealthy or well-mannered folk. Money and manners won't save you from a hungry owlbear. | Outlander | PHB 136 |
 | I pocket anything I see that might have some value. | Charlatan | PHB 128 |
-| I prefer to keep my thoughts to myself. | Volstrucker Agent | EGtW 202 |
+| I prefer to keep my thoughts to myself. | Volstrucker Agent | Wild 202 |
 | I quote (or misquote) sacred texts and proverbs in almost every situation. | Acolyte | PHB 127 |
-| I represent my house and take pride in my looks. | House Agent | ERftLW 53 |
+| I represent my house and take pride in my looks. | House Agent | Eber 53 |
 | I see omens in every event and action. The gods try to speak to us, we just need to listen. | Acolyte | PHB 127 |
 | I sleep with my back to a wall or tree, with everything I own wrapped in a bundle in my arms. | Urchin | PHB 141 |
 | I stretch the truth for the sake of a good story. | Sailor | PHB 139 |
@@ -417,19 +417,19 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I'm a born gambler who can't resist taking a risk for a potential payoff. | Charlatan | PHB 128 |
 | I'm a hopeless romantic, always searching for that "special someone." | Entertainer | PHB 130 |
 | I'm a snob who looks down on those who can't appreciate fine art. | Guild Artisan | PHB 132 |
-| I'm always humming an old tune from my past. | Grinner | EGtW 200 |
-| I'm always looking to improve efficiency. | House Agent | ERftLW 53 |
+| I'm always humming an old tune from my past. | Grinner | Wild 200 |
+| I'm always looking to improve efficiency. | House Agent | Eber 53 |
 | I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them. | Outlander | PHB 136 |
 | I'm always polite and respectful. | Soldier | PHB 140 |
 | I'm confident in my own abilities and do what I can to instill confidence in others. | Folk Hero | PHB 131 |
 | I'm convinced that people are always trying to steal my secrets. | Sage | PHB 137 |
-| I'm critical of monarchies and limits on the houses. | House Agent | ERftLW 53 |
+| I'm critical of monarchies and limits on the houses. | House Agent | Eber 53 |
 | I'm driven by a wanderlust that led me away from home. | Outlander | PHB 136 |
-| I'm enthusiastic about everything my house does. | House Agent | ERftLW 53 |
+| I'm enthusiastic about everything my house does. | House Agent | Eber 53 |
 | I'm full of inspiring and cautionary tales from my military experience relevant to almost every combat situation. | Soldier | PHB 140 |
 | I'm full of witty aphorisms and have a proverb for every occasion. | Guild Artisan | PHB 132 |
 | I'm haunted by memories of war. I can't get the images of violence out of my mind. | Soldier | PHB 140 |
-| I'm lucky like you wouldn't believe. | Grinner | EGtW 200 |
+| I'm lucky like you wouldn't believe. | Grinner | Wild 200 |
 | I'm oblivious to etiquette and social expectations. | Hermit | PHB 134 |
 | I'm rude to people who lack my commitment to hard work and fair play. | Guild Artisan | PHB 132 |
 | I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others. | Sage | PHB 137 |
@@ -437,7 +437,7 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I'm willing to listen to every side of an argument before I make my own judgment. | Sage | PHB 137 |
 | I've been isolated for so long that I rarely speak, preferring gestures and the occasional grunt. | Hermit | PHB 134 |
 | I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me. | Acolyte | PHB 127 |
-| I've left emotion behind me. I'm now perfectly placid. | Volstrucker Agent | EGtW 202 |
+| I've left emotion behind me. I'm now perfectly placid. | Volstrucker Agent | Wild 202 |
 | I've lost too many friends, and I'm slow to make new ones. | Soldier | PHB 140 |
 | I've read every book in the world's greatest libraries; or I like to boast that I have. | Sage | PHB 137 |
 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world. | Acolyte | PHB 127 |
@@ -450,10 +450,10 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses. | Noble | PHB 135 |
 | Nobody stays angry at me or around me for long, since | Entertainer | PHB 130 |
 | Nothing can shake my optimistic attitude. | Acolyte | PHB 127 |
-| Obstacles exist to be overcome. | Athlete | MOoT 31 |
+| Obstacles exist to be overcome. | Athlete | Ther 31 |
 | Sarcasm and insults are my weapons of choice. | Charlatan | PHB 128 |
-| Some event from the past keeps worming its way into my mind, making me restless. | Volstrucker Agent | EGtW 202 |
-| Talk to me about yourself. I'm a hell of a listener. | Grinner | EGtW 200 |
+| Some event from the past keeps worming its way into my mind, making me restless. | Volstrucker Agent | Wild 202 |
+| Talk to me about yourself. I'm a hell of a listener. | Grinner | Wild 200 |
 | The best way to get me to do something is to tell me I can't do it. | Criminal | PHB 129 |
 | The common folk love me for my kindness and generosity. | Noble | PHB 135 |
 | The first thing I do in a new place is note the locations of everything valuable-or where such things could be hidden. | Criminal | PHB 129 |
@@ -461,8 +461,8 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | There's nothing I like more than a good mystery. | Sage | PHB 137 |
 | Thinking is for other people. I prefer action. | Folk Hero | PHB 131 |
 | To me, a tavern brawl is a nice way to get to know a new city. | Sailor | PHB 139 |
-| When I don't have a reason to smile, I'm miserable. | Grinner | EGtW 200 |
-| When I see others struggling, I offer to help. | Athlete | MOoT 31 |
+| When I don't have a reason to smile, I'm miserable. | Grinner | Wild 200 |
+| When I see others struggling, I offer to help. | Athlete | Ther 31 |
 | When I set my mind to something, I follow through no matter what gets in my way. | Folk Hero | PHB 131 |
 | Whenever I come to a new place, I collect local rumors and spread gossip. | Entertainer | PHB 130 |
 
@@ -488,13 +488,13 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Aspiration. I'm determined to make something of myself. | Charlatan | PHB 128 |
 | Aspiration. I'm going to prove that I'm worthy of a better life. | Urchin | PHB 141 |
 | Aspiration. Someday I'll own my own ship and chart my own destiny. | Sailor | PHB 139 |
-| Comfort. I want to ensure that me and mine enjoy the best things in life. | House Agent | ERftLW 53 |
+| Comfort. I want to ensure that me and mine enjoy the best things in life. | House Agent | Eber 53 |
 | Destiny. Nothing and no one can steer me away from my higher calling. | Folk Hero | PHB 131 |
-| Discovery. I want to learn all I can, both for my house and for my own curiosity. | House Agent | ERftLW 53 |
-| Escape. The Volstrucker are pure evil! I can't atone for what I've done for them, but I can escape with my life. | Volstrucker Agent | EGtW 202 |
+| Discovery. I want to learn all I can, both for my house and for my own curiosity. | House Agent | Eber 53 |
+| Escape. The Volstrucker are pure evil! I can't atone for what I've done for them, but I can escape with my life. | Volstrucker Agent | Wild 202 |
 | Family. Blood runs thicker than water. | Noble | PHB 135 |
 | Glory. I must earn glory in battle, for myself and my clan. | Outlander | PHB 136 |
-| Growth. Lessons hide in victory and defeat. | Athlete | MOoT 31 |
+| Growth. Lessons hide in victory and defeat. | Athlete | Ther 31 |
 | Honesty. Art should reflect the soul; it should come from within and reveal who we really are. | Entertainer | PHB 130 |
 | Nation. My city, nation, or people are all that matter. | Soldier | PHB 140 |
 | Self-Improvement. The goal of a life of study is the betterment of oneself. | Sage | PHB 137 |
@@ -509,13 +509,13 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | :---- | :--------- | -----: |
 | Beauty. What is beautiful points us beyond itself toward what is true. | Sage | PHB 137 |
 | Beauty. When I perform, I make the world better than it was. | Entertainer | PHB 130 |
-| Camaraderie. The strongest bonds are forged through struggle. | Athlete | MOoT 31 |
+| Camaraderie. The strongest bonds are forged through struggle. | Athlete | Ther 31 |
 | Charity. I always try to help those in need, no matter what the personal cost. | Acolyte | PHB 127 |
 | Charity. I distribute the money I acquire to the people who really need it. | Charlatan | PHB 128 |
 | Charity. I steal from the wealthy so that I can help people in need. | Criminal | PHB 129 |
-| Common Good. My house serves a vital function, and its prosperity will help everyone. | House Agent | ERftLW 53 |
-| Compassion. The only way to make a better world is to perform small kindnesses. | Grinner | EGtW 200 |
-| Expression. Music, joy, and laughter are the keys to freedom. | Grinner | EGtW 200 |
+| Common Good. My house serves a vital function, and its prosperity will help everyone. | House Agent | Eber 53 |
+| Compassion. The only way to make a better world is to perform small kindnesses. | Grinner | Wild 200 |
+| Expression. Music, joy, and laughter are the keys to freedom. | Grinner | Wild 200 |
 | Friendship. Material goods come and go. Bonds of friendship last forever. | Charlatan | PHB 128 |
 | Generosity. My talents were given to me so that I could use them to benefit the world. | Guild Artisan | PHB 132 |
 | Greater Good. It is each person's responsibility to make the most happiness for the whole tribe. | Outlander | PHB 136 |
@@ -543,19 +543,19 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. | Acolyte | PHB 127 |
 | Honor. I don't steal from others in the trade. | Criminal | PHB 129 |
 | Honor. If I dishonor myself, I dishonor my whole clan. | Outlander | PHB 136 |
-| Justice. A nation built upon just foundations will uphold freedom for all. | Grinner | EGtW 200 |
+| Justice. A nation built upon just foundations will uphold freedom for all. | Grinner | Wild 200 |
 | Logic. Emotions must not cloud our logical thinking. | Sage | PHB 137 |
 | Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. | Hermit | PHB 134 |
-| Order. The will of the crown is absolute. | Volstrucker Agent | EGtW 202 |
+| Order. The will of the crown is absolute. | Volstrucker Agent | Wild 202 |
 | Power. I hope to one day rise to the top of my faith's religious hierarchy. | Acolyte | PHB 127 |
 | Reserved. As someone new to these strange lands, I am cautious and respectful in my dealings. | Far Traveler | SCAG 148 |
 | Responsibility. I do what I must and obey just authority. | Soldier | PHB 140 |
 | Responsibility. It is my duty to respect the authority of those above me, just as those below me must respect mine. | Noble | PHB 135 |
-| Tradition. Every game has rules, and the playing field must be level. | Athlete | MOoT 31 |
-| Tradition. I uphold traditions of my house and bring honor to my family. | House Agent | ERftLW 53 |
+| Tradition. Every game has rules, and the playing field must be level. | Athlete | Ther 31 |
+| Tradition. I uphold traditions of my house and bring honor to my family. | House Agent | Eber 53 |
 | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. | Acolyte | PHB 127 |
 | Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. | Entertainer | PHB 130 |
-| True Loyalty. The Cerberus Assembly is greater than any power, even the crown. | Volstrucker Agent | EGtW 202 |
+| True Loyalty. The Cerberus Assembly is greater than any power, even the crown. | Volstrucker Agent | Wild 202 |
 
 [(Back to Ideals)](#ideals)
 
@@ -563,7 +563,7 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 
 | Ideal | Background | Source |
 | :---- | :--------- | -----: |
-| Determination. I cannot fail. Not ever. | Volstrucker Agent | EGtW 202 |
+| Determination. I cannot fail. Not ever. | Volstrucker Agent | Wild 202 |
 | Inquisitive. Everything is new, but I have a thirst to learn. | Far Traveler | SCAG 148 |
 | Knowledge. The path to power and self-improvement is through knowledge. | Sage | PHB 137 |
 | Live and Let Live. Ideals aren't worth killing over or going to war for. | Soldier | PHB 140 |
@@ -571,12 +571,12 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Nature. The natural world is more important than all the constructs of civilization. | Outlander | PHB 136 |
 | People. I help the people who help me-that's what keeps us alive. | Urchin | PHB 141 |
 | People. I like seeing the smiles on people's faces when I perform. That's all that matters. | Entertainer | PHB 130 |
-| People. I strive to inspire my spectators. | Athlete | MOoT 31 |
+| People. I strive to inspire my spectators. | Athlete | Ther 31 |
 | People. I'm committed to my crewmates, not to ideals. | Sailor | PHB 139 |
 | People. I'm committed to the people I care about, not to ideals. | Guild Artisan | PHB 132 |
 | People. I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. | Criminal | PHB 129 |
 | Sincerity. There's no good in pretending to be something I'm not. | Folk Hero | PHB 131 |
-| Vigilance. A free people must be carefully taught, lest they be misled. | Grinner | EGtW 200 |
+| Vigilance. A free people must be carefully taught, lest they be misled. | Grinner | Wild 200 |
 
 [(Back to Ideals)](#ideals)
 
@@ -588,7 +588,7 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Change. Life is like the seasons, in constant change, and we must change with it. | Outlander | PHB 136 |
 | Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things. | Urchin | PHB 141 |
 | Change. We must help bring about the changes the gods are constantly working in the world. | Acolyte | PHB 127 |
-| Competition. I strive to test myself in all things. | Athlete | MOoT 31 |
+| Competition. I strive to test myself in all things. | Athlete | Ther 31 |
 | Creativity. I never run the same con twice. | Charlatan | PHB 128 |
 | Creativity. The world is in need of new ideas and bold action. | Entertainer | PHB 130 |
 | Free Thinking. Inquiry and curiosity are the pillars of progress. | Hermit | PHB 134 |
@@ -599,10 +599,10 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Independence. I am a free spirit-no one tells me what to do. | Charlatan | PHB 128 |
 | Independence. I must prove that I can handle myself without the coddling of my family. | Noble | PHB 135 |
 | Independence. When people follow orders blindly, they embrace a kind of tyranny. | Soldier | PHB 140 |
-| Innovation. Abandon old traditions and find better ways to do things. | House Agent | ERftLW 53 |
+| Innovation. Abandon old traditions and find better ways to do things. | House Agent | Eber 53 |
 | No Limits. Nothing should fetter the infinite possibility inherent in all existence. | Sage | PHB 137 |
-| Revolution. Tyrants must fall, no matter the cost. | Grinner | EGtW 200 |
-| Self-Determination. People should be free to do as they please. | Grinner | EGtW 200 |
+| Revolution. Tyrants must fall, no matter the cost. | Grinner | Wild 200 |
+| Self-Determination. People should be free to do as they please. | Grinner | Wild 200 |
 
 [(Back to Ideals)](#ideals)
 
@@ -611,8 +611,8 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Ideal | Background | Source |
 | :---- | :--------- | -----: |
 | Cunning. Though I may not know their ways, neither do they know mine, which can be to my advantage. | Far Traveler | SCAG 148 |
-| Death. The penalty for disloyalty is death. | Volstrucker Agent | EGtW 202 |
-| Fear. People should not respect power. They should fear it. | Volstrucker Agent | EGtW 202 |
+| Death. The penalty for disloyalty is death. | Volstrucker Agent | Wild 202 |
+| Fear. People should not respect power. They should fear it. | Volstrucker Agent | Wild 202 |
 | Greed. I will do whatever it takes to become wealthy. | Criminal | PHB 129 |
 | Greed. I'm only in it for the money and fame. | Entertainer | PHB 130 |
 | Greed. I'm only in it for the money. | Guild Artisan | PHB 132 |
@@ -620,12 +620,12 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Might. If I become strong, I can take what I want - what I deserve. | Folk Hero | PHB 131 |
 | Might. In life as in war, the stronger force wins. | Soldier | PHB 140 |
 | Might. The strongest are meant to rule. | Outlander | PHB 136 |
-| Power. I want to ensure the prosperity of my house and wield its power myself. | House Agent | ERftLW 53 |
+| Power. I want to ensure the prosperity of my house and wield its power myself. | House Agent | Eber 53 |
 | Power. If I can attain more power, no one will tell me what to do. | Noble | PHB 135 |
 | Power. Knowledge is the path to power and domination. | Sage | PHB 137 |
 | Power. Solitude and contemplation are paths toward mystical or magical power. | Hermit | PHB 134 |
 | Retribution. The rich need to be shown what life and death are like in the gutters. | Urchin | PHB 141 |
-| Triumph. The best part of winning is seeing my rivals brought low. | Athlete | MOoT 31 |
+| Triumph. The best part of winning is seeing my rivals brought low. | Athlete | Ther 31 |
 
 [(Back to Ideals)](#ideals)
 
@@ -635,15 +635,15 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | :--- | :--------- | -----: |
 | A powerful person killed someone I love. Some day soon, I'll have my revenge. | Charlatan | PHB 128 |
 | A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter. | Folk Hero | PHB 131 |
-| All life is precious to me. I know I can change the world without taking a humanoid life. | Grinner | EGtW 200 |
+| All life is precious to me. I know I can change the world without taking a humanoid life. | Grinner | Wild 200 |
 | An injury to the unspoiled wilderness of my home is an injury to me. | Outlander | PHB 136 |
 | Everything I do is for the common people. | Acolyte | PHB 127 |
-| Everything I've done, I've done to protect someone close to me. | Volstrucker Agent | EGtW 202 |
+| Everything I've done, I've done to protect someone close to me. | Volstrucker Agent | Wild 202 |
 | I am in love with the heir of a family that my family despises. | Noble | PHB 135 |
 | I am the last of my tribe, and it is up to me to ensure their names enter legend. | Outlander | PHB 136 |
 | I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me. | Charlatan | PHB 128 |
 | I created a great work for someone, and then found them unworthy to receive it. I'm still looking for someone worthy. | Guild Artisan | PHB 132 |
-| I don't care about the house as a whole, but I would do anything for my old mentor. | House Agent | ERftLW 53 |
+| I don't care about the house as a whole, but I would do anything for my old mentor. | House Agent | Eber 53 |
 | I entered seclusion because I loved someone I could not have. | Hermit | PHB 134 |
 | I entered seclusion to hide from the ones who might still be hunting me. I must someday confront them. | Hermit | PHB 134 |
 | I escaped my life of poverty by robbing an important person, and I'm wanted for it. | Urchin | PHB 141 |
@@ -653,8 +653,8 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I have an ancient text that holds terrible secrets that must not fall into the wrong hands. | Sage | PHB 137 |
 | I hold no greater cause than my service to my people. | Far Traveler | SCAG 148 |
 | I idolize a hero of the old tales and measure my deeds against that person's. | Entertainer | PHB 130 |
-| I lost someone important to an agent of the Dwendalian Empire. That regime will fall. | Grinner | EGtW 200 |
-| I love someone from another house, but the relationship is forbidden. | House Agent | ERftLW 53 |
+| I lost someone important to an agent of the Dwendalian Empire. That regime will fall. | Grinner | Wild 200 |
+| I love someone from another house, but the relationship is forbidden. | House Agent | Eber 53 |
 | I owe a debt I can never repay to the person who took pity on me. | Urchin | PHB 141 |
 | I owe everything to my mentor-a horrible person who's probably rotting in jail somewhere. | Charlatan | PHB 128 |
 | I owe my guild a great debt for forging me into the person I am today. | Guild Artisan | PHB 132 |
@@ -665,20 +665,20 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. | Acolyte | PHB 127 |
 | I sold my soul for knowledge. I hope to do great deeds and win it back. | Sage | PHB 137 |
 | I sponsor an orphanage to keep others from enduring what I was forced to endure. | Urchin | PHB 141 |
-| I strive to live up to a specific hero's example. | Athlete | MOoT 31 |
+| I strive to live up to a specific hero's example. | Athlete | Ther 31 |
 | I suffer awful visions of a coming disaster and will do anything to prevent it. | Outlander | PHB 136 |
 | I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself. | Charlatan | PHB 128 |
 | I want to be famous, whatever it takes. | Entertainer | PHB 130 |
 | I was cheated out of my fair share of the profits, and I want to get my due. | Sailor | PHB 139 |
-| I will be known as the greatest spy who ever lived. | Grinner | EGtW 200 |
-| I will be the best for the honor and glory of my home. | Athlete | MOoT 31 |
+| I will be known as the greatest spy who ever lived. | Grinner | Wild 200 |
+| I will be the best for the honor and glory of my home. | Athlete | Ther 31 |
 | I will become the greatest thief that ever lived. | Criminal | PHB 129 |
 | I will bring terrible wrath down on the evildoers who destroyed my homeland. | Outlander | PHB 136 |
 | I will do anything to protect the temple where I served. | Acolyte | PHB 127 |
 | I will do anything to prove myself superior to my hated rival. | Entertainer | PHB 130 |
 | I will face any challenge to win the approval of my family. | Noble | PHB 135 |
 | I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood. | Guild Artisan | PHB 132 |
-| I will overcome a rival and prove myself their better. | Athlete | MOoT 31 |
+| I will overcome a rival and prove myself their better. | Athlete | Ther 31 |
 | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic. | Acolyte | PHB 127 |
 | I wish my childhood sweetheart had come with me to pursue my destiny. | Folk Hero | PHB 131 |
 | I work to preserve a library, university, scriptorium, or monastery. | Sage | PHB 137 |
@@ -688,32 +688,32 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I would still lay down my life for the people I served with. | Soldier | PHB 140 |
 | I'll always remember my first ship. | Sailor | PHB 139 |
 | I'll never forget the crushing defeat my company suffered or the enemies who dealt it. | Soldier | PHB 140 |
-| I'm determined to impress the leaders of my house, and to become a leader myself. | House Agent | ERftLW 53 |
+| I'm determined to impress the leaders of my house, and to become a leader myself. | House Agent | Eber 53 |
 | I'm fascinated by the beauty and wonder of this new land. | Far Traveler | SCAG 148 |
 | I'm guilty of a terrible crime. I hope  I  can redeem myself for it. | Criminal | PHB 129 |
 | I'm loyal to my captain first, everything else second. | Sailor | PHB 139 |
 | I'm still seeking the enlightenment I pursued in my seclusion, and it still eludes me. | Hermit | PHB 134 |
 | I'm trying to pay off an old debt I owe to a generous benefactor. | Criminal | PHB 129 |
 | I've been searching my whole life for the answer to a certain question. | Sage | PHB 137 |
-| If the empire falls, all of civilization falls with it. I will hold back chaos and barbarism at any cost. | Volstrucker Agent | EGtW 202 |
+| If the empire falls, all of civilization falls with it. I will hold back chaos and barbarism at any cost. | Volstrucker Agent | Wild 202 |
 | In a harbor town, I have a paramour whose eyes nearly stole me from the sea. | Sailor | PHB 139 |
 | It is my duty to protect my students. | Sage | PHB 137 |
 | It is my duty to provide children to sustain my tribe. | Outlander | PHB 136 |
-| Music helped me through a dark time in my life. Now, I'll use music to change the world. | Grinner | EGtW 200 |
+| Music helped me through a dark time in my life. Now, I'll use music to change the world. | Grinner | Wild 200 |
 | My family, clan, or tribe is the most important thing in my life, even when they are far from me. | Outlander | PHB 136 |
 | My freedom is my most precious possession. I'll never let anyone take it from me again. | Far Traveler | SCAG 148 |
 | My honor is my life. | Soldier | PHB 140 |
-| My house is my family. I would do anything for it. | House Agent | ERftLW 53 |
-| My house must evolve, and I'll lead the evolution. | House Agent | ERftLW 53 |
+| My house is my family. I would do anything for it. | House Agent | Eber 53 |
+| My house must evolve, and I'll lead the evolution. | House Agent | Eber 53 |
 | My house's alliance with another noble family must be sustained at all costs. | Noble | PHB 135 |
 | My ill-gotten gains go to support my family. | Criminal | PHB 129 |
 | My instrument is my most treasured possession, and it reminds me of someone I love. | Entertainer | PHB 130 |
 | My isolation gave me great insight into a great evil that only I can destroy. | Hermit | PHB 134 |
 | My life's work is a series of tomes related to a specific field of lore. | Sage | PHB 137 |
 | My loyalty to my sovereign is unwavering. | Noble | PHB 135 |
-| My mistake got someone hurt. I'll never make that mistake again. | Athlete | MOoT 31 |
-| My orders are important, but my comrades are worth more than anything. I would die for them. | Volstrucker Agent | EGtW 202 |
-| My teammates are my family. | Athlete | MOoT 31 |
+| My mistake got someone hurt. I'll never make that mistake again. | Athlete | Ther 31 |
+| My orders are important, but my comrades are worth more than anything. I would die for them. | Volstrucker Agent | Wild 202 |
+| My teammates are my family. | Athlete | Ther 31 |
 | My tools are symbols of my past life, and  I  carry them so that  I  will never forget my roots. | Folk Hero | PHB 131 |
 | My town or city is my home, and I'll fight to defend it. | Urchin | PHB 141 |
 | No one else should have to endure the hardships I've been through. | Urchin | PHB 141 |
@@ -723,18 +723,18 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Ruthless pirates murdered my captain and crewmates, plundered our ship, and left me to die. Vengeance will be mine. | Sailor | PHB 139 |
 | Should my discovery come to light, it could bring ruin to the world. | Hermit | PHB 134 |
 | So long as I have this token from my homeland, I can face any adversity in this strange land. | Far Traveler | SCAG 148 |
-| Someone I love was killed by a rival faction within my house, and I will have revenge. | House Agent | ERftLW 53 |
+| Someone I love was killed by a rival faction within my house, and I will have revenge. | House Agent | Eber 53 |
 | Someone I loved died because of I mistake I made. That will never happen again. | Criminal | PHB 129 |
 | Someone saved my life on the battlefield. To this day, I will never leave a friend behind. | Soldier | PHB 140 |
 | Someone stole my precious instrument, and someday I'll get it back. | Entertainer | PHB 130 |
 | Something important was taken from me, and I aim to steal it back. | Criminal | PHB 129 |
 | Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her. | Charlatan | PHB 128 |
 | The common folk must see me as a hero of the people. | Noble | PHB 135 |
-| The elite in their ivory towers don't understand how we suffer. I intend to show them. | Grinner | EGtW 200 |
-| The first people to be hurt by this war will be the common folk. I need to protect them. | Grinner | EGtW 200 |
+| The elite in their ivory towers don't understand how we suffer. I intend to show them. | Grinner | Wild 200 |
+| The first people to be hurt by this war will be the common folk. I need to protect them. | Grinner | Wild 200 |
 | The gods of my people are a comfort to me so far from home. | Far Traveler | SCAG 148 |
-| The job is all that matters. I will see it through. | Volstrucker Agent | EGtW 202 |
-| The person who trained me is the most important person in my world. | Athlete | MOoT 31 |
+| The job is all that matters. I will see it through. | Volstrucker Agent | Wild 202 |
+| The person who trained me is the most important person in my world. | Athlete | Ther 31 |
 | The ship is most important-crewmates and captains come and go. | Sailor | PHB 139 |
 | The workshop where I learned my trade is the most important place in the world to me. | Guild Artisan | PHB 132 |
 | Those who fight beside me are those worth dying for. | Soldier | PHB 140 |
@@ -748,12 +748,12 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | :--- | :--------- | -----: |
 | A scandal prevents me from ever going home again. That kind of trouble seems to follow me around. | Entertainer | PHB 130 |
 | An innocent person is in prison for a crime that I committed. I'm okay with that. | Criminal | PHB 129 |
-| Any defeat or failure on my part is because my opponent cheated. | Athlete | MOoT 31 |
-| Being a spy in wartime is painful. I've seen so much suffering, I think I'm losing my mind. | Grinner | EGtW 200 |
+| Any defeat or failure on my part is because my opponent cheated. | Athlete | Ther 31 |
+| Being a spy in wartime is painful. I've seen so much suffering, I think I'm losing my mind. | Grinner | Wild 200 |
 | By my words and actions, I often bring shame to my family. | Noble | PHB 135 |
 | Despite my best efforts, I am unreliable to my friends. | Entertainer | PHB 130 |
 | Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish. | Outlander | PHB 136 |
-| Fear is a powerful motivator. I will do whatever it takes to prevent those who know what I am from seeing me fail, and from those I care about from knowing what I am. | Volstrucker Agent | EGtW 202 |
+| Fear is a powerful motivator. I will do whatever it takes to prevent those who know what I am from seeing me fail, and from those I care about from knowing what I am. | Volstrucker Agent | Wild 202 |
 | Gold seems like a lot of money to me, and I'll do just about anything for more of it. | Urchin | PHB 141 |
 | I am dogmatic in my thoughts and philosophy. | Hermit | PHB 134 |
 | I am easily distracted by the promise of information. | Sage | PHB 137 |
@@ -762,19 +762,19 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I am slow to trust members of other races, tribes, and societies. | Outlander | PHB 136 |
 | I am suspicious of strangers and expect the worst of them. | Acolyte | PHB 127 |
 | I am too enamored of ale, wine, and other intoxicants. | Outlander | PHB 136 |
-| I can hear the voices of everyone I've killed. I see their faces. I can't be free of these ghosts. | Volstrucker Agent | EGtW 202 |
-| I can't afford to trust anyone. Not. Anyone. | Grinner | EGtW 200 |
-| I can't focus on my mission. I just want to carouse and sing and play! | Grinner | EGtW 200 |
+| I can hear the voices of everyone I've killed. I see their faces. I can't be free of these ghosts. | Volstrucker Agent | Wild 202 |
+| I can't afford to trust anyone. Not. Anyone. | Grinner | Wild 200 |
+| I can't focus on my mission. I just want to carouse and sing and play! | Grinner | Wild 200 |
 | I can't help but pocket loose coins and other trinkets I come across. | Sailor | PHB 139 |
 | I can't keep a secret to save my life, or anyone else's. | Sage | PHB 137 |
 | I can't resist a pretty face. | Charlatan | PHB 128 |
 | I can't resist swindling people who are more powerful than me. | Charlatan | PHB 128 |
 | I consider the adherents of other gods to be deluded innocents at best, or ignorant fools at worst. | Far Traveler | SCAG 148 |
-| I do everything big! Subtlety? I don't know the meaning of subtlety! Oh, that's a problem? | Grinner | EGtW 200 |
+| I do everything big! Subtlety? I don't know the meaning of subtlety! Oh, that's a problem? | Grinner | Wild 200 |
 | I don't take kindly to some of the actions and motivations of the people of this land, because these folk are different from me. | Far Traveler | SCAG 148 |
-| I drink to dull the pain in the back of my head. | Volstrucker Agent | EGtW 202 |
+| I drink to dull the pain in the back of my head. | Volstrucker Agent | Wild 202 |
 | I follow orders, even if I think they're wrong. | Sailor | PHB 139 |
-| I go a bit mad when I see blood. | Volstrucker Agent | EGtW 202 |
+| I go a bit mad when I see blood. | Volstrucker Agent | Wild 202 |
 | I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell. | Hermit | PHB 134 |
 | I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough. | Charlatan | PHB 128 |
 | I have a "tell" that reveals when I'm lying. | Criminal | PHB 129 |
@@ -782,18 +782,18 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I have a weakness for the new intoxicants and other pleasures of this land. | Far Traveler | SCAG 148 |
 | I have a weakness for the vices of the city, especially hard drink. | Folk Hero | PHB 131 |
 | I have an insatiable desire for carnal pleasures. | Noble | PHB 135 |
-| I have lingering pain from old injuries. | Athlete | MOoT 31 |
+| I have lingering pain from old injuries. | Athlete | Ther 31 |
 | I have little respect for anyone who is not a proven warrior. | Soldier | PHB 140 |
 | I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble. | Entertainer | PHB 130 |
 | I have trouble trusting in my allies. | Folk Hero | PHB 131 |
 | I hide a truly scandalous secret that could ruin my family forever. | Noble | PHB 135 |
-| I ignore anyone who doesn't compete and anyone who loses to me. | Athlete | MOoT 31 |
-| I indulge in a habit that threatens my reputation or my health. | Athlete | MOoT 31 |
+| I ignore anyone who doesn't compete and anyone who loses to me. | Athlete | Ther 31 |
+| I indulge in a habit that threatens my reputation or my health. | Athlete | Ther 31 |
 | I judge others harshly, and myself even more severely. | Acolyte | PHB 127 |
 | I let my need to win arguments overshadow friendships and harmony. | Hermit | PHB 134 |
 | I like keeping secrets and won't share them with anyone. | Hermit | PHB 134 |
 | I made a terrible mistake in battle that cost many lives, and I would do anything to keep that mistake secret. | Soldier | PHB 140 |
-| I must be the captain of any group I join. | Athlete | MOoT 31 |
+| I must be the captain of any group I join. | Athlete | Ther 31 |
 | I obey the law, even if the law causes misery. | Soldier | PHB 140 |
 | I once satirized a noble who still wants my head. It was a mistake that I will likely repeat. | Entertainer | PHB 130 |
 | I overlook obvious solutions in favor of complicated ones. | Sage | PHB 137 |
@@ -809,7 +809,7 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I'd rather eat my armor than admit when I'm wrong. | Soldier | PHB 140 |
 | I'd rather kill someone in their sleep than fight fair. | Urchin | PHB 141 |
 | I'd risk too much to uncover a lost bit of knowledge. | Hermit | PHB 134 |
-| I'll do absolutely anything to win. | Athlete | MOoT 31 |
+| I'll do absolutely anything to win. | Athlete | Ther 31 |
 | I'll do anything to get my hands on something rare or priceless. | Guild Artisan | PHB 132 |
 | I'll do anything to win fame and renown. | Entertainer | PHB 130 |
 | I'll say anything to avoid having to do extra work. | Sailor | PHB 139 |
@@ -817,25 +817,25 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster than I bring them in. | Charlatan | PHB 128 |
 | I'm convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure. | Folk Hero | PHB 131 |
 | I'm convinced that no one could ever fool me the way I fool others. | Charlatan | PHB 128 |
-| I'm fixated on following official protocols. | House Agent | ERftLW 53 |
+| I'm fixated on following official protocols. | House Agent | Eber 53 |
 | I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals. | Guild Artisan | PHB 132 |
 | I'm never satisfied with what I have-I always want more. | Guild Artisan | PHB 132 |
-| I'm obsessed with conspiracy theories and worried about secret societies and hidden demons. | House Agent | ERftLW 53 |
+| I'm obsessed with conspiracy theories and worried about secret societies and hidden demons. | House Agent | Eber 53 |
 | I'm quick to assume that someone is trying to cheat me. | Guild Artisan | PHB 132 |
 | I'm too greedy for my own good. I can't resist taking a risk if there's money involved. | Charlatan | PHB 128 |
-| I'm working for a hidden faction in my house that gives me secret assignments. | House Agent | ERftLW 53 |
-| I've never lied once in my life. What? No, I'm not crossing my fingers! | Grinner | EGtW 200 |
+| I'm working for a hidden faction in my house that gives me secret assignments. | House Agent | Eber 53 |
+| I've never lied once in my life. What? No, I'm not crossing my fingers! | Grinner | Wild 200 |
 | If I'm outnumbered, I will run away from a fight. | Urchin | PHB 141 |
 | If there's a plan, I'll forget it. If I don't forget it, I'll ignore it. | Criminal | PHB 129 |
 | In fact, the world does revolve around me. | Noble | PHB 135 |
 | It's not stealing if I need it more than someone else. | Urchin | PHB 141 |
 | Most people scream and run when they see a demon. I stop and take notes on its anatomy. | Sage | PHB 137 |
 | My hatred of my enemies is blind and unreasoning. | Soldier | PHB 140 |
-| My house and bloodline make me the best! | House Agent | ERftLW 53 |
+| My house and bloodline make me the best! | House Agent | Eber 53 |
 | My piety sometimes leads me to blindly trust those that profess faith in my god. | Acolyte | PHB 127 |
 | My pride will probably lead to my destruction. | Sailor | PHB 139 |
-| My religious beliefs aren't widespread in my house. | House Agent | ERftLW 53 |
-| My secret could get me expelled from my house. | House Agent | ERftLW 53 |
+| My religious beliefs aren't widespread in my house. | House Agent | Eber 53 |
+| My secret could get me expelled from my house. | House Agent | Eber 53 |
 | No one must ever learn that I once stole money from guild coffers. | Guild Artisan | PHB 132 |
 | Now that I've returned to the world, I enjoy its delights a little too much. | Hermit | PHB 134 |
 | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. | Acolyte | PHB 127 |
@@ -851,6 +851,6 @@ Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed,
 | Violence is my answer to almost any challenge. | Outlander | PHB 136 |
 | When faced with a choice between money and my friends, I usually choose the money. | Criminal | PHB 129 |
 | When I see something valuable, I can't think about anything but how to steal it. | Criminal | PHB 129 |
-| Yeah, that's my name. Yeah, I'm a Grinner spy. Who cares about staying undercover? | Grinner | EGtW 200 |
+| Yeah, that's my name. Yeah, I'm a Grinner spy. Who cares about staying undercover? | Grinner | Wild 200 |
 
 [(Back to Top)](#)
