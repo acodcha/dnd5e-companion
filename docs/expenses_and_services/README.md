@@ -228,16 +228,17 @@ Spellcasters may offer spellcasting services. The cost of spellcasting services 
 
 ### Spellcasting Services: Security
 
-| Spell            |  Spell Slot  | Spellcaster                                                |     Cost |
-| :--------------- | :----------: | :--------------------------------------------------------- | -------: |
-| Alarm            | 1st (ritual) | 1st-level artificer or wizard; or 2nd-level ranger         |    10 gp |
-| Arcane lock      |     2nd      | 3rd-level wizard; or 5th-level artificer                   |    40 gp |
-| Knock            |     2nd      | 3rd-level bard, sorcerer, or wizard                        |    40 gp |
-| Continual flame  |     2nd      | 3rd-level cleric, druid, or wizard; or 9th-level artificer |    40 gp |
-| Animate dead     |     3rd      | 5th-level cleric or wizard                                 |   100 gp |
-| Hallow           |     5th      | 9th-level cleric                                           | 2,300 gp |
-| Forbiddance      | 6th (ritual) | 11th-level cleric                                          |   460 gp |
-| Guards and wards |     6th      | 11th-level bard or wizard                                  |   360 gp |
+| Spell               |  Spell Slot  | Spellcaster                                                |     Cost |
+| :------------------ | :----------: | :--------------------------------------------------------- | -------: |
+| Alarm               | 1st (ritual) | 1st-level artificer or wizard; or 2nd-level ranger         |    10 gp |
+| Arcane lock         |     2nd      | 3rd-level wizard; or 5th-level artificer                   |    40 gp |
+| Continual flame     |     2nd      | 3rd-level cleric, druid, or wizard; or 9th-level artificer |    40 gp |
+| Knock               |     2nd      | 3rd-level bard, sorcerer, or wizard                        |    40 gp |
+| Nystul's magic aura |     2nd      | 3rd-level wizard                                           |    40 gp |
+| Animate dead        |     3rd      | 5th-level cleric or wizard                                 |   100 gp |
+| Hallow              |     5th      | 9th-level cleric                                           | 2,300 gp |
+| Forbiddance         | 6th (ritual) | 11th-level cleric                                          |   460 gp |
+| Guards and wards    |     6th      | 11th-level bard or wizard                                  |   360 gp |
 
 [(Back to Spellcasting Services)](#spellcasting-services)
 
@@ -270,17 +271,18 @@ Spellcasters may offer spellcasting services. The cost of spellcasting services 
 
 ### Spellcasting Services: Surveillance
 
-| Spell                    |  Spell Slot  | Spellcaster                                                               |   Cost |
-| :----------------------- | :----------: | :------------------------------------------------------------------------ | -----: |
-| Identify                 | 1st (ritual) | 1st-level artificer, bard, or wizard                                      |  20 gp |
-| Locate animals or plants | 2nd (ritual) | 3rd-level bard or druid; or 9th-level ranger                              |  40 gp |
-| Locate object            |     2nd      | 3rd-level bard, cleric, druid, or wizard; or 9th-level paladin or ranger  |  40 gp |
-| Clairvoyance             |     3rd      | 5th-level bard, cleric, sorcerer, or wizard                               | 100 gp |
-| Locate creature          |     4th      | 7th-level bard, cleric, druid, or wizard; or 13th-level paladin or ranger | 170 gp |
-| Divination               | 4th (ritual) | 7th-level cleric, druid, or wizard                                        | 210 gp |
-| Commune                  | 5th (ritual) | 9th-level cleric                                                          | 260 gp |
-| Commune with nature      | 5th (ritual) | 9th-level druid; or 17th-level ranger                                     | 250 gp |
-| Scrying                  |     5th      | 9th-level bard, cleric, druid, warlock, or wizard                         | 350 gp |
+| Spell                    |  Spell Slot  | Spellcaster                                                                                   |   Cost |
+| :----------------------- | :----------: | :-------------------------------------------------------------------------------------------- | -----: |
+| Detect magic             | 1st (ritual) | 1st-level artificer, bard, cleric, druid, sorcerer, or wizard; or 2nd-level paladin or ranger |  10 gp |
+| Identify                 | 1st (ritual) | 1st-level artificer, bard, or wizard                                                          |  20 gp |
+| Locate animals or plants | 2nd (ritual) | 3rd-level bard or druid; or 9th-level ranger                                                  |  40 gp |
+| Locate object            |     2nd      | 3rd-level bard, cleric, druid, or wizard; or 9th-level paladin or ranger                      |  40 gp |
+| Clairvoyance             |     3rd      | 5th-level bard, cleric, sorcerer, or wizard                                                   | 100 gp |
+| Locate creature          |     4th      | 7th-level bard, cleric, druid, or wizard; or 13th-level paladin or ranger                     | 170 gp |
+| Divination               | 4th (ritual) | 7th-level cleric, druid, or wizard                                                            | 210 gp |
+| Commune                  | 5th (ritual) | 9th-level cleric                                                                              | 260 gp |
+| Commune with nature      | 5th (ritual) | 9th-level druid; or 17th-level ranger                                                         | 250 gp |
+| Scrying                  |     5th      | 9th-level bard, cleric, druid, warlock, or wizard                                             | 350 gp |
 
 [(Back to Spellcasting Services)](#spellcasting-services)
 
