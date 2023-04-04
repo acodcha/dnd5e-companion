@@ -1,8 +1,8 @@
 [View on GitHub.io](https://acodcha.github.io/dnd5e-companion) · [View on GitHub.com](https://github.com/acodcha/dnd5e-companion)
 
-[Documentation for Players](#documentation-for-players) · [Documentation for Game Masters](#documentation-for-game-masters) · [Tokens](#tokens) · [Scenery](#scenery)
+[Player Resources](#player-resources) · [Game Master Resources](#game-master-resources) · [Tokens](#tokens) · [Scenery](#scenery)
 
-## Documentation for Players
+## Player Resources
 
 - **[Character Creation](docs/character_creation):** [Advancement](docs/character_creation#advancement), [Ability Scores](docs/character_creation#ability-scores), [Wealth](docs/character_creation#wealth), [Height and Weight](docs/character_creation#height-and-weight), [Alignment](docs/character_creation#alignment), [Languages](docs/character_creation#languages), [Personality Traits](docs/character_creation#personality-traits), [Ideals](docs/character_creation#ideals), [Bonds](docs/character_creation#bonds), [Flaws](docs/character_creation#flaws)
 
@@ -22,7 +22,7 @@
 
 [(Back to Top)](#)
 
-## Documentation for Game Masters
+## Game Master Resources
 
 - **[Treasure and Rewards](docs/treasure_and_rewards):** [Treasure](docs/treasure_and_rewards#treasure), [Rewards](docs/treasure_and_rewards#rewards), [Gemstones](docs/treasure_and_rewards#gemstones), [Art Objects](docs/treasure_and_rewards#art-objects)
 
