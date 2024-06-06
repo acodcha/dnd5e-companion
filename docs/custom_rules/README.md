@@ -4,7 +4,7 @@
 - **[Character Creation](#character-creation):** [Source Material](#character-creation-source-material), [Starting XP and Level](#character-creation-starting-xp-and-level), [Starting Ability Scores](#character-creation-starting-ability-scores), [Hit Points](#character-creation-hit-points), [Race](#character-creation-race), [Height and Weight](#character-creation-height-and-weight), [Starting Equipment and Coinage](#character-creation-starting-equipment-and-coinage), [Class](#character-creation-class), [Background](#character-creation-background), [Personality](#character-creation-personality), [Backstory](#character-creation-backstory), [Portrait](#character-creation-portrait)
 - **[Advancement](#advancement):** [Levelling](#advancement-levelling), [Absenteeism](#advancement-absenteeism), [Death and Retirement](#advancement-death-and-retirement)
 - **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
-- **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Magic Items](#equipment-magic-items)
+- **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Spell Scrolls](#equipment-spell-scrolls), [Magic Items](#equipment-magic-items)
 
 [(Back to Main Page)](../../#)
 
@@ -290,13 +290,14 @@ Regarding falling, the rules from the *Player's Handbook*, *Xanathar's Guide to 
 - [Wilderness](#equipment-wilderness)
 - [Ammunition](#equipment-ammunition)
 - [Thrown Weapons](#equipment-thrown-weapons)
+- [Spell Scrolls](#equipment-spell-scrolls)
 - [Magic Items](#equipment-magic-items)
 
 [(Back to Top)](#)
 
 ### Equipment: Encumbrance
 
-A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but modified as follows.
+Track your encumbrance. A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but modified as follows.
 
 A Small or Medium creature's carrying capacity is its Strength score multiplied by 10. This is the weight in pounds that it can carry without penalty. For each size category above Medium, double the creature's carrying capacity, while for a Tiny creature, halve its carrying capacity.
 
@@ -334,7 +335,7 @@ Each adventurer must have their own copy of the above equipment. However, you ca
 
 ### Equipment: Ammunition
 
-If you carry one standard bundle of mundane ammunition along with an appropriate container for this ammunition, it is assumed that you effectively have a limitless supply of ammunition of that type, such that you do not need to keep track of its expenditure. Darts also follow this rule: if you have 10 darts, you are assumed to have an effectively limitless supply and do not need to keep track of how many you have thrown. Thus, we have the following sets:
+If you carry one standard bundle of mundane ammunition along with an appropriate container for this ammunition, it is assumed that you effectively have a limitless supply of ammunition of that type such that you do not need to keep track of its expenditure. Darts also follow this rule: if you have 10 darts, you are assumed to effectively have a limitless supply of darts. The following ammunition sets apply to this rule:
 
 - **Bow:** Quiver (1 gp, 1 lb) and 20 arrows (1 gp, 1 lb).
 - **Crossbow:** Crossbow bolt case (1 gp, 1 lb) and 20 crossbow bolts (1 gp, 1.5 lb).
@@ -342,13 +343,21 @@ If you carry one standard bundle of mundane ammunition along with an appropriate
 - **Blowgun:** Pouch (5 sp, 1 lb) and 50 blowgun needles (1 gp, 1 lb).
 - **Darts:** 10 darts (5 sp, 2.5 lb).
 
-However, magical ammunition (such as a +1 arrow, +1 crossbow bolt, and so on) is expended when used.
+However, magical ammunition (such as a +1 arrow, +1 crossbow bolt, and so on) is expended as normal when used.
 
 [(Back to Equipment)](#equipment)
 
 ### Equipment: Thrown Weapons
 
 If you carry 5 copies of a melee weapon with the thrown property (such as 5 javelins, 5 handaxes, 5 daggers, and so on), you are assumed to have an effectively limitless supply of that weapon, such you do not need to keep track of how many you have thrown. This applies whether the 5 thrown weapons are mundane or magical.
+
+[(Back to Equipment)](#equipment)
+
+### Equipment: Spell Scrolls
+
+Each spell scroll is carried in a miniature lightweight container such that each spell scroll effectively weighs ½ lb, the same as a potion. The usual rules apply for scribing and using spell scrolls.
+
+[(Back to Equipment)](#equipment)
 
 ### Equipment: Magic Items
 
