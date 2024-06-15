@@ -23,11 +23,11 @@ Once magical ammunition hits a target, it becomes nonmagical.
 
 | Magic Item                                          |       Cost |  Weight  |   Source |
 | :-------------------------------------------------- | ---------: | :------: | -------: |
-| Unbreakable arrow                                   |      10 gp |  1/20 lb | XGtE 139 |
-| Walloping arrow                                     |      20 gp |  1/20 lb | XGtE 139 |
-| Walloping blowgun needle                            |      20 gp |  1/20 lb | XGtE 139 |
-| Walloping crossbow bolt                             |      20 gp | 1½/20 lb | XGtE 139 |
-| Walloping sling bullet                              |      20 gp | 1½/20 lb | XGtE 139 |
+| Unbreakable arrow (each)                            |      10 gp |  1/20 lb | XGtE 139 |
+| Walloping arrow (each)                              |      20 gp |  1/20 lb | XGtE 139 |
+| Walloping blowgun needle (each)                     |      20 gp |  1/20 lb | XGtE 139 |
+| Walloping crossbow bolt (each)                      |      20 gp | 1½/20 lb | XGtE 139 |
+| Walloping sling bullet (each)                       |      20 gp | 1½/20 lb | XGtE 139 |
 | Arrow +1 (each)                                     |      30 gp |  1/20 lb |  DMG 150 |
 | Blowgun needle +1 (each)                            |      30 gp |  1/20 lb |  DMG 150 |
 | Crossbow bolt +1 (each)                             |      30 gp | 1½/20 lb |  DMG 150 |
@@ -96,26 +96,26 @@ Once magical ammunition hits a target, it becomes nonmagical.
 
 ## Spell Scrolls
 
-A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class’s spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost. The level of the spell on the scroll determines the spell’s saving throw DC and attack bonus. If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell’s level. On a failed check, the spell disappears from the scroll with no other effect.
+A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus. If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.
 
-With time and patience, a spellcaster can transfer a spell to a scroll, creating a spell scroll. Scribing a spell scroll takes an amount of time and money related to the level of the spell. In addition, the spellcaster must have proficiency in the Arcana skill and must provide any material components required for the casting of the spell. Moreover, the spellcaster must have the spell prepared, or it must be among the spellcaster’s known spells, in order to scribe a scroll of that spell. If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
+With time and patience, a spellcaster can transfer a spell to a scroll, creating a spell scroll. Scribing a spell scroll takes an amount of time and money related to the level of the spell. In addition, the spellcaster must have proficiency in the Arcana skill and must provide any material components required for the casting of the spell. Moreover, the spellcaster must have the spell prepared, or it must be among the spellcaster's known spells, in order to scribe a scroll of that spell. If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
 A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed. For each level of the spell, the process takes 2 hours and costs 50 gp, which represents material components expended as the wizard experiments with the spell to master it as well as the fine inks needed to record it.
 
-Spell scrolls normally need to be carried in scroll cases that can each contain a few spell scrolls. However, counting scroll cases and tracking which spell scroll is in which case is tedious and cumbersome. Instead, each spell scroll is assumed to simply be encased in a small lightweight container such that each spell scroll effectively weighs ½ lb.
+Spell scrolls normally need to be carried in scroll cases that can each contain a few spell scrolls. However, counting scroll cases and tracking which spell scroll is in which scroll case is tedious and cumbersome. Instead, each spell scroll is assumed to simply be encased in a small lightweight container such that each spell scroll effectively weighs ¼ lb.
 
 | Magic Item             | Purchase Cost | Scribing Cost | Scribing Time | Weight | Save DC | Attack Bonus |  Source |
 | :--------------------- | ------------: | ------------: | ------------: | :----: | :-----: | :----------: | ------: |
-| Spell scroll cantrip   |         30 gp |         15 gp |    1 work day |  ½ lb  |   13    |      +5      | DMG 200 |
-| Spell scroll 1st-level |         50 gp |         25 gp |    1 work day |  ½ lb  |   13    |      +5      | DMG 200 |
-| Spell scroll 2nd-level |        500 gp |        250 gp |   3 work days |  ½ lb  |   13    |      +5      | DMG 200 |
-| Spell scroll 3rd-level |      1,000 gp |        500 gp |   5 work days |  ½ lb  |   15    |      +7      | DMG 200 |
-| Spell scroll 4th-level |      5,000 gp |      2,500 gp |  10 work days |  ½ lb  |   15    |      +7      | DMG 200 |
-| Spell scroll 5th-level |     10,000 gp |      5,000 gp |  20 work days |  ½ lb  |   17    |      +9      | DMG 200 |
-| Spell scroll 6th-level |     30,000 gp |     15,000 gp |  40 work days |  ½ lb  |   17    |      +9      | DMG 200 |
-| Spell scroll 7th-level |     50,000 gp |     25,000 gp |  80 work days |  ½ lb  |   18    |     +10      | DMG 200 |
-| Spell scroll 8th-level |    100,000 gp |     50,000 gp | 160 work days |  ½ lb  |   18    |     +10      | DMG 200 |
-| Spell scroll 9th-level |    500,000 gp |    250,000 gp | 240 work days |  ½ lb  |   19    |     +11      | DMG 200 |
+| Spell scroll cantrip   |         30 gp |         15 gp |    1 work day |  ¼ lb  |   13    |      +5      | DMG 200 |
+| Spell scroll 1st-level |         50 gp |         25 gp |    1 work day |  ¼ lb  |   13    |      +5      | DMG 200 |
+| Spell scroll 2nd-level |        500 gp |        250 gp |   3 work days |  ¼ lb  |   13    |      +5      | DMG 200 |
+| Spell scroll 3rd-level |      1,000 gp |        500 gp |   5 work days |  ¼ lb  |   15    |      +7      | DMG 200 |
+| Spell scroll 4th-level |      5,000 gp |      2,500 gp |  10 work days |  ¼ lb  |   15    |      +7      | DMG 200 |
+| Spell scroll 5th-level |     10,000 gp |      5,000 gp |  20 work days |  ¼ lb  |   17    |      +9      | DMG 200 |
+| Spell scroll 6th-level |     30,000 gp |     15,000 gp |  40 work days |  ¼ lb  |   17    |      +9      | DMG 200 |
+| Spell scroll 7th-level |     50,000 gp |     25,000 gp |  80 work days |  ¼ lb  |   18    |     +10      | DMG 200 |
+| Spell scroll 8th-level |    100,000 gp |     50,000 gp | 160 work days |  ¼ lb  |   18    |     +10      | DMG 200 |
+| Spell scroll 9th-level |    500,000 gp |    250,000 gp | 240 work days |  ¼ lb  |   19    |     +11      | DMG 200 |
 
 [(Back to Top)](#)
 
@@ -152,7 +152,7 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Bead of nourishment                                 |      20 gp |    –     | XGtE 136 |
 | Veteran's cane                                      |     100 gp |   2 lb   | XGtE 139 |
 | Quaal's feather token of an anchor                  |     150 gp |    –     |  DMG 188 |
-| Scroll of protection                                |     180 gp |   ½ lb   |  DMG 199 |
+| Scroll of protection                                |     180 gp |   ¼ lb   |  DMG 199 |
 | Nolzur's marvelous pigments                         |     200 gp |   1 lb   |  DMG 183 |
 | Pot of awakening                                    |     200 gp |  10 lb   | XGtE 138 |
 | Quaal's feather token of a tree                     |     200 gp |    –     |  DMG 188 |
@@ -192,19 +192,19 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Magic Item                                          |       Cost |  Weight  |   Source |
 | :-------------------------------------------------- | ---------: | :------: | -------: |
 | Bead of refreshment                                 |      10 gp |    –     | XGtE 136 |
-| Unbreakable arrow                                   |      10 gp |  1/20 lb | XGtE 139 |
+| Unbreakable arrow (each)                            |      10 gp |  1/20 lb | XGtE 139 |
 | Bead of nourishment                                 |      20 gp |    –     | XGtE 136 |
-| Walloping arrow                                     |      20 gp |  1/20 lb | XGtE 139 |
-| Walloping blowgun needle                            |      20 gp |  1/20 lb | XGtE 139 |
-| Walloping crossbow bolt                             |      20 gp | 1½/20 lb | XGtE 139 |
-| Walloping sling bullet                              |      20 gp | 1½/20 lb | XGtE 139 |
+| Walloping arrow (each)                              |      20 gp |  1/20 lb | XGtE 139 |
+| Walloping blowgun needle (each)                     |      20 gp |  1/20 lb | XGtE 139 |
+| Walloping crossbow bolt (each)                      |      20 gp | 1½/20 lb | XGtE 139 |
+| Walloping sling bullet (each)                       |      20 gp | 1½/20 lb | XGtE 139 |
 | Arrow +1 (each)                                     |      30 gp |  1/20 lb |  DMG 150 |
 | Blowgun needle +1 (each)                            |      30 gp |  1/20 lb |  DMG 150 |
 | Crossbow bolt +1 (each)                             |      30 gp | 1½/20 lb |  DMG 150 |
 | Sling bullet +1 (each)                              |      30 gp | 1½/20 lb |  DMG 150 |
-| Spell scroll cantrip                                |      30 gp |   ½ lb   |  DMG 200 |
+| Spell scroll cantrip                                |      30 gp |   ¼ lb   |  DMG 200 |
 | Potion of healing                                   |      50 gp |   ½ lb   |  DMG 187 |
-| Spell scroll 1st-level                              |      50 gp |   ½ lb   |  DMG 200 |
+| Spell scroll 1st-level                              |      50 gp |   ¼ lb   |  DMG 200 |
 | Spellwrought tattoo cantrip                         |      50 gp |    –     | TCoE 135 |
 | Philter of love                                     |     100 gp |   ½ lb   |  DMG 184 |
 | Potion of poison                                    |     100 gp |   ½ lb   |  DMG 188 |
@@ -222,7 +222,7 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Potion of invisibility                              |     180 gp |   ½ lb   |  DMG 188 |
 | Potion of mind reading                              |     180 gp |   ½ lb   |  DMG 188 |
 | Potion of water breathing                           |     180 gp |   ½ lb   |  DMG 188 |
-| Scroll of protection                                |     180 gp |   ½ lb   |  DMG 199 |
+| Scroll of protection                                |     180 gp |   ¼ lb   |  DMG 199 |
 | Nolzur's marvelous pigments                         |     200 gp |   1 lb   |  DMG 183 |
 | Pot of awakening                                    |     200 gp |  10 lb   | XGtE 138 |
 | Potion of animal friendship                         |     200 gp |   ½ lb   |  DMG 187 |
@@ -256,7 +256,7 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Oil of slipperiness                                 |     500 gp |   ½ lb   |  DMG 184 |
 | Potion of flying                                    |     500 gp |   ½ lb   |  DMG 187 |
 | Sling bullet +3 (each)                              |     500 gp | 1½/20 lb |  DMG 150 |
-| Spell scroll 2nd-level                              |     500 gp |   ½ lb   |  DMG 200 |
+| Spell scroll 2nd-level                              |     500 gp |   ¼ lb   |  DMG 200 |
 | Arrow of slaying (each)                             |     600 gp |  1/20 lb |  DMG 152 |
 | Crossbow bolt of slaying (each)                     |     600 gp | 1½/20 lb |  DMG 152 |
 | Dust of dryness                                     |     800 gp |   1 lb   |  DMG 166 |
@@ -265,7 +265,7 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Perfume of bewitching                               |   1,000 gp |    –     | XGtE 138 |
 | Potion of clairvoyance                              |   1,000 gp |   ½ lb   |  DMG 187 |
 | Potion of vitality                                  |   1,000 gp |   ½ lb   |  DMG 188 |
-| Spell scroll 3rd-level                              |   1,000 gp |   ½ lb   |  DMG 200 |
+| Spell scroll 3rd-level                              |   1,000 gp |   ¼ lb   |  DMG 200 |
 | Spellwrought tattoo 2nd-level                       |   1,000 gp |    –     | TCoE 135 |
 | Chime of opening                                    |   1,500 gp |   1 lb   |  DMG 158 |
 | Oil of etherealness                                 |   2,000 gp |   ½ lb   |  DMG 183 |
@@ -277,14 +277,14 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Quaal's feather token of a swan boat                |   3,000 gp |    –     |  DMG 188 |
 | Potion of hill giant strength                       |   4,000 gp |   ½ lb   |  DMG 187 |
 | Gem of brightness                                   |   5,000 gp |    –     |  DMG 171 |
-| Spell scroll 4th-level                              |   5,000 gp |   ½ lb   |  DMG 200 |
+| Spell scroll 4th-level                              |   5,000 gp |   ¼ lb   |  DMG 200 |
 | Deck of illusions                                   |   6,000 gp |    –     |  DMG 161 |
 | Potion of frost giant strength                      |   8,000 gp |   ½ lb   |  DMG 187 |
 | Potion of stone giant strength                      |   8,000 gp |   ½ lb   |  DMG 187 |
 | Manual of flesh golems                              |  10,000 gp |   3 lb   |  DMG 180 |
 | Potion of invulnerability                           |  10,000 gp |   ½ lb   |  DMG 188 |
 | Potion of longevity                                 |  10,000 gp |   ½ lb   |  DMG 188 |
-| Spell scroll 5th-level                              |  10,000 gp |   ½ lb   |  DMG 200 |
+| Spell scroll 5th-level                              |  10,000 gp |   ¼ lb   |  DMG 200 |
 | Spellwrought tattoo 4th-level                       |  10,000 gp |    –     | TCoE 135 |
 | Manual of clay golems                               |  13,000 gp |   3 lb   |  DMG 180 |
 | Manual of stone golems                              |  16,000 gp |   3 lb   |  DMG 180 |
@@ -293,16 +293,16 @@ Once a spellwrought tattoo is on your skin, you can cast its spell, requiring no
 | Potion of supreme healing                           |  20,000 gp |   ½ lb   |  DMG 187 |
 | Spellwrought tattoo 5th-level                       |  20,000 gp |    –     | TCoE 135 |
 | Potion of cloud giant strength                      |  30,000 gp |   ½ lb   |  DMG 187 |
-| Spell scroll 6th-level                              |  30,000 gp |   ½ lb   |  DMG 200 |
-| Spell scroll 7th-level                              |  50,000 gp |   ½ lb   |  DMG 200 |
+| Spell scroll 6th-level                              |  30,000 gp |   ¼ lb   |  DMG 200 |
+| Spell scroll 7th-level                              |  50,000 gp |   ¼ lb   |  DMG 200 |
 | Potion of storm giant strength                      |  60,000 gp |   ½ lb   |  DMG 187 |
 | Talisman of ultimate evil (attunement evil-aligned) |  60,000 gp |    –     |  DMG 207 |
 | Talisman of pure good (attunement good-aligned)     |  70,000 gp |    –     |  DMG 207 |
-| Spell scroll 8th-level                              | 100,000 gp |   ½ lb   |  DMG 200 |
+| Spell scroll 8th-level                              | 100,000 gp |   ¼ lb   |  DMG 200 |
 | Bag of beans                                        | 150,000 gp |   3 lb   |  DMG 152 |
 | Efreeti bottle                                      | 200,000 gp |   1 lb   |  DMG 167 |
 | Candle of invocation (attunement)                   | 300,000 gp |    –     |  DMG 157 |
-| Spell scroll 9th-level                              | 500,000 gp |   ½ lb   |  DMG 200 |
+| Spell scroll 9th-level                              | 500,000 gp |   ¼ lb   |  DMG 200 |
 | Deck of many things                                 | 700,000 gp |    –     |  DMG 162 |
 
 [(Back to Top)](#)
