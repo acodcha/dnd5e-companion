@@ -355,7 +355,7 @@ If you carry 5 copies of a melee weapon with the thrown property (such as 5 jave
 
 ### Equipment: Spell Scrolls
 
-Each spell scroll is carried in a miniature lightweight container such that each spell scroll effectively weighs ½ lb, the same as a potion. The usual rules apply for scribing and using spell scrolls.
+Spell scrolls normally need to be carried in scroll cases that can each contain a few spell scrolls. However, counting scroll cases and tracking which spell scroll is in which scroll case is tedious and cumbersome. Instead, each spell scroll is assumed to simply be encased in a small lightweight container such that each spell scroll effectively weighs ¼ lb. Other than this, the usual rules apply for scribing and using spell scrolls.
 
 [(Back to Equipment)](#equipment)
 

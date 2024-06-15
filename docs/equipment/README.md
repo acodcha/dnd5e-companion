@@ -19,7 +19,7 @@ Mundane (non-magical) equipment can be purchased in most settlements of sufficie
 
 [(Back to Top)](#)
 
-Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
+Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.
 
 ### Light Armor
 
@@ -40,20 +40,20 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 | Medium Armor | Cost  | Weight | Description |
 | :----------- | :---: | :----: | :---------- |
 | Hide armor | 10 gp | 12 lb | Armor Class = 12 + Dex modifier (max 2). This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor. |
-| Chain shirt armor | 50 gp | 20 lb | Armor Class = 13 + Dex modifier (max 2). Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers. |
+| Chain shirt armor | 50 gp | 20 lb | Armor Class = 13 + Dex modifier (max 2). Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers. |
 | Scale mail armor | 50 gp | 45 lb | Armor Class = 14 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. |
-| Breastplate armor | 400 gp | 20 lb | Armor Class = 14 + Dex modifier (max 2). This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered. |
-| Half plate armor | 750 gp | 40 lb | Armor Class = 15 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. Half plate armor consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps. |
+| Breastplate armor | 400 gp | 20 lb | Armor Class = 14 + Dex modifier (max 2). This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered. |
+| Half plate armor | 750 gp | 40 lb | Armor Class = 15 + Dex modifier (max 2). Disadvantage on Dexterity (Stealth) checks. Half plate armor consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps. |
 
 [(Back to Armor)](#armor)
 
 ### Heavy Armor
 
-Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk. Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative. Heavy armor takes 10 minutes to don and 5 minutes to doff. Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If an armor has a Strength requirement, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk. Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but it also doesn't penalize you if your Dexterity modifier is negative. Heavy armor takes 10 minutes to don and 5 minutes to doff. Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If an armor has a Strength requirement, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
 | Heavy Armor | Cost  | Weight | Description |
 | :---------- | :---: | :----: | :---------- |
-| Ring mail armor | 30 gp | 40 lb | Armor Class = 14. Disadvantage on Dexterity (Stealth) checks. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor. |
+| Ring mail armor | 30 gp | 40 lb | Armor Class = 14. Disadvantage on Dexterity (Stealth) checks. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor. |
 | Chain mail armor | 75 gp | 55 lb | Armor Class = 16. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 13. Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets. |
 | Splint armor | 200 gp | 60 lb | Armor Class = 17. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints. |
 | Plate armor | 1,500 gp | 65 lb | Armor Class = 18. Disadvantage on Dexterity (Stealth) checks. Requires a Strength score of 15. Plate armor consists of shaped, interlocking metal plates to cover the entire body. A suit of plate armor includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body. |
@@ -82,75 +82,75 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 ### Simple Melee Weapons
 
-| Simple Melee Weapon | Cost  | Weight | Damage | Properties |
-| :------------------ | :---: | :----: | :----: | :--------- |
-| Club | 1 sp | 2 lb | 1d4 bludgeoning | Light |
-| Dagger | 2 gp | 1 lb | 1d4 piercing | Finesse, light, thrown (range 20/60 ft) |
-| Greatclub | 2 sp | 10 lb | 1d8 bludgeoning | Two-handed |
-| Handaxe | 5 gp | 2 lb | 1d6 slashing | Light, thrown (range 20/60 ft) |
-| Javelin | 5 sp | 2 lb | 1d6 piercing | Thrown (range 30/120 ft) |
-| Light hammer | 2 gp | 2 lb | 1d4 bludgeoning | Light, thrown (range 20/60 ft) |
-| Mace | 5 gp | 4 lb | 1d6 bludgeoning | – |
-| Quarterstaff | 2 sp | 4 lb | 1d6 bludgeoning | Versatile (1d8) |
-| Sickle | 1 gp | 2 lb | 1d4 slashing | Light |
-| Spear | 1 gp | 3 lb | 1d6 piercing | Thrown (range 20/60 ft), versatile (1d8) |
+| Simple Melee Weapon | Cost  | Weight |     Damage      | Properties                               |
+| :------------------ | :---: | :----: | :-------------: | :--------------------------------------- |
+| Club                | 1 sp  |  2 lb  | 1d4 bludgeoning | Light                                    |
+| Dagger              | 2 gp  |  1 lb  |  1d4 piercing   | Finesse, light, thrown (range 20/60 ft)  |
+| Greatclub           | 2 sp  | 10 lb  | 1d8 bludgeoning | Two-handed                               |
+| Handaxe             | 5 gp  |  2 lb  |  1d6 slashing   | Light, thrown (range 20/60 ft)           |
+| Javelin             | 5 sp  |  2 lb  |  1d6 piercing   | Thrown (range 30/120 ft)                 |
+| Light hammer        | 2 gp  |  2 lb  | 1d4 bludgeoning | Light, thrown (range 20/60 ft)           |
+| Mace                | 5 gp  |  4 lb  | 1d6 bludgeoning | –                                        |
+| Quarterstaff        | 2 sp  |  4 lb  | 1d6 bludgeoning | Versatile (1d8)                          |
+| Sickle              | 1 gp  |  2 lb  |  1d4 slashing   | Light                                    |
+| Spear               | 1 gp  |  3 lb  |  1d6 piercing   | Thrown (range 20/60 ft), versatile (1d8) |
 
 [(Back to Weapons)](#weapons)
 
 ### Martial Melee Weapons
 
-| Martial Melee Weapon | Cost  | Weight | Damage | Properties |
-| :------------------- | :---: | :----: | :----: | :--------- |
-| Battleaxe | 10 gp | 4 lb | 1d8 slashing | Versatile (1d10) |
-| Flail | 10 gp | 2 lb | 1d8 bludgeoning | – |
-| Glaive | 20 gp | 6 lb | 1d10 slashing | Heavy, reach, two-handed |
-| Greataxe | 30 gp | 7 lb | 1d12 slashing | Heavy, two-handed |
-| Greatsword | 50 gp | 6 lb | 2d6 slashing | Heavy, two-handed |
-| Halberd | 20 gp | 6 lb | 1d10 slashing | Heavy, reach, two-handed |
-| Lance | 10 gp | 6 lb | 1d12 piercing | Reach, special (lance) |
-| Longsword | 15 gp | 3 lb | 1d8 slashing | Versatile (1d10) |
-| Maul | 10 gp | 10 lb | 2d6 bludgeoning | Heavy, two-handed |
-| Morningstar | 15 gp | 4 lb | 1d8 piercing | – |
-| Pike | 5 gp | 18 lb | 1d10 piercing | Heavy, reach, two-handed |
-| Rapier | 25 gp | 2 lb | 1d8 piercing | Finesse |
-| Scimitar | 25 gp | 3 lb | 1d6 slashing | Finesse, light |
-| Shortsword | 10 gp | 2 lb | 1d6 piercing | Finesse, light |
-| Trident | 5 gp | 4 lb | 1d6 piercing | Thrown (range 20/60 ft), versatile (1d8) |
-| War pick | 5 gp | 2 lb | 1d8 piercing | – |
-| Warhammer | 15 gp | 2 lb | 1d8 bludgeoning | Versatile (1d10) |
-| Whip | 2 gp | 3 lb | 1d4 slashing | Finesse, reach |
+| Martial Melee Weapon | Cost  | Weight |     Damage      | Properties                               |
+| :------------------- | :---: | :----: | :-------------: | :--------------------------------------- |
+| Battleaxe            | 10 gp |  4 lb  |  1d8 slashing   | Versatile (1d10)                         |
+| Flail                | 10 gp |  2 lb  | 1d8 bludgeoning | –                                        |
+| Glaive               | 20 gp |  6 lb  |  1d10 slashing  | Heavy, reach, two-handed                 |
+| Greataxe             | 30 gp |  7 lb  |  1d12 slashing  | Heavy, two-handed                        |
+| Greatsword           | 50 gp |  6 lb  |  2d6 slashing   | Heavy, two-handed                        |
+| Halberd              | 20 gp |  6 lb  |  1d10 slashing  | Heavy, reach, two-handed                 |
+| Lance                | 10 gp |  6 lb  |  1d12 piercing  | Reach, special (lance)                   |
+| Longsword            | 15 gp |  3 lb  |  1d8 slashing   | Versatile (1d10)                         |
+| Maul                 | 10 gp | 10 lb  | 2d6 bludgeoning | Heavy, two-handed                        |
+| Morningstar          | 15 gp |  4 lb  |  1d8 piercing   | –                                        |
+| Pike                 |  5 gp | 18 lb  |  1d10 piercing  | Heavy, reach, two-handed                 |
+| Rapier               | 25 gp |  2 lb  |  1d8 piercing   | Finesse                                  |
+| Scimitar             | 25 gp |  3 lb  |  1d6 slashing   | Finesse, light                           |
+| Shortsword           | 10 gp |  2 lb  |  1d6 piercing   | Finesse, light                           |
+| Trident              |  5 gp |  4 lb  |  1d6 piercing   | Thrown (range 20/60 ft), versatile (1d8) |
+| War pick             |  5 gp |  2 lb  |  1d8 piercing   | –                                        |
+| Warhammer            | 15 gp |  2 lb  | 1d8 bludgeoning | Versatile (1d10)                         |
+| Whip                 |  2 gp |  3 lb  |  1d4 slashing   | Finesse, reach                           |
 
 [(Back to Weapons)](#weapons)
 
 ### Simple Ranged Weapons
 
-| Simple Ranged Weapon | Cost  | Weight | Damage | Properties |
-| :------------------- | :---: | :----: | :----: | :--------- |
-| Dart | 5 cp | ¼ lb | 1d4 piercing | Finesse, thrown (range 20/60 ft) |
-| Light crossbow | 25 gp | 5 lb | 1d8 piercing | Ammunition (range 80/320 ft), loading, two-handed |
-| Shortbow | 25 gp | 2 lb | 1d6 piercing | Ammunition (range 80/320 ft), two-handed |
-| Sling | 1 sp | – | 1d4 bludgeoning | Ammunition (range 30/120 ft) |
+| Simple Ranged Weapon | Cost  | Weight |     Damage      | Properties                                        |
+| :------------------- | :---: | :----: | :-------------: | :------------------------------------------------ |
+| Dart                 |  5 cp |  ¼ lb  |  1d4 piercing   | Finesse, thrown (range 20/60 ft)                  |
+| Light crossbow       | 25 gp |  5 lb  |  1d8 piercing   | Ammunition (range 80/320 ft), loading, two-handed |
+| Shortbow             | 25 gp |  2 lb  |  1d6 piercing   | Ammunition (range 80/320 ft), two-handed          |
+| Sling                |  1 sp |   –    | 1d4 bludgeoning | Ammunition (range 30/120 ft)                      |
 
 [(Back to Weapons)](#weapons)
 
 ### Martial Ranged Weapons
 
-| Martial Ranged Weapon | Cost  | Weight | Damage | Properties |
-| :-------------------- | :---: | :----: | :----: | :--------- |
-| Blowgun | 10 gp | 1 lb | 1 piercing | Ammunition (range 25/100 ft), loading |
-| Hand crossbow | 75 gp | 3 lb | 1d6 piercing | Ammunition (range 30/120 ft), light, loading |
-| Heavy crossbow | 50 gp | 18 lb | 1d10 piercing | Ammunition (range 100/400 ft), heavy, loading, two-handed |
-| Longbow | 50 gp | 2 lb | 1d8 piercing | Ammunition (range 150/600 ft), heavy, two-handed |
-| Net | 1 gp | 3 lb | – | Special (net), thrown (range 5/15 ft) |
+| Martial Ranged Weapon | Cost  | Weight |    Damage     | Properties                                                |
+| :-------------------- | :---: | :----: | :-----------: | :-------------------------------------------------------- |
+| Blowgun               | 10 gp |  1 lb  |   1 piercing  | Ammunition (range 25/100 ft), loading                     |
+| Hand crossbow         | 75 gp |  3 lb  | 1d6 piercing  | Ammunition (range 30/120 ft), light, loading              |
+| Heavy crossbow        | 50 gp | 18 lb  | 1d10 piercing | Ammunition (range 100/400 ft), heavy, loading, two-handed |
+| Longbow               | 50 gp |  2 lb  | 1d8 piercing  | Ammunition (range 150/600 ft), heavy, two-handed          |
+| Net                   |  1 gp |  3 lb  |       –       | Special (net), thrown (range 5/15 ft)                     |
 
 [(Back to Weapons)](#weapons)
 
 ### Firearms
 
-| Firearm | Cost  | Weight | Damage | Properties |
-| :------ | :---: | :----: | :----: | :--------- |
-| Pistol | 250 gp | 3 lb | 1d10 piercing | Ammunition (range 30/90 ft), loading |
-| Musket | 500 gp | 10 lb | 1d12 piercing | Ammunition (range 40/120 ft), loading, two-handed |
+| Firearm |  Cost  | Weight |    Damage     | Properties                                        |
+| :------ | :----: | :----: | :-----------: | :------------------------------------------------ |
+| Pistol  | 250 gp |  3 lb  | 1d10 piercing | Ammunition (range 30/90 ft), loading              |
+| Musket  | 500 gp | 10 lb  | 1d12 piercing | Ammunition (range 40/120 ft), loading, two-handed |
 
 [(Back to Weapons)](#weapons)
 
@@ -165,61 +165,61 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 ### Ammunition
 
-| Ammunition | Cost  | Weight |
-| :--------- | :---: | :----: |
-| Arrows (20) | 1 gp | 1 lb |
-| Blowgun needle pouch (holds 50 blowgun needles) | 5 sp | 1 lb |
-| Blowgun needles (50) | 1 gp | 1 lb |
-| Crossbow bolt case (holds 20 crossbow bolts) | 1 gp | 1 lb |
-| Crossbow bolts (20) | 1 gp | 1½ lb |
-| Firearm bullet pouch (holds 10 firearm bullets) | 5 sp | 1 lb |
-| Firearm bullets (10) | 3 gp | 2 lb |
-| Quiver (holds 20 arrows) | 1 gp | 1 lb |
-| Sling bullet pouch (holds 20 sling bullets) | 5 sp | 1 lb |
-| Sling bullets (20) | 4 cp | 1½ lb |
+| Ammunition                                   | Cost  | Weight |
+| :------------------------------------------- | :---: | :----: |
+| Arrows (20)                                  | 1 gp  |  1 lb  |
+| Blowgun needles (50)                         | 1 gp  |  1 lb  |
+| Crossbow bolt case (holds 20 crossbow bolts) | 1 gp  |  1 lb  |
+| Crossbow bolts (20)                          | 1 gp  |  1½ lb |
+| Firearm bullets (10)                         | 3 gp  |  2 lb  |
+| Pouch (holds 50 blowgun needles)             | 5 sp  |  1 lb  |
+| Pouch (holds 10 firearm bullets)             | 5 sp  |  1 lb  |
+| Pouch (holds 20 sling bullets)               | 5 sp  |  1 lb  |
+| Quiver (holds 20 arrows)                     | 1 gp  |  1 lb  |
+| Sling bullets (20)                           | 4 cp  |  1½ lb |
 
 [(Back to Gear)](#gear)
 
 ### Spellcasting Gear
 
-| Spellcasting Gear | Cost  | Weight |
-| :---------------- | :---: | :----: |
-| Amulet (holy symbol) | 5 gp | 1 lb |
-| Component pouch | 25 gp | 2 lb |
-| Crystal (arcane focus) | 10 gp | 1 lb |
-| Emblem (holy symbol) | 5 gp | – |
-| Orb (arcane focus) | 20 gp | 3 lb |
-| Reliquary (holy symbol) | 5 gp | 2 lb |
-| Rod (arcane focus) | 10 gp | 2 lb |
-| Spellbook | 50 gp | 3 lb |
-| Sprig of mistletoe (druidic focus) | 1 gp | – |
-| Staff (arcane focus) | 5 gp | 4 lb |
-| Totem (druidic focus) | 1 gp | – |
-| Wand (arcane focus) | 10 gp | 1 lb |
-| Wooden staff (druidic focus) | 5 gp | 4 lb |
-| Yew wand (druidic focus) | 10 gp | 1 lb |
+| Spellcasting Gear                  | Cost  | Weight |
+| :--------------------------------- | :---: | :----: |
+| Amulet (holy symbol)               |  5 gp |  1 lb  |
+| Component pouch                    | 25 gp |  2 lb  |
+| Crystal (arcane focus)             | 10 gp |  1 lb  |
+| Emblem (holy symbol)               |  5 gp |   –    |
+| Orb (arcane focus)                 | 20 gp |  3 lb  |
+| Reliquary (holy symbol)            |  5 gp |  2 lb  |
+| Rod (arcane focus)                 | 10 gp |  2 lb  |
+| Spellbook                          | 50 gp |  3 lb  |
+| Sprig of mistletoe (druidic focus) |  1 gp |   –    |
+| Staff (arcane focus)               |  5 gp |  4 lb  |
+| Totem (druidic focus)              |  1 gp |   –    |
+| Wand (arcane focus)                | 10 gp |  1 lb  |
+| Wooden staff (druidic focus)       |  5 gp |  4 lb  |
+| Yew wand (druidic focus)           | 10 gp |  1 lb  |
 
 [(Back to Gear)](#gear)
 
 ### Consumable Gear
 
-| Consumable Gear | Cost  | Weight |
-| :-------------- | :---: | :----: |
-| Acid (vial) | 25 gp | 1 lb |
-| Alchemist's fire (flask) | 50 gp | 1 lb |
-| Antitoxin (vial) | 50 gp | – |
-| Ball bearings (bag of 1,000) | 1 gp | 2 lb |
-| Basic poison (vial) | 100 gp | – |
-| Caltrops (bag of 20) | 1 gp | 2 lb |
-| Candle | 1 cp | – |
-| Gunpowder bomb | 150 gp | 1 lb |
-| Gunpowder keg | 250 gp | 20 lb |
-| Gunpowder powder horn | 35 gp | 2 lb |
-| Holy water (flask) | 25 gp | 1 lb |
-| Oil (flask) | 1 sp | 1 lb |
-| Potion of healing | 50 gp | ½ lb |
-| Rations (1 day) | 5 sp | 2 lb |
-| Torch | 1 cp | 1 lb |
+| Consumable Gear              |  Cost  | Weight |
+| :--------------------------- | :----: | :----: |
+| Acid (vial)                  |  25 gp |   1 lb |
+| Alchemist's fire (flask)     |  50 gp |   1 lb |
+| Antitoxin (vial)             |  50 gp |   –    |
+| Ball bearings (bag of 1,000) |   1 gp |   2 lb |
+| Basic poison (vial)          | 100 gp |   –    |
+| Caltrops (bag of 20)         |   1 gp |   2 lb |
+| Candle                       |   1 cp |   –    |
+| Gunpowder bomb               | 150 gp |   1 lb |
+| Gunpowder keg                | 250 gp |  20 lb |
+| Gunpowder powder horn        |  35 gp |   2 lb |
+| Holy water (flask)           |  25 gp |   1 lb |
+| Oil (flask)                  |   1 sp |   1 lb |
+| Potion of healing            |  50 gp |   ½ lb |
+| Rations (1 day)              |   5 sp |   2 lb |
+| Torch                        |   1 cp |   1 lb |
 
 [(Back to Gear)](#gear)
 
@@ -310,36 +310,36 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 ### Artisan's Tools
 
-| Artisan's Tool | Cost  | Weight |
-| :------------- | :---: | :----: |
-| Alchemist's supplies | 50 gp | 8 lb |
-| Brewer's supplies | 20 gp | 9 lb |
-| Calligrapher's supplies | 10 gp | 5 lb |
-| Carpenter's tools | 8 gp | 6 lb |
-| Cartographer's tools | 15 gp | 6 lb |
-| Cobbler's tools | 5 gp | 5 lb |
-| Cook's utensils | 1 gp | 8 lb |
-| Glassblower's tools | 30 gp | 5 lb |
-| Jeweler's tools | 25 gp | 2 lb |
-| Leatherworker's tools | 5 gp | 5 lb |
-| Mason's tools | 10 gp | 8 lb |
-| Painter's supplies | 10 gp | 5 lb |
-| Potter's tools | 10 gp | 3 lb |
-| Smith's tools | 20 gp | 8 lb |
-| Tinker's tools | 50 gp | 10 lb |
-| Weaver's tools | 1 gp | 5 lb |
-| Woodcarver's tools | 1 gp | 5 lb |
+| Artisan's Tool          | Cost  | Weight |
+| :---------------------- | :---: | :----: |
+| Alchemist's supplies    | 50 gp |  8 lb  |
+| Brewer's supplies       | 20 gp |  9 lb  |
+| Calligrapher's supplies | 10 gp |  5 lb  |
+| Carpenter's tools       |  8 gp |  6 lb  |
+| Cartographer's tools    | 15 gp |  6 lb  |
+| Cobbler's tools         |  5 gp |  5 lb  |
+| Cook's utensils         |  1 gp |  8 lb  |
+| Glassblower's tools     | 30 gp |  5 lb  |
+| Jeweler's tools         | 25 gp |  2 lb  |
+| Leatherworker's tools   |  5 gp |  5 lb  |
+| Mason's tools           | 10 gp |  8 lb  |
+| Painter's supplies      | 10 gp |  5 lb  |
+| Potter's tools          | 10 gp |  3 lb  |
+| Smith's tools           | 20 gp |  8 lb  |
+| Tinker's tools          | 50 gp | 10 lb  |
+| Weaver's tools          |  1 gp |  5 lb  |
+| Woodcarver's tools      |  1 gp |  5 lb  |
 
 [(Back to Tools)](#tools)
 
 ### Gaming Sets
 
-| Gaming Set | Cost  | Weight |
-| :--------- | :---: | :----: |
-| Dice set | 1 sp | – |
-| Dragonchess set | 1 gp | ½ lb |
-| Playing card set | 5 sp | – |
-| Three-Dragon Ante set | 1 gp | – |
+| Gaming Set            | Cost  | Weight |
+| :-------------------- | :---: | :----: |
+| Dice set              |  1 sp |   –    |
+| Dragonchess set       |  1 gp |  ½ lb  |
+| Playing card set      |  5 sp |   –    |
+| Three-Dragon Ante set |  1 gp |   –    |
 
 [(Back to Tools)](#tools)
 
@@ -347,16 +347,16 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 | Musical Instrument | Cost  | Weight |
 | :----------------- | :---: | :----: |
-| Bagpipes | 30 gp | 6 lb |
-| Drum | 6 gp | 3 lb |
-| Dulcimer | 25 gp | 10 lb |
-| Flute | 2 gp | 1 lb |
-| Lute | 35 gp | 2 lb |
-| Lyre | 30 gp | 2 lb |
-| Horn | 3 gp | 2 lb |
-| Pan flute | 12 gp | 2 lb |
-| Shawm | 2 gp | 1 lb |
-| Viol | 30 gp | 1 lb |
+| Bagpipes           | 30 gp |  6 lb  |
+| Drum               |  6 gp |  3 lb  |
+| Dulcimer           | 25 gp | 10 lb  |
+| Flute              |  2 gp |  1 lb  |
+| Lute               | 35 gp |  2 lb  |
+| Lyre               | 30 gp |  2 lb  |
+| Horn               |  3 gp |  2 lb  |
+| Pan flute          | 12 gp |  2 lb  |
+| Shawm              |  2 gp |  1 lb  |
+| Viol               | 30 gp |  1 lb  |
 
 [(Back to Tools)](#tools)
 
@@ -364,14 +364,14 @@ Many warriors supplement their armor with a shield. A shield takes 1 action to d
 
 | Miscellaneous Tool | Cost  | Weight |
 | :----------------- | :---: | :----: |
-| Disguise kit | 25 gp | 3 lb |
-| Forgery kit | 15 gp | 5 lb |
-| Herbalism kit | 5 gp | 3 lb |
-| Land vehicles | – | – |
-| Navigator's tools | 25 gp | 2 lb |
-| Poisoner's kit | 50 gp | 2 lb |
-| Thieves' tools | 25 gp | 1 lb |
-| Water vehicles | – | – |
+| Disguise kit       | 25 gp |  3 lb  |
+| Forgery kit        | 15 gp |  5 lb  |
+| Herbalism kit      |  5 gp |  3 lb  |
+| Land vehicles      |   –   |   –    |
+| Navigator's tools  | 25 gp |  2 lb  |
+| Poisoner's kit     | 50 gp |  2 lb  |
+| Thieves' tools     | 25 gp |  1 lb  |
+| Water vehicles     |   –   |   –    |
 
 [(Back to Tools)](#tools)
 
@@ -403,9 +403,9 @@ A creature must swallow an entire dose of ingested poison to suffer its effects.
 
 | Ingested Poison | Cost  | Description |
 | :-------------- | :---: | :---------- |
-| Assassin’s blood poison | 150 gp | A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 1d12 poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t poisoned. |
-| Truth serum | 150 gp | A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can’t knowingly speak a lie, as if under the effect of a Zone of Truth spell. |
-| Pale tincture poison | 250 gp | A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 1d6 poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 1d6 poison damage on a failed save. Until this poison ends, the damage the poison deals can’t be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally. |
+| Assassin's blood poison | 150 gp | A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 1d12 poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn't poisoned. |
+| Truth serum | 150 gp | A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a Zone of Truth spell. |
+| Pale tincture poison | 250 gp | A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 1d6 poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 1d6 poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally. |
 | Torpor poison | 600 gp | A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated. |
 | Midnight tears poison | 1,500 gp | A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 9d6 poison damage on a failed save, or half as much damage on a successful one. |
 
@@ -413,7 +413,7 @@ A creature must swallow an entire dose of ingested poison to suffer its effects.
 
 ### Inhaled Poisons
 
-These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Releasing the poison takes an action. Holding one’s breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
+These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Releasing the poison takes an action. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
 | Inhaled Poison | Cost  | Description |
 | :------------- | :---: | :---------- |
