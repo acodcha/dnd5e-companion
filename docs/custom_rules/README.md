@@ -3,7 +3,7 @@
 - **[Consent](#consent):** [Story Elements](#consent-story-elements), [Player Character Interactions](#consent-player-character-interactions)
 - **[Character Creation](#character-creation):** [Source Material](#character-creation-source-material), [Starting XP and Level](#character-creation-starting-xp-and-level), [Starting Ability Scores](#character-creation-starting-ability-scores), [Hit Points](#character-creation-hit-points), [Race](#character-creation-race), [Height and Weight](#character-creation-height-and-weight), [Starting Equipment and Coinage](#character-creation-starting-equipment-and-coinage), [Class](#character-creation-class), [Background](#character-creation-background), [Personality](#character-creation-personality), [Backstory](#character-creation-backstory), [Portrait](#character-creation-portrait)
 - **[Advancement](#advancement):** [Levelling](#advancement-levelling), [Absenteeism](#advancement-absenteeism), [Death and Retirement](#advancement-death-and-retirement)
-- **[Adventuring](#adventuring):** [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
+- **[Adventuring](#adventuring):** [Initiative](#adventuring-initiative), [Going Unconscious](#adventuring-going-unconscious), [Movement](#adventuring-movement), [Falling](#adventuring-falling)
 - **[Equipment](#equipment):** [Encumbrance](#equipment-encumbrance), [Coinage](#equipment-coinage), [Wilderness](#equipment-wilderness), [Ammunition](#equipment-ammunition), [Thrown Weapons](#equipment-thrown-weapons), [Spell Scrolls](#equipment-spell-scrolls), [Magic Items](#equipment-magic-items)
 
 [(Back to Main Page)](../../#)
@@ -247,11 +247,18 @@ Unlike experience points, treasure and equipment is lost when your character die
 
 ## Adventuring
 
+- [Initiative](#adventuring-initiative)
 - [Going Unconscious](#adventuring-going-unconscious)
 - [Movement](#adventuring-movement)
 - [Falling](#adventuring-falling)
 
 [(Back to Top)](#)
+
+### Adventuring: Initiative
+
+Player characters roll initiative as normal. However, all other creatures controlled by a player do not roll initiative and instead share the initiative of their respective player character. Such creatures include pets, mounts, summoned creatures (including arcane familiars), sidekicks, hirelings, and so on. Summoned creatures can act on the same turn they were summoned.
+
+[(Back to Adventuring)](#adventuring)
 
 ### Adventuring: Going Unconscious
 
@@ -274,6 +281,8 @@ These rules also apply to certain monsters and non-player characters:
 Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal movement: every second diagonal grid tile of movement on a 5-foot square grid costs an additional 5 feet of movement.
 
 Vertical movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards. See taxicab geometry for more information (<https://en.wikipedia.org/wiki/Taxicab_geometry>).
+
+When a creature is mounted on a larger creature, the "center of mass" method is used to determine that rider's position and reach: the rider occupies the center-most 5-foot square in the mount's space, or, if the mount's center is an intersection, the rider occupies the four 5-foot squares that touch that intersection. For example, a Medium human riding a Large horse occupies the horse's entire space. A Medium human riding a Huge elephant occupies only the elephant's center square. A Medium human riding a Gargantuan brontosaurus occupies a 10-foot square space in the center of the brontosaurus' space. In the case of the elephant and the brontosaurus, the Medium rider would need a reach weapon to attack creatures within 5 feet of the mount.
 
 [(Back to Adventuring)](#adventuring)
 
