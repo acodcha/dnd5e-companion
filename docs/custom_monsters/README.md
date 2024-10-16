@@ -11,23 +11,34 @@ The following table shows the approximate combat equivalence between monster cha
 
 | Monster CR | Player Character | Sample Monsters |
 | :--------: | :--------------: | :-------------- |
-|    CR 0    |        –         | Commoner, crawling claw, homunculus |
-|    CR ⅛    |        –         | Bandit, kobold, manes demon, stirge |
-|    CR ¼    |     1st Level    | Goblin, pixie, skeleton, zombie |
-|    CR ½    |     2nd Level    | Gnoll, hobgoblin, lizardfolk, orc |
-|    CR 1    |     3rd Level    | Animated armor, bugbear, ghoul, imp |
-|    CR 2    |     4th Level    | Centaur, gargoyle, griffon, ogre |
-|    CR 3    |   5th–6th Level  | Basilisk, hell hound, minotaur, mummy |
-|    CR 4    |     7th Level    | Banshee, flameskull, succubus |
-|    CR 5    |     8th Level    | Bulette, hill giant, troll, wraith |
-|    CR 6    |     9th Level    | Chimera, cyclops, vrock demon, wyvern |
-|    CR 7    |    10th Level    | Drow mage, illithid, stone giant |
-|    CR 8    |    11th Level    | Fomorian, frost giant, hydra |
-|    CR 9    |    12th Level    | Cloud giant, glabrezu demon, treant |
-|   CR 10    | 13th–14th Level  | Aboleth, eladrin, stone golem |
-|   CR 11    | 15th–16th Level  | Behir, djinni, efreeti, remorhaz |
-|   CR 12    | 17th–18th Level  | Boneclaw, eidolon, erinyes |
-|   CR 13    | 19th–20th Level  | Beholder, rakshasa, storm giant |
+|    CR 0    |        –         | Crawling claw, homunculus, human commoner |
+|    CR ⅛    |        –         | Human bandit, kobold, manes demon, stirge |
+|    CR ¼    |     1st Level    | Goblin, pixie, pseudodragon, skeleton, zombie |
+|    CR ½    |     2nd Level    | Cockatrice, gnoll, hobgoblin, lizardfolk, orc, worg |
+|    CR 1    |     3rd Level    | Animated armor, bugbear, ghoul, imp, specter |
+|    CR 2    |     4th Level    | Centaur, gargoyle, gelatinous cube, griffon, ogre |
+|    CR 3    |   5th–6th Level  | Basilisk, hell hound, minotaur, mummy, owlbear |
+|    CR 4    |     7th Level    | Banshee, flameskull, red dragon wyrmling, succubus |
+|    CR 5    |     8th Level    | Bulette, flesh golem, hill giant, troll, wraith |
+|    CR 6    |     9th Level    | Chimera, cyclops, medusa, vrock demon, wyvern |
+|    CR 7    |    10th Level    | Drow mage, illithid, shield guardian, stone giant |
+|    CR 8    |    11th Level    | Fomorian, frost giant, hezrou demon, hydra |
+|    CR 9    |    12th Level    | Clay golem, cloud giant, glabrezu demon, treant |
+|   CR 10    | 13th–14th Level  | Aboleth, deva angel, stone golem, young red dragon |
+|   CR 11    | 15th–16th Level  | Behir, djinni, efreeti, malebranche devil, remorhaz |
+|   CR 12    | 17th–18th Level  | Boneclaw, eidolon, erinyes devil, human archmage |
+|   CR 13    | 19th–20th Level  | Beholder, rakshasa, storm giant, vampire lord |
+|  CR 14–15  |        –         | Elder brain, gelugon devil, mummy lord, purple worm |
+|  CR 16–17  |        –         | Death knight, iron golem, marilith demon, phoenix |
+|  CR 18–19  |        –         | Amnizu devil, balor demon, demilich, sibriex demon |
+|  CR 20–24  |        –         | Ancient red dragon, kraken, lich, pit fiend devil |
+|  CR 25–29  |        –         | Archdevil Zariel, Demon Lord Orcus, marut |
+|  CR 30–34  |        –         | Avatars of lesser deities, the Tarrasque |
+|  CR 35–39  |        –         | Avatars of intermediate deities |
+|  CR 40–44  |        –         | Avatars of greater deities |
+|  CR 45–49  |        –         | Lesser deities |
+|  CR 50–54  |        –         | Intermediate deities |
+|  CR 55–60  |        –         | Greater deities |
 
 [(Back to Top)](#)
 
