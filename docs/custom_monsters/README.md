@@ -17,7 +17,7 @@ The following table shows the approximate combat equivalence between monster cha
 |    CR ½    |     2nd Level    | Cockatrice, gnoll, hobgoblin, lizardfolk, orc, worg |
 |    CR 1    |     3rd Level    | Animated armor, bugbear, ghoul, imp, specter |
 |    CR 2    |     4th Level    | Centaur, gargoyle, gelatinous cube, griffon, ogre |
-|    CR 3    |   5th–6th Level  | Basilisk, hell hound, minotaur, mummy, owlbear |
+|    CR 3    |   5th–6th Level  | Basilisk, hell hound, human knight, mummy, owlbear |
 |    CR 4    |     7th Level    | Banshee, flameskull, red dragon wyrmling, succubus |
 |    CR 5    |     8th Level    | Bulette, flesh golem, hill giant, troll, wraith |
 |    CR 6    |     9th Level    | Chimera, cyclops, medusa, vrock demon, wyvern |
@@ -29,7 +29,7 @@ The following table shows the approximate combat equivalence between monster cha
 |   CR 12    | 17th–18th Level  | Boneclaw, eidolon, erinyes devil, human archmage |
 |   CR 13    | 19th–20th Level  | Beholder, rakshasa, storm giant, vampire lord |
 |  CR 14–15  |        –         | Elder brain, gelugon devil, mummy lord, purple worm |
-|  CR 16–17  |        –         | Death knight, iron golem, marilith demon, phoenix |
+|  CR 16–17  |        –         | Adult red dragon, death knight, iron golem, phoenix |
 |  CR 18–19  |        –         | Amnizu devil, balor demon, demilich, sibriex demon |
 |  CR 20–24  |        –         | Ancient red dragon, kraken, lich, pit fiend devil |
 |  CR 25–29  |        –         | Archdevil Zariel, Demon Lord Orcus, marut |
