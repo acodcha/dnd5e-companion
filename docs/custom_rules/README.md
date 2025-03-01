@@ -60,7 +60,32 @@ Unless otherwise stated, start with 0 XP at 1st level. If you are creating a rep
 
 ### Character Creation: Starting Ability Scores
 
-Use the Point Buy system for your starting ability scores. For a list of all possible starting ability score combinations using the Point Buy system, see [Character Creation – Ability Scores](../character_creation#ability-scores).
+Use the Point Buy system for your starting ability scores. For a list of all possible starting ability score combinations using the Point Buy system, see [Character Creation – Ability Scores](../character_creation#ability-scores); the table is also reproduced here for convenience.
+
+|     Ability Scores     |     Ability Scores     |     Ability Scores     |
+| :--------------------: | :--------------------: | :--------------------: |
+| 15, 15, 15,  8,  8,  8 | 15, 14, 13, 11, 10,  9 | 14, 14, 14, 11, 10,  9 |
+| 15, 15, 14, 10,  8,  8 | 15, 14, 13, 10, 10, 10 | 14, 14, 14, 10, 10, 10 |
+| 15, 15, 14,  9,  9,  8 | 15, 14, 12, 12, 11,  8 | 14, 14, 13, 13, 11,  8 |
+| 15, 15, 13, 12,  8,  8 | 15, 14, 12, 12, 10,  9 | 14, 14, 13, 13, 10,  9 |
+| 15, 15, 13, 11,  9,  8 | 15, 14, 12, 11, 11,  9 | 14, 14, 13, 12, 12,  8 |
+| 15, 15, 13, 10, 10,  8 | 15, 14, 12, 11, 10, 10 | 14, 14, 13, 12, 11,  9 |
+| 15, 15, 13, 10,  9,  9 | 15, 14, 11, 11, 11, 10 | 14, 14, 13, 12, 10, 10 |
+| 15, 15, 12, 12,  9,  8 | 15, 13, 13, 13, 11,  8 | 14, 14, 13, 11, 11, 10 |
+| 15, 15, 12, 11, 10,  8 | 15, 13, 13, 13, 10,  9 | 14, 14, 12, 12, 12,  9 |
+| 15, 15, 12, 11,  9,  9 | 15, 13, 13, 12, 12,  8 | 14, 14, 12, 12, 11, 10 |
+| 15, 15, 12, 10, 10,  9 | 15, 13, 13, 12, 11,  9 | 14, 14, 12, 11, 11, 11 |
+| 15, 15, 11, 11, 11,  8 | 15, 13, 13, 12, 10, 10 | 14, 13, 13, 13, 13,  8 |
+| 15, 15, 11, 11, 10,  9 | 15, 13, 13, 11, 11, 10 | 14, 13, 13, 13, 12,  9 |
+| 15, 15, 11, 10, 10, 10 | 15, 13, 12, 12, 12,  9 | 14, 13, 13, 13, 11, 10 |
+| 15, 14, 14, 12,  8,  8 | 15, 13, 12, 12, 11, 10 | 14, 13, 13, 12, 12, 10 |
+| 15, 14, 14, 11,  9,  8 | 15, 13, 12, 11, 11, 11 | 14, 13, 13, 12, 11, 11 |
+| 15, 14, 14, 10, 10,  8 | 15, 12, 12, 12, 12, 10 | 14, 13, 12, 12, 12, 11 |
+| 15, 14, 14, 10,  9,  9 | 15, 12, 12, 12, 11, 11 | 14, 12, 12, 12, 12, 12 |
+| 15, 14, 13, 13,  9,  8 | 14, 14, 14, 13,  9,  8 | 13, 13, 13, 13, 13, 10 |
+| 15, 14, 13, 12, 10,  8 | 14, 14, 14, 12, 10,  8 | 13, 13, 13, 13, 12, 11 |
+| 15, 14, 13, 12,  9,  9 | 14, 14, 14, 12,  9,  9 | 13, 13, 13, 12, 12, 12 |
+| 15, 14, 13, 11, 11,  8 | 14, 14, 14, 11, 11,  8 |                        |
 
 [(Back to Character Creation)](#character-creation)
 
@@ -84,7 +109,7 @@ Do not roll dice for hit points gained above 1st level. Instead, take the averag
 |   d10   |          6 + Constitution modifier          |
 |   d12   |          7 + Constitution modifier          |
 
-Remember that whenever your Constitution modifier changes, you must recalculate your 1st-level and higher-level hit points as if you had always had that different modifier.
+Remember that whenever your Constitution modifier changes, you must recalculate your 1st-level and higher-level hit points as if you had always had that different Constitution modifier.
 
 [(Back to Character Creation)](#character-creation)
 
