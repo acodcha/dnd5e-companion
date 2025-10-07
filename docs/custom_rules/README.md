@@ -48,7 +48,9 @@ Whenever a player character wishes to take an action that may directly harm or i
 
 ### Character Creation: Source Material
 
-When making your character, you may choose your race, subrace, background, class(es), subclass(es), feats, spells, and equipment from any of the official published 5th Edition Dungeon and Dragons books by Wizards of the Coast. You may not use any Unearthed Arcana material, playtest material, or homebrew material.
+When creating your character or leveling up your character, you may choose your race, subrace, background, classes, subclasses, feats, spells, equipment, and all other options from any of the official published 2014 5th Edition Dungeon and Dragons books by Wizards of the Coast. Notably, this is the 2014 5th edition of the game, not the 2024 "5.5" edition.
+
+You may not use any Unearthed Arcana material, playtest material, or homebrew material. In addition, the Cartomancer feat from the *Book of Many Things* is banned and cannot be used.
 
 [(Back to Character Creation)](#character-creation)
 
@@ -157,7 +159,7 @@ Regarding the druid class' armor proficiencies, they are understood to effective
 
 If you have one or more levels in the cleric, paladin, or warlock class, or if you intend to multiclass into either of these classes, consult the Game Master to discuss your otherwordly affiliations.
 
-If you have one or more levels in the cleric class, your alignment must match the alignment of your deity, and your cleric domain must match one of the domains of your deity. See [Deities](../deities/#deities) for a list of pantheons and their deities. Many pantheons are differentiated by the race of their worshippers, and members of a given race generally worship deities within that race's pantheon. Make careful note of the tenets of your deity; your behavior must be consistent with the tenets of your deity. If you stray from the tenets of your deity, you run the risk of losing your cleric class features and spells. Depending on the severity of your infractions, you may or may not be able to recover your cleric class features and spells.
+If you have one or more levels in the cleric class, your alignment must match or resemble the alignment of your deity, and your cleric domain must match or resemble one of the domains of your deity. See [Deities](../deities/#deities) for a list of pantheons and their deities. Many pantheons are differentiated by the race of their worshippers, and members of a given race generally worship deities within that race's pantheon. Make careful note of the tenets of your deity; your behavior must be consistent with the tenets of your deity. If you stray from the tenets of your deity, you run the risk of falling out of favor with your deity and losing your cleric class features and spells. Depending on the severity of your infractions, you may or may not be able to recover your cleric class features and spells.
 
 If you have one or more levels in the paladin class, make careful note of the tenets of your sacred oath; your alignment and behavior must be consistent with the tenets of your sacred oath. If you stray from the tenets of your sacred oath, you run the risk of losing your paladin class features and spells. Depending on the severity of your infractions, you may or may not be able to recover your paladin class features and spells. If you abandon your sacred oath completely, you might become an Oathbreaker paladin as described in the *Dungeon Master's Guide*.
 
@@ -230,7 +232,7 @@ I am (PERSONALITY TRAITS & FLAW) because __________.
 
 ### Character Creation: Portrait
 
-Find an image depicting your character, ideally a full-body image or a "from the waist up" image, to serve as your character's portrait. This portrait will be used to create a token for your character. Your portrait must fit the campaign setting and tone, and your portrait cannot be lewd or inappropriate.
+Find or create an image depicting your character, ideally a full-body image or a "from the waist up" image, to serve as your character's portrait. This portrait will be used to create a token for your character for use in the online tabletop. Your portrait must fit the campaign setting and tone, and your portrait cannot be lewd or inappropriate.
 
 [(Back to Character Creation)](#character-creation)
 
@@ -244,7 +246,7 @@ Find an image depicting your character, ideally a full-body image or a "from the
 
 ### Advancement: Levelling
 
-Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level. If you do not have time at the end of a game session to gain your new level, make sure to schedule time to do so before the next game session.
+Your character can only gain new levels in-between game sessions. When you acquire enough experience points to gain a new level, continue gaining experience points as usual, but wait until the end of the game session to gain your new level. If you do not have time at the end of a game session to gain your new level, make sure to set aside some time to do so before the next game session.
 
 When you gain a new level, gain all of its benefits instantly, including new spell slots or newly-learned spells, even if the session ended in the middle of an encounter. Furthermore, if you are able to prepare one or more additional spells, you may do so instantly, although you cannot change your already-prepared spells.
 
@@ -256,9 +258,9 @@ Please inform the Game Master and the gaming group ahead of time if you will be 
 
 Strictly more than half of all players must be present for a game session to take place. If there are not enough players, the game session will be cancelled. Regarding tardiness, if it is 15 minutes past the start of a game session and not enough players are present, the game session will be immediately cancelled.
 
-If you are absent from a game session, your character fades into the background of the story. Your character is assumed to follow the adventuring party around, but your character cannot directly impact the game, and the game cannot directly impact your character. While absent, you do not receive any experience points or treasure except for treasure hoards and quest rewards.
+If you are absent from a game session, your character fades into the background of the story. Your character is assumed to follow the adventuring party around, but your character cannot directly impact the game, and the game cannot directly impact your character. While absent, you do not receive any experience points or looted treasure except for treasure hoards and quest rewards.
 
-Game session notes in the form of an adventuring journal are written by the Game Master and posted publicly. At the beginning of each game session, the previous session's journal is read as a recap. If you are absent from a game session, it is your responsibility to read the game session notes that would have been recapped during the game sessions you missed, so make sure to schedule some time to do so. You are encouraged to keep your own notes regarding story elements, such as events that occur, characters you encounter, places you visit, objects you find, knowledge you gain, and so on. The adventuring journal written by the Game Master serves as a useful summary but is in no way exhaustive, and failure to keep your own notes will result in you potentially forgetting important details of the story.
+Game session notes in the form of an adventuring journal are written by the Game Master and posted publicly. At the beginning of each game session, the previous session's journal is read as a recap. If you are absent from a game session, it is your responsibility to read the game session notes that would have been recapped during the game sessions you missed, so make sure to set aside some time to do so. You are encouraged to keep your own notes regarding story elements, such as events that occur, characters you encounter, places you visit, objects you find, knowledge you gain, and so on. The adventuring journal written by the Game Master serves as a useful summary but is in no way exhaustive, and failure to keep your own notes will result in you potentially forgetting important details of the story.
 
 [(Back to Advancement)](#advancement)
 
@@ -296,7 +298,7 @@ These rules also apply to certain monsters and non-player characters:
 
 - Beasts, dragons, giants, humanoids, and monstrosities fall unconscious and gain one level of exhaustion upon dropping to 0 hit points and make death saving throws just as player characters do.
 - Constructs, oozes, plants, and undead are immediately destroyed upon dropping to to 0 hit points.
-- Celestials, elementals, fey, and fiends discorporate and eventually reform in their home plane upon dropping to 0 hit points in the Prime Material Plane, or are destroyed upon dropping to 0 hit points in their home plane.
+- Celestials, elementals, fey, and fiends discorporate and eventually reform in their home plane upon dropping to 0 hit points in the Prime Material Plane, or are immediately destroyed upon dropping to 0 hit points in their home plane.
 - Aberrations might fall in any of the above categories depending on the particular kind of aberration.
 
 [(Back to Adventuring)](#adventuring)
@@ -307,7 +309,7 @@ Movement on a grid uses the 3rd Edition Dungeons and Dragons rule for diagonal m
 
 Vertical movement is counted separately from horizontal movement, even when moving diagonally-upwards or diagonally-downwards. See taxicab geometry for more information (<https://en.wikipedia.org/wiki/Taxicab_geometry>).
 
-When a creature is mounted on a larger creature, the "center of mass" method is used to determine that rider's position and reach: the rider occupies the center-most 5-foot square in the mount's space, or, if the mount's center is an intersection, the rider occupies the four 5-foot squares that touch that intersection. For example, a Medium human riding a Large horse occupies the horse's entire space. A Medium human riding a Huge elephant occupies only the elephant's center square. A Medium human riding a Gargantuan brontosaurus occupies a 10-foot square space in the center of the brontosaurus' space. In the case of the elephant and the brontosaurus, the Medium rider would need a reach weapon to attack creatures within 5 feet of the mount.
+When a creature is mounted on a larger creature, the "center of mass" method is used to determine that rider's position and reach: the rider occupies the center-most 5-foot square in the mount's space, or, if the mount's center is an intersection, the rider occupies the four 5-foot squares that touch that intersection. For example, a Medium human riding a Large horse occupies the horse's entire space. A Medium human riding a Huge elephant occupies only the elephant's center 5-foot square. A Medium human riding a Gargantuan brontosaurus occupies a 10-foot square space in the center of the brontosaurus' space. In the case of the elephant and the brontosaurus, the Medium rider would need a reach weapon to attack creatures within 5 feet of the mount.
 
 [(Back to Adventuring)](#adventuring)
 
@@ -333,13 +335,13 @@ Regarding falling, the rules from the *Player's Handbook*, *Xanathar's Guide to 
 
 Track your encumbrance. A variant encumbrance rule is used, similar to that from the *Player's Handbook*, but modified as follows.
 
-A Small or Medium creature's carrying capacity is its Strength score multiplied by 10. This is the weight in pounds that it can carry without penalty. For each size category above Medium, double the creature's carrying capacity, while for a Tiny creature, halve its carrying capacity.
+A Small or Medium creature's carrying capacity is its Strength score multiplied by 10. This is the weight in pounds that it can carry, push, drag, or lift without penalty. For each size category above Medium, double the creature's carrying capacity, while for a Tiny creature, halve its carrying capacity.
 
-A creature can carry weight up to 1½ times its carrying capacity, but it becomes **heavily encumbered** if it carries weight in excess of its carrying capacity. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution. If a creature carries weight in excess of 1½ times its carrying capacity, in addition to being heavily encumbered, it falls prone and its speed is zero.
+If a creature carries weight in excess of its carrying capacity, it becomes **heavily encumbered**. A heavily encumbered creature has its speed reduced by 20 feet, cannot fly, and has disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
 
-A creature can push, drag, or lift a weight in pounds up to 1½ times its carrying capacity. However, while pushing or dragging weight in excess of its carrying capacity, its speed drops to 5 feet.
+If a creature carries weight in excess of twice its carrying capacity (20 times its Strength score), in addition to being heavily encumbered, it falls prone and its speed is reduced to zero.
 
-Armor types retain their Strength requirements, even with this variant encumbrance rule. If an armor type has a Strength requirement, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+Armor types retain their Strength requirements, even with this variant encumbrance rule. If an armor type has a Strength requirement, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or greater than the listed score.
 
 [(Back to Equipment)](#equipment)
 
@@ -353,7 +355,7 @@ Instead of carrying all of your coinage on your person, you may deposit excess c
 
 ### Equipment: Wilderness
 
-While adventuring in the wilderness, you must have the following equipment at minimum:
+While taking a long rest in the wilderness, you must have the following equipment at minimum:
 
 - Suit of armor or traveler's clothes (2 gp, 4 lb).
 - Backpack (2 gp, 5 lb).
@@ -369,7 +371,7 @@ Each adventurer must have their own copy of the above equipment. However, you ca
 
 ### Equipment: Ammunition
 
-If you carry one standard bundle of mundane ammunition along with an appropriate container for this ammunition, it is assumed that you effectively have a limitless supply of ammunition of that type such that you do not need to keep track of its expenditure. Darts also follow this rule: if you have 10 darts, you are assumed to effectively have a limitless supply of darts. The following ammunition sets apply to this rule:
+If you carry one standard bundle of ammunition along with an appropriate container for this ammunition, it is assumed that you effectively have a limitless supply of ammunition of that type such that you do not need to keep track of its expenditure. Darts also follow this rule: if you have 10 darts, you are assumed to effectively have a limitless supply of darts. The following ammunition sets apply to this rule:
 
 - **Bow:** Quiver (1 gp, 1 lb) and 20 arrows (1 gp, 1 lb).
 - **Crossbow:** Crossbow bolt case (1 gp, 1 lb) and 20 crossbow bolts (1 gp, 1.5 lb).
@@ -377,19 +379,19 @@ If you carry one standard bundle of mundane ammunition along with an appropriate
 - **Blowgun:** Pouch (5 sp, 1 lb) and 50 blowgun needles (1 gp, 1 lb).
 - **Darts:** 10 darts (5 sp, 2.5 lb).
 
-However, magical ammunition (such as a +1 arrow, +1 crossbow bolt, and so on) is expended as normal when used.
+If you have less than one full bundle's worth of ammunition, you must keep track of their individual expenditure as normal, following the rules in the *Player's Handbook*. For example, if you have only 5 magical +1 arrows instead of 20, then you must track them as you use them.
 
 [(Back to Equipment)](#equipment)
 
 ### Equipment: Thrown Weapons
 
-If you carry 5 copies of a melee weapon with the thrown property (such as 5 javelins, 5 handaxes, 5 daggers, and so on), you are assumed to have an effectively limitless supply of that weapon, such you do not need to keep track of how many you have thrown. This applies whether the 5 thrown weapons are mundane or magical.
+If you carry 5 copies of a melee weapon with the thrown property (such as 5 javelins, 5 handaxes, 5 daggers, and so on), you are assumed to effectively have a limitless supply of that weapon, such you do not need to keep track of how many you have thrown. This applies to both mundane and magical thrown weapons.
 
 [(Back to Equipment)](#equipment)
 
 ### Equipment: Spell Scrolls
 
-Spell scrolls normally need to be carried in scroll cases that can each contain a few spell scrolls. However, counting scroll cases and tracking which spell scroll is in which scroll case is tedious and cumbersome. Instead, each spell scroll is assumed to simply be encased in a small lightweight container such that each spell scroll effectively weighs ¼ lb. Other than this, the usual rules apply for scribing and using spell scrolls.
+Spell scrolls normally need to be carried in scroll cases that can each contain a few spell scrolls. However, counting scroll cases and tracking which spell scroll is in which scroll case is tedious and cumbersome. Instead, each spell scroll is assumed to simply be encased in a small lightweight container such that each spell scroll effectively weighs ¼ lb. Other than this, the usual rules from the *Player's Handbook* apply for scribing and using spell scrolls.
 
 [(Back to Equipment)](#equipment)
 
