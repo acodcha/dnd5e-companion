@@ -48,6 +48,8 @@
 
 - **[Spells](https://github.com/acodcha/DnD5eCompanion/tree/main/tokens/spells)**
 
+- **[Equipment](https://github.com/acodcha/DnD5eCompanion/tree/main/tokens/equipment)**
+
 - **[Terrain](https://github.com/acodcha/DnD5eCompanion/tree/main/tokens/terrain)**
 
 [(Back to Top)](#)
