@@ -59,7 +59,7 @@ Abbreviations:
 - **Save DC:** Typical saving throw Difficulty Class for the spells and effects of monsters of this challenge rating.
 - **DpR:** Typical average damage per round for monsters of this challenge rating when all attacks hit and all effects trigger. Can vary substantially depending on the monster. Monsters with lower average damage per round typically have higher Armor Class or more hit points, and vice-versa.
 
-| CR | XP | Coinage | Prof. | Ability Scores | AC | HP | Atk. | Save DC | DpR |
+| CR | XP | Coins | Prof. | Ability Scores | AC | HP | Atk. | Save DC | DpR |
 | :---: | ---: | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | CR 0 | 10 XP | 2 sp | +2 | 10, 10, 10, 10, 10, 10 | 12 | 4 | +2 | 12 | 1 |
 | CR ⅛ | 25 XP | 5 sp | +2 | 12, 10, 10, 10, 10, 10 | 13 | 21 | +3 | 13 | 3 |
